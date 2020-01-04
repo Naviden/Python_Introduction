@@ -1,3 +1,4 @@
+<img src="https://github.com/Naviden/Python_Introduction/blob/master/Images/logo.png" height="300" >
 # Introduction to Python 
 
 I made this notebook for my _introduction to Python course_ in _university of Milano-Bicocca_ as a part of _Business Intelligence and Big Data Analytics_.
