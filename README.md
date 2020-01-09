@@ -25,7 +25,7 @@ Our goal here is not to provide a deep insight into Python and act as an officia
 
 - _HARD_: If you're not comfortable with it, leave it alone! once in home, try to attack it again!
 
-<img src="https://github.com/Naviden/Python_Introduction/blob/master/Images/python.svg" height="50">
+<img src="https://github.com/Naviden/Python_Introduction/blob/master/Images/python.png" height="50">
 
 For the questions that you should write code, you'll find a code block with a Python in it! just remove it and insert your answer instead.
 
