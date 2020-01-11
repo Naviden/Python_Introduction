@@ -33,3 +33,4 @@ For the questions that you should write code, you'll find a code block with a Py
 
 While major parts of codes are self-explanatory, there are ones that need a more detailed explanation. These parts are indicated by an owl sign!
 
+Currently only the _Basic_ part is included in the notebook. Soon I'll add the _intemediate_ and _advanced_ sections.
