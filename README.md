@@ -22,6 +22,11 @@ In-depth explanations are marked with an owl (🦉), guiding you through complex
 
 Discover all lessons in the "Lessons" directory, neatly organized to streamline your learning experience.
 
+- **Coming Soon: Exercises by Topic with Answers**:
+I'm currently working on adding a new section to the course: Exercises by Topic with Answers. This upcoming feature aims to provide learners with targeted practices, grouped by specific topics, complete with answers for self-assessment. Although this section is still under development, a variety of exercises are already available for you to explore.
+
+Discover what's ready and sharpen your skills by visiting the `Exercises > By Topic` section. Stay tuned for more updates as I continue to expand this collection to support your learning journey.
+
 ## Be Part of Our Learning Community
 
 Your feedback and contributions are invaluable. If you encounter any bugs or have suggestions for enhancing the course, I'd love to hear from you. Together, we can make learning Python an enriching experience for everyone.
