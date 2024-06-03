@@ -1,7 +1,3 @@
-# Practical Python Projects for Undergraduate Students
-
-This document outlines a series of practical Python projects designed to enhance the applied skills of undergraduate students. Each project focuses on a key area of data analysis, from data cleaning to predictive modeling, using real-world datasets to provide hands-on experience.
-
 ## 1. Data Manipulation and Cleaning: COVID-19 Data Cleanup
 
 **Objective:** Improve skills in data cleaning and manipulation using `pandas` and `numpy`.
