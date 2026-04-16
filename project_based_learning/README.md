@@ -1,7 +1,7 @@
 # Python for Professionals
 
 A hands-on Python course built for business people with no programming experience.  
-No theory-first. No abstract exercises. Two real projects, 15 hours, skills you can use on Monday.
+No theory-first. No abstract exercises. Four real projects, skills you can use on Monday.
 
 ---
 
@@ -9,7 +9,7 @@ No theory-first. No abstract exercises. Two real projects, 15 hours, skills you 
 
 Most Python courses start with data types, then strings, then lists — topics in isolation, divorced from any real purpose. This course does the opposite: it starts with a problem you'd actually face at work, and introduces concepts only when the project needs them.
 
-By the end you will have written two complete data pipelines from scratch. Both produce files you could open in Excel and share with a colleague today.
+By the end you will have written four complete data pipelines from scratch. Every project produces files you could open in Excel and share with a colleague today. Every concept you learn also directly prepares you for more advanced topics — data ingestion, ETL pipelines, machine learning, and NLP.
 
 ---
 
@@ -34,11 +34,33 @@ You receive a messy CSV export from a CRM. Dates are in three different formats,
 ---
 
 ### Project 2 — Monthly Expense Analyser
-Five departments have submitted expense files. Each file has the same structure but the data is messy in different ways — two files contain a formatting bug that would crash a naive script. You write a pipeline that finds all the files automatically, loads and merges them, handles errors gracefully, analyses spend by department and category using pandas, flags unusually large expenses for review, and exports multiple summary reports.
+Five departments have submitted expense files. Each file has the same structure but the data is messy in different ways — two files contain a formatting bug that would crash a naive script. You write a pipeline that finds all the files automatically, loads and merges them with pandas, handles errors gracefully, analyses spend by department and category, flags unusually large expenses for review, and exports multiple summary reports.
 
 **Concepts introduced:** functions, error handling (try/except), sets, the `os` and `pandas` libraries, boolean filtering, DataFrame operations
 
 **Output:** four CSV files — full cleaned dataset, department summary, category summary, flagged anomalies
+
+---
+
+### Project 3 — Product Catalogue Checker
+A supplier sends a product catalogue with 50 items. Some prices are missing, some stock values are negative, and some category names are misspelled. Before any of this can be loaded into a database, it needs to pass validation. You write a pipeline that applies a set of business rules to every row, tags each product as valid, invalid, or needing human review, and exports three separate files.
+
+This project builds the exact mental model you will need when ingesting data from APIs, databases, and web scrapers in future modules — every real data source needs a validation layer.
+
+**Concepts practised:** pandas, functions, sets, dictionaries, for loops, if/elif/else, try/except
+
+**Output:** `products_valid.csv`, `products_needs_review.csv`, `products_invalid.csv`
+
+---
+
+### Project 4 — Survey Response Analyser
+Your company ran an internal satisfaction survey — 40 employees submitted a rating (1–5) and a free-text comment. HR needs to know which departments are struggling and what topics keep coming up. You clean the ratings, calculate department averages, count word frequencies across all comments, and compare what unhappy employees say versus happy ones.
+
+The word frequency technique you build here — splitting text into tokens, removing stopwords, counting occurrences — is the foundation of every text classification and NLP model you will encounter in future modules.
+
+**Concepts practised:** pandas, string methods (split, lower, strip), dictionaries as counters, functions, sorting, boolean filtering
+
+**Output:** `survey_dept_summary.csv`, `survey_flagged_responses.csv`
 
 ---
 
@@ -48,16 +70,24 @@ Five departments have submitted expense files. Each file has the same structure 
 ├── README.md
 │
 ├── project-1-sales-cleaner/
-│   ├── sales_report_cleaner.ipynb   ← the notebook (work here)
-│   └── sales_data_raw.csv           ← the messy input file
+│   ├── sales_report_cleaner.ipynb        ← the notebook (work here)
+│   └── sales_data_raw.csv                ← the messy input file
 │
-└── project-2-expense-analyser/
-    ├── expense_analyser.ipynb       ← the notebook (work here)
-    ├── expenses_sales.csv
-    ├── expenses_marketing.csv
-    ├── expenses_operations.csv
-    ├── expenses_hr.csv
-    └── expenses_it.csv
+├── project-2-expense-analyser/
+│   ├── expense_analyser.ipynb            ← the notebook (work here)
+│   ├── expenses_sales.csv
+│   ├── expenses_marketing.csv
+│   ├── expenses_operations.csv
+│   ├── expenses_hr.csv
+│   └── expenses_it.csv
+│
+├── project-3-catalogue-checker/
+│   ├── project3_catalogue_checker.ipynb  ← the notebook (work here)
+│   └── products_raw.csv                  ← 50 products with deliberate errors
+│
+└── project-4-survey-analyser/
+    ├── project4_survey_analyser.ipynb    ← the notebook (work here)
+    └── survey_responses.csv              ← 40 survey responses
 ```
 
 ---
@@ -85,7 +115,7 @@ In the same terminal, run:
 pip install notebook pandas
 ```
 
-This installs Jupyter (the environment where you will write and run code) and pandas (used in Project 2).
+This installs Jupyter (the environment where you will write and run code) and pandas (used in all four projects).
 
 ### 3. Download the course files
 
@@ -123,25 +153,29 @@ Each notebook is divided into steps. Every step has:
 **Run a cell** by clicking on it and pressing `Shift + Enter`.  
 **Run all cells in order** — Jupyter remembers what ran before, so skipping cells causes errors.
 
-Some cells in Project 2 contain `# YOUR CODE HERE` — these are exercises. Read the hints above the comment and write your own solution before looking anything up.
+Cells marked `# YOUR CODE HERE` are exercises. Read the hints above the comment and try to write your own solution before looking anything up. These gaps get progressively larger across the four projects — by Project 4 you are writing whole sections independently.
 
 ---
 
 ## Concepts covered
 
-| Topic | Project 1 | Project 2 |
-|---|:---:|:---:|
-| Variables and data types | ✓ | ✓ |
-| Strings | ✓ | ✓ |
-| Lists | ✓ | ✓ |
-| Dictionaries | ✓ | ✓ |
-| Sets | | ✓ |
-| Control structures (if, for, continue) | ✓ | ✓ |
-| Functions | | ✓ |
-| Error handling (try/except) | | ✓ |
-| File reading and writing | ✓ | ✓ |
-| Libraries (csv, os, pandas) | ✓ | ✓ |
-| pandas DataFrames and groupby | | ✓ |
+| Topic | P1 | P2 | P3 | P4 |
+|---|:---:|:---:|:---:|:---:|
+| Variables and data types | ✓ | ✓ | ✓ | ✓ |
+| Strings | ✓ | ✓ | ✓ | ✓ |
+| Lists | ✓ | ✓ | ✓ | ✓ |
+| Dictionaries | ✓ | ✓ | ✓ | ✓ |
+| Sets | | ✓ | ✓ | |
+| Control structures (if, for, continue) | ✓ | ✓ | ✓ | ✓ |
+| Functions | | ✓ | ✓ | ✓ |
+| Error handling (try/except) | | ✓ | ✓ | ✓ |
+| pandas — loading and inspecting | | ✓ | ✓ | ✓ |
+| pandas — groupby and aggregation | | ✓ | | ✓ |
+| pandas — boolean filtering | | ✓ | ✓ | ✓ |
+| pandas — export to CSV | | ✓ | ✓ | ✓ |
+| String methods for text analysis | | | | ✓ |
+| Dictionaries as counters | | | ✓ | ✓ |
+| Validation logic | | | ✓ | |
 
 ---
 
