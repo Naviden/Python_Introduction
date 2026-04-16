@@ -1,0 +1,51 @@
+product_id,name,category,price,stock,supplier
+P001,Wireless Mouse,Electronics,29.99,150,TechSupply Co
+P002,USB-C Hub,Electronics,49.99,83,TechSupply Co
+P003,Standing Desk,Furnitre,299.99,12,OfficePro
+P004,Ergonomic Chair,Furniture,449.99,8,OfficePro
+P005,Laptop Stand,Electronics,39.99,-5,TechSupply Co
+P006,Monitor 27inch,Electronics,379.99,34,TechSupply Co
+P007,Webcam HD,Electronics,,27,TechSupply Co
+P008,Desk Lamp,Lighting,24.99,200,BrightSpace
+P009,Whiteboard,Stationery,89.99,15,OfficeEssentials
+P010,Sticky Notes Pack,Stationery,4.99,500,OfficeEssentials
+P011,Mechanical Keyboard,Electronics,129.99,41,TechSupply Co
+P012,Cable Management Kit,Electronis,14.99,88,TechSupply Co
+P013,Office Plant,Decoration,19.99,60,GreenOffice
+P014,Noise Cancelling Headphones,Electronics,199.99,-2,TechSupply Co
+P015,Desk Organiser,Stationery,17.99,95,OfficeEssentials
+P016,Portable Charger,Electronics,34.99,112,TechSupply Co
+P017,Smart Bulb Pack,Lighting,,44,BrightSpace
+P018,Bookshelf,Furniture,159.99,6,OfficePro
+P019,Conference Microphone,Electronis,89.99,19,TechSupply Co
+P020,Footrest,Furniture,49.99,30,OfficePro
+P021,Printer Paper A4,Stationery,8.99,800,OfficeEssentials
+P022,Blue Light Glasses,Health,22.99,75,WellnessFirst
+P023,Wrist Rest,Health,12.99,130,WellnessFirst
+P024,Air Purifier,Health,149.99,-1,WellnessFirst
+P025,Standing Mat,Health,59.99,22,WellnessFirst
+P026,Desk Fan,Electronics,27.99,55,TechSupply Co
+P027,Document Scanner,Electronics,189.99,9,TechSupply Co
+P028,Wall Clock,Decoration,16.99,40,HomeStyle
+P029,Picture Frame Set,Decoration,12.99,65,HomeStyle
+P030,Whiteboard Markers,Stationery,6.99,300,OfficeEssentials
+P031,Laptop Bag,Accessories,44.99,78,TechSupply Co
+P032,Phone Stand,Accessories,9.99,210,TechSupply Co
+P033,Monitor Riser,Furnitre,34.99,-3,OfficePro
+P034,Drawer Organiser,Stationery,13.99,120,OfficeEssentials
+P035,Extension Cord,Electronics,18.99,90,TechSupply Co
+P036,Shredder,Electronics,,7,TechSupply Co
+P037,Chair Mat,Furniture,39.99,25,OfficePro
+P038,Desk Calendar,Stationery,7.99,400,OfficeEssentials
+P039,Meeting Room Sign,Decoration,21.99,33,HomeStyle
+P040,Posture Corrector,Health,29.99,48,WellnessFirst
+P041,Coffee Maker,Appliances,79.99,11,KitchenPro
+P042,Electric Kettle,Appliances,34.99,18,KitchenPro
+P043,Mini Fridge,Appliances,149.99,4,KitchenPro
+P044,Water Dispenser,Appliances,,6,KitchenPro
+P045,Microwave,Appliances,89.99,5,KitchenPro
+P046,Cutlery Set,Kitchenware,11.99,50,KitchenPro
+P047,Lunch Box Set,Kitchenware,14.99,80,KitchenPro
+P048,Travel Mug,Kitchenware,16.99,95,KitchenPro
+P049,Reusable Bags,Kitchenware,5.99,200,KitchenPro
+P050,Dish Rack,Kitchenware,19.99,-4,KitchenPro
