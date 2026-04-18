@@ -1,0 +1,961 @@
+employee_id,full_name,email,department,location,contract_type,start_date,annual_salary,date_of_birth
+0001,Mancini Viviana,viviana.mancini@azienda.it,Vendite,Bari,Tempo Determinato,2010-01-03,37974.75,1998-03-24
+0002,Pellegrini Teresa,teresa.pellegrini@azienda.it,Vendite,Milano,Tempo Indeterminato,2009-11-27,38574.67,1975-06-09
+0003,Caruso Irene,irene.caruso@azienda.it,Servizio Clienti,Perugia,Collaborazione,2009-12-11,27333.11,1965-04-17
+0004,Pellegrini Sabrina,sabrina.pellegrini@azienda.it,Produzione,Bari,Tempo Determinato,2009-10-30,37533.32,1999-04-02
+0005,Grasso Elisa,elisa.grasso@azienda.it,Marketing,Verona,Apprendistato,2018-07-17,34728.43,1985-08-11
+0006,Bruno Claudio,claudio.bruno@azienda.it,Legale,Catania,Apprendistato,2017-12-13,37968.30,1973-08-17
+0007,Pagano Sara,sara.pagano@azienda.it,Finanza,Catania,Tempo Indeterminato,2010-03-23,41535.72,1985-05-04
+0008,Marini Giuseppe,giuseppe.marini@azienda.it,Produzione,Genova,Apprendistato,2020-09-28,27724.54,1995-08-31
+0009,Costanzo Erika,erika.costanzo@azienda.it,Risorse Umane,Perugia,Tempo Determinato,2008-08-31,27289.27,1993-09-16
+0010,Villa Rosa,rosa.villa@azienda.it,Comunicazione,Roma,Tempo Determinato,2005-09-20,36863.47,2001-02-10
+0011,Marino Nicola,nicola.marino@azienda.it,Finanza,Cagliari,Apprendistato,2009-10-08,29382.02,1993-11-02
+0012,Rizzo Monica,monica.rizzo@azienda.it,Finanza,Perugia,Apprendistato,2021-10-03,26684.19,1991-03-23
+0013,Martini Alberto,alberto.martini@azienda.it,Risorse Umane,Modena,Collaborazione,2007-01-15,35721.71,1971-11-10
+0014,Pellegrini Rosa,rosa.pellegrini@azienda.it,Amministrazione,Torino,Collaborazione,2013-07-24,20000.00,1991-09-25
+0015,Benedetti Paolo,paolo.benedetti@azienda.it,Comunicazione,Milano,Tempo Indeterminato,2020-04-16,47491.34,1999-06-24
+0016,De Santis Davide,davide.desantis@azienda.it,Logistica,Firenze,Collaborazione,2005-01-27,23957.86,1997-05-23
+0017,Marchese Luigi,luigi.marchese@azienda.it,Risorse Umane,Modena,Tempo Indeterminato,2019-01-10,30721.95,1992-04-26
+0018,Marchese Serena,serena.marchese@azienda.it,Risorse Umane,Perugia,Tempo Indeterminato,2018-06-08,48617.85,1979-07-17
+0019,Bianco Davide,davide.bianco@azienda.it,Comunicazione,Catania,Tempo Determinato,2006-04-20,35742.05,1968-07-14
+0020,Marchese Matteo,matteo.marchese@azienda.it,Legale,Bologna,Tempo Determinato,2019-10-19,47923.54,1986-04-28
+0021,Pellegrino Monica,monica.pellegrino@azienda.it,Comunicazione,Bergamo,Collaborazione,2009-10-02,50132.46,1995-12-12
+0022,Guerra Michela,michela.guerra@azienda.it,Controllo Qualità,Verona,Collaborazione,2016-08-10,27752.61,1985-04-03
+0023,Marino Riccardo,riccardo.marino@azienda.it,Produzione,Milano,Tempo Determinato,2018-03-14,35713.96,1993-04-23
+0024,Bianchi Matteo,matteo.bianchi@azienda.it,Comunicazione,Venezia,Tempo Indeterminato,2016-07-13,38770.69,1975-09-05
+0025,Giuliani Federica,federica.giuliani@azienda.it,Risorse Umane,Cagliari,Collaborazione,2010-06-14,38917.56,1973-07-17
+0026,Palumbo Raffaele,raffaele.palumbo@azienda.it,Produzione,Trieste,Collaborazione,2015-06-23,20000.00,1997-09-15
+0027,Sala Valentina,valentina.sala@azienda.it,Servizio Clienti,Venezia,Tempo Indeterminato,2010-07-30,39448.43,1971-04-16
+0028,Monti Barbara,barbara.monti@azienda.it,Finanza,Torino,Collaborazione,2017-05-06,46571.90,1969-05-24
+0030,Rossi Claudio,claudio.rossi@azienda.it,Logistica,Bari,Collaborazione,2011-05-26,35624.83,1983-12-23
+0031,Rinaldi Anna,anna.rinaldi@azienda.it,IT,Genova,Tempo Indeterminato,2017-12-28,34682.59,1979-01-26
+0032,Morelli Bruno,bruno.morelli@azienda.it,Legale,Modena,Tempo Determinato,2006-04-11,31467.55,1987-10-13
+0033,Ruggiero Matteo,matteo.ruggiero@azienda.it,Marketing,Palermo,Collaborazione,2007-09-10,47121.66,1990-12-21
+0034,Bruno Manuela,manuela.bruno@azienda.it,Logistica,Cagliari,Apprendistato,2010-11-07,30340.77,1974-03-01
+0035,Vitale Fabio,fabio.vitale@azienda.it,Logistica,Bologna,Apprendistato,2015-04-04,28256.07,1968-04-03
+0037,Gentile Matteo,matteo.gentile@azienda.it,Produzione,Catania,Tempo Determinato,2014-10-30,42831.83,1992-06-09
+0038,Guerra Giulia,giulia.guerra@azienda.it,Comunicazione,Perugia,Apprendistato,2019-11-18,21515.53,1969-08-25
+0039,De Luca Davide,davide.deluca@azienda.it,Servizio Clienti,Perugia,Tempo Determinato,2011-02-10,33636.76,1980-05-19
+0040,Amato Luigi,luigi.amato@azienda.it,IT,Roma,Tempo Indeterminato,2019-03-25,41741.33,1984-01-01
+0041,Rossi Sara,sara.rossi@azienda.it,Produzione,Bologna,Apprendistato,2008-08-16,34302.44,1984-03-09
+0042,Greco Davide,davide.greco@azienda.it,Servizio Clienti,Bologna,Tempo Indeterminato,2013-04-13,22352.34,1991-02-17
+0043,Giordano Arianna,arianna.giordano@azienda.it,Vendite,Catania,Apprendistato,2005-11-23,40528.60,1976-03-12
+0044,Montanari Beatrice,beatrice.montanari@azienda.it,Legale,Trieste,Tempo Determinato,2010-04-24,30925.88,1972-04-16
+0045,Esposito Vincenzo,vincenzo.esposito@azienda.it,Risorse Umane,Venezia,Collaborazione,2020-01-10,46985.96,1976-12-20
+0046,Bianchi Claudio,claudio.bianchi@azienda.it,Comunicazione,Parma,Tempo Determinato,2009-06-23,21242.34,2001-08-18
+0047,Leone Cristina,cristina.leone@azienda.it,Finanza,Milano,Tempo Determinato,2013-12-09,25562.32,1999-09-10
+0048,Testa Edoardo,edoardo.testa@azienda.it,Logistica,Perugia,Apprendistato,2005-08-15,52620.16,1970-03-05
+0049,Vitale Bruno,bruno.vitale@azienda.it,Vendite,Napoli,Collaborazione,2012-10-02,33833.90,1992-03-12
+0050,Bernardi Paola,paola.bernardi@azienda.it,Finanza,Bari,Tempo Indeterminato,2020-11-24,26402.23,1984-07-24
+0051,Donati Francesco,francesco.donati@azienda.it,Servizio Clienti,Genova,Apprendistato,2014-09-04,48368.93,1979-10-24
+0052,Costa Raffaele,raffaele.costa@azienda.it,Servizio Clienti,Catania,Apprendistato,2019-12-17,41288.25,1983-04-28
+0053,De Santis Sabrina,sabrina.desantis@azienda.it,Legale,Bologna,Tempo Determinato,2014-06-07,30026.10,1998-07-24
+0054,Benedetti Michela,michela.benedetti@azienda.it,Comunicazione,Milano,Apprendistato,2011-06-09,26598.10,1974-06-06
+0055,Sanna Debora,debora.sanna@azienda.it,Ricerca e Sviluppo,Genova,Collaborazione,2021-07-04,37035.19,1988-02-15
+0056,Graziano Elisa,elisa.graziano2@azienda.it,Finanza,Catania,Tempo Determinato,2009-06-20,38685.05,1971-08-12
+0057,Cattaneo Ilaria,ilaria.cattaneo@azienda.it,Amministrazione,Torino,Collaborazione,2014-04-19,44883.45,1997-03-23
+0058,Sala Sofia,sofia.sala@azienda.it,Finanza,Bologna,Tempo Indeterminato,2021-11-04,26411.26,1999-07-18
+0059,Santoro Riccardo,riccardo.santoro@azienda.it,Acquisti,Modena,Collaborazione,2006-02-16,20000.00,1970-06-12
+0060,Guerra Debora,debora.guerra@azienda.it,Legale,Perugia,Apprendistato,2021-12-10,27116.98,1984-11-08
+0061,Benedetti Leonardo,leonardo.benedetti@azienda.it,Ricerca e Sviluppo,Firenze,Collaborazione,2015-02-04,34564.98,1993-08-09
+0062,D'Amico Giorgio,giorgio.damico@azienda.it,Finanza,Bari,Collaborazione,2006-09-27,42524.12,1997-01-03
+0063,Conte Nicola,nicola.conte@azienda.it,Produzione,Perugia,Tempo Indeterminato,2008-02-08,40735.15,1971-11-09
+0064,Gatti Matteo,matteo.gatti@azienda.it,Logistica,Venezia,Collaborazione,2014-04-30,42981.02,1967-10-18
+0065,Valenti Paola,paola.valenti@azienda.it,Amministrazione,Milano,Collaborazione,2015-09-13,44304.81,1998-10-19
+0066,De Rosa Francesco,francesco.derosa@azienda.it,Servizio Clienti,Perugia,Tempo Determinato,2015-12-14,35344.87,1974-11-05
+0067,Esposito Giorgio,giorgio.esposito@azienda.it,Logistica,Venezia,Collaborazione,2021-03-30,40711.11,1970-09-23
+0068,Messina Francesca,francesca.messina@azienda.it,Amministrazione,Cagliari,Tempo Indeterminato,2006-11-19,44663.15,1993-10-31
+0069,Mariani Debora,debora.mariani@azienda.it,Vendite,Bari,Collaborazione,2012-05-05,37122.57,1999-02-23
+0070,Gatti Dario,dario.gatti@azienda.it,IT,Torino,Collaborazione,2005-06-08,43640.07,1998-08-08
+0071,Martini Giacomo,giacomo.martini@azienda.it,Controllo Qualità,Torino,Tempo Indeterminato,2021-12-01,42394.65,2002-08-24
+0072,Giordano Fabio,fabio.giordano@azienda.it,Ricerca e Sviluppo,Napoli,Tempo Determinato,2015-06-07,36460.26,1996-05-18
+0073,Sartori Laura,laura.sartori@azienda.it,Amministrazione,Napoli,Tempo Determinato,2011-12-24,36774.75,1978-12-30
+0074,Fiore Enrico,enrico.fiore@azienda.it,Finanza,Torino,Tempo Determinato,2007-04-15,36432.84,1996-04-10
+0075,Ruggiero Rosa,rosa.ruggiero@azienda.it,Acquisti,Napoli,Tempo Indeterminato,2012-10-15,20591.11,1968-02-04
+0076,Gatti Giulia,giulia.gatti@azienda.it,Comunicazione,Parma,Tempo Indeterminato,2014-09-22,31992.90,1981-04-01
+0077,Moretti Valerio,valerio.moretti@azienda.it,Logistica,Firenze,Apprendistato,2018-10-25,39444.85,1986-09-09
+0078,Giorgi Marina,marina.giorgi@azienda.it,IT,Venezia,Tempo Determinato,2006-12-11,23391.54,1977-07-06
+0079,Monti Dario,dario.monti@azienda.it,Amministrazione,Bergamo,Collaborazione,2012-07-18,54195.12,1973-02-27
+0080,Vitale Beatrice,beatrice.vitale@azienda.it,Produzione,Bari,Apprendistato,2017-06-20,38499.42,1965-06-16
+0081,Longo Lorenzo,lorenzo.longo@azienda.it,Servizio Clienti,Trieste,Collaborazione,2017-06-15,35785.45,1993-12-22
+0082,Ferrari Marta,marta.ferrari@azienda.it,Marketing,Catania,Tempo Determinato,2014-01-26,20000.00,1996-01-13
+0083,Martino Raffaele,raffaele.martino@azienda.it,Produzione,Parma,Apprendistato,2014-07-18,47641.31,1980-10-13
+0084,Marchetti Nicola,nicola.marchetti@azienda.it,IT,Palermo,Tempo Indeterminato,2021-03-06,34732.41,1973-08-22
+0085,Carbone Daniela,daniela.carbone@azienda.it,Acquisti,Firenze,Tempo Determinato,2009-11-08,34424.44,1991-06-13
+0086,Coppola Elia,elia.coppola@azienda.it,Marketing,Genova,Apprendistato,2010-02-07,26975.07,1981-03-10
+0087,Rossetti Giulia,giulia.rossetti@azienda.it,Legale,Bologna,Apprendistato,2006-01-08,47531.22,1996-04-14
+0088,Russo Martina,martina.russo@azienda.it,Amministrazione,Catania,Collaborazione,2015-09-27,32958.30,1984-10-04
+0089,Martinelli Andrea,andrea.martinelli@azienda.it,Comunicazione,Parma,Tempo Indeterminato,2006-06-20,31815.59,1993-03-27
+0090,Moretti Anna,anna.moretti@azienda.it,Acquisti,Cagliari,Apprendistato,2006-11-29,37292.05,1976-02-19
+0091,Ruggiero Erika,erika.ruggiero@azienda.it,Acquisti,Bergamo,Tempo Determinato,2022-05-26,24166.63,1984-11-10
+0092,Palmieri Cristina,cristina.palmieri@azienda.it,Amministrazione,Roma,Tempo Indeterminato,2022-02-09,33453.15,1974-04-28
+0093,Pagano Monica,monica.pagano@azienda.it,Marketing,Firenze,Tempo Determinato,2008-11-24,29473.62,1983-04-30
+0094,Bianchi Veronica,veronica.bianchi@azienda.it,Finanza,Catania,Apprendistato,2020-10-07,33127.57,1985-05-14
+0095,D'Amico Monica,monica.damico@azienda.it,Amministrazione,Genova,Collaborazione,2007-07-30,21118.88,1976-12-01
+0096,Ricci Chiara,chiara.ricci@azienda.it,Risorse Umane,Catania,Apprendistato,2014-11-07,31008.52,1970-07-31
+0097,Sala Sabrina,sabrina.sala@azienda.it,IT,Modena,Collaborazione,2014-10-27,37495.63,1984-05-19
+0098,Martinelli Erika,erika.martinelli@azienda.it,Vendite,Torino,Tempo Determinato,2020-02-15,36381.02,2002-07-02
+0099,Riva Nadia,nadia.riva@azienda.it,Comunicazione,Bari,Tempo Indeterminato,2022-02-12,35444.06,1994-03-24
+0100,Martino Elena,elena.martino@azienda.it,Logistica,Parma,Tempo Indeterminato,2015-07-18,23732.01,1980-08-10
+0101,Guerra Alice,alice.guerra@azienda.it,Marketing,Firenze,Apprendistato,2014-03-27,32142.21,1982-12-19
+0102,Gallo Salvatore,salvatore.gallo@azienda.it,Produzione,Bari,Apprendistato,2007-08-08,27265.04,1999-08-28
+0103,Pagano Marco,marco.pagano@azienda.it,Comunicazione,Perugia,Collaborazione,2014-04-09,46394.67,1992-12-06
+0104,Sanna Mirko,mirko.sanna@azienda.it,Acquisti,Roma,Tempo Determinato,2010-12-28,39038.08,1989-08-21
+0105,Piras Pietro,pietro.piras@azienda.it,Ricerca e Sviluppo,Napoli,Tempo Indeterminato,2019-02-18,29267.91,1972-02-08
+0106,De Angelis Diego,diego.deangelis@azienda.it,Marketing,Palermo,Tempo Indeterminato,2015-05-09,30326.06,1970-04-09
+0107,Fiore Sofia,sofia.fiore@azienda.it,IT,Modena,Apprendistato,2014-04-27,49219.18,1975-12-08
+0108,Rinaldi Paola,paola.rinaldi@azienda.it,Amministrazione,Modena,Tempo Determinato,2006-07-26,20000.00,1977-05-24
+0109,Mazza Roberta,roberta.mazza@azienda.it,IT,Milano,Apprendistato,2021-04-14,31005.68,1994-08-09
+0110,Carbone Marta,marta.carbone@azienda.it,Ricerca e Sviluppo,Verona,Apprendistato,2017-05-19,47683.72,1999-03-22
+0111,Villa Salvatore,salvatore.villa@azienda.it,Comunicazione,Genova,Tempo Determinato,2017-10-29,20399.21,1983-06-06
+0112,Cattaneo Daniela,daniela.cattaneo@azienda.it,Servizio Clienti,Padova,Collaborazione,2019-11-20,48206.95,2000-07-18
+0113,Bianchi Sofia,sofia.bianchi@azienda.it,Risorse Umane,Modena,Apprendistato,2007-04-03,42579.32,1988-08-05
+0114,Lombardi Alfredo,alfredo.lombardi@azienda.it,Logistica,Bologna,Tempo Indeterminato,2015-07-14,27343.17,2000-01-22
+0115,Negri Manuela,manuela.negri@azienda.it,Logistica,Torino,Apprendistato,2020-02-16,41201.57,1979-03-17
+0117,Gallo Daniela,daniela.gallo@azienda.it,Logistica,Napoli,Tempo Indeterminato,2014-12-14,39232.34,1966-04-20
+0118,De Santis Valentina,valentina.desantis@azienda.it,Produzione,Verona,Collaborazione,2008-04-07,42298.62,1975-12-15
+0119,Donati Sergio,sergio.donati@azienda.it,Acquisti,Firenze,Tempo Determinato,2008-12-05,52792.38,1992-10-19
+0120,Martino Sofia,sofia.martino@azienda.it,Risorse Umane,Palermo,Collaborazione,2019-04-23,44631.79,1976-05-24
+0121,Russo Lucia,lucia.russo@azienda.it,Acquisti,Brescia,Apprendistato,2020-03-13,31249.27,1980-07-02
+0122,Pellegrini Viviana,viviana.pellegrini@azienda.it,Servizio Clienti,Bari,Collaborazione,2011-10-11,33869.35,1973-12-08
+0123,Longo Martina,martina.longo@azienda.it,Logistica,Cagliari,Apprendistato,2017-11-22,30593.52,1965-12-26
+0124,Russo Barbara,barbara.russo@azienda.it,Amministrazione,Roma,Collaborazione,2011-06-03,49862.62,1999-10-19
+0125,Fabbri Erika,erika.fabbri@azienda.it,Finanza,Genova,Apprendistato,2020-03-15,35598.44,1995-07-18
+0126,Conti Mirko,mirko.conti@azienda.it,Controllo Qualità,Roma,Apprendistato,2022-09-09,20000.00,1984-10-10
+0127,Giordano Marina,marina.giordano@azienda.it,Marketing,Catania,Apprendistato,2021-10-07,29226.30,2000-04-13
+0128,Mazza Lisa,lisa.mazza@azienda.it,IT,Firenze,Apprendistato,2015-10-23,38389.97,2001-03-06
+0129,Monti Davide,davide.monti@azienda.it,Marketing,Bologna,Tempo Determinato,2020-03-03,30490.04,2002-12-09
+0130,Messina Elisa,elisa.messina@azienda.it,Vendite,Bari,Tempo Indeterminato,2015-03-15,20000.00,1981-07-14
+0131,Grasso Bruno,bruno.grasso@azienda.it,Comunicazione,Verona,Tempo Indeterminato,2020-02-20,35228.46,1990-03-09
+0132,Marino Edoardo,edoardo.marino@azienda.it,Controllo Qualità,Brescia,Apprendistato,2019-07-25,37239.74,1983-04-26
+0133,Bianchi Sara,sara.bianchi@azienda.it,IT,Parma,Tempo Indeterminato,2007-03-08,36184.30,1982-06-08
+0134,De Rosa Lucia,lucia.derosa@azienda.it,Servizio Clienti,Perugia,Collaborazione,2018-03-05,47362.82,1998-04-19
+0136,Conti Alberto,alberto.conti@azienda.it,Controllo Qualità,Verona,Apprendistato,2006-05-12,36963.94,1982-11-11
+0138,Marchese Matteo,matteo.marchese2@azienda.it,Legale,Genova,Tempo Determinato,2010-03-24,27726.92,1979-09-28
+0140,Russo Simone,simone.russo@azienda.it,Produzione,Palermo,Apprendistato,2005-05-10,41192.89,1972-10-25
+0141,Caputo Simone,simone.caputo@azienda.it,Logistica,Modena,Tempo Indeterminato,2021-09-22,45047.88,1981-03-29
+0142,Mazza Marta,marta.mazza@azienda.it,Finanza,Bergamo,Tempo Indeterminato,2021-04-24,39240.44,2000-02-19
+0143,Rizzi Massimo,massimo.rizzi@azienda.it,Controllo Qualità,Milano,Tempo Indeterminato,2015-09-29,41050.42,1969-11-04
+0144,Bruno Chiara,chiara.bruno@azienda.it,Produzione,Bergamo,Tempo Determinato,2006-06-23,26367.91,1970-08-30
+0145,Ruggiero Claudio,claudio.ruggiero@azienda.it,Legale,Catania,Collaborazione,2016-05-04,31396.11,1996-06-24
+0146,Farina Arianna,arianna.farina@azienda.it,Finanza,Trieste,Apprendistato,2015-03-05,32189.02,1982-11-20
+0147,Pellegrini Filippo,filippo.pellegrini@azienda.it,Produzione,Bari,Apprendistato,2008-06-04,30615.76,1969-02-03
+0148,Palumbo Elisa,elisa.palumbo@azienda.it,Marketing,Verona,Tempo Determinato,2017-06-24,24541.93,1967-09-10
+0149,Costa Lucia,lucia.costa@azienda.it,Logistica,Verona,Collaborazione,2021-03-04,42809.44,1979-01-07
+0150,Mazza Angela,angela.mazza@azienda.it,Finanza,Bologna,Collaborazione,2010-01-12,37616.12,2003-01-03
+0151,Marini Irene,irene.marini@azienda.it,Marketing,Bari,Tempo Determinato,2014-08-17,50251.93,2001-09-18
+0152,Pagano Erika,erika.pagano@azienda.it,Comunicazione,Bari,Tempo Indeterminato,2009-01-17,20000.00,1977-04-05
+0153,Ferri Roberta,roberta.ferri@azienda.it,Vendite,Firenze,Tempo Determinato,2017-09-14,32911.70,1998-03-29
+0154,De Rosa Elisa,elisa.derosa@azienda.it,Legale,Genova,Collaborazione,2014-06-02,31827.62,1985-05-08
+0155,Marchetti Serena,serena.marchetti@azienda.it,Servizio Clienti,Venezia,Tempo Indeterminato,2006-03-07,44368.98,1967-03-27
+0156,Sanna Nicola,nicola.sanna@azienda.it,Controllo Qualità,Trieste,Collaborazione,2018-08-14,48894.66,1984-10-30
+0157,Graziano Federica,federica.graziano@azienda.it,Legale,Napoli,Apprendistato,2014-08-23,46549.38,1991-08-10
+0158,Marchetti Lucia,lucia.marchetti@azienda.it,Vendite,Palermo,Collaborazione,2018-06-11,44663.74,1967-06-17
+0159,Galli Massimo,massimo.galli@azienda.it,Acquisti,Bologna,Apprendistato,2011-06-30,34412.76,1998-07-06
+0160,Grasso Simone,simone.grasso@azienda.it,Legale,Palermo,Apprendistato,2006-08-14,36098.70,1982-10-24
+0161,Ferrari Arianna,arianna.ferrari@azienda.it,Ricerca e Sviluppo,Torino,Apprendistato,2017-11-30,25807.89,1993-09-19
+0162,Sala Davide,davide.sala@azienda.it,Vendite,Venezia,Tempo Determinato,2018-11-12,39376.07,1985-08-22
+0163,Palumbo Elisa,elisa.palumbo2@azienda.it,Comunicazione,Napoli,Tempo Determinato,2014-10-10,24666.60,1982-10-03
+0164,Ferraro Daniela,daniela.ferraro@azienda.it,Finanza,Venezia,Tempo Determinato,2006-09-18,28544.57,1987-11-25
+0165,Testa Lisa,lisa.testa@azienda.it,Finanza,Verona,Apprendistato,2021-04-25,48907.33,1971-08-17
+0166,Martinelli Roberto,roberto.martinelli@azienda.it,Finanza,Firenze,Tempo Determinato,2022-01-19,31263.24,1999-01-20
+0167,Valenti Stefano,stefano.valenti@azienda.it,Controllo Qualità,Parma,Collaborazione,2021-12-03,22879.06,1995-07-22
+0168,Parisi Mirko,mirko.parisi@azienda.it,Risorse Umane,Brescia,Tempo Indeterminato,2015-07-09,29868.75,1984-11-02
+0169,Giorgi Barbara,barbara.giorgi@azienda.it,Vendite,Verona,Tempo Indeterminato,2011-12-18,32310.76,1981-07-17
+0170,Orlando Chiara,chiara.orlando@azienda.it,Comunicazione,Torino,Collaborazione,2015-05-19,35659.18,1991-01-13
+0171,Bernardi Marta,marta.bernardi@azienda.it,Controllo Qualità,Genova,Apprendistato,2018-07-28,29347.96,1967-10-11
+0172,Fiore Roberta,roberta.fiore@azienda.it,Marketing,Modena,Tempo Determinato,2005-11-17,35872.31,1976-02-12
+0173,Pellegrino Pietro,pietro.pellegrino@azienda.it,Legale,Bergamo,Tempo Determinato,2013-03-01,29311.80,1983-05-04
+0174,Ruggiero Umberto,umberto.ruggiero@azienda.it,Vendite,Venezia,Tempo Indeterminato,2012-05-24,40843.85,1969-03-29
+0175,Martinelli Daniele,daniele.martinelli@azienda.it,Servizio Clienti,Bergamo,Tempo Determinato,2012-06-23,47867.80,1980-09-10
+0176,Ruggiero Simone,simone.ruggiero@azienda.it,Servizio Clienti,Torino,Apprendistato,2017-07-15,42233.10,1981-11-24
+0177,Guerra Simone,simone.guerra@azienda.it,Servizio Clienti,Modena,Tempo Indeterminato,2019-06-29,29288.10,1965-10-26
+0179,Conti Veronica,veronica.conti@azienda.it,Legale,Perugia,Tempo Indeterminato,2019-11-06,26157.97,1970-11-18
+0180,Barbieri Anna,anna.barbieri@azienda.it,Risorse Umane,Bergamo,Tempo Determinato,2021-03-05,49579.72,1984-08-19
+0181,Riva Alberto,alberto.riva@azienda.it,Servizio Clienti,Palermo,Collaborazione,2018-09-11,31382.67,1985-02-20
+0182,Marchetti Fabio,fabio.marchetti@azienda.it,Acquisti,Parma,Tempo Determinato,2013-04-02,51217.47,1995-06-06
+0183,Valenti Debora,debora.valenti@azienda.it,IT,Padova,Collaborazione,2008-08-20,42334.82,1971-03-18
+0184,Orlando Andrea,andrea.orlando@azienda.it,Ricerca e Sviluppo,Verona,Tempo Indeterminato,2020-12-15,20000.00,2002-12-12
+0185,Bruno Daniele,daniele.bruno@azienda.it,Acquisti,Firenze,Apprendistato,2015-01-29,39676.06,1984-08-16
+0186,Ferri Marta,marta.ferri@azienda.it,Vendite,Trieste,Tempo Indeterminato,2013-11-22,31835.29,1987-07-09
+0187,Bruno Paola,paola.bruno@azienda.it,Produzione,Palermo,Tempo Indeterminato,2012-02-24,52340.29,1994-02-26
+0188,Bianchi Giorgia,giorgia.bianchi@azienda.it,IT,Parma,Tempo Determinato,2022-01-08,26949.92,1996-08-25
+0189,Rossi Adriano,adriano.rossi@azienda.it,Marketing,Milano,Apprendistato,2009-11-02,41419.70,1997-08-16
+0190,Mancini Leonardo,leonardo.mancini@azienda.it,Acquisti,Catania,Tempo Determinato,2011-10-04,24139.14,1970-06-20
+0191,Costanzo Jessica,jessica.costanzo@azienda.it,Acquisti,Bergamo,Collaborazione,2006-05-30,51648.78,1991-10-08
+0192,Testa Mirko,mirko.testa@azienda.it,Amministrazione,Palermo,Tempo Determinato,2011-07-15,48924.91,1984-04-03
+0193,Bernardi Fabio,fabio.bernardi@azienda.it,Logistica,Firenze,Tempo Indeterminato,2016-09-28,38696.38,1988-08-06
+0194,Benedetti Luigi,luigi.benedetti@azienda.it,Vendite,Padova,Collaborazione,2005-12-23,34406.32,1993-07-07
+0195,De Rosa Paolo,paolo.derosa@azienda.it,Vendite,Verona,Tempo Indeterminato,2012-09-25,35815.36,1969-08-26
+0196,Romano Giorgia,giorgia.romano@azienda.it,Produzione,Perugia,Apprendistato,2019-06-02,49608.25,1972-11-08
+0197,Morelli Sabrina,sabrina.morelli@azienda.it,Controllo Qualità,Firenze,Tempo Determinato,2006-06-01,29922.55,1966-08-29
+0198,Caruso Sara,sara.caruso@azienda.it,Vendite,Venezia,Apprendistato,2016-07-24,20000.00,1982-11-12
+0199,Bianchi Paolo,paolo.bianchi@azienda.it,Acquisti,Genova,Apprendistato,2013-01-03,37027.36,1994-06-01
+0200,Marini Alessia,alessia.marini@azienda.it,Logistica,Padova,Collaborazione,2013-09-03,32615.32,1980-03-17
+0201,Silvestri Tiziano,tiziano.silvestri@azienda.it,Produzione,Modena,Apprendistato,2006-11-08,34418.08,1992-01-10
+0202,De Santis Camilla,camilla.desantis@azienda.it,Produzione,Napoli,Tempo Indeterminato,2012-05-10,30986.95,1994-08-25
+0203,Sartori Marta,marta.sartori@azienda.it,Servizio Clienti,Trieste,Tempo Determinato,2020-06-21,24782.18,1997-08-09
+0204,Palumbo Adriano,adriano.palumbo@azienda.it,IT,Roma,Tempo Indeterminato,2020-01-21,38758.00,1993-08-07
+0205,De Rosa Greta,greta.derosa@azienda.it,Controllo Qualità,Firenze,Tempo Indeterminato,2008-03-15,43747.79,1984-08-28
+0206,Longo Matteo,matteo.longo@azienda.it,Acquisti,Verona,Apprendistato,2013-08-03,22745.53,1990-06-12
+0207,Farina Umberto,umberto.farina@azienda.it,Produzione,Verona,Collaborazione,2022-02-12,39820.38,1981-06-18
+0208,Serra Carlotta,carlotta.serra@azienda.it,Finanza,Napoli,Tempo Indeterminato,2021-07-02,37528.48,1973-05-07
+0209,Barone Paola,paola.barone@azienda.it,Marketing,Bari,Apprendistato,2020-10-16,20000.00,1977-10-23
+0210,Costa Silvia,silvia.costa@azienda.it,Risorse Umane,Torino,Collaborazione,2008-11-15,46101.09,1996-12-31
+0211,Parisi Rosa,rosa.parisi@azienda.it,Controllo Qualità,Verona,Tempo Indeterminato,2017-05-03,20000.00,2003-03-11
+0212,Testa Alberto,alberto.testa@azienda.it,Finanza,Napoli,Tempo Determinato,2022-10-07,29482.51,1971-03-26
+0213,Bianco Francesca,francesca.bianco@azienda.it,Legale,Cagliari,Apprendistato,2015-06-26,39190.19,1992-06-14
+0214,Messina Cristina,cristina.messina@azienda.it,Servizio Clienti,Parma,Collaborazione,2022-04-02,23046.88,1983-05-15
+0215,Parisi Simone,simone.parisi@azienda.it,Controllo Qualità,Torino,Collaborazione,2015-06-14,31092.33,2002-03-11
+0216,Giordano Omar,omar.giordano@azienda.it,Logistica,Modena,Tempo Indeterminato,2007-10-15,26680.99,1988-03-29
+0217,Barbieri Laura,laura.barbieri@azienda.it,Produzione,Palermo,Apprendistato,2016-08-21,50276.87,1976-03-29
+0219,Pagano Laura,laura.pagano@azienda.it,Amministrazione,Bergamo,Apprendistato,2017-08-23,54302.32,1968-08-23
+0220,Ferrara Carlotta,carlotta.ferrara@azienda.it,Acquisti,Cagliari,Collaborazione,2018-11-12,40110.69,1993-08-31
+0221,Giuliani Mirko,mirko.giuliani@azienda.it,IT,Catania,Collaborazione,2010-06-30,40120.68,1978-05-06
+0222,Ricci Tiziano,tiziano.ricci@azienda.it,Risorse Umane,Brescia,Collaborazione,2015-11-11,20688.84,1985-11-01
+0223,Lombardi Erika,erika.lombardi@azienda.it,Produzione,Venezia,Apprendistato,2013-12-11,41552.72,1990-03-13
+0224,Monti Fabio,fabio.monti@azienda.it,Marketing,Bari,Collaborazione,2010-07-24,42045.60,1971-04-28
+0225,Valentini Veronica,veronica.valentini@azienda.it,Comunicazione,Bergamo,Collaborazione,2010-07-27,55978.26,2001-06-29
+0226,Marchese Giovanni,giovanni.marchese@azienda.it,Risorse Umane,Parma,Collaborazione,2016-03-09,29989.47,1978-11-04
+0227,Messina Elisa,elisa.messina2@azienda.it,Legale,Brescia,Tempo Determinato,2009-10-29,32264.73,1977-08-15
+0228,Carbone Daniele,daniele.carbone@azienda.it,Vendite,Napoli,Collaborazione,2008-01-03,33420.55,1976-11-12
+0229,Sala Nadia,nadia.sala@azienda.it,Produzione,Roma,Collaborazione,2006-02-24,29051.17,1989-10-26
+0230,Mazza Paola,paola.mazza@azienda.it,Ricerca e Sviluppo,Perugia,Apprendistato,2018-12-24,32187.82,1995-07-10
+0231,Conti Simone,simone.conti@azienda.it,Logistica,Verona,Apprendistato,2017-07-06,50552.28,1973-12-06
+0232,Mazza Michela,michela.mazza@azienda.it,Vendite,Roma,Tempo Indeterminato,2008-01-28,28723.25,1997-01-04
+0233,Rizzi Tommaso,tommaso.rizzi@azienda.it,Risorse Umane,Bergamo,Tempo Determinato,2012-05-10,42956.15,1982-08-18
+0234,Ferraro Teresa,teresa.ferraro@azienda.it,Legale,Modena,Collaborazione,2020-11-23,31339.36,1990-04-02
+0235,Marini Luca,luca.marini@azienda.it,Produzione,Napoli,Collaborazione,2018-02-03,27412.39,1995-11-12
+0236,Cattaneo Elia,elia.cattaneo@azienda.it,IT,Cagliari,Tempo Determinato,2021-03-07,55012.36,1967-04-22
+0237,Pellegrino Laura,laura.pellegrino@azienda.it,Controllo Qualità,Bergamo,Collaborazione,2008-04-25,38241.19,1990-09-07
+0238,Ferrari Giovanni,giovanni.ferrari@azienda.it,Ricerca e Sviluppo,Venezia,Collaborazione,2008-05-25,28294.71,1983-07-11
+0239,Mazza Vincenzo,vincenzo.mazza@azienda.it,Acquisti,Bergamo,Collaborazione,2021-07-03,32786.45,1988-04-08
+0240,Morelli Raffaele,raffaele.morelli@azienda.it,Legale,Padova,Apprendistato,2008-11-19,20000.00,1985-08-15
+0241,Fabbri Camilla,camilla.fabbri@azienda.it,Controllo Qualità,Bari,Collaborazione,2009-04-25,42799.71,1978-05-23
+0242,Coppola Omar,omar.coppola@azienda.it,Servizio Clienti,Genova,Collaborazione,2012-02-11,32857.67,1986-07-11
+0243,Costa Daniele,daniele.costa@azienda.it,Amministrazione,Perugia,Collaborazione,2013-11-07,45358.93,2001-02-03
+0244,Coppola Sara,sara.coppola@azienda.it,Servizio Clienti,Torino,Apprendistato,2014-12-03,20000.00,1994-06-05
+0245,Caruso Federica,federica.caruso@azienda.it,Comunicazione,Perugia,Apprendistato,2017-08-10,33196.88,1992-08-14
+0246,Colombo Ilaria,ilaria.colombo@azienda.it,Controllo Qualità,Modena,Tempo Determinato,2019-04-24,29873.58,1975-06-12
+0247,Conte Vincenzo,vincenzo.conte@azienda.it,Servizio Clienti,Parma,Tempo Indeterminato,2020-04-12,35132.62,1989-09-08
+0248,Cattaneo Carlotta,carlotta.cattaneo@azienda.it,Ricerca e Sviluppo,Genova,Apprendistato,2012-03-16,33989.36,1977-10-21
+0249,Gallo Omar,omar.gallo@azienda.it,Controllo Qualità,Cagliari,Tempo Determinato,2017-01-01,33615.71,1966-09-04
+0250,Bianchi Stefano,stefano.bianchi@azienda.it,Comunicazione,Padova,Collaborazione,2009-03-07,20000.00,1998-08-07
+0251,Russo Alessandro,alessandro.russo@azienda.it,IT,Cagliari,Tempo Indeterminato,2012-07-07,28522.77,1989-05-16
+0252,Mazza Giorgia,giorgia.mazza@azienda.it,Ricerca e Sviluppo,Bari,Tempo Determinato,2007-07-12,64357.01,1979-11-01
+0253,Martinelli Edoardo,edoardo.martinelli@azienda.it,Servizio Clienti,Firenze,Tempo Indeterminato,2021-07-10,30648.40,1995-04-03
+0254,Sorrentino Stefano,stefano.sorrentino@azienda.it,Comunicazione,Padova,Collaborazione,2016-07-23,42140.16,1979-09-17
+0255,Conti Lucia,lucia.conti@azienda.it,Risorse Umane,Bologna,Collaborazione,2012-04-04,36076.88,1982-03-17
+0256,Lombardo Dario,dario.lombardo@azienda.it,Produzione,Catania,Tempo Indeterminato,2010-11-13,34540.61,1994-04-28
+0257,Guerra Valentina,valentina.guerra@azienda.it,Marketing,Brescia,Apprendistato,2008-08-01,25209.08,1996-07-24
+0258,Costa Tiziano,tiziano.costa@azienda.it,Controllo Qualità,Catania,Apprendistato,2018-10-15,41616.50,1974-11-28
+0259,Moretti Noemi,noemi.moretti@azienda.it,Ricerca e Sviluppo,Bergamo,Apprendistato,2014-04-30,28430.93,1998-12-22
+0260,Gentile Nadia,nadia.gentile@azienda.it,Controllo Qualità,Bergamo,Tempo Indeterminato,2016-10-14,20000.00,1985-01-15
+0261,Palmieri Chiara,chiara.palmieri@azienda.it,Marketing,Roma,Tempo Determinato,2017-11-05,29162.21,2003-05-01
+0262,Donati Davide,davide.donati@azienda.it,Finanza,Cagliari,Collaborazione,2007-01-15,33631.01,1987-11-23
+0263,Giordano Salvatore,salvatore.giordano@azienda.it,Legale,Trieste,Collaborazione,2017-08-25,45415.83,2001-03-13
+0264,Martinelli Enrico,enrico.martinelli@azienda.it,Comunicazione,Milano,Tempo Determinato,2017-12-21,38953.53,1968-04-11
+0265,Piras Giacomo,giacomo.piras@azienda.it,Marketing,Perugia,Tempo Indeterminato,2006-07-20,46260.19,1977-11-17
+0266,Rizzo Omar,omar.rizzo@azienda.it,Acquisti,Trieste,Apprendistato,2013-07-31,34016.72,1985-02-13
+0267,Bruno Claudio,claudio.bruno2@azienda.it,Controllo Qualità,Perugia,Tempo Determinato,2019-08-29,38210.38,1989-02-06
+0268,Battaglia Simone,simone.battaglia@azienda.it,Finanza,Milano,Tempo Indeterminato,2011-09-11,31133.51,1985-10-08
+0269,Grasso Francesco,francesco.grasso@azienda.it,Comunicazione,Palermo,Tempo Determinato,2015-05-02,30437.66,1997-07-10
+0270,Pagano Alessandro,alessandro.pagano@azienda.it,Logistica,Bergamo,Tempo Indeterminato,2010-05-26,41609.17,1974-03-31
+0271,Bianchi Elia,elia.bianchi@azienda.it,Ricerca e Sviluppo,Bergamo,Tempo Indeterminato,2010-06-28,34397.41,1975-07-07
+0272,Montanari Dario,dario.montanari@azienda.it,Vendite,Bologna,Apprendistato,2010-04-03,24872.88,2001-08-05
+0273,Ruggiero Angela,angela.ruggiero@azienda.it,Acquisti,Venezia,Tempo Determinato,2011-10-09,55770.99,1988-05-20
+0274,Serra Massimo,massimo.serra@azienda.it,Vendite,Perugia,Tempo Determinato,2019-01-16,20000.00,1995-06-13
+0275,Ferri Andrea,andrea.ferri@azienda.it,Controllo Qualità,Padova,Apprendistato,2020-08-14,30082.72,1981-11-20
+0276,Martini Fabio,fabio.martini@azienda.it,IT,Bologna,Collaborazione,2006-04-18,37853.10,1990-03-25
+0277,Pellegrino Irene,irene.pellegrino@azienda.it,Risorse Umane,Padova,Tempo Determinato,2010-09-20,39169.09,1985-03-06
+0278,Carbone Elisa,elisa.carbone@azienda.it,Servizio Clienti,Genova,Tempo Indeterminato,2011-01-09,48809.76,1981-12-02
+0279,Rinaldi Chiara,chiara.rinaldi@azienda.it,Acquisti,Cagliari,Tempo Determinato,2015-10-03,40567.88,1978-08-08
+0280,Caputo Giovanni,giovanni.caputo@azienda.it,Marketing,Parma,Tempo Determinato,2020-08-08,56073.69,1992-02-11
+0281,Longo Enrico,enrico.longo@azienda.it,Legale,Venezia,Apprendistato,2013-07-16,20859.05,1978-11-02
+0282,Silvestri Greta,greta.silvestri@azienda.it,Ricerca e Sviluppo,Napoli,Collaborazione,2022-01-31,38044.42,2002-09-02
+0283,Parisi Serena,serena.parisi@azienda.it,Logistica,Roma,Tempo Determinato,2021-08-17,39728.86,1991-03-14
+0284,Moretti Veronica,veronica.moretti@azienda.it,Finanza,Venezia,Tempo Determinato,2013-07-09,41169.94,1990-07-24
+0286,Fontana Salvatore,salvatore.fontana@azienda.it,Servizio Clienti,Verona,Tempo Determinato,2008-02-21,20000.00,1997-04-24
+0287,Giuliani Elena,elena.giuliani@azienda.it,Controllo Qualità,Roma,Tempo Indeterminato,2006-09-01,48982.18,1999-04-15
+0288,D'Amico Giorgia,giorgia.damico@azienda.it,Finanza,Torino,Tempo Determinato,2005-03-16,29984.77,1974-10-24
+0289,Ricci Serena,serena.ricci@azienda.it,Amministrazione,Bergamo,Collaborazione,2019-10-15,33851.46,1989-09-30
+0290,Pellegrino Luca,luca.pellegrino@azienda.it,Servizio Clienti,Bari,Apprendistato,2005-05-21,35087.82,1987-07-13
+0291,De Luca Stefano,stefano.deluca@azienda.it,Marketing,Modena,Tempo Determinato,2010-05-29,39362.76,2001-07-27
+0292,Bruno Enrico,enrico.bruno@azienda.it,Produzione,Padova,Collaborazione,2017-09-03,46422.28,1975-11-29
+0293,Donati Massimo,massimo.donati@azienda.it,Comunicazione,Torino,Tempo Indeterminato,2007-02-05,26941.96,1986-05-09
+0294,Fontana Sabrina,sabrina.fontana@azienda.it,Marketing,Parma,Collaborazione,2019-06-20,40455.66,2000-03-09
+0295,Romano Lisa,lisa.romano@azienda.it,Finanza,Genova,Collaborazione,2011-01-30,38763.80,1977-07-30
+0296,Parisi Stefano,stefano.parisi@azienda.it,Vendite,Genova,Tempo Determinato,2021-11-15,36133.66,2001-10-25
+0297,D'Angelo Chiara,chiara.dangelo@azienda.it,Risorse Umane,Cagliari,Tempo Determinato,2017-09-17,40035.44,1989-04-01
+0298,Caputo Dario,dario.caputo@azienda.it,Risorse Umane,Torino,Apprendistato,2006-03-16,26442.71,1969-05-20
+0299,Ferraro Chiara,chiara.ferraro@azienda.it,Amministrazione,Bergamo,Collaborazione,2022-05-08,28453.06,2000-02-24
+0300,Fabbri Claudia,claudia.fabbri@azienda.it,Legale,Padova,Collaborazione,2009-03-02,47578.92,1995-06-29
+0301,Valenti Lorenzo,lorenzo.valenti@azienda.it,Amministrazione,Catania,Tempo Determinato,2020-12-29,42071.01,1982-01-17
+0302,Valentini Renato,renato.valentini@azienda.it,Produzione,Verona,Tempo Indeterminato,2007-01-20,38519.68,1965-03-27
+0303,Marchese Alberto,alberto.marchese@azienda.it,IT,Napoli,Tempo Determinato,2006-12-17,39184.02,1989-11-19
+0304,Esposito Martina,martina.esposito@azienda.it,Marketing,Verona,Tempo Indeterminato,2018-05-23,45081.73,1991-10-30
+0305,Russo Paola,paola.russo@azienda.it,IT,Trieste,Collaborazione,2022-06-23,53537.64,1975-11-22
+0307,Marino Roberto,roberto.marino@azienda.it,Risorse Umane,Trieste,Apprendistato,2014-06-12,29626.78,1981-03-14
+0308,D'Amico Alfredo,alfredo.damico@azienda.it,Ricerca e Sviluppo,Bergamo,Tempo Determinato,2015-04-09,51625.07,1969-10-19
+0309,Messina Marco,marco.messina@azienda.it,Produzione,Bergamo,Collaborazione,2012-05-23,25126.63,2001-12-10
+0310,Villa Massimo,massimo.villa@azienda.it,Amministrazione,Genova,Collaborazione,2012-01-18,38893.16,1972-12-20
+0311,Caputo Veronica,veronica.caputo@azienda.it,Servizio Clienti,Parma,Tempo Determinato,2012-04-23,21892.77,1982-08-17
+0312,Caruso Sergio,sergio.caruso@azienda.it,Amministrazione,Perugia,Tempo Determinato,2020-04-16,47934.55,1999-06-08
+0313,Monti Marina,marina.monti@azienda.it,Servizio Clienti,Genova,Collaborazione,2011-07-15,36850.55,2003-01-12
+0314,Silvestri Umberto,umberto.silvestri@azienda.it,Risorse Umane,Catania,Tempo Determinato,2010-09-01,31697.16,1994-07-19
+0315,Greco Claudio,claudio.greco@azienda.it,Ricerca e Sviluppo,Bergamo,Collaborazione,2018-01-22,25348.29,1996-01-11
+0316,Piras Alberto,alberto.piras@azienda.it,Acquisti,Perugia,Tempo Indeterminato,2007-06-15,41938.06,1999-06-30
+0317,Orlando Laura,laura.orlando@azienda.it,Amministrazione,Roma,Collaborazione,2021-11-18,26250.65,1969-10-02
+0318,Martini Monica,monica.martini@azienda.it,Legale,Modena,Tempo Determinato,2014-12-31,50543.57,1981-10-13
+0319,Riva Omar,omar.riva@azienda.it,Amministrazione,Modena,Tempo Determinato,2012-09-26,46481.57,1978-04-03
+0320,Battaglia Davide,davide.battaglia@azienda.it,Risorse Umane,Verona,Apprendistato,2012-09-11,34834.26,1985-06-05
+0321,Morelli Tommaso,tommaso.morelli@azienda.it,Produzione,Parma,Tempo Indeterminato,2014-10-30,33078.64,1968-01-06
+0322,Mancini Valerio,valerio.mancini@azienda.it,Vendite,Venezia,Tempo Indeterminato,2020-03-10,24194.09,2000-11-21
+0323,Santoro Tommaso,tommaso.santoro@azienda.it,Legale,Firenze,Apprendistato,2017-07-23,25035.06,2000-10-14
+0324,Costanzo Elena,elena.costanzo@azienda.it,Controllo Qualità,Trieste,Collaborazione,2005-08-28,39969.86,1998-01-29
+0325,Giorgi Marta,marta.giorgi@azienda.it,Logistica,Padova,Tempo Indeterminato,2020-10-22,36772.09,1996-07-27
+0326,De Luca Angela,angela.deluca@azienda.it,Acquisti,Perugia,Tempo Determinato,2013-03-16,42880.44,1979-08-16
+0327,Vitale Davide,davide.vitale@azienda.it,Controllo Qualità,Parma,Apprendistato,2018-05-23,27361.32,1970-02-15
+0328,Neri Salvatore,salvatore.neri@azienda.it,Risorse Umane,Catania,Tempo Indeterminato,2020-01-28,41430.06,1971-01-04
+0329,Marchetti Fabio,fabio.marchetti2@azienda.it,Marketing,Firenze,Apprendistato,2020-07-21,41256.17,1991-10-03
+0330,Mariani Leonardo,leonardo.mariani@azienda.it,Ricerca e Sviluppo,Perugia,Tempo Determinato,2017-06-12,42695.22,1972-06-26
+0333,Fontana Giorgio,giorgio.fontana@azienda.it,Marketing,Cagliari,Tempo Indeterminato,2022-01-26,35474.72,1975-02-01
+0334,Montanari Laura,laura.montanari@azienda.it,Ricerca e Sviluppo,Cagliari,Collaborazione,2017-05-01,37534.35,1987-12-01
+0335,Montanari Nicola,nicola.montanari@azienda.it,Legale,Verona,Tempo Indeterminato,2022-01-17,32564.92,1984-01-27
+0336,Bianchi Massimo,massimo.bianchi@azienda.it,Ricerca e Sviluppo,Bari,Apprendistato,2006-12-14,22664.78,1984-09-11
+0337,Longo Cinzia,cinzia.longo@azienda.it,Finanza,Cagliari,Apprendistato,2020-12-10,26864.70,1992-08-22
+0338,Ricci Antonio,antonio.ricci@azienda.it,Amministrazione,Verona,Apprendistato,2018-05-22,28247.33,1989-03-03
+0339,De Santis Valerio,valerio.desantis@azienda.it,IT,Cagliari,Apprendistato,2016-07-16,50018.78,1969-04-10
+0340,Serra Valentina,valentina.serra@azienda.it,Comunicazione,Bologna,Tempo Determinato,2010-08-08,33626.78,1971-07-25
+0341,Marchese Ilaria,ilaria.marchese@azienda.it,Comunicazione,Padova,Collaborazione,2008-03-10,28006.40,1983-08-01
+0342,Costanzo Chiara,chiara.costanzo@azienda.it,Acquisti,Torino,Collaborazione,2016-07-25,31301.27,1998-08-20
+0343,Amato Salvatore,salvatore.amato@azienda.it,Produzione,Cagliari,Tempo Indeterminato,2022-05-13,37535.09,1985-07-26
+0344,Carbone Matteo,matteo.carbone@azienda.it,Logistica,Genova,Collaborazione,2009-10-02,31376.86,1987-03-12
+0345,Ferraro Daniele,daniele.ferraro@azienda.it,Legale,Cagliari,Tempo Determinato,2017-09-12,45573.50,1995-08-14
+0346,Conti Sara,sara.conti@azienda.it,Controllo Qualità,Brescia,Tempo Indeterminato,2007-10-15,20903.14,1972-02-02
+0347,Pellegrini Marco,marco.pellegrini@azienda.it,Finanza,Bologna,Apprendistato,2008-07-26,49412.23,1969-03-10
+0348,Bruno Paolo,paolo.bruno@azienda.it,Produzione,Firenze,Tempo Indeterminato,2013-11-21,20482.96,1993-01-23
+0349,Damiani Leonardo,leonardo.damiani@azienda.it,Marketing,Napoli,Tempo Indeterminato,2009-10-15,29720.45,1975-02-23
+0350,Russo Giulia,giulia.russo@azienda.it,Servizio Clienti,Venezia,Tempo Indeterminato,2014-06-22,35774.87,1996-02-19
+0351,Leone Chiara,chiara.leone@azienda.it,Logistica,Torino,Tempo Indeterminato,2007-04-26,27002.34,1971-02-25
+0352,Riva Edoardo,edoardo.riva@azienda.it,Risorse Umane,Torino,Tempo Indeterminato,2018-09-09,54019.60,1994-02-27
+0353,Basile Giacomo,giacomo.basile@azienda.it,Finanza,Bologna,Collaborazione,2018-10-26,27304.61,1968-11-21
+0354,Costa Dario,dario.costa@azienda.it,Amministrazione,Padova,Apprendistato,2014-08-19,20000.00,1979-02-09
+0355,Serra Ilaria,ilaria.serra@azienda.it,Controllo Qualità,Torino,Tempo Determinato,2017-05-31,22129.18,1977-10-13
+0356,D'Angelo Raffaele,raffaele.dangelo@azienda.it,Finanza,Modena,Tempo Determinato,2021-10-10,25524.79,1982-07-29
+0357,Silvestri Fabio,fabio.silvestri@azienda.it,Logistica,Napoli,Tempo Determinato,2016-03-16,32517.97,1965-07-17
+0358,Valentini Simone,simone.valentini@azienda.it,Comunicazione,Cagliari,Collaborazione,2013-03-13,32072.30,1989-07-05
+0359,Cattaneo Nadia,nadia.cattaneo@azienda.it,Acquisti,Torino,Tempo Indeterminato,2018-03-05,42106.68,1966-10-15
+0361,Carbone Viviana,viviana.carbone@azienda.it,Legale,Bergamo,Tempo Determinato,2011-03-24,38510.58,1974-02-12
+0362,Villa Francesco,francesco.villa@azienda.it,Logistica,Cagliari,Tempo Indeterminato,2011-12-16,37034.60,1996-05-05
+0363,Gentile Valentina,valentina.gentile@azienda.it,Marketing,Trieste,Tempo Indeterminato,2015-03-04,32438.80,1994-11-18
+0364,Russo Alessia,alessia.russo@azienda.it,Servizio Clienti,Bologna,Tempo Indeterminato,2008-09-04,32818.17,1987-04-09
+0365,Basile Tommaso,tommaso.basile@azienda.it,IT,Firenze,Apprendistato,2007-11-06,34971.43,1997-11-17
+0366,Pellegrini Emanuele,emanuele.pellegrini@azienda.it,IT,Modena,Tempo Indeterminato,2010-11-25,20000.00,1996-12-14
+0367,Rizzi Sofia,sofia.rizzi@azienda.it,Legale,Verona,Tempo Indeterminato,2016-03-16,38833.09,1972-01-22
+0368,Riva Angela,angela.riva@azienda.it,Servizio Clienti,Napoli,Tempo Determinato,2021-08-13,30328.46,1987-10-29
+0369,Gentile Giulia,giulia.gentile@azienda.it,Vendite,Parma,Apprendistato,2013-08-04,40507.40,1966-08-03
+0370,Villa Riccardo,riccardo.villa@azienda.it,Finanza,Trieste,Apprendistato,2011-02-01,31982.48,2002-01-20
+0371,Mazza Alessia,alessia.mazza@azienda.it,Controllo Qualità,Roma,Tempo Determinato,2010-01-03,44452.81,1982-12-26
+0372,Montanari Daniele,daniele.montanari@azienda.it,Comunicazione,Catania,Apprendistato,2006-12-09,20000.00,1989-10-23
+0373,Caruso Serena,serena.caruso@azienda.it,IT,Cagliari,Apprendistato,2021-08-03,26991.47,1991-07-18
+0374,Giuliani Marina,marina.giuliani@azienda.it,Acquisti,Palermo,Tempo Determinato,2005-02-22,27217.95,1983-05-25
+0376,Ferrara Martina,martina.ferrara@azienda.it,Legale,Palermo,Collaborazione,2016-01-14,25298.85,1967-09-09
+0377,Romano Elisa,elisa.romano@azienda.it,Finanza,Modena,Collaborazione,2020-09-20,43775.96,1998-07-20
+0378,Rizzo Luigi,luigi.rizzo@azienda.it,Controllo Qualità,Padova,Tempo Indeterminato,2018-04-11,28243.56,1990-06-22
+0379,Giordano Raffaele,raffaele.giordano@azienda.it,Finanza,Catania,Apprendistato,2012-01-25,43931.98,2002-04-26
+0380,Farina Filippo,filippo.farina@azienda.it,IT,Palermo,Tempo Indeterminato,2009-07-19,30522.34,1971-02-09
+0381,De Luca Anna,anna.deluca@azienda.it,Risorse Umane,Brescia,Collaborazione,2012-01-17,24685.76,1999-07-23
+0382,Monti Cristina,cristina.monti@azienda.it,IT,Napoli,Tempo Indeterminato,2008-07-15,41867.17,2001-03-24
+0383,Piras Valerio,valerio.piras@azienda.it,Amministrazione,Roma,Tempo Determinato,2012-05-09,44397.21,1980-12-16
+0384,Riva Andrea,andrea.riva@azienda.it,IT,Bari,Tempo Determinato,2005-09-12,47651.77,1983-02-21
+0385,De Rosa Irene,irene.derosa@azienda.it,Legale,Palermo,Tempo Indeterminato,2015-05-14,49250.44,1970-06-13
+0386,Martini Cinzia,cinzia.martini@azienda.it,Risorse Umane,Genova,Collaborazione,2013-05-08,45616.79,1995-10-15
+0387,Giorgi Bruno,bruno.giorgi@azienda.it,IT,Torino,Tempo Indeterminato,2006-06-13,39646.61,2001-04-21
+0388,Costa Emanuele,emanuele.costa@azienda.it,Vendite,Brescia,Tempo Indeterminato,2008-10-08,48641.60,1990-09-29
+0389,Esposito Sofia,sofia.esposito@azienda.it,Logistica,Trieste,Tempo Determinato,2012-12-09,36415.51,1977-07-22
+0390,Sorrentino Alessandro,alessandro.sorrentino@azienda.it,Amministrazione,Bergamo,Tempo Determinato,2019-07-09,41280.00,1978-03-29
+0391,Morelli Diego,diego.morelli@azienda.it,Vendite,Torino,Apprendistato,2013-08-04,39340.44,2000-10-05
+0392,Giuliani Mirko,mirko.giuliani2@azienda.it,Acquisti,Milano,Collaborazione,2022-07-16,40064.96,1996-12-31
+0393,Amato Camilla,camilla.amato@azienda.it,Produzione,Cagliari,Apprendistato,2013-09-17,34705.72,1991-10-15
+0394,Serra Cinzia,cinzia.serra@azienda.it,Vendite,Parma,Apprendistato,2022-03-14,37279.28,1991-03-14
+0395,Gentile Federico,federico.gentile@azienda.it,Controllo Qualità,Palermo,Apprendistato,2016-12-20,44031.51,1967-07-06
+0396,Valentini Angela,angela.valentini@azienda.it,Produzione,Firenze,Tempo Determinato,2010-04-22,20000.00,1991-07-31
+0397,Esposito Teresa,teresa.esposito@azienda.it,Servizio Clienti,Verona,Tempo Determinato,2017-08-18,53044.56,2001-05-09
+0398,Amato Stefano,stefano.amato@azienda.it,Vendite,Torino,Tempo Indeterminato,2010-03-21,28931.77,1991-12-28
+0399,Morelli Lisa,lisa.morelli@azienda.it,Vendite,Venezia,Tempo Determinato,2007-12-05,31625.56,2000-12-29
+0400,Ferrari Valentina,valentina.ferrari@azienda.it,Risorse Umane,Cagliari,Tempo Determinato,2022-05-15,40261.63,1969-12-23
+0401,Greco Alberto,alberto.greco@azienda.it,Produzione,Padova,Tempo Indeterminato,2012-07-20,33269.10,1972-01-25
+0402,Amato Viviana,viviana.amato@azienda.it,Controllo Qualità,Venezia,Tempo Determinato,2020-11-11,40132.75,1990-03-18
+0403,Guerra Riccardo,riccardo.guerra@azienda.it,Amministrazione,Firenze,Collaborazione,2011-11-19,34161.40,1972-12-21
+0404,Bernardi Sabrina,sabrina.bernardi@azienda.it,Logistica,Cagliari,Tempo Indeterminato,2009-01-31,26689.08,1992-01-09
+0405,Palmieri Viviana,viviana.palmieri@azienda.it,Marketing,Parma,Tempo Determinato,2012-06-05,34784.31,1979-05-02
+0406,Guerra Valerio,valerio.guerra@azienda.it,Controllo Qualità,Venezia,Collaborazione,2005-04-04,27630.19,1976-11-24
+0407,Marino Tiziano,tiziano.marino@azienda.it,Produzione,Bari,Tempo Indeterminato,2021-02-27,44875.49,1997-11-11
+0408,Silvestri Vincenzo,vincenzo.silvestri@azienda.it,Logistica,Verona,Collaborazione,2007-04-11,35079.50,2002-03-07
+0409,Farina Giuseppe,giuseppe.farina@azienda.it,Marketing,Roma,Apprendistato,2005-06-14,24699.26,1968-04-30
+0410,Barbieri Claudio,claudio.barbieri@azienda.it,Servizio Clienti,Torino,Tempo Indeterminato,2012-07-31,57356.27,1991-08-25
+0411,Esposito Valerio,valerio.esposito@azienda.it,Logistica,Firenze,Collaborazione,2008-07-10,43464.91,1973-07-10
+0412,Coppola Raffaele,raffaele.coppola@azienda.it,IT,Palermo,Tempo Indeterminato,2006-02-11,37961.06,1982-08-17
+0413,Colombo Anna,anna.colombo@azienda.it,Produzione,Milano,Collaborazione,2006-12-19,30930.70,1991-12-04
+0414,Esposito Federico,federico.esposito@azienda.it,Finanza,Firenze,Apprendistato,2006-11-03,49156.08,1986-03-30
+0415,Messina Cristina,cristina.messina2@azienda.it,Ricerca e Sviluppo,Parma,Apprendistato,2007-01-17,28778.11,1981-08-23
+0416,Farina Elena,elena.farina@azienda.it,Vendite,Bari,Collaborazione,2015-06-07,27296.87,1976-10-25
+0417,Ricci Sergio,sergio.ricci@azienda.it,Risorse Umane,Napoli,Tempo Indeterminato,2019-12-27,28059.64,1998-12-07
+0418,Ricci Diego,diego.ricci@azienda.it,Comunicazione,Padova,Collaborazione,2017-01-04,45381.14,1995-10-27
+0419,Longo Angela,angela.longo@azienda.it,Ricerca e Sviluppo,Catania,Tempo Indeterminato,2013-11-09,47966.57,1987-07-11
+0420,Riva Angela,angela.riva2@azienda.it,Amministrazione,Bologna,Tempo Indeterminato,2021-12-25,25920.64,1985-02-22
+0421,Rinaldi Federica,federica.rinaldi@azienda.it,Risorse Umane,Roma,Collaborazione,2006-10-04,45663.32,2001-11-24
+0422,Vitale Elia,elia.vitale@azienda.it,Produzione,Torino,Tempo Indeterminato,2013-09-15,34213.34,1989-12-16
+0423,Grassi Barbara,barbara.grassi@azienda.it,Ricerca e Sviluppo,Milano,Collaborazione,2007-07-11,30134.91,1991-05-17
+0424,Palmieri Martina,martina.palmieri@azienda.it,Acquisti,Napoli,Apprendistato,2017-01-05,37900.26,1980-06-04
+0425,Damiani Paola,paola.damiani@azienda.it,Ricerca e Sviluppo,Cagliari,Collaborazione,2005-11-03,39769.56,1992-09-25
+0426,Messina Alessandro,alessandro.messina@azienda.it,Produzione,Palermo,Tempo Indeterminato,2021-09-23,43967.18,1986-04-26
+0427,Ferraro Luca,luca.ferraro@azienda.it,Comunicazione,Catania,Apprendistato,2011-04-16,45888.24,1995-09-21
+0428,D'Angelo Giorgia,giorgia.dangelo@azienda.it,Servizio Clienti,Brescia,Apprendistato,2011-01-17,20000.00,1997-09-10
+0429,Sanna Giovanni,giovanni.sanna@azienda.it,Finanza,Trieste,Collaborazione,2022-01-13,25374.56,1967-07-10
+0430,Marchetti Matteo,matteo.marchetti@azienda.it,Servizio Clienti,Modena,Collaborazione,2008-01-17,33998.43,2000-01-05
+0431,Esposito Sergio,sergio.esposito@azienda.it,Risorse Umane,Genova,Tempo Determinato,2006-04-18,35035.37,1981-03-02
+0432,Marini Barbara,barbara.marini@azienda.it,Comunicazione,Brescia,Collaborazione,2019-04-03,46041.96,1970-07-23
+0433,Marini Fabio,fabio.marini@azienda.it,Ricerca e Sviluppo,Bergamo,Collaborazione,2008-12-25,45997.88,1989-09-25
+0434,Vitale Giuseppe,giuseppe.vitale@azienda.it,Servizio Clienti,Torino,Apprendistato,2005-08-13,32214.52,1982-05-05
+0435,Montanari Angela,angela.montanari@azienda.it,Finanza,Palermo,Tempo Determinato,2020-03-14,38899.46,1988-01-10
+0436,Giordano Carlo,carlo.giordano@azienda.it,Controllo Qualità,Firenze,Tempo Indeterminato,2010-01-08,48988.13,1976-04-28
+0437,Rossetti Gloria,gloria.rossetti@azienda.it,Controllo Qualità,Bari,Collaborazione,2013-06-12,41604.36,1974-10-16
+0438,Grassi Umberto,umberto.grassi@azienda.it,Comunicazione,Bergamo,Collaborazione,2018-02-10,26097.82,1969-08-04
+0439,Marini Raffaele,raffaele.marini@azienda.it,Legale,Bergamo,Apprendistato,2011-09-12,30407.78,1980-02-01
+0440,Vitale Barbara,barbara.vitale@azienda.it,Controllo Qualità,Catania,Tempo Determinato,2008-05-13,24494.45,1988-03-16
+0441,Ruggiero Valentina,valentina.ruggiero@azienda.it,Logistica,Venezia,Tempo Determinato,2021-03-06,46579.80,1978-04-06
+0442,Valentini Michela,michela.valentini@azienda.it,Servizio Clienti,Roma,Tempo Determinato,2012-09-12,36868.03,1997-08-04
+0443,Carbone Rosa,rosa.carbone@azienda.it,Controllo Qualità,Parma,Apprendistato,2016-05-18,33106.56,1994-07-02
+0444,Conti Veronica,veronica.conti2@azienda.it,Ricerca e Sviluppo,Bologna,Apprendistato,2021-04-07,40803.24,2001-04-05
+0445,Conte Rosa,rosa.conte@azienda.it,Controllo Qualità,Torino,Tempo Determinato,2012-12-20,38378.56,1983-11-12
+0446,Vitale Serena,serena.vitale@azienda.it,Amministrazione,Catania,Collaborazione,2007-08-23,54971.11,1986-02-09
+0447,Rinaldi Carlo,carlo.rinaldi@azienda.it,Legale,Napoli,Collaborazione,2016-11-19,34002.55,2003-04-27
+0448,Ferraro Silvia,silvia.ferraro@azienda.it,Logistica,Cagliari,Collaborazione,2008-03-19,38181.31,1979-03-12
+0449,Bruno Cinzia,cinzia.bruno@azienda.it,Ricerca e Sviluppo,Venezia,Tempo Determinato,2012-01-12,34354.86,1977-04-09
+0450,Marchese Angela,angela.marchese@azienda.it,Risorse Umane,Parma,Tempo Indeterminato,2007-11-27,34272.86,1992-07-25
+0451,Pellegrini Michela,michela.pellegrini@azienda.it,Ricerca e Sviluppo,Padova,Tempo Indeterminato,2005-11-06,20000.00,1965-08-19
+0452,Ferrari Giovanni,giovanni.ferrari2@azienda.it,Controllo Qualità,Milano,Tempo Determinato,2010-01-28,31587.66,1996-02-10
+0453,De Luca Simone,simone.deluca@azienda.it,Logistica,Modena,Apprendistato,2008-09-30,37805.49,1978-01-17
+0454,Pellegrino Elia,elia.pellegrino@azienda.it,Produzione,Trieste,Tempo Determinato,2012-09-08,36220.05,1986-12-28
+0455,Sala Laura,laura.sala@azienda.it,Vendite,Palermo,Tempo Determinato,2021-04-23,41857.04,1965-12-26
+0456,Costa Laura,laura.costa@azienda.it,Produzione,Roma,Collaborazione,2019-05-13,34346.58,1976-06-22
+0457,Colombo Manuela,manuela.colombo@azienda.it,Amministrazione,Roma,Tempo Indeterminato,2019-08-30,36619.65,1970-03-13
+0458,Costa Claudio,claudio.costa@azienda.it,Legale,Bari,Collaborazione,2020-09-28,32304.79,1971-11-14
+0459,Gatti Massimo,massimo.gatti@azienda.it,Controllo Qualità,Napoli,Apprendistato,2018-12-20,30721.23,2002-04-06
+0460,Neri Alfredo,alfredo.neri@azienda.it,Marketing,Catania,Tempo Indeterminato,2022-08-08,31653.64,1969-10-08
+0461,Caruso Erika,erika.caruso@azienda.it,Acquisti,Bari,Tempo Determinato,2013-01-11,32586.80,1966-10-08
+0462,Negri Antonio,antonio.negri@azienda.it,Ricerca e Sviluppo,Venezia,Tempo Determinato,2005-01-23,26988.28,1965-07-28
+0463,Bernardi Davide,davide.bernardi@azienda.it,Controllo Qualità,Parma,Tempo Determinato,2007-01-08,35728.61,1997-06-17
+0464,Leone Edoardo,edoardo.leone@azienda.it,Ricerca e Sviluppo,Catania,Apprendistato,2015-06-01,31117.75,1967-04-01
+0465,De Santis Sara,sara.desantis@azienda.it,Produzione,Venezia,Collaborazione,2021-07-26,49570.03,1967-01-22
+0466,Orlando Raffaele,raffaele.orlando@azienda.it,Risorse Umane,Venezia,Apprendistato,2014-10-26,47992.55,1992-11-22
+0467,Ferraro Serena,serena.ferraro@azienda.it,Risorse Umane,Napoli,Collaborazione,2013-12-23,42742.93,1982-04-21
+0468,Damiani Jessica,jessica.damiani2@azienda.it,Acquisti,Firenze,Tempo Indeterminato,2007-12-22,33131.30,1996-03-25
+0469,De Luca Giuseppe,giuseppe.deluca@azienda.it,Logistica,Cagliari,Collaborazione,2017-10-05,32249.57,1982-01-13
+0470,Esposito Adriano,adriano.esposito@azienda.it,Comunicazione,Bologna,Collaborazione,2015-12-13,29305.00,1970-01-25
+0471,Marino Sara,sara.marino@azienda.it,IT,Venezia,Tempo Indeterminato,2020-10-20,43257.03,1998-05-11
+0472,Ferraro Lucia,lucia.ferraro@azienda.it,Legale,Modena,Tempo Indeterminato,2014-09-16,26020.42,1994-09-07
+0473,Ferri Noemi,noemi.ferri@azienda.it,Controllo Qualità,Padova,Tempo Determinato,2017-07-10,45728.69,1965-07-10
+0474,Cattaneo Luigi,luigi.cattaneo@azienda.it,Comunicazione,Parma,Tempo Determinato,2006-09-06,26356.10,1998-09-16
+0475,Conte Fabio,fabio.conte@azienda.it,IT,Roma,Tempo Determinato,2017-05-07,28687.27,1975-07-18
+0476,Bernardi Pietro,pietro.bernardi@azienda.it,Ricerca e Sviluppo,Torino,Collaborazione,2015-01-11,27036.97,1979-03-07
+0477,Damiani Daniela,daniela.damiani@azienda.it,Vendite,Napoli,Collaborazione,2014-04-01,47302.94,2002-01-18
+0478,Barone Greta,greta.barone@azienda.it,Finanza,Brescia,Apprendistato,2013-02-24,37817.64,2002-01-08
+0479,Conte Salvatore,salvatore.conte@azienda.it,Legale,Bergamo,Collaborazione,2021-01-27,26262.10,1970-02-12
+0480,Ferraro Marco,marco.ferraro@azienda.it,Produzione,Catania,Apprendistato,2020-09-30,21758.24,1969-10-08
+0481,Rizzo Sofia,sofia.rizzo@azienda.it,Comunicazione,Trieste,Tempo Indeterminato,2010-09-15,30056.07,2003-03-25
+0482,Rinaldi Salvatore,salvatore.rinaldi@azienda.it,Servizio Clienti,Venezia,Tempo Indeterminato,2021-12-25,30865.26,1983-08-05
+0483,Farina Omar,omar.farina@azienda.it,Ricerca e Sviluppo,Cagliari,Tempo Determinato,2016-03-10,51319.48,1989-10-26
+0484,Montanari Greta,greta.montanari@azienda.it,Risorse Umane,Cagliari,Tempo Determinato,2021-05-21,35444.88,2001-07-27
+0485,Pagano Paola,paola.pagano@azienda.it,Amministrazione,Bergamo,Apprendistato,2016-04-22,42654.68,1992-04-26
+0486,Messina Barbara,barbara.messina@azienda.it,Produzione,Catania,Collaborazione,2007-12-29,27936.61,1971-03-14
+0487,Piras Massimo,massimo.piras@azienda.it,Legale,Venezia,Tempo Determinato,2009-07-04,38964.69,1995-10-20
+0488,Damiani Valerio,valerio.damiani@azienda.it,Risorse Umane,Modena,Apprendistato,2020-12-07,50326.55,1970-03-06
+0489,Morelli Irene,irene.morelli@azienda.it,Amministrazione,Cagliari,Collaborazione,2020-02-15,34743.03,1977-10-29
+0490,Grassi Giulia,giulia.grassi@azienda.it,Marketing,Milano,Collaborazione,2008-04-05,20000.00,1967-05-20
+0491,Lombardo Silvia,silvia.lombardo@azienda.it,Acquisti,Firenze,Apprendistato,2020-04-30,34932.59,1995-12-24
+0492,Graziano Antonio,antonio.graziano@azienda.it,Legale,Roma,Apprendistato,2015-02-25,54124.34,1969-08-07
+0493,Orlando Daniela,daniela.orlando@azienda.it,Legale,Padova,Tempo Determinato,2016-06-17,38830.49,1977-11-26
+0494,Valentini Claudio,claudio.valentini@azienda.it,Logistica,Venezia,Tempo Indeterminato,2005-04-17,20000.00,1998-05-12
+0495,Montanari Manuela,manuela.montanari@azienda.it,Comunicazione,Brescia,Tempo Determinato,2019-03-20,30938.06,1998-11-15
+0496,Basile Cinzia,cinzia.basile@azienda.it,Finanza,Catania,Collaborazione,2008-12-24,21139.38,1995-08-16
+0497,Caputo Stefano,stefano.caputo@azienda.it,Legale,Napoli,Collaborazione,2005-11-29,23511.56,1970-11-02
+0498,Conte Marco,marco.conte@azienda.it,Ricerca e Sviluppo,Bologna,Tempo Indeterminato,2008-06-13,40538.20,1979-06-22
+0499,D'Amico Cinzia,cinzia.damico@azienda.it,Amministrazione,Catania,Collaborazione,2022-09-19,26548.83,2000-03-03
+0500,Martini Lisa,lisa.martini@azienda.it,Risorse Umane,Modena,Tempo Indeterminato,2022-08-21,30848.16,1987-08-30
+0501,Carbone Camilla,camilla.carbone@azienda.it,Logistica,Torino,Apprendistato,2009-12-18,45969.61,1979-11-08
+0503,Guerra Davide,davide.guerra@azienda.it,Produzione,Brescia,Tempo Determinato,2019-05-29,24474.26,1966-10-16
+0505,Testa Greta,greta.testa@azienda.it,Ricerca e Sviluppo,Parma,Tempo Indeterminato,2011-08-26,40248.79,1988-01-20
+0506,Valenti Laura,laura.valenti@azienda.it,Legale,Perugia,Tempo Indeterminato,2019-01-23,31099.26,1967-12-09
+0507,Pellegrini Rosa,rosa.pellegrini2@azienda.it,Comunicazione,Napoli,Tempo Determinato,2017-01-23,44752.27,1998-04-04
+0508,Greco Edoardo,edoardo.greco@azienda.it,Servizio Clienti,Bologna,Tempo Indeterminato,2015-04-20,20000.00,1997-02-27
+0509,Greco Elisa,elisa.greco@azienda.it,Vendite,Firenze,Apprendistato,2017-07-08,51778.72,1976-08-08
+0510,D'Amico Marta,marta.damico@azienda.it,Logistica,Trieste,Apprendistato,2005-05-19,42952.47,1982-06-22
+0511,Rossi Francesco,francesco.rossi@azienda.it,Controllo Qualità,Bergamo,Tempo Indeterminato,2021-12-15,34922.35,2003-01-19
+0512,De Luca Luigi,luigi.deluca@azienda.it,IT,Catania,Tempo Indeterminato,2011-04-26,31948.60,1999-05-01
+0513,Pagano Enrico,enrico.pagano@azienda.it,Vendite,Parma,Tempo Determinato,2016-12-19,38119.29,2000-09-28
+0514,Lombardi Viviana,viviana.lombardi@azienda.it,IT,Verona,Tempo Indeterminato,2017-06-01,51277.25,1989-11-25
+0515,Rossi Sara,sara.rossi2@azienda.it,Amministrazione,Bergamo,Collaborazione,2017-01-18,30968.39,1974-06-04
+0517,Mancini Giovanni,giovanni.mancini@azienda.it,Risorse Umane,Cagliari,Tempo Indeterminato,2021-11-05,64294.95,1985-09-10
+0520,Sorrentino Emanuele,emanuele.sorrentino@azienda.it,Controllo Qualità,Catania,Tempo Determinato,2017-09-08,20353.74,1990-06-06
+0521,Fontana Leonardo,leonardo.fontana@azienda.it,Vendite,Venezia,Tempo Determinato,2022-08-16,37920.18,1984-07-25
+0522,Riva Giorgia,giorgia.riva@azienda.it,Servizio Clienti,Venezia,Collaborazione,2015-05-20,51147.63,1984-12-23
+0523,Benedetti Giorgio,giorgio.benedetti@azienda.it,Marketing,Firenze,Tempo Indeterminato,2011-04-18,38466.58,1989-02-28
+0524,D'Amico Marina,marina.damico@azienda.it,Marketing,Torino,Tempo Indeterminato,2016-05-17,30739.98,1993-05-02
+0525,Giorgi Omar,omar.giorgi@azienda.it,Finanza,Roma,Apprendistato,2017-03-11,44793.75,1994-05-02
+0526,Messina Alberto,alberto.messina@azienda.it,Finanza,Cagliari,Apprendistato,2008-01-02,27302.74,1985-11-05
+0527,Messina Elisa,elisa.messina3@azienda.it,Produzione,Modena,Tempo Indeterminato,2019-11-12,36799.95,1992-07-18
+0528,Testa Dario,dario.testa@azienda.it,Risorse Umane,Brescia,Tempo Determinato,2009-01-07,60721.76,1990-05-29
+0529,Battaglia Renato,renato.battaglia@azienda.it,Ricerca e Sviluppo,Verona,Tempo Indeterminato,2009-11-28,35522.97,1976-11-10
+0530,Guerra Sara,sara.guerra@azienda.it,Finanza,Modena,Apprendistato,2013-09-15,27757.45,1986-01-26
+0531,Damiani Sara,sara.damiani@azienda.it,Produzione,Napoli,Apprendistato,2021-08-22,33952.19,1972-10-19
+0532,Giorgi Alberto,alberto.giorgi@azienda.it,Controllo Qualità,Torino,Apprendistato,2013-06-10,47494.33,1974-12-31
+0533,Ferri Beatrice,beatrice.ferri@azienda.it,Ricerca e Sviluppo,Parma,Tempo Indeterminato,2016-04-04,42942.34,1975-04-27
+0534,Serra Edoardo,edoardo.serra@azienda.it,Finanza,Bologna,Tempo Determinato,2008-07-13,27730.42,1981-04-01
+0535,Leone Raffaele,raffaele.leone@azienda.it,Logistica,Venezia,Tempo Indeterminato,2015-10-20,29830.25,1991-07-03
+0536,Gentile Luca,luca.gentile@azienda.it,Vendite,Bologna,Tempo Determinato,2008-01-09,24817.52,1993-03-29
+0537,Lombardi Angela,angela.lombardi@azienda.it,Vendite,Firenze,Apprendistato,2009-01-14,24858.03,1990-04-14
+0538,Battaglia Alfredo,alfredo.battaglia@azienda.it,Controllo Qualità,Catania,Tempo Indeterminato,2009-11-10,33935.71,1985-02-24
+0539,Fontana Noemi,noemi.fontana@azienda.it,Finanza,Trieste,Tempo Determinato,2018-01-26,37714.23,1994-08-04
+0540,Basile Laura,laura.basile@azienda.it,Controllo Qualità,Venezia,Collaborazione,2018-05-19,29274.34,1991-06-30
+0541,Valentini Claudio,claudio.valentini2@azienda.it,Risorse Umane,Napoli,Tempo Indeterminato,2009-07-16,20000.00,1995-09-13
+0542,Conti Erika,erika.conti@azienda.it,Risorse Umane,Parma,Tempo Indeterminato,2022-08-01,31883.80,1988-11-02
+0543,Morelli Elisa,elisa.morelli@azienda.it,Controllo Qualità,Bologna,Tempo Indeterminato,2022-05-19,30388.05,1983-11-15
+0546,Ruggiero Daniele,daniele.ruggiero@azienda.it,Legale,Trieste,Apprendistato,2009-03-29,43489.28,1965-03-31
+0547,Grassi Angela,angela.grassi@azienda.it,Marketing,Modena,Tempo Indeterminato,2013-05-31,26387.88,1979-03-04
+0548,Moretti Martina,martina.moretti@azienda.it,Logistica,Cagliari,Apprendistato,2010-11-11,22405.07,1989-01-18
+0549,Serra Adriano,adriano.serra@azienda.it,Controllo Qualità,Padova,Tempo Determinato,2014-04-09,22907.58,1973-01-07
+0550,Marchetti Paolo,paolo.marchetti@azienda.it,Amministrazione,Verona,Collaborazione,2021-07-03,30893.34,1971-03-13
+0551,Leone Daniela,daniela.leone@azienda.it,Ricerca e Sviluppo,Firenze,Tempo Indeterminato,2009-10-23,20000.00,2000-12-04
+0552,Valentini Giuseppe,giuseppe.valentini@azienda.it,Controllo Qualità,Milano,Tempo Indeterminato,2008-04-05,34079.74,1986-02-27
+0553,Marino Elisa,elisa.marino@azienda.it,IT,Palermo,Apprendistato,2006-10-18,22565.59,1982-12-22
+0554,Fiore Daniele,daniele.fiore@azienda.it,Amministrazione,Roma,Tempo Determinato,2019-05-13,24840.52,1987-03-06
+0555,Pagano Silvia,silvia.pagano@azienda.it,Acquisti,Modena,Apprendistato,2009-05-15,48227.81,1988-02-21
+0556,Fontana Adriano,adriano.fontana@azienda.it,Controllo Qualità,Roma,Apprendistato,2010-05-14,37835.64,1994-05-20
+0557,Serra Elisa,elisa.serra@azienda.it,Acquisti,Padova,Apprendistato,2020-01-08,24497.69,1988-03-23
+0558,Benedetti Elisa,elisa.benedetti@azienda.it,IT,Perugia,Apprendistato,2012-10-17,43131.31,2001-08-01
+0559,Rinaldi Erika,erika.rinaldi@azienda.it,Ricerca e Sviluppo,Padova,Tempo Indeterminato,2010-11-09,40391.21,1990-01-22
+0560,Ferraro Veronica,veronica.ferraro@azienda.it,Marketing,Modena,Apprendistato,2017-01-24,45586.56,2001-06-23
+0561,Sanna Tiziano,tiziano.sanna@azienda.it,Logistica,Cagliari,Collaborazione,2022-04-09,35384.94,1999-10-17
+0562,Esposito Teresa,teresa.esposito2@azienda.it,Ricerca e Sviluppo,Napoli,Apprendistato,2006-07-08,44102.31,1982-03-02
+0563,Piras Umberto,umberto.piras@azienda.it,Finanza,Venezia,Collaborazione,2012-12-02,33609.60,2002-05-01
+0564,Gallo Daniele,daniele.gallo@azienda.it,Logistica,Venezia,Tempo Indeterminato,2017-06-09,34855.30,1973-01-03
+0565,Galli Beatrice,beatrice.galli@azienda.it,Amministrazione,Bari,Tempo Determinato,2021-09-26,26047.14,1987-05-21
+0566,Caputo Fabio,fabio.caputo@azienda.it,Finanza,Bari,Tempo Determinato,2010-02-21,20000.00,1974-02-05
+0567,Fabbri Manuela,manuela.fabbri@azienda.it,Risorse Umane,Napoli,Tempo Indeterminato,2006-10-05,28367.38,1992-07-14
+0568,Marini Noemi,noemi.marini@azienda.it,Amministrazione,Venezia,Collaborazione,2017-11-20,21816.88,1977-04-29
+0569,Testa Nadia,nadia.testa@azienda.it,IT,Padova,Tempo Determinato,2021-10-29,32042.95,2000-11-08
+0570,Bianchi Camilla,camilla.bianchi2@azienda.it,Legale,Verona,Collaborazione,2020-05-24,33454.13,1999-10-22
+0571,Piras Alessia,alessia.piras@azienda.it,Legale,Brescia,Apprendistato,2020-06-17,49953.53,1982-01-08
+0572,Bianco Alice,alice.bianco@azienda.it,Amministrazione,Bari,Tempo Determinato,2017-04-21,35791.72,1976-10-16
+0573,Sorrentino Carlo,carlo.sorrentino@azienda.it,Produzione,Verona,Tempo Determinato,2016-03-09,25744.93,1998-09-28
+0575,Lombardo Alfredo,alfredo.lombardo@azienda.it,Acquisti,Palermo,Collaborazione,2013-07-18,40964.82,1998-02-17
+0576,Santoro Giulia,giulia.santoro@azienda.it,Logistica,Parma,Tempo Determinato,2019-02-23,51921.76,1988-03-11
+0577,D'Angelo Giorgio,giorgio.dangelo@azienda.it,IT,Perugia,Tempo Indeterminato,2013-12-08,39854.18,1974-09-01
+0578,D'Amico Carlo,carlo.damico@azienda.it,Marketing,Brescia,Apprendistato,2010-10-30,38479.21,1981-03-12
+0579,Ferrari Giacomo,giacomo.ferrari@azienda.it,Logistica,Napoli,Apprendistato,2020-03-30,41482.89,1990-11-01
+0580,Coppola Cinzia,cinzia.coppola@azienda.it,Produzione,Venezia,Collaborazione,2022-05-18,33470.13,1998-01-15
+0581,Sorrentino Claudio,claudio.sorrentino@azienda.it,IT,Brescia,Tempo Determinato,2008-10-04,20420.59,1983-12-04
+0582,Bruno Chiara,chiara.bruno2@azienda.it,Risorse Umane,Venezia,Tempo Determinato,2012-01-13,20000.00,1979-03-20
+0583,Lombardo Valerio,valerio.lombardo@azienda.it,Amministrazione,Padova,Apprendistato,2014-12-24,39570.80,1998-07-20
+0584,De Angelis Marta,marta.deangelis@azienda.it,Risorse Umane,Firenze,Tempo Indeterminato,2007-10-22,20000.00,1997-08-24
+0585,Piras Daniela,daniela.piras@azienda.it,Servizio Clienti,Torino,Tempo Determinato,2008-09-29,31423.68,1986-03-24
+0586,Valenti Francesca,francesca.valenti@azienda.it,Logistica,Modena,Tempo Indeterminato,2007-05-02,37701.18,1976-10-10
+0587,Damiani Lorenzo,lorenzo.damiani@azienda.it,Logistica,Catania,Tempo Determinato,2010-07-20,34157.31,1970-09-03
+0588,Esposito Laura,laura.esposito@azienda.it,Vendite,Verona,Apprendistato,2015-09-06,24211.79,1985-12-16
+0589,Sanna Diego,diego.sanna@azienda.it,Risorse Umane,Perugia,Tempo Determinato,2018-04-03,23450.78,1993-07-10
+0590,Costanzo Lisa,lisa.costanzo@azienda.it,Controllo Qualità,Perugia,Apprendistato,2012-10-15,26873.94,1986-08-10
+0591,Sanna Elisa,elisa.sanna@azienda.it,IT,Verona,Collaborazione,2010-10-30,35813.43,1988-06-23
+0592,Coppola Giacomo,giacomo.coppola@azienda.it,Ricerca e Sviluppo,Perugia,Tempo Indeterminato,2020-06-05,36208.60,1987-01-25
+0593,Russo Massimo,massimo.russo@azienda.it,Acquisti,Trieste,Apprendistato,2018-05-23,35141.74,1981-10-05
+0594,Palumbo Irene,irene.palumbo@azienda.it,Logistica,Palermo,Tempo Determinato,2021-01-13,36195.30,1998-01-24
+0595,Martini Claudio,claudio.martini@azienda.it,IT,Torino,Collaborazione,2019-01-10,36114.61,1992-07-04
+0596,Damiani Daniele,daniele.damiani@azienda.it,Servizio Clienti,Perugia,Apprendistato,2014-04-06,51970.53,1973-06-08
+0597,Rizzo Elena,elena.rizzo@azienda.it,IT,Napoli,Collaborazione,2018-11-09,20151.07,1987-01-26
+0598,Moretti Luca,luca.moretti@azienda.it,Vendite,Perugia,Tempo Indeterminato,2009-03-04,39540.85,1969-08-03
+0599,Fiore Simone,simone.fiore@azienda.it,Ricerca e Sviluppo,Milano,Tempo Determinato,2007-01-09,41816.05,1980-05-03
+0600,Marini Sofia,sofia.marini@azienda.it,Ricerca e Sviluppo,Roma,Apprendistato,2006-10-20,44466.74,2002-11-03
+0601,Lombardo Valentina,valentina.lombardo@azienda.it,Acquisti,Padova,Tempo Indeterminato,2017-03-08,28581.13,2002-10-01
+0602,Costa Giulia,giulia.costa@azienda.it,Acquisti,Palermo,Collaborazione,2022-04-19,36218.33,1984-11-14
+0603,Rizzi Silvia,silvia.rizzi@azienda.it,Servizio Clienti,Napoli,Tempo Determinato,2015-08-10,20000.00,1979-06-30
+0604,Benedetti Daniela,daniela.benedetti@azienda.it,Legale,Napoli,Apprendistato,2015-10-18,51358.42,1993-08-23
+0605,Colombo Alberto,alberto.colombo@azienda.it,Comunicazione,Genova,Tempo Indeterminato,2010-04-18,29055.30,1972-07-05
+0606,Costa Bruno,bruno.costa@azienda.it,Logistica,Palermo,Tempo Indeterminato,2005-12-11,28433.04,1991-01-25
+0607,Ruggiero Tiziano,tiziano.ruggiero@azienda.it,Risorse Umane,Verona,Tempo Indeterminato,2010-07-31,37399.28,1992-10-01
+0608,Fabbri Valentina,valentina.fabbri@azienda.it,Controllo Qualità,Bologna,Tempo Indeterminato,2007-10-28,38662.50,1986-11-19
+0609,Orlando Irene,irene.orlando@azienda.it,Acquisti,Verona,Collaborazione,2021-06-12,40362.44,1981-01-25
+0610,Romano Paolo,paolo.romano@azienda.it,Ricerca e Sviluppo,Brescia,Apprendistato,2017-03-05,49317.74,1996-04-08
+0611,Mariani Sergio,sergio.mariani@azienda.it,Legale,Verona,Apprendistato,2021-06-05,20000.00,1991-11-09
+0613,Montanari Marco,marco.montanari@azienda.it,Controllo Qualità,Modena,Collaborazione,2021-06-16,35766.09,1981-05-02
+0614,Basile Alice,alice.basile@azienda.it,Marketing,Perugia,Collaborazione,2009-04-05,36786.77,1988-07-05
+0615,Benedetti Omar,omar.benedetti@azienda.it,Risorse Umane,Bergamo,Apprendistato,2012-03-27,27561.89,1969-04-27
+0616,Giordano Sara,sara.giordano@azienda.it,Risorse Umane,Roma,Tempo Determinato,2007-05-27,39733.20,1986-10-10
+0617,Bernardi Alessandro,alessandro.bernardi@azienda.it,Controllo Qualità,Padova,Collaborazione,2016-10-17,25492.76,1967-03-16
+0618,Fiore Erika,erika.fiore@azienda.it,Marketing,Milano,Tempo Determinato,2019-09-16,25614.97,1987-01-17
+0619,Costanzo Debora,debora.costanzo@azienda.it,Vendite,Verona,Collaborazione,2013-04-12,35951.30,1992-09-03
+0620,Battaglia Sara,sara.battaglia@azienda.it,Marketing,Catania,Tempo Indeterminato,2009-11-04,31667.02,1988-04-21
+0621,Leone Alfredo,alfredo.leone@azienda.it,Legale,Padova,Tempo Determinato,2009-05-02,27538.67,1993-01-19
+0622,De Luca Daniela,daniela.deluca@azienda.it,Acquisti,Cagliari,Apprendistato,2020-02-17,33760.89,1985-07-30
+0623,Fontana Martina,martina.fontana@azienda.it,Acquisti,Firenze,Collaborazione,2016-04-27,31933.42,1991-11-30
+0624,Benedetti Filippo,filippo.benedetti@azienda.it,Produzione,Verona,Collaborazione,2022-02-21,40003.30,1993-05-29
+0625,Longo Erika,erika.longo@azienda.it,Amministrazione,Perugia,Tempo Determinato,2013-05-31,37249.45,1976-05-25
+0626,Messina Marta,marta.messina@azienda.it,Vendite,Roma,Apprendistato,2018-05-13,20000.00,1965-09-25
+0627,Rossi Massimo,massimo.rossi@azienda.it,IT,Palermo,Tempo Determinato,2012-01-24,53405.16,1995-12-10
+0628,Testa Diego,diego.testa@azienda.it,Legale,Cagliari,Tempo Determinato,2007-02-12,37525.28,1966-09-11
+0630,Greco Marina,marina.greco@azienda.it,Servizio Clienti,Venezia,Collaborazione,2008-11-17,43444.62,1986-11-26
+0631,Orlando Elia,elia.orlando@azienda.it,IT,Roma,Collaborazione,2006-10-05,39248.16,1980-01-01
+0632,Costa Jessica,jessica.costa@azienda.it,Comunicazione,Palermo,Tempo Indeterminato,2019-03-21,20000.00,1999-11-16
+0633,Marchetti Andrea,andrea.marchetti@azienda.it,Legale,Roma,Apprendistato,2017-02-10,26833.04,1996-04-20
+0634,Riva Andrea,andrea.riva2@azienda.it,Servizio Clienti,Padova,Collaborazione,2021-11-20,31471.15,1991-09-12
+0635,Martini Elisa,elisa.martini@azienda.it,Logistica,Catania,Collaborazione,2008-04-27,37799.63,1990-08-20
+0636,Sala Diego,diego.sala@azienda.it,IT,Torino,Collaborazione,2016-04-03,38064.71,1984-06-28
+0637,Rizzo Nadia,nadia.rizzo@azienda.it,Ricerca e Sviluppo,Perugia,Tempo Determinato,2015-12-11,24699.45,1990-03-05
+0638,Gentile Ilaria,ilaria.gentile@azienda.it,Marketing,Bari,Collaborazione,2012-04-03,42956.93,1995-09-19
+0639,Guerra Davide,davide.guerra2@azienda.it,Logistica,Trieste,Apprendistato,2012-10-24,38357.21,1994-05-27
+0640,Ferri Laura,laura.ferri@azienda.it,Amministrazione,Brescia,Tempo Determinato,2014-11-18,43556.18,1967-01-06
+0641,Donati Silvia,silvia.donati@azienda.it,Produzione,Bologna,Tempo Indeterminato,2007-07-10,34511.84,1992-11-09
+0642,Ferraro Giulia,giulia.ferraro@azienda.it,Servizio Clienti,Napoli,Apprendistato,2015-02-04,27553.33,1986-02-19
+0643,Caputo Antonio,antonio.caputo@azienda.it,Legale,Genova,Tempo Determinato,2017-04-04,27345.68,1986-09-01
+0644,Piras Tiziano,tiziano.piras@azienda.it,Controllo Qualità,Milano,Collaborazione,2018-01-28,33873.02,1994-10-07
+0645,Fontana Paolo,paolo.fontana@azienda.it,Vendite,Catania,Tempo Determinato,2022-09-14,32377.02,1985-11-09
+0646,Valentini Matteo,matteo.valentini@azienda.it,Controllo Qualità,Bari,Apprendistato,2007-06-03,27489.11,1965-11-09
+0647,Grasso Claudia,claudia.grasso@azienda.it,Legale,Napoli,Apprendistato,2015-11-15,43246.73,1973-05-13
+0648,Barone Salvatore,salvatore.barone@azienda.it,Servizio Clienti,Milano,Tempo Indeterminato,2010-07-20,25853.35,1988-09-30
+0649,Messina Giorgio,giorgio.messina@azienda.it,Servizio Clienti,Firenze,Tempo Indeterminato,2012-10-11,31241.09,1978-07-25
+0650,Ricci Barbara,barbara.ricci@azienda.it,Controllo Qualità,Bari,Collaborazione,2005-08-30,26415.78,1989-11-23
+0651,Ferraro Anna,anna.ferraro@azienda.it,Logistica,Bologna,Tempo Indeterminato,2021-05-16,20000.00,1992-06-22
+0652,Longo Jessica,jessica.longo@azienda.it,Amministrazione,Bologna,Collaborazione,2012-01-04,52151.17,1992-02-27
+0653,Giordano Camilla,camilla.giordano@azienda.it,Finanza,Bologna,Tempo Determinato,2008-02-06,29338.34,1988-07-01
+0654,Lombardi Omar,omar.lombardi@azienda.it,Controllo Qualità,Cagliari,Tempo Determinato,2012-02-14,49566.88,1968-01-17
+0655,Costa Alfredo,alfredo.costa@azienda.it,Risorse Umane,Venezia,Tempo Determinato,2021-04-23,43610.64,1983-07-29
+0656,De Rosa Pietro,pietro.derosa@azienda.it,Comunicazione,Bari,Tempo Determinato,2022-06-23,36613.62,1973-06-07
+0657,Esposito Elena,elena.esposito@azienda.it,Acquisti,Bergamo,Apprendistato,2018-08-02,28387.11,1975-06-02
+0658,Bruno Beatrice,beatrice.bruno@azienda.it,Servizio Clienti,Parma,Tempo Determinato,2016-04-08,32036.99,2002-12-16
+0659,Damiani Gloria,gloria.damiani@azienda.it,Produzione,Firenze,Collaborazione,2016-01-09,29099.42,1975-02-25
+0660,Russo Nadia,nadia.russo@azienda.it,IT,Trieste,Tempo Determinato,2021-08-26,35978.43,1995-02-12
+0661,Santoro Matteo,matteo.santoro@azienda.it,Ricerca e Sviluppo,Bergamo,Collaborazione,2020-06-05,29985.20,1976-01-27
+0662,Romano Cinzia,cinzia.romano@azienda.it,Amministrazione,Padova,Apprendistato,2013-11-03,44858.08,1992-06-06
+0663,Orlando Lisa,lisa.orlando@azienda.it,Servizio Clienti,Roma,Tempo Indeterminato,2015-02-17,20000.00,1976-01-09
+0664,Romano Renato,renato.romano@azienda.it,Legale,Padova,Tempo Indeterminato,2009-04-05,40484.60,1978-01-23
+0665,Montanari Massimo,massimo.montanari@azienda.it,Comunicazione,Catania,Collaborazione,2008-09-25,22821.73,1967-06-13
+0666,Monti Roberto,roberto.monti@azienda.it,Comunicazione,Brescia,Tempo Indeterminato,2021-03-17,41451.77,1987-06-17
+0667,Martino Cinzia,cinzia.martino@azienda.it,Servizio Clienti,Perugia,Tempo Determinato,2013-10-26,25626.21,1973-01-09
+0668,Gallo Salvatore,salvatore.gallo2@azienda.it,IT,Venezia,Tempo Determinato,2021-02-10,40658.79,1997-11-22
+0669,Rossetti Davide,davide.rossetti@azienda.it,Ricerca e Sviluppo,Verona,Tempo Indeterminato,2016-10-01,30727.18,1987-12-15
+0670,Benedetti Claudio,claudio.benedetti@azienda.it,Logistica,Roma,Tempo Determinato,2012-07-08,20000.00,1990-05-15
+0671,Lombardi Giuseppe,giuseppe.lombardi@azienda.it,Risorse Umane,Roma,Collaborazione,2011-11-29,28749.61,1985-01-07
+0672,Giordano Alessia,alessia.giordano@azienda.it,Finanza,Milano,Apprendistato,2005-04-11,50927.35,1985-07-29
+0673,Rossi Camilla,camilla.rossi@azienda.it,Amministrazione,Parma,Tempo Determinato,2009-11-12,25361.69,1983-05-26
+0674,Ruggiero Elia,elia.ruggiero@azienda.it,Vendite,Palermo,Apprendistato,2018-11-26,28979.55,1993-03-14
+0675,Mariani Andrea,andrea.mariani@azienda.it,Risorse Umane,Roma,Apprendistato,2005-10-28,36569.09,1990-12-07
+0676,Gallo Emanuele,emanuele.gallo@azienda.it,Vendite,Napoli,Collaborazione,2008-12-31,37032.71,1972-03-28
+0677,Pagano Adriano,adriano.pagano@azienda.it,Servizio Clienti,Bergamo,Tempo Determinato,2015-03-20,34960.50,1966-08-11
+0678,Marini Alice,alice.marini@azienda.it,Logistica,Torino,Collaborazione,2017-05-07,25549.35,1967-11-30
+0680,Bernardi Martina,martina.bernardi@azienda.it,Servizio Clienti,Modena,Tempo Indeterminato,2015-11-07,38539.72,1997-06-25
+0681,Sartori Leonardo,leonardo.sartori@azienda.it,Comunicazione,Venezia,Apprendistato,2016-10-14,22556.08,1970-10-27
+0682,Battaglia Tommaso,tommaso.battaglia@azienda.it,Controllo Qualità,Parma,Collaborazione,2009-01-13,28645.45,1992-05-03
+0683,Rossi Giovanni,giovanni.rossi@azienda.it,Marketing,Milano,Collaborazione,2019-01-11,39733.51,1974-04-20
+0684,Romano Vincenzo,vincenzo.romano@azienda.it,Produzione,Verona,Tempo Determinato,2005-04-03,20000.00,1993-09-26
+0685,Marino Paolo,paolo.marino@azienda.it,IT,Catania,Apprendistato,2022-03-16,50206.06,1980-04-24
+0686,Rinaldi Stefano,stefano.rinaldi@azienda.it,Produzione,Venezia,Collaborazione,2015-08-24,35586.09,2000-10-06
+0687,Moretti Noemi,noemi.moretti2@azienda.it,Controllo Qualità,Brescia,Apprendistato,2015-05-17,37191.00,1998-04-24
+0688,Palmieri Massimo,massimo.palmieri@azienda.it,Servizio Clienti,Venezia,Tempo Indeterminato,2009-09-03,24897.00,1990-11-26
+0689,Marino Beatrice,beatrice.marino@azienda.it,Risorse Umane,Bari,Tempo Indeterminato,2012-08-10,48960.44,2002-10-15
+0690,Ruggiero Elena,elena.ruggiero@azienda.it,Marketing,Catania,Apprendistato,2020-12-03,33558.01,1966-06-03
+0692,Caruso Cinzia,cinzia.caruso@azienda.it,Marketing,Brescia,Tempo Indeterminato,2015-10-29,43293.88,1987-06-07
+0693,Morelli Roberta,roberta.morelli@azienda.it,Servizio Clienti,Modena,Apprendistato,2022-05-25,26999.13,1969-05-29
+0694,Giordano Umberto,umberto.giordano@azienda.it,Finanza,Roma,Collaborazione,2013-09-11,50148.29,1997-01-05
+0695,Rossi Davide,davide.rossi@azienda.it,IT,Roma,Tempo Indeterminato,2012-06-23,31992.63,1988-05-09
+0696,Bernardi Luca,luca.bernardi@azienda.it,Acquisti,Catania,Tempo Determinato,2012-03-13,35635.10,1973-12-30
+0697,Carbone Barbara,barbara.carbone@azienda.it,Produzione,Brescia,Tempo Indeterminato,2011-02-12,39727.68,1965-09-07
+0698,Ferrara Martina,martina.ferrara2@azienda.it,Legale,Verona,Apprendistato,2011-01-30,41449.04,1971-05-09
+0699,Gentile Angela,angela.gentile@azienda.it,Risorse Umane,Torino,Apprendistato,2018-10-03,44721.12,1967-04-12
+0700,Riva Carlo,carlo.riva@azienda.it,Vendite,Napoli,Collaborazione,2006-03-17,27186.12,1968-11-11
+0701,Rossetti Stefano,stefano.rossetti@azienda.it,Amministrazione,Cagliari,Collaborazione,2018-10-28,29463.08,1973-11-21
+0703,Rizzi Federico,federico.rizzi@azienda.it,IT,Brescia,Collaborazione,2010-03-14,40269.71,1992-09-03
+0705,Mancini Carlo,carlo.mancini@azienda.it,Produzione,Parma,Collaborazione,2008-10-31,33136.20,1990-10-12
+0706,Sala Martina,martina.sala@azienda.it,Comunicazione,Napoli,Apprendistato,2017-06-22,44069.58,1994-02-18
+0707,Monti Francesco,francesco.monti@azienda.it,Logistica,Cagliari,Collaborazione,2010-05-09,25861.62,1986-08-22
+0708,Ferrara Roberta,roberta.ferrara@azienda.it,Comunicazione,Cagliari,Collaborazione,2022-08-05,26323.47,1984-07-12
+0709,Negri Camilla,camilla.negri@azienda.it,Finanza,Firenze,Tempo Indeterminato,2021-08-01,46853.56,1986-10-30
+0710,Barone Alice,alice.barone@azienda.it,Marketing,Brescia,Tempo Determinato,2011-11-29,29500.47,1983-03-16
+0711,Ruggiero Rosa,rosa.ruggiero2@azienda.it,Acquisti,Padova,Apprendistato,2016-02-02,32816.39,1974-10-06
+0712,Graziano Bruno,bruno.graziano@azienda.it,Controllo Qualità,Milano,Tempo Determinato,2019-10-28,32185.30,1971-09-11
+0713,Valentini Veronica,veronica.valentini2@azienda.it,Amministrazione,Cagliari,Collaborazione,2009-05-22,40634.45,1978-06-12
+0714,Fiore Arianna,arianna.fiore@azienda.it,Produzione,Torino,Tempo Indeterminato,2018-09-19,54699.24,1987-11-24
+0715,Ricci Veronica,veronica.ricci@azienda.it,Produzione,Perugia,Tempo Indeterminato,2005-01-07,29643.15,1981-02-11
+0716,Longo Francesca,francesca.longo@azienda.it,Logistica,Cagliari,Collaborazione,2019-01-09,20000.00,1979-04-10
+0717,Grasso Michela,michela.grasso@azienda.it,Logistica,Perugia,Tempo Determinato,2019-11-11,37533.04,1989-12-01
+0719,Basile Roberto,roberto.basile@azienda.it,Ricerca e Sviluppo,Trieste,Tempo Determinato,2006-11-25,46784.74,1985-06-16
+0720,Mariani Manuela,manuela.mariani@azienda.it,Ricerca e Sviluppo,Modena,Collaborazione,2017-05-20,48749.15,2001-10-15
+0721,Martini Beatrice,beatrice.martini@azienda.it,Risorse Umane,Trieste,Tempo Indeterminato,2017-12-18,20000.00,1996-12-11
+0722,Giuliani Vincenzo,vincenzo.giuliani@azienda.it,Amministrazione,Verona,Tempo Indeterminato,2005-11-07,35187.63,1990-06-27
+0723,Martino Davide,davide.martino@azienda.it,Ricerca e Sviluppo,Torino,Tempo Determinato,2021-05-18,31638.19,1998-09-02
+0725,Costanzo Rosa,rosa.costanzo@azienda.it,Legale,Cagliari,Apprendistato,2018-10-02,43675.20,1999-12-04
+0726,Testa Salvatore,salvatore.testa@azienda.it,Ricerca e Sviluppo,Cagliari,Apprendistato,2014-06-11,37986.90,1980-10-31
+0727,Fontana Veronica,veronica.fontana@azienda.it,Vendite,Bergamo,Apprendistato,2021-04-22,36695.55,1993-03-25
+0728,Colombo Angela,angela.colombo@azienda.it,Controllo Qualità,Catania,Tempo Indeterminato,2011-06-08,27419.37,1986-09-30
+0729,Greco Luigi,luigi.greco@azienda.it,Comunicazione,Bari,Apprendistato,2007-12-22,29008.15,1976-07-11
+0730,Santoro Erika,erika.santoro@azienda.it,Amministrazione,Bologna,Collaborazione,2013-04-18,29663.86,2001-03-28
+0731,Longo Sabrina,sabrina.longo@azienda.it,Ricerca e Sviluppo,Firenze,Tempo Indeterminato,2012-09-09,61029.28,1991-09-19
+0732,Graziano Sofia,sofia.graziano@azienda.it,Logistica,Padova,Tempo Determinato,2019-10-27,32386.24,1984-09-29
+0733,Bernardi Antonio,antonio.bernardi@azienda.it,Servizio Clienti,Verona,Tempo Indeterminato,2019-05-29,33328.50,1967-05-11
+0734,Cattaneo Michela,michela.cattaneo@azienda.it,IT,Parma,Tempo Determinato,2013-07-09,53429.47,1995-08-30
+0736,Donati Lisa,lisa.donati@azienda.it,Vendite,Napoli,Apprendistato,2014-09-08,52338.49,1992-05-21
+0737,Lombardo Emanuele,emanuele.lombardo@azienda.it,IT,Napoli,Apprendistato,2019-09-05,25399.64,1995-04-17
+0738,Riva Marina,marina.riva@azienda.it,Amministrazione,Genova,Apprendistato,2020-03-14,29389.18,1995-12-19
+0739,Russo Diego,diego.russo@azienda.it,Controllo Qualità,Milano,Tempo Indeterminato,2005-04-08,24642.68,1995-10-02
+0740,Basile Riccardo,riccardo.basile@azienda.it,IT,Bari,Tempo Determinato,2005-10-06,41459.52,1966-01-24
+0741,Ruggiero Valentina,valentina.ruggiero2@azienda.it,Controllo Qualità,Genova,Tempo Indeterminato,2020-11-18,39102.24,1992-02-16
+0742,Marchese Raffaele,raffaele.marchese@azienda.it,Controllo Qualità,Cagliari,Tempo Determinato,2007-06-28,33885.93,1996-03-16
+0743,Monti Veronica,veronica.monti@azienda.it,Controllo Qualità,Torino,Collaborazione,2011-03-15,36862.73,1994-12-12
+0744,Barbieri Paolo,paolo.barbieri@azienda.it,Acquisti,Torino,Apprendistato,2022-06-07,20000.00,1967-10-20
+0745,Ricci Emanuele,emanuele.ricci@azienda.it,IT,Bari,Tempo Determinato,2014-11-19,60261.70,1974-01-01
+0746,Orlando Stefano,stefano.orlando@azienda.it,Ricerca e Sviluppo,Napoli,Tempo Determinato,2017-02-15,46770.84,1999-06-26
+0747,Orlando Adriano,adriano.orlando@azienda.it,Marketing,Brescia,Apprendistato,2007-04-27,38730.06,1997-08-21
+0748,Silvestri Luca,luca.silvestri@azienda.it,Risorse Umane,Milano,Tempo Indeterminato,2019-11-28,35830.35,1982-07-08
+0749,Conte Sabrina,sabrina.conte@azienda.it,Logistica,Cagliari,Tempo Indeterminato,2016-07-24,30480.37,1986-06-13
+0750,Montanari Marina,marina.montanari@azienda.it,Acquisti,Torino,Tempo Determinato,2005-01-28,20000.00,1982-03-31
+0751,Palmieri Alessia,alessia.palmieri@azienda.it,Legale,Verona,Apprendistato,2020-04-17,33901.91,1994-01-10
+0752,Ferraro Francesco,francesco.ferraro@azienda.it,Marketing,Brescia,Apprendistato,2019-07-13,38185.82,1974-02-10
+0753,Pagano Paola,paola.pagano2@azienda.it,Finanza,Catania,Collaborazione,2007-05-25,28567.74,1968-10-22
+0754,Rinaldi Renato,renato.rinaldi@azienda.it,Risorse Umane,Roma,Tempo Determinato,2005-07-27,28096.90,1997-04-15
+0755,Valentini Giorgio,giorgio.valentini@azienda.it,Marketing,Perugia,Apprendistato,2016-03-17,20000.00,1985-02-26
+0756,Ricci Roberta,roberta.ricci@azienda.it,Produzione,Roma,Collaborazione,2007-08-27,30987.47,1974-07-01
+0757,Riva Salvatore,salvatore.riva@azienda.it,Comunicazione,Perugia,Tempo Determinato,2021-08-15,20000.00,1966-08-28
+0758,Damiani Giorgio,giorgio.damiani@azienda.it,Vendite,Parma,Tempo Indeterminato,2010-06-12,24122.15,1996-06-17
+0759,Santoro Giulia,giulia.santoro2@azienda.it,Controllo Qualità,Roma,Apprendistato,2007-03-09,29112.21,1991-07-07
+0760,Silvestri Davide,davide.silvestri@azienda.it,Amministrazione,Bergamo,Tempo Determinato,2006-06-01,36663.14,2001-02-01
+0761,Caputo Roberta,roberta.caputo@azienda.it,Controllo Qualità,Padova,Apprendistato,2007-09-17,47948.72,1971-03-01
+0762,Romano Nadia,nadia.romano@azienda.it,Amministrazione,Firenze,Apprendistato,2006-06-02,33020.23,1970-06-02
+0763,Gatti Dario,dario.gatti2@azienda.it,Risorse Umane,Verona,Tempo Determinato,2014-11-03,35527.28,1970-12-26
+0764,Barbieri Cinzia,cinzia.barbieri@azienda.it,Vendite,Parma,Tempo Indeterminato,2005-02-22,48197.35,1965-04-29
+0765,Damiani Valerio,valerio.damiani2@azienda.it,Amministrazione,Catania,Collaborazione,2020-07-22,41074.30,1996-01-22
+0766,Costanzo Roberto,roberto.costanzo@azienda.it,IT,Modena,Collaborazione,2014-03-30,20000.00,1975-09-25
+0767,Mariani Elia,elia.mariani@azienda.it,Servizio Clienti,Parma,Tempo Indeterminato,2019-01-25,38913.77,1983-10-15
+0768,Costa Giovanni,giovanni.costa@azienda.it,Legale,Napoli,Apprendistato,2022-01-27,27492.64,1989-03-18
+0769,Valenti Debora,debora.valenti2@azienda.it,Controllo Qualità,Genova,Apprendistato,2006-03-11,41180.54,1995-09-28
+0771,Martinelli Arianna,arianna.martinelli@azienda.it,Produzione,Bergamo,Collaborazione,2005-12-21,37601.19,1989-02-08
+0772,Amato Francesca,francesca.amato@azienda.it,Legale,Napoli,Tempo Indeterminato,2010-04-12,37002.58,1997-05-12
+0773,Caruso Jessica,jessica.caruso@azienda.it,Servizio Clienti,Venezia,Tempo Determinato,2022-06-22,40536.25,1975-08-21
+0774,Grasso Silvia,silvia.grasso@azienda.it,Finanza,Torino,Collaborazione,2018-02-15,39587.77,1986-09-24
+0775,Galli Roberto,roberto.galli@azienda.it,Amministrazione,Brescia,Tempo Determinato,2013-09-09,27251.71,1973-09-17
+0776,Caruso Nicola,nicola.caruso@azienda.it,Produzione,Bologna,Tempo Indeterminato,2020-07-11,42897.22,1990-07-06
+0777,Mancini Giorgia,giorgia.mancini@azienda.it,Comunicazione,Brescia,Collaborazione,2014-05-20,39359.51,1978-03-29
+0778,Sorrentino Viviana,viviana.sorrentino@azienda.it,Risorse Umane,Cagliari,Tempo Determinato,2006-12-10,43073.68,1983-06-21
+0779,Galli Giorgio,giorgio.galli@azienda.it,Amministrazione,Parma,Collaborazione,2011-04-06,45527.88,1976-01-25
+0780,Martino Arianna,arianna.martino@azienda.it,Finanza,Cagliari,Tempo Determinato,2017-11-13,35962.07,1965-03-25
+0781,Cattaneo Sara,sara.cattaneo@azienda.it,Servizio Clienti,Modena,Tempo Indeterminato,2014-07-20,23793.86,2000-10-18
+0782,Silvestri Marta,marta.silvestri@azienda.it,Finanza,Torino,Tempo Indeterminato,2020-07-19,32780.35,1997-10-29
+0783,Fabbri Simone,simone.fabbri@azienda.it,IT,Palermo,Tempo Indeterminato,2005-05-11,26541.01,1996-07-19
+0784,Monti Salvatore,salvatore.monti@azienda.it,Acquisti,Bologna,Collaborazione,2009-02-24,36080.34,2000-06-07
+0785,Monti Mirko,mirko.monti@azienda.it,Servizio Clienti,Milano,Tempo Indeterminato,2013-08-19,42055.26,1966-06-20
+0786,Lombardo Dario,dario.lombardo2@azienda.it,Servizio Clienti,Bergamo,Tempo Determinato,2022-09-01,29415.36,1995-09-18
+0787,Ricci Renato,renato.ricci@azienda.it,Legale,Verona,Tempo Indeterminato,2007-06-29,26701.58,1966-11-01
+0788,Orlando Stefano,stefano.orlando2@azienda.it,Legale,Torino,Tempo Determinato,2008-02-08,42507.73,1980-01-10
+0789,Morelli Carlotta,carlotta.morelli@azienda.it,Servizio Clienti,Cagliari,Tempo Determinato,2021-11-22,34776.23,1980-10-27
+0790,Pellegrini Rosa,rosa.pellegrini3@azienda.it,IT,Roma,Tempo Indeterminato,2013-05-13,27855.68,1980-06-27
+0791,Pellegrino Luigi,luigi.pellegrino@azienda.it,Comunicazione,Napoli,Collaborazione,2020-12-02,20000.00,1978-02-10
+0792,Negri Umberto,umberto.negri@azienda.it,Acquisti,Torino,Tempo Determinato,2015-04-09,31279.95,1968-12-01
+0793,Coppola Stefano,stefano.coppola@azienda.it,Marketing,Napoli,Tempo Determinato,2011-03-11,39314.01,1971-10-02
+0794,D'Amico Tommaso,tommaso.damico@azienda.it,Vendite,Catania,Collaborazione,2020-04-22,38662.28,1989-04-15
+0795,Gatti Giacomo,giacomo.gatti@azienda.it,Ricerca e Sviluppo,Milano,Apprendistato,2009-03-29,53703.92,1975-06-04
+0796,Conte Edoardo,edoardo.conte@azienda.it,Logistica,Cagliari,Apprendistato,2019-09-16,42809.38,1993-12-24
+0797,Giorgi Giorgio,giorgio.giorgi@azienda.it,Controllo Qualità,Modena,Collaborazione,2015-04-10,33226.81,2000-05-29
+0798,Leone Monica,monica.leone@azienda.it,Ricerca e Sviluppo,Verona,Apprendistato,2022-04-07,40015.77,2002-12-05
+0799,Coppola Beatrice,beatrice.coppola@azienda.it,Ricerca e Sviluppo,Firenze,Tempo Determinato,2020-12-19,28811.48,1972-11-13
+0800,Longo Giuseppe,giuseppe.longo@azienda.it,Marketing,Roma,Apprendistato,2017-11-20,33603.77,1970-09-04
+0801,Mariani Serena,serena.mariani@azienda.it,Finanza,Perugia,Tempo Indeterminato,2019-12-06,31251.57,1981-09-23
+0802,D'Angelo Francesco,francesco.dangelo@azienda.it,Marketing,Milano,Collaborazione,2016-03-15,43379.83,1999-06-23
+0803,Moretti Filippo,filippo.moretti@azienda.it,Vendite,Perugia,Apprendistato,2019-07-09,31868.83,1978-01-01
+0804,Battaglia Sergio,sergio.battaglia@azienda.it,Ricerca e Sviluppo,Venezia,Tempo Indeterminato,2021-05-30,24107.22,1986-06-27
+0805,Benedetti Umberto,umberto.benedetti@azienda.it,Marketing,Catania,Tempo Indeterminato,2014-01-04,29781.89,1981-01-12
+0806,Sartori Valentina,valentina.sartori@azienda.it,Controllo Qualità,Genova,Tempo Determinato,2022-07-11,30250.56,1999-05-31
+0807,Bruno Luca,luca.bruno@azienda.it,Legale,Brescia,Tempo Indeterminato,2016-06-24,25850.12,1992-01-22
+0808,Guerra Valentina,valentina.guerra2@azienda.it,Produzione,Padova,Tempo Determinato,2021-01-22,42150.60,2003-04-20
+0809,Marini Paola,paola.marini@azienda.it,Vendite,Catania,Apprendistato,2012-11-18,31123.51,1990-03-02
+0810,Sanna Marina,marina.sanna@azienda.it,Servizio Clienti,Trieste,Collaborazione,2011-06-23,45145.83,1972-05-07
+0811,Gatti Marina,marina.gatti@azienda.it,Risorse Umane,Cagliari,Tempo Indeterminato,2008-03-22,37974.30,1988-07-25
+0812,Graziano Teresa,teresa.graziano@azienda.it,Logistica,Torino,Tempo Indeterminato,2014-03-09,45948.86,1993-08-28
+0813,Barone Stefano,stefano.barone@azienda.it,Ricerca e Sviluppo,Cagliari,Tempo Determinato,2009-06-21,38837.87,1989-11-05
+0814,Martino Massimo,massimo.martino@azienda.it,IT,Parma,Collaborazione,2010-01-14,44024.94,1966-03-16
+0815,Vitale Anna,anna.vitale@azienda.it,IT,Parma,Tempo Indeterminato,2019-09-01,30847.79,1973-01-17
+0816,Costa Francesca,francesca.costa@azienda.it,Acquisti,Bari,Collaborazione,2006-07-01,27886.12,1991-11-13
+0817,Morelli Bruno,bruno.morelli2@azienda.it,Amministrazione,Trieste,Apprendistato,2019-02-01,24398.05,2001-09-15
+0818,Battaglia Greta,greta.battaglia@azienda.it,Amministrazione,Milano,Apprendistato,2008-08-27,20000.00,1991-02-03
+0819,Monti Filippo,filippo.monti@azienda.it,Servizio Clienti,Bologna,Apprendistato,2008-08-30,43948.94,1993-07-17
+0820,De Santis Veronica,veronica.desantis@azienda.it,Legale,Torino,Tempo Determinato,2022-03-11,38088.32,1993-03-04
+0821,Graziano Elia,elia.graziano@azienda.it,Risorse Umane,Perugia,Apprendistato,2012-02-04,42054.87,1978-07-04
+0822,Carbone Federico,federico.carbone@azienda.it,Amministrazione,Verona,Tempo Determinato,2005-04-16,21537.29,1971-02-22
+0823,Montanari Serena,serena.montanari@azienda.it,Ricerca e Sviluppo,Trieste,Apprendistato,2008-08-28,39635.72,1974-12-02
+0824,Sorrentino Irene,irene.sorrentino@azienda.it,Servizio Clienti,Modena,Tempo Indeterminato,2014-05-12,38476.86,1985-08-28
+0825,Ferrari Simone,simone.ferrari@azienda.it,Ricerca e Sviluppo,Verona,Apprendistato,2020-07-02,23024.09,1991-10-23
+0826,Rossetti Stefano,stefano.rossetti2@azienda.it,IT,Milano,Tempo Indeterminato,2009-12-27,49009.77,1970-10-10
+0827,Leone Tiziano,tiziano.leone@azienda.it,IT,Bologna,Tempo Determinato,2007-12-03,45443.10,1999-03-25
+0828,Ferrari Chiara,chiara.ferrari@azienda.it,Acquisti,Parma,Collaborazione,2005-12-15,33754.63,1973-10-23
+0829,Testa Raffaele,raffaele.testa@azienda.it,Amministrazione,Roma,Collaborazione,2007-09-02,37496.84,1978-07-14
+0830,Conti Dario,dario.conti@azienda.it,Acquisti,Napoli,Tempo Determinato,2018-03-07,33382.90,1973-12-22
+0831,Gallo Francesca,francesca.gallo@azienda.it,Risorse Umane,Bari,Apprendistato,2012-11-25,41279.77,1997-09-06
+0832,Palmieri Luigi,luigi.palmieri@azienda.it,Marketing,Napoli,Tempo Indeterminato,2016-11-11,44972.35,1974-09-26
+0833,Fontana Daniele,daniele.fontana@azienda.it,Acquisti,Perugia,Tempo Indeterminato,2021-04-09,40648.07,1987-08-14
+0834,Piras Alberto,alberto.piras2@azienda.it,Amministrazione,Firenze,Collaborazione,2020-02-09,39032.73,1969-10-25
+0835,Pellegrini Claudio,claudio.pellegrini@azienda.it,Finanza,Modena,Tempo Determinato,2014-02-21,56930.12,1970-07-19
+0836,Rizzo Tommaso,tommaso.rizzo@azienda.it,Ricerca e Sviluppo,Verona,Apprendistato,2017-07-01,53812.58,1997-05-24
+0837,Silvestri Alice,alice.silvestri@azienda.it,Marketing,Padova,Apprendistato,2015-04-02,28015.74,2002-09-24
+0838,De Angelis Diego,diego.deangelis2@azienda.it,IT,Trieste,Tempo Determinato,2006-07-25,29899.47,2002-09-23
+0839,Marini Umberto,umberto.marini@azienda.it,Risorse Umane,Milano,Collaborazione,2020-01-28,43476.35,1994-07-17
+0840,Lombardi Alessia,alessia.lombardi@azienda.it,Logistica,Padova,Tempo Indeterminato,2021-08-18,41589.61,1972-07-27
+0841,Ferraro Silvia,silvia.ferraro2@azienda.it,Finanza,Bergamo,Collaborazione,2007-10-03,36129.63,1987-05-23
+0842,Orlando Dario,dario.orlando@azienda.it,Logistica,Verona,Collaborazione,2019-12-15,45454.57,1992-01-22
+0843,Serra Greta,greta.serra@azienda.it,Risorse Umane,Brescia,Tempo Indeterminato,2007-09-28,34949.17,1993-03-10
+0844,Caputo Federico,federico.caputo@azienda.it,Vendite,Torino,Collaborazione,2020-03-18,46727.72,1966-03-15
+0845,Riva Erika,erika.riva@azienda.it,Produzione,Bologna,Apprendistato,2018-12-14,22918.86,1994-08-28
+0846,Silvestri Omar,omar.silvestri@azienda.it,Acquisti,Brescia,Tempo Determinato,2011-08-02,23184.24,1994-09-13
+0847,Vitale Luigi,luigi.vitale@azienda.it,Legale,Venezia,Tempo Indeterminato,2022-02-19,45401.31,1970-05-06
+0849,Fontana Valerio,valerio.fontana@azienda.it,Ricerca e Sviluppo,Trieste,Tempo Determinato,2012-01-04,32529.19,1969-11-28
+0850,Benedetti Raffaele,raffaele.benedetti@azienda.it,Controllo Qualità,Perugia,Collaborazione,2015-09-04,23705.38,1990-03-22
+0851,Ricci Luigi,luigi.ricci@azienda.it,Logistica,Bari,Collaborazione,2018-04-04,48621.87,1980-10-28
+0852,Ricci Alice,alice.ricci@azienda.it,Vendite,Cagliari,Tempo Indeterminato,2007-11-17,32478.65,2002-07-18
+0853,Martino Renato,renato.martino@azienda.it,Vendite,Venezia,Collaborazione,2007-03-09,20000.00,1983-06-25
+0854,Gentile Raffaele,raffaele.gentile@azienda.it,Finanza,Palermo,Apprendistato,2018-04-17,48547.86,1968-10-23
+0855,Mancini Cristina,cristina.mancini@azienda.it,Produzione,Firenze,Tempo Indeterminato,2017-01-28,29883.88,1983-12-14
+0856,Lombardo Jessica,jessica.lombardo@azienda.it,Vendite,Parma,Tempo Indeterminato,2012-02-06,44869.13,1981-12-11
+0857,Bernardi Alice,alice.bernardi@azienda.it,Marketing,Parma,Tempo Indeterminato,2020-06-30,30897.47,1987-07-22
+0858,Sorrentino Laura,laura.sorrentino@azienda.it,IT,Verona,Collaborazione,2009-07-11,26934.39,1987-04-18
+0859,Galli Francesco,francesco.galli@azienda.it,IT,Bari,Tempo Indeterminato,2011-09-02,45138.26,1975-02-18
+0860,Martino Gloria,gloria.martino@azienda.it,Marketing,Cagliari,Apprendistato,2011-02-18,34759.66,1968-01-08
+0861,Pellegrini Carlo,carlo.pellegrini@azienda.it,Finanza,Verona,Tempo Indeterminato,2019-08-13,40297.31,1978-06-15
+0863,D'Amico Luca,luca.damico@azienda.it,Servizio Clienti,Modena,Tempo Determinato,2017-12-09,20295.19,2001-12-16
+0864,Costanzo Nicola,nicola.costanzo@azienda.it,Legale,Bergamo,Collaborazione,2017-09-12,35073.58,1997-08-05
+0866,Parisi Vincenzo,vincenzo.parisi@azienda.it,Comunicazione,Torino,Tempo Determinato,2014-04-02,47328.64,1976-12-22
+0867,Barbieri Edoardo,edoardo.barbieri@azienda.it,IT,Bergamo,Tempo Determinato,2014-02-07,35412.13,1966-03-30
+0868,Amato Debora,debora.amato@azienda.it,Legale,Trieste,Collaborazione,2019-07-06,40685.51,1966-08-30
+0869,Rizzo Nicola,nicola.rizzo@azienda.it,Vendite,Bari,Apprendistato,2019-10-10,21345.45,1966-11-23
+0870,Ricci Luca,luca.ricci@azienda.it,Comunicazione,Torino,Apprendistato,2018-06-30,30496.30,1978-05-15
+0871,Bianco Vincenzo,vincenzo.bianco@azienda.it,Controllo Qualità,Torino,Collaborazione,2021-03-30,39038.44,1990-08-12
+0872,Grassi Alessia,alessia.grassi@azienda.it,Controllo Qualità,Cagliari,Apprendistato,2016-02-19,28873.07,1969-01-18
+0873,Parisi Omar,omar.parisi@azienda.it,Produzione,Cagliari,Collaborazione,2021-10-14,34111.49,1974-10-12
+0874,Galli Stefano,stefano.galli@azienda.it,IT,Brescia,Collaborazione,2010-09-15,20000.00,1991-06-12
+0875,Marini Francesco,francesco.marini@azienda.it,Servizio Clienti,Napoli,Apprendistato,2017-03-29,21551.87,1977-06-17
+0876,Cattaneo Alberto,alberto.cattaneo@azienda.it,Servizio Clienti,Verona,Apprendistato,2005-06-22,41982.38,1993-12-14
+0877,Pagano Renato,renato.pagano@azienda.it,Acquisti,Roma,Tempo Determinato,2010-09-04,26865.42,1996-06-05
+0878,Longo Francesco,francesco.longo@azienda.it,Comunicazione,Brescia,Collaborazione,2005-03-06,32201.89,1982-08-18
+0879,Graziano Elisa,elisa.graziano3@azienda.it,Finanza,Catania,Tempo Determinato,2008-08-05,47200.09,2001-06-08
+0880,Serra Alessandro,alessandro.serra@azienda.it,Comunicazione,Torino,Collaborazione,2015-07-27,27876.75,1998-01-22
+0881,Pellegrini Gloria,gloria.pellegrini@azienda.it,Comunicazione,Napoli,Tempo Determinato,2020-08-31,34744.76,1983-11-18
+0882,Negri Salvatore,salvatore.negri@azienda.it,Vendite,Roma,Tempo Determinato,2019-02-19,38697.20,1984-11-21
+0883,Sala Marco,marco.sala@azienda.it,Finanza,Catania,Apprendistato,2017-12-01,40096.05,1988-03-01
+0884,Donati Elia,elia.donati@azienda.it,Logistica,Venezia,Collaborazione,2015-09-24,37895.37,1997-12-24
+0885,Donati Stefano,stefano.donati@azienda.it,Amministrazione,Venezia,Apprendistato,2009-06-16,43258.42,1982-08-27
+0886,Ferrari Luca,luca.ferrari@azienda.it,Legale,Bergamo,Tempo Determinato,2006-12-30,39842.01,1985-09-29
+0887,Fontana Sabrina,sabrina.fontana2@azienda.it,Vendite,Padova,Collaborazione,2018-06-20,34724.52,1981-07-04
+0889,Ferrara Gloria,gloria.ferrara@azienda.it,Finanza,Bari,Apprendistato,2021-09-28,29721.67,1974-04-09
+0890,Battaglia Daniele,daniele.battaglia@azienda.it,Controllo Qualità,Genova,Collaborazione,2009-01-17,35193.50,1983-04-30
+0891,De Santis Francesca,francesca.desantis@azienda.it,IT,Palermo,Collaborazione,2010-07-28,24630.66,1985-07-21
+0892,Rizzo Carlo,carlo.rizzo@azienda.it,Comunicazione,Venezia,Collaborazione,2020-05-28,46092.72,1974-07-09
+0893,Pellegrini Valerio,valerio.pellegrini@azienda.it,Servizio Clienti,Bergamo,Apprendistato,2006-08-22,37874.73,1979-12-07
+0894,Sartori Beatrice,beatrice.sartori@azienda.it,Controllo Qualità,Bergamo,Tempo Indeterminato,2005-02-13,36961.05,1976-05-18
+0895,Messina Massimo,massimo.messina@azienda.it,Controllo Qualità,Verona,Tempo Determinato,2017-07-20,41079.11,1972-08-15
+0896,Monti Roberta,roberta.monti@azienda.it,Risorse Umane,Torino,Apprendistato,2020-12-06,36606.74,1988-10-17
+0897,Mancini Monica,monica.mancini@azienda.it,Produzione,Roma,Tempo Determinato,2016-03-13,48135.87,1998-07-19
+0898,Vitale Daniele,daniele.vitale@azienda.it,Amministrazione,Bari,Apprendistato,2014-10-10,21304.26,1972-05-27
+0900,Rossetti Giuseppe,giuseppe.rossetti@azienda.it,Ricerca e Sviluppo,Trieste,Tempo Indeterminato,2016-02-07,40810.14,1966-10-31
+0901,Barone Valerio,valerio.barone@azienda.it,Ricerca e Sviluppo,Brescia,Collaborazione,2007-07-11,46375.28,1970-07-19
+0902,Coppola Antonio,antonio.coppola@azienda.it,Risorse Umane,Firenze,Apprendistato,2017-08-20,20000.00,1994-09-30
+0903,Rossi Bruno,bruno.rossi@azienda.it,Legale,Cagliari,Tempo Determinato,2014-05-05,41597.11,1987-05-07
+0904,Esposito Emanuele,emanuele.esposito@azienda.it,IT,Napoli,Collaborazione,2013-05-19,31395.48,1991-06-26
+0905,Esposito Anna,anna.esposito@azienda.it,Marketing,Brescia,Collaborazione,2015-03-09,29517.80,1994-07-08
+0906,Damiani Sara,sara.damiani2@azienda.it,Amministrazione,Brescia,Apprendistato,2021-05-29,29281.53,1997-12-10
+0907,Colombo Federica,federica.colombo@azienda.it,Acquisti,Catania,Apprendistato,2006-03-31,34509.77,1992-01-07
+0908,Martinelli Michela,michela.martinelli@azienda.it,Risorse Umane,Palermo,Collaborazione,2007-01-01,22422.19,1965-12-03
+0909,Valentini Giuseppe,giuseppe.valentini2@azienda.it,Acquisti,Padova,Apprendistato,2019-07-08,35234.23,1970-05-30
+0910,Caputo Arianna,arianna.caputo@azienda.it,Acquisti,Catania,Tempo Determinato,2013-01-20,20431.35,1994-11-08
+0911,Caruso Greta,greta.caruso@azienda.it,Ricerca e Sviluppo,Brescia,Collaborazione,2015-09-08,33430.99,1969-01-18
+0912,Sorrentino Serena,serena.sorrentino@azienda.it,Risorse Umane,Trieste,Collaborazione,2007-02-01,48452.39,1966-10-25
+0913,Riva Debora,debora.riva@azienda.it,Finanza,Bologna,Collaborazione,2016-10-29,26626.41,1978-01-15
+0914,Morelli Lorenzo,lorenzo.morelli@azienda.it,IT,Bologna,Tempo Determinato,2020-05-07,26132.34,1978-06-23
+0915,Pellegrini Tommaso,tommaso.pellegrini@azienda.it,IT,Cagliari,Tempo Indeterminato,2017-05-11,37693.36,1969-10-30
+0916,Conti Vincenzo,vincenzo.conti@azienda.it,Ricerca e Sviluppo,Cagliari,Apprendistato,2012-12-21,36405.16,1976-06-07
+0917,Mazza Omar,omar.mazza@azienda.it,Vendite,Napoli,Collaborazione,2009-01-10,39335.89,1967-01-12
+0918,D'Angelo Valerio,valerio.dangelo@azienda.it,Produzione,Cagliari,Collaborazione,2021-12-27,20000.00,1995-01-25
+0919,Mariani Roberta,roberta.mariani@azienda.it,Finanza,Firenze,Tempo Indeterminato,2021-10-03,42699.85,1995-03-18
+0920,Ferrari Francesco,francesco.ferrari@azienda.it,Vendite,Padova,Tempo Indeterminato,2005-04-19,34134.56,1972-09-14
+0921,Negri Salvatore,salvatore.negri2@azienda.it,Logistica,Bergamo,Collaborazione,2011-10-17,20000.00,1981-03-08
+0922,Gallo Massimo,massimo.gallo@azienda.it,Risorse Umane,Bologna,Tempo Indeterminato,2009-04-13,20000.00,1970-01-08
+0923,Rinaldi Sabrina,sabrina.rinaldi@azienda.it,Comunicazione,Milano,Tempo Determinato,2015-10-17,26384.87,1984-07-19
+0924,D'Angelo Elisa,elisa.dangelo@azienda.it,Acquisti,Brescia,Tempo Determinato,2015-08-19,23355.46,1983-12-05
+0925,Moretti Laura,laura.moretti@azienda.it,Servizio Clienti,Brescia,Collaborazione,2015-07-30,45843.66,1975-11-20
+0926,Messina Sergio,sergio.messina@azienda.it,Vendite,Venezia,Tempo Indeterminato,2007-04-22,36344.12,1993-04-12
+0927,Silvestri Jessica,jessica.silvestri@azienda.it,Servizio Clienti,Cagliari,Apprendistato,2005-10-31,23496.71,1991-07-07
+0928,Fiore Claudia,claudia.fiore@azienda.it,Vendite,Modena,Tempo Indeterminato,2014-06-20,35905.58,1990-11-09
+0929,Orlando Nicola,nicola.orlando@azienda.it,Logistica,Parma,Tempo Indeterminato,2016-02-06,24660.59,1985-02-10
+0930,Barbieri Luca,luca.barbieri@azienda.it,IT,Genova,Collaborazione,2012-09-17,24955.61,1984-08-27
+0931,Giorgi Riccardo,riccardo.giorgi@azienda.it,Controllo Qualità,Venezia,Collaborazione,2007-12-11,46896.80,1982-07-06
+0932,Barbieri Carlo,carlo.barbieri@azienda.it,Amministrazione,Genova,Apprendistato,2020-06-29,24266.40,1998-08-11
+0933,Santoro Simone,simone.santoro@azienda.it,Finanza,Firenze,Collaborazione,2007-04-07,41459.59,1987-02-24
+0934,Barone Antonio,antonio.barone@azienda.it,Vendite,Milano,Apprendistato,2010-11-07,20000.00,1981-01-06
+0936,Ferraro Monica,monica.ferraro@azienda.it,Acquisti,Verona,Tempo Indeterminato,2022-04-10,39706.96,1989-12-27
+0937,Testa Tiziano,tiziano.testa@azienda.it,Amministrazione,Napoli,Tempo Indeterminato,2014-10-27,42768.16,1998-11-26
+0938,Sorrentino Adriano,adriano.sorrentino@azienda.it,Acquisti,Napoli,Tempo Indeterminato,2016-05-18,20000.00,1969-09-24
+0939,Bianco Antonio,antonio.bianco@azienda.it,Risorse Umane,Catania,Collaborazione,2022-02-03,20000.00,1969-06-15
+0940,Rizzo Emanuele,emanuele.rizzo@azienda.it,Marketing,Genova,Collaborazione,2014-04-29,34398.42,1999-07-04
+0941,Cattaneo Ilaria,ilaria.cattaneo2@azienda.it,Produzione,Catania,Tempo Determinato,2006-11-30,33407.81,1983-08-14
+0942,Graziano Anna,anna.graziano@azienda.it,Acquisti,Modena,Collaborazione,2022-08-28,50768.91,1975-03-28
+0943,De Angelis Vincenzo,vincenzo.deangelis@azienda.it,Ricerca e Sviluppo,Modena,Apprendistato,2005-09-01,20000.00,1997-03-11
+0944,Bruno Matteo,matteo.bruno@azienda.it,Produzione,Venezia,Collaborazione,2022-04-29,41053.59,1972-05-16
+0945,Marchese Enrico,enrico.marchese@azienda.it,Vendite,Bologna,Tempo Indeterminato,2019-03-03,52774.77,1988-04-26
+0946,Donati Michela,michela.donati@azienda.it,Servizio Clienti,Perugia,Apprendistato,2021-03-08,32759.87,1998-04-26
+0947,Serra Giulia,giulia.serra@azienda.it,Legale,Bergamo,Tempo Determinato,2020-09-15,23169.00,1989-06-03
+0948,Ferri Sabrina,sabrina.ferri@azienda.it,Acquisti,Padova,Tempo Determinato,2011-10-07,43156.26,1968-10-12
+0949,Basile Paola,paola.basile@azienda.it,Servizio Clienti,Bologna,Apprendistato,2009-10-17,45574.63,1988-05-21
+0950,Esposito Luca,luca.esposito@azienda.it,Acquisti,Perugia,Apprendistato,2010-06-01,41976.67,2002-05-02
+0951,Pellegrini Alfredo,alfredo.pellegrini@azienda.it,Legale,Napoli,Tempo Indeterminato,2013-05-14,34270.86,1970-07-22
+0952,D'Angelo Marta,marta.dangelo@azienda.it,Amministrazione,Milano,Collaborazione,2012-08-08,46879.41,1975-08-05
+0953,Leone Elia,elia.leone@azienda.it,Produzione,Catania,Apprendistato,2019-12-17,38435.23,1995-03-02
+0954,Caputo Tommaso,tommaso.caputo@azienda.it,Finanza,Napoli,Apprendistato,2016-08-01,20000.00,1991-02-15
+0955,Conti Salvatore,salvatore.conti@azienda.it,Risorse Umane,Trieste,Collaborazione,2006-11-03,43800.50,1970-11-01
+0956,Greco Marta,marta.greco@azienda.it,Produzione,Modena,Collaborazione,2018-03-12,40760.97,1990-01-28
+0957,Martino Monica,monica.martino@azienda.it,Ricerca e Sviluppo,Trieste,Collaborazione,2020-06-15,45525.13,1983-09-14
+0958,Mazza Roberto,roberto.mazza@azienda.it,Risorse Umane,Parma,Collaborazione,2007-11-26,30130.65,1996-08-08
+0959,Negri Alessia,alessia.negri@azienda.it,Finanza,Brescia,Collaborazione,2005-09-25,34471.36,1981-07-27
+0960,Costa Davide,davide.costa@azienda.it,Produzione,Cagliari,Apprendistato,2005-11-26,20000.00,1988-06-14
+0961,Marchetti Serena,serena.marchetti2@azienda.it,Produzione,Catania,Apprendistato,2015-11-25,40467.17,2000-02-28
+0962,Marchetti Andrea,andrea.marchetti2@azienda.it,IT,Genova,Tempo Determinato,2021-08-04,35971.10,1986-12-05
+0963,Ferri Diego,diego.ferri@azienda.it,Marketing,Roma,Collaborazione,2015-10-17,23420.75,1980-02-26
+0964,Basile Carlo,carlo.basile@azienda.it,Comunicazione,Bergamo,Tempo Determinato,2022-02-02,29276.86,1971-03-20
+0965,Farina Nadia,nadia.farina@azienda.it,Controllo Qualità,Brescia,Tempo Determinato,2021-04-29,26835.53,1994-10-23
+0966,Leone Paola,paola.leone@azienda.it,Logistica,Venezia,Tempo Indeterminato,2020-01-15,50969.99,1984-11-16
+0967,Gallo Edoardo,edoardo.gallo@azienda.it,Comunicazione,Firenze,Tempo Indeterminato,2017-10-30,23244.60,1978-11-09
+0968,Barone Edoardo,edoardo.barone@azienda.it,Marketing,Genova,Tempo Indeterminato,2017-10-16,22464.54,1988-05-28
+0969,Ferrari Luigi,luigi.ferrari@azienda.it,Marketing,Perugia,Tempo Determinato,2005-06-05,33939.61,2002-03-21
+0970,Carbone Lorenzo,lorenzo.carbone@azienda.it,Amministrazione,Venezia,Collaborazione,2018-03-18,41705.28,1967-01-08
+0971,Palumbo Roberta,roberta.palumbo@azienda.it,Risorse Umane,Trieste,Tempo Indeterminato,2016-11-03,31832.00,1970-02-22
+0972,Lombardi Daniele,daniele.lombardi@azienda.it,Risorse Umane,Bari,Tempo Indeterminato,2008-06-17,42030.18,1978-10-06
+0973,Sorrentino Valentina,valentina.sorrentino@azienda.it,Produzione,Firenze,Tempo Indeterminato,2020-12-31,44277.70,1979-05-11
+0974,Vitale Alice,alice.vitale@azienda.it,Logistica,Napoli,Tempo Indeterminato,2009-07-18,38572.65,1975-10-01
+0975,Testa Sofia,sofia.testa@azienda.it,Acquisti,Modena,Collaborazione,2007-08-01,33941.64,1989-10-24
+0976,Esposito Noemi,noemi.esposito@azienda.it,Logistica,Palermo,Tempo Indeterminato,2011-01-14,43690.44,1989-11-08
+0977,Marchese Ilaria,ilaria.marchese2@azienda.it,Legale,Bologna,Apprendistato,2017-09-30,31511.72,1993-07-09
+0978,Marini Roberto,roberto.marini@azienda.it,Legale,Firenze,Tempo Determinato,2017-01-21,37315.10,1984-01-04
+0979,Rossi Sara,sara.rossi3@azienda.it,Comunicazione,Brescia,Apprendistato,2019-08-25,35324.51,1986-08-19
+0980,Grasso Rosa,rosa.grasso@azienda.it,Produzione,Genova,Apprendistato,2006-01-08,34942.48,1972-03-29
+0981,Marino Sergio,sergio.marino@azienda.it,IT,Torino,Collaborazione,2020-08-31,38927.34,1989-12-18
+0982,Sorrentino Antonio,antonio.sorrentino@azienda.it,Legale,Venezia,Apprendistato,2019-04-01,38828.74,1976-09-22
+0983,Gentile Nicola,nicola.gentile@azienda.it,Controllo Qualità,Venezia,Apprendistato,2009-09-22,21900.96,1965-09-18
+0984,Rossi Edoardo,edoardo.rossi@azienda.it,Amministrazione,Parma,Tempo Indeterminato,2005-03-20,38380.87,1995-03-06
+0985,Piras Irene,irene.piras@azienda.it,Servizio Clienti,Parma,Collaborazione,2017-01-26,52858.65,1994-03-20
+0986,Sanna Lucia,lucia.sanna@azienda.it,Controllo Qualità,Napoli,Apprendistato,2013-06-11,44986.41,2002-02-13
+0987,Santoro Paola,paola.santoro@azienda.it,Comunicazione,Milano,Tempo Indeterminato,2015-05-19,30502.78,1965-06-03
+0988,Serra Nadia,nadia.serra@azienda.it,Controllo Qualità,Verona,Tempo Determinato,2007-01-08,39760.16,2001-08-13
+0989,Martini Gloria,gloria.martini@azienda.it,Finanza,Parma,Apprendistato,2005-10-29,30837.66,1996-09-17
+0990,Caruso Marco,marco.caruso@azienda.it,Comunicazione,Padova,Tempo Indeterminato,2011-03-23,56270.09,1990-07-13
+0991,Benedetti Laura,laura.benedetti@azienda.it,Finanza,Cagliari,Tempo Determinato,2006-06-20,20920.91,1970-09-19
+0992,Battaglia Tommaso,tommaso.battaglia2@azienda.it,Acquisti,Bari,Tempo Determinato,2020-03-17,26291.25,1966-01-14
+0994,De Angelis Arianna,arianna.deangelis@azienda.it,IT,Napoli,Collaborazione,2016-02-12,29555.03,1981-03-20
+0995,Martini Alfredo,alfredo.martini@azienda.it,Vendite,Bari,Collaborazione,2016-12-10,34034.94,1973-09-24
+0997,Marchetti Emanuele,emanuele.marchetti@azienda.it,Marketing,Napoli,Tempo Indeterminato,2015-10-07,32993.23,2000-10-05
+0998,Gentile Paolo,paolo.gentile@azienda.it,Marketing,Parma,Tempo Determinato,2012-08-23,35914.47,2002-05-06
+0999,Longo Tommaso,tommaso.longo@azienda.it,Marketing,Bergamo,Collaborazione,2022-02-20,43969.31,1970-08-08
+1000,Grasso Alessandro,alessandro.grasso@azienda.it,Produzione,Torino,Tempo Determinato,2006-05-23,41150.96,2000-12-29

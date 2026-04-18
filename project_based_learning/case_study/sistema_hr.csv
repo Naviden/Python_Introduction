@@ -1,0 +1,951 @@
+Matricola;Cognome;Nome;Email;Reparto;Sede;DataAssunzione;Stipendio;DataNascita;Telefono;TipoContratto
+EMP0001;Mancini;Viviana;viviana.mancini@azienda.it;Vendite;Bari;03/01/2010;37974,75;24/03/1998;+39 055 2458591;Tempo Determinato
+EMP0002;Pellegrini;Teresa;teresa.pellegrini@azienda.it;Vendite;Milano;27/11/2009;38574,67;09/06/1975;+39 055 1445199;Tempo Indeterminato
+EMP0003;Caruso;Irene;irene.caruso@azienda.it;Servizio Clienti;Perugia;11/12/2009;27333,11;17/04/1965;+39 010 3678638;Collaborazione
+EMP0004;Pellegrini;Sabrina;sabrina.pellegrini@azienda.it;Produzione;Bari;30/10/2009;37533,32;02/04/1999;+39 011 2714803;Tempo Determinato
+EMP0006;Bruno;Claudio;claudio.bruno@azienda.it;Legale;Catania;13/12/2017;37968,30;17/08/1973;+39 081 2166941;Apprendistato
+EMP0007;Pagano;Sara;sara.pagano@azienda.it;Finanza;Catania;23/03/2010;41535,72;04/05/1985;+39 081 7120868;Tempo Indeterminato
+EMP0008;Marini;Giuseppe;giuseppe.marini@azienda.it;Produzione;Genova;28/09/2020;27724,54;31/08/1995;+39 081 2197935;Apprendistato
+EMP0009;Costanzo;Erika;erika.costanzo@azienda.it;Risorse Umane;Perugia;31/08/2008;27289,27;16/09/1993;+39 081 4684531;Tempo Determinato
+EMP0010;Villa;Rosa;rosa.villa@azienda.it;Comunicazione;Roma;20/09/2005;36863,47;10/02/2001;+39 011 7730428;Tempo Determinato
+EMP0011;Marino;Nicola;nicola.marino@azienda.it;Finanza;Cagliari;08/10/2009;29382,02;02/11/1993;+39 051 3396987;Apprendistato
+EMP0012;Rizzo;Monica;monica.rizzo@azienda.it;Finanza;Perugia;03/10/2021;26684,19;23/03/1991;+39 051 7700828;Apprendistato
+EMP0013;Martini;Alberto;alberto.martini@azienda.it;Risorse Umane;Modena;15/01/2007;35721,71;10/11/1971;+39 081 3684052;Collaborazione
+EMP0014;Pellegrini;Rosa;rosa.pellegrini@azienda.it;Amministrazione;Torino;24/07/2013;20000,00;25/09/1991;+39 051 9877065;Collaborazione
+EMP0015;Benedetti;Paolo;paolo.benedetti@azienda.it;Comunicazione;Milano;16/04/2020;47491,34;24/06/1999;+39 081 6707197;Tempo Indeterminato
+EMP0017;Marchese;Luigi;luigi.marchese@azienda.it;Risorse Umane;Modena;10/01/2019;30721,95;26/04/1992;+39 06 3564217;Tempo Indeterminato
+EMP0018;Marchese;Serena;serena.marchese@azienda.it;Risorse Umane;Perugia;08/06/2018;48617,85;17/07/1979;+39 051 1326765;Tempo Indeterminato
+EMP0019;Bianco;Davide;davide.bianco@azienda.it;Comunicazione;Catania;20/04/2006;35742,05;14/07/1968;+39 02 9153566;Tempo Determinato
+EMP0020;Marchese;Matteo;matteo.marchese@azienda.it;Legale;Bologna;19/10/2019;47923,54;28/04/1986;+39 055 3770370;Tempo Determinato
+EMP0021;Pellegrino;Monica;monica.pellegrino@azienda.it;Comunicazione;Bergamo;02/10/2009;50132,46;12/12/1995;+39 06 6229731;Collaborazione
+EMP0022;Guerra;Michela;michela.guerra@azienda.it;Controllo Qualità;Verona;10/08/2016;27752,61;03/04/1985;+39 02 5159166;Collaborazione
+EMP0023;Marino;Riccardo;riccardo.marino@azienda.it;Produzione;Milano;14/03/2018;35713,96;23/04/1993;+39 02 4841005;Tempo Determinato
+EMP0024;Bianchi;Matteo;matteo.bianchi@azienda.it;Comunicazione;Venezia;13/07/2016;38770,69;05/09/1975;+39 011 9143903;Tempo Indeterminato
+EMP0025;Giuliani;Federica;federica.giuliani@azienda.it;Risorse Umane;Cagliari;14/06/2010;38917,56;17/07/1973;+39 02 2626229;Collaborazione
+EMP0026;Palumbo;Raffaele;raffaele.palumbo@azienda.it;Produzione;Trieste;23/06/2015;20000,00;15/09/1997;+39 02 2651177;Collaborazione
+EMP0027;Sala;Valentina;valentina.sala@azienda.it;Servizio Clienti;Venezia;30/07/2010;39448,43;16/04/1971;+39 051 4078418;Tempo Indeterminato
+EMP0028;Monti;Barbara;barbara.monti@azienda.it;Finanza;Torino;06/05/2017;46571,90;24/05/1969;+39 02 1247595;Collaborazione
+EMP0031;Rinaldi;Anna;anna.rinaldi@azienda.it;IT;Genova;28/12/2017;34682,59;26/01/1979;+39 02 1841248;Tempo Indeterminato
+EMP0032;Morelli;Bruno;bruno.morelli@azienda.it;Legale;Modena;11/04/2006;31467,55;13/10/1987;+39 02 4117625;Tempo Determinato
+EMP0033;Ruggiero;Matteo;matteo.ruggiero@azienda.it;Marketing;Palermo;10/09/2007;47121,66;21/12/1990;+39 055 1666754;Collaborazione
+EMP0034;Bruno;Manuela;manuela.bruno@azienda.it;Logistica;Cagliari;07/11/2010;30340,77;01/03/1974;+39 081 6271130;Apprendistato
+EMP0035;Vitale;Fabio;fabio.vitale@azienda.it;Logistica;Bologna;04/04/2015;28256,07;03/04/1968;+39 02 8688755;Apprendistato
+EMP0037;Gentile;Matteo;matteo.gentile@azienda.it;Produzione;Catania;30/10/2014;42831,83;09/06/1992;+39 010 9874152;Tempo Determinato
+EMP0038;Guerra;Giulia;giulia.guerra@azienda.it;Comunicazione;Perugia;18/11/2019;21515,53;25/08/1969;+39 06 5437001;Apprendistato
+EMP0039;De Luca;Davide;davide.deluca@azienda.it;Servizio Clienti;Perugia;10/02/2011;33636,76;19/05/1980;+39 06 5428914;Tempo Determinato
+EMP0040;Amato;Luigi;luigi.amato@azienda.it;IT;Roma;25/03/2019;41741,33;01/01/1984;+39 010 5641923;Tempo Indeterminato
+EMP0041;Rossi;Sara;sara.rossi@azienda.it;Produzione;Bologna;16/08/2008;34302,44;09/03/1984;+39 055 1162230;Apprendistato
+EMP0042;Greco;Davide;davide.greco@azienda.it;Servizio Clienti;Bologna;13/04/2013;22352,34;17/02/1991;+39 055 3484601;Tempo Indeterminato
+EMP0043;Giordano;Arianna;arianna.giordano@azienda.it;Vendite;Catania;23/11/2005;40528,60;12/03/1976;+39 081 2724590;Apprendistato
+EMP0044;Montanari;Beatrice;beatrice.montanari@azienda.it;Legale;Trieste;24/04/2010;30925,88;16/04/1972;+39 010 3970445;Tempo Determinato
+EMP0045;Esposito;Vincenzo;vincenzo.esposito@azienda.it;Risorse Umane;Venezia;10/01/2020;46985,96;20/12/1976;+39 06 2813543;Collaborazione
+EMP0046;Bianchi;Claudio;claudio.bianchi@azienda.it;Comunicazione;Parma;23/06/2009;21242,34;18/08/2001;+39 051 6866294;Tempo Determinato
+EMP0047;Leone;Cristina;cristina.leone@azienda.it;Finanza;Milano;09/12/2013;25562,32;10/09/1999;+39 011 6891254;Tempo Determinato
+EMP0048;Testa;Edoardo;edoardo.testa@azienda.it;Logistica;Perugia;15/08/2005;52620,16;05/03/1970;+39 011 3995870;Apprendistato
+EMP0049;Vitale;Bruno;bruno.vitale@azienda.it;Vendite;Napoli;02/10/2012;33833,90;12/03/1992;+39 055 2940214;Collaborazione
+EMP0050;Bernardi;Paola;paola.bernardi@azienda.it;Finanza;Bari;24/11/2020;26402,23;24/07/1984;+39 02 9722815;Tempo Indeterminato
+EMP0051;Donati;Francesco;francesco.donati@azienda.it;Servizio Clienti;Genova;04/09/2014;48368,93;24/10/1979;+39 055 6266630;Apprendistato
+EMP0052;Costa;Raffaele;raffaele.costa@azienda.it;Servizio Clienti;Catania;17/12/2019;41288,25;28/04/1983;+39 011 7751158;Apprendistato
+EMP0053;De Santis;Sabrina;sabrina.desantis@azienda.it;Legale;Bologna;07/06/2014;30026,10;24/07/1998;+39 06 6049101;Tempo Determinato
+EMP0054;Benedetti;Michela;michela.benedetti@azienda.it;Comunicazione;Milano;09/06/2011;26598,10;06/06/1974;+39 051 6406444;Apprendistato
+EMP0055;Sanna;Debora;debora.sanna@azienda.it;Ricerca e Sviluppo;Genova;04/07/2021;37035,19;15/02/1988;+39 081 6623525;Collaborazione
+EMP0056;Graziano;Elisa;elisa.graziano2@azienda.it;Finanza;Catania;20/06/2009;38685,05;12/08/1971;+39 02 1775337;Tempo Determinato
+EMP0057;Cattaneo;Ilaria;ilaria.cattaneo@azienda.it;Amministrazione;Torino;19/04/2014;44883,45;23/03/1997;+39 081 7442089;Collaborazione
+EMP0058;Sala;Sofia;sofia.sala@azienda.it;Finanza;Bologna;04/11/2021;26411,26;18/07/1999;+39 02 8132769;Tempo Indeterminato
+EMP0059;Santoro;Riccardo;riccardo.santoro@azienda.it;Acquisti;Modena;16/02/2006;20000,00;12/06/1970;+39 051 3237058;Collaborazione
+EMP0061;Benedetti;Leonardo;leonardo.benedetti@azienda.it;Ricerca e Sviluppo;Firenze;04/02/2015;34564,98;09/08/1993;+39 011 9745959;Collaborazione
+EMP0062;D'Amico;Giorgio;giorgio.damico@azienda.it;Finanza;Bari;27/09/2006;42524,12;03/01/1997;+39 011 4934149;Collaborazione
+EMP0063;Conte;Nicola;nicola.conte@azienda.it;Produzione;Perugia;08/02/2008;40735,15;09/11/1971;+39 081 4589533;Tempo Indeterminato
+EMP0064;Gatti;Matteo;matteo.gatti@azienda.it;Logistica;Venezia;30/04/2014;42981,02;18/10/1967;+39 06 8048838;Collaborazione
+EMP0065;Valenti;Paola;paola.valenti@azienda.it;Amministrazione;Milano;13/09/2015;44304,81;19/10/1998;+39 051 8030010;Collaborazione
+EMP0066;De Rosa;Francesco;francesco.derosa@azienda.it;Servizio Clienti;Perugia;14/12/2015;35344,87;05/11/1974;+39 011 8312114;Tempo Determinato
+EMP0067;Esposito;Giorgio;giorgio.esposito@azienda.it;Logistica;Venezia;30/03/2021;40711,11;23/09/1970;+39 055 9961107;Collaborazione
+EMP0068;Messina;Francesca;francesca.messina@azienda.it;Amministrazione;Cagliari;19/11/2006;44663,15;31/10/1993;+39 051 3276659;Tempo Indeterminato
+EMP0069;Mariani;Debora;debora.mariani@azienda.it;Vendite;Bari;05/05/2012;37122,57;23/02/1999;+39 051 5668371;Collaborazione
+EMP0070;Gatti;Dario;dario.gatti@azienda.it;IT;Torino;08/06/2005;43640,07;08/08/1998;+39 055 1873851;Collaborazione
+EMP0071;Martini;Giacomo;giacomo.martini@azienda.it;Controllo Qualità;Torino;01/12/2021;42394,65;24/08/2002;+39 02 3556551;Tempo Indeterminato
+EMP0072;Giordano;Fabio;fabio.giordano@azienda.it;Ricerca e Sviluppo;Napoli;07/06/2015;36460,26;18/05/1996;+39 011 7189034;Tempo Determinato
+EMP0073;Sartori;Laura;laura.sartori@azienda.it;Amministrazione;Napoli;24/12/2011;36774,75;30/12/1978;+39 055 7296605;Tempo Determinato
+EMP0074;Fiore;Enrico;enrico.fiore@azienda.it;Finanza;Torino;15/04/2007;36432,84;10/04/1996;+39 010 6059717;Tempo Determinato
+EMP0075;Ruggiero;Rosa;rosa.ruggiero@azienda.it;Acquisti;Napoli;15/10/2012;20591,11;04/02/1968;+39 055 6724909;Tempo Indeterminato
+EMP0076;Gatti;Giulia;giulia.gatti@azienda.it;Comunicazione;Parma;22/09/2014;31992,90;01/04/1981;+39 081 8713146;Tempo Indeterminato
+EMP0077;Moretti;Valerio;valerio.moretti@azienda.it;Logistica;Firenze;25/10/2018;39444,85;09/09/1986;+39 051 8307727;Apprendistato
+EMP0078;Giorgi;Marina;marina.giorgi@azienda.it;IT;Venezia;11/12/2006;23391,54;06/07/1977;+39 051 5091349;Tempo Determinato
+EMP0079;Monti;Dario;dario.monti@azienda.it;Amministrazione;Bergamo;18/07/2012;54195,12;27/02/1973;+39 051 4558780;Collaborazione
+EMP0080;Vitale;Beatrice;beatrice.vitale@azienda.it;Produzione;Bari;20/06/2017;38499,42;16/06/1965;+39 055 4205394;Apprendistato
+EMP0081;Longo;Lorenzo;lorenzo.longo@azienda.it;Servizio Clienti;Trieste;15/06/2017;35785,45;22/12/1993;+39 081 9234615;Collaborazione
+EMP0082;Ferrari;Marta;marta.ferrari@azienda.it;Marketing;Catania;26/01/2014;20000,00;13/01/1996;+39 06 6137284;Tempo Determinato
+EMP0083;Martino;Raffaele;raffaele.martino@azienda.it;Produzione;Parma;18/07/2014;47641,31;13/10/1980;+39 081 8612582;Apprendistato
+EMP0084;Marchetti;Nicola;nicola.marchetti@azienda.it;IT;Palermo;06/03/2021;34732,41;22/08/1973;+39 011 3005795;Tempo Indeterminato
+EMP0085;Carbone;Daniela;daniela.carbone@azienda.it;Acquisti;Firenze;08/11/2009;34424,44;13/06/1991;+39 010 9801946;Tempo Determinato
+EMP0086;Coppola;Elia;elia.coppola@azienda.it;Marketing;Genova;07/02/2010;26975,07;10/03/1981;+39 06 6071208;Apprendistato
+EMP0087;Rossetti;Giulia;giulia.rossetti@azienda.it;Legale;Bologna;08/01/2006;47531,22;14/04/1996;+39 06 9235577;Apprendistato
+EMP0088;Russo;Martina;martina.russo@azienda.it;Amministrazione;Catania;27/09/2015;32958,30;04/10/1984;+39 011 4093109;Collaborazione
+EMP0089;Martinelli;Andrea;andrea.martinelli@azienda.it;Comunicazione;Parma;20/06/2006;31815,59;27/03/1993;+39 081 1899411;Tempo Indeterminato
+EMP0090;Moretti;Anna;anna.moretti@azienda.it;Acquisti;Cagliari;29/11/2006;37292,05;19/02/1976;+39 02 7982241;Apprendistato
+EMP0091;Ruggiero;Erika;erika.ruggiero@azienda.it;Acquisti;Bergamo;26/05/2022;24166,63;10/11/1984;+39 011 8194570;Tempo Determinato
+EMP0092;Palmieri;Cristina;cristina.palmieri@azienda.it;Amministrazione;Roma;09/02/2022;33453,15;28/04/1974;+39 081 4540415;Tempo Indeterminato
+EMP0093;Pagano;Monica;monica.pagano@azienda.it;Marketing;Firenze;24/11/2008;29473,62;30/04/1983;+39 051 8883823;Tempo Determinato
+EMP0094;Bianchi;Veronica;veronica.bianchi@azienda.it;Finanza;Catania;07/10/2020;33127,57;14/05/1985;+39 02 4916201;Apprendistato
+EMP0095;D'Amico;Monica;monica.damico@azienda.it;Amministrazione;Genova;30/07/2007;21118,88;01/12/1976;+39 010 3386328;Collaborazione
+EMP0096;Ricci;Chiara;chiara.ricci@azienda.it;Risorse Umane;Catania;07/11/2014;31008,52;31/07/1970;+39 051 6101803;Apprendistato
+EMP0097;Sala;Sabrina;sabrina.sala@azienda.it;IT;Modena;27/10/2014;37495,63;19/05/1984;+39 081 6407658;Collaborazione
+EMP0098;Martinelli;Erika;erika.martinelli@azienda.it;Vendite;Torino;15/02/2020;36381,02;02/07/2002;+39 010 1348050;Tempo Determinato
+EMP0099;Riva;Nadia;nadia.riva@azienda.it;Comunicazione;Bari;12/02/2022;35444,06;24/03/1994;+39 051 5666692;Tempo Indeterminato
+EMP0100;Martino;Elena;elena.martino@azienda.it;Logistica;Parma;18/07/2015;23732,01;10/08/1980;+39 051 6591986;Tempo Indeterminato
+EMP0101;Guerra;Alice;alice.guerra@azienda.it;Marketing;Firenze;27/03/2014;32142,21;19/12/1982;+39 010 1615675;Apprendistato
+EMP0102;Gallo;Salvatore;salvatore.gallo@azienda.it;Produzione;Bari;08/08/2007;27265,04;28/08/1999;+39 051 9633492;Apprendistato
+EMP0103;Pagano;Marco;marco.pagano@azienda.it;Comunicazione;Perugia;09/04/2014;46394,67;06/12/1992;+39 010 9363326;Collaborazione
+EMP0104;Sanna;Mirko;mirko.sanna@azienda.it;Acquisti;Roma;28/12/2010;39038,08;21/08/1989;+39 06 5832327;Tempo Determinato
+EMP0105;Piras;Pietro;pietro.piras@azienda.it;Ricerca e Sviluppo;Napoli;18/02/2019;29267,91;08/02/1972;+39 011 1229419;Tempo Indeterminato
+EMP0106;De Angelis;Diego;diego.deangelis@azienda.it;Marketing;Palermo;09/05/2015;30326,06;09/04/1970;+39 081 3583206;Tempo Indeterminato
+EMP0107;Fiore;Sofia;sofia.fiore@azienda.it;IT;Modena;27/04/2014;49219,18;08/12/1975;+39 051 3426689;Apprendistato
+EMP0108;Rinaldi;Paola;paola.rinaldi@azienda.it;Amministrazione;Modena;26/07/2006;20000,00;24/05/1977;+39 010 7961578;Tempo Determinato
+EMP0109;Mazza;Roberta;roberta.mazza@azienda.it;IT;Milano;14/04/2021;31005,68;09/08/1994;+39 051 3493017;Apprendistato
+EMP0110;Carbone;Marta;marta.carbone@azienda.it;Ricerca e Sviluppo;Verona;19/05/2017;47683,72;22/03/1999;+39 055 7328534;Apprendistato
+EMP0111;Villa;Salvatore;salvatore.villa@azienda.it;Comunicazione;Genova;29/10/2017;20399,21;06/06/1983;+39 02 6338112;Tempo Determinato
+EMP0112;Cattaneo;Daniela;daniela.cattaneo@azienda.it;Servizio Clienti;Padova;20/11/2019;48206,95;18/07/2000;+39 010 3551903;Collaborazione
+EMP0113;Bianchi;Sofia;sofia.bianchi@azienda.it;Risorse Umane;Modena;03/04/2007;42579,32;05/08/1988;+39 051 1257489;Apprendistato
+EMP0114;Lombardi;Alfredo;alfredo.lombardi@azienda.it;Logistica;Bologna;14/07/2015;27343,17;22/01/2000;+39 011 6680114;Tempo Indeterminato
+EMP0115;Negri;Manuela;manuela.negri@azienda.it;Logistica;Torino;16/02/2020;41201,57;17/03/1979;+39 081 9186400;Apprendistato
+EMP0117;Gallo;Daniela;daniela.gallo@azienda.it;Logistica;Napoli;14/12/2014;39232,34;20/04/1966;+39 02 6442103;Tempo Indeterminato
+EMP0118;De Santis;Valentina;valentina.desantis@azienda.it;Produzione;Verona;07/04/2008;42298,62;15/12/1975;+39 055 7913081;Collaborazione
+EMP0119;Donati;Sergio;sergio.donati@azienda.it;Acquisti;Firenze;05/12/2008;52792,38;19/10/1992;+39 081 5040453;Tempo Determinato
+EMP0120;Martino;Sofia;sofia.martino@azienda.it;Risorse Umane;Palermo;23/04/2019;44631,79;24/05/1976;+39 051 5283671;Collaborazione
+EMP0121;Russo;Lucia;lucia.russo@azienda.it;Acquisti;Brescia;13/03/2020;31249,27;02/07/1980;+39 055 6018975;Apprendistato
+EMP0122;Pellegrini;Viviana;viviana.pellegrini@azienda.it;Servizio Clienti;Bari;11/10/2011;33869,35;08/12/1973;+39 051 9106886;Collaborazione
+EMP0123;Longo;Martina;martina.longo@azienda.it;Logistica;Cagliari;22/11/2017;30593,52;26/12/1965;+39 010 7640518;Apprendistato
+EMP0124;Russo;Barbara;barbara.russo@azienda.it;Amministrazione;Roma;03/06/2011;49862,62;19/10/1999;+39 010 4860745;Collaborazione
+EMP0125;Fabbri;Erika;erika.fabbri@azienda.it;Finanza;Genova;15/03/2020;35598,44;18/07/1995;+39 010 3294774;Apprendistato
+EMP0126;Conti;Mirko;mirko.conti@azienda.it;Controllo Qualità;Roma;09/09/2022;20000,00;10/10/1984;+39 02 7121355;Apprendistato
+EMP0127;Giordano;Marina;marina.giordano@azienda.it;Marketing;Catania;07/10/2021;29226,30;13/04/2000;+39 055 7138070;Apprendistato
+EMP0128;Mazza;Lisa;lisa.mazza@azienda.it;IT;Firenze;23/10/2015;38389,97;06/03/2001;+39 011 6682698;Apprendistato
+EMP0129;Monti;Davide;davide.monti@azienda.it;Marketing;Bologna;03/03/2020;30490,04;09/12/2002;+39 010 7136687;Tempo Determinato
+EMP0130;Messina;Elisa;elisa.messina@azienda.it;Vendite;Bari;15/03/2015;20000,00;14/07/1981;+39 081 5398338;Tempo Indeterminato
+EMP0131;Grasso;Bruno;bruno.grasso@azienda.it;Comunicazione;Verona;20/02/2020;35228,46;09/03/1990;+39 011 4713925;Tempo Indeterminato
+EMP0132;Marino;Edoardo;edoardo.marino@azienda.it;Controllo Qualità;Brescia;25/07/2019;37239,74;26/04/1983;+39 02 3345069;Apprendistato
+EMP0133;Bianchi;Sara;sara.bianchi@azienda.it;IT;Parma;08/03/2007;36184,30;08/06/1982;+39 051 7224540;Tempo Indeterminato
+EMP0134;De Rosa;Lucia;lucia.derosa@azienda.it;Servizio Clienti;Perugia;05/03/2018;47362,82;19/04/1998;+39 081 3592464;Collaborazione
+EMP0135;Damiani;Jessica;jessica.damiani@azienda.it;Marketing;Parma;11/04/2011;44419,04;21/11/1984;+39 051 4961312;Collaborazione
+EMP0138;Marchese;Matteo;matteo.marchese2@azienda.it;Legale;Genova;24/03/2010;27726,92;28/09/1979;+39 010 3475548;Tempo Determinato
+EMP0139;Rossi;Elia;elia.rossi@azienda.it;IT;Bologna;12/02/2017;34974,54;27/08/1994;+39 010 1432519;Tempo Determinato
+EMP0140;Russo;Simone;simone.russo@azienda.it;Produzione;Palermo;10/05/2005;41192,89;25/10/1972;+39 011 1879109;Apprendistato
+EMP0141;Caputo;Simone;simone.caputo@azienda.it;Logistica;Modena;22/09/2021;45047,88;29/03/1981;+39 055 2829622;Tempo Indeterminato
+EMP0142;Mazza;Marta;marta.mazza@azienda.it;Finanza;Bergamo;24/04/2021;39240,44;19/02/2000;+39 010 9748499;Tempo Indeterminato
+EMP0143;Rizzi;Massimo;massimo.rizzi@azienda.it;Controllo Qualità;Milano;29/09/2015;41050,42;04/11/1969;+39 051 8441741;Tempo Indeterminato
+EMP0144;Bruno;Chiara;chiara.bruno@azienda.it;Produzione;Bergamo;23/06/2006;26367,91;30/08/1970;+39 011 6455706;Tempo Determinato
+EMP0146;Farina;Arianna;arianna.farina@azienda.it;Finanza;Trieste;05/03/2015;32189,02;20/11/1982;+39 051 2595275;Apprendistato
+EMP0147;Pellegrini;Filippo;filippo.pellegrini@azienda.it;Produzione;Bari;04/06/2008;30615,76;03/02/1969;+39 010 2432176;Apprendistato
+EMP0148;Palumbo;Elisa;elisa.palumbo@azienda.it;Marketing;Verona;24/06/2017;24541,93;10/09/1967;+39 055 6530541;Tempo Determinato
+EMP0149;Costa;Lucia;lucia.costa@azienda.it;Logistica;Verona;04/03/2021;42809,44;07/01/1979;+39 011 2738129;Collaborazione
+EMP0150;Mazza;Angela;angela.mazza@azienda.it;Finanza;Bologna;12/01/2010;37616,12;03/01/2003;+39 02 6873938;Collaborazione
+EMP0151;Marini;Irene;irene.marini@azienda.it;Marketing;Bari;17/08/2014;50251,93;18/09/2001;+39 055 1440466;Tempo Determinato
+EMP0152;Pagano;Erika;erika.pagano@azienda.it;Comunicazione;Bari;17/01/2009;20000,00;05/04/1977;+39 081 6183902;Tempo Indeterminato
+EMP0153;Ferri;Roberta;roberta.ferri@azienda.it;Vendite;Firenze;14/09/2017;32911,70;29/03/1998;+39 081 1514340;Tempo Determinato
+EMP0155;Marchetti;Serena;serena.marchetti@azienda.it;Servizio Clienti;Venezia;07/03/2006;44368,98;27/03/1967;+39 081 2368710;Tempo Indeterminato
+EMP0156;Sanna;Nicola;nicola.sanna@azienda.it;Controllo Qualità;Trieste;14/08/2018;48894,66;30/10/1984;+39 051 5582979;Collaborazione
+EMP0157;Graziano;Federica;federica.graziano@azienda.it;Legale;Napoli;23/08/2014;46549,38;10/08/1991;+39 051 9840487;Apprendistato
+EMP0158;Marchetti;Lucia;lucia.marchetti@azienda.it;Vendite;Palermo;11/06/2018;44663,74;17/06/1967;+39 02 4429650;Collaborazione
+EMP0159;Galli;Massimo;massimo.galli@azienda.it;Acquisti;Bologna;30/06/2011;34412,76;06/07/1998;+39 051 3947669;Apprendistato
+EMP0160;Grasso;Simone;simone.grasso@azienda.it;Legale;Palermo;14/08/2006;36098,70;24/10/1982;+39 010 1709714;Apprendistato
+EMP0161;Ferrari;Arianna;arianna.ferrari@azienda.it;Ricerca e Sviluppo;Torino;30/11/2017;25807,89;19/09/1993;+39 051 5857259;Apprendistato
+EMP0162;Sala;Davide;davide.sala@azienda.it;Vendite;Venezia;12/11/2018;39376,07;22/08/1985;+39 010 7070880;Tempo Determinato
+EMP0163;Palumbo;Elisa;elisa.palumbo2@azienda.it;Comunicazione;Napoli;10/10/2014;24666,60;03/10/1982;+39 010 6205543;Tempo Determinato
+EMP0164;Ferraro;Daniela;daniela.ferraro@azienda.it;Finanza;Venezia;18/09/2006;28544,57;25/11/1987;+39 081 2913049;Tempo Determinato
+EMP0165;Testa;Lisa;lisa.testa@azienda.it;Finanza;Verona;25/04/2021;48907,33;17/08/1971;+39 06 2724773;Apprendistato
+EMP0166;Martinelli;Roberto;roberto.martinelli@azienda.it;Finanza;Firenze;19/01/2022;31263,24;20/01/1999;+39 081 2264218;Tempo Determinato
+EMP0167;Valenti;Stefano;stefano.valenti@azienda.it;Controllo Qualità;Parma;03/12/2021;22879,06;22/07/1995;+39 055 6422534;Collaborazione
+EMP0168;Parisi;Mirko;mirko.parisi@azienda.it;Risorse Umane;Brescia;09/07/2015;29868,75;02/11/1984;+39 081 6080483;Tempo Indeterminato
+EMP0169;Giorgi;Barbara;barbara.giorgi@azienda.it;Vendite;Verona;18/12/2011;32310,76;17/07/1981;+39 010 5816353;Tempo Indeterminato
+EMP0170;Orlando;Chiara;chiara.orlando@azienda.it;Comunicazione;Torino;19/05/2015;35659,18;13/01/1991;+39 055 1688246;Collaborazione
+EMP0171;Bernardi;Marta;marta.bernardi@azienda.it;Controllo Qualità;Genova;28/07/2018;29347,96;11/10/1967;+39 051 2736473;Apprendistato
+EMP0172;Fiore;Roberta;roberta.fiore@azienda.it;Marketing;Modena;17/11/2005;35872,31;12/02/1976;+39 081 8344365;Tempo Determinato
+EMP0173;Pellegrino;Pietro;pietro.pellegrino@azienda.it;Legale;Bergamo;01/03/2013;29311,80;04/05/1983;+39 010 6676858;Tempo Determinato
+EMP0175;Martinelli;Daniele;daniele.martinelli@azienda.it;Servizio Clienti;Bergamo;23/06/2012;47867,80;10/09/1980;+39 011 7575963;Tempo Determinato
+EMP0176;Ruggiero;Simone;simone.ruggiero@azienda.it;Servizio Clienti;Torino;15/07/2017;42233,10;24/11/1981;+39 081 6510922;Apprendistato
+EMP0177;Guerra;Simone;simone.guerra@azienda.it;Servizio Clienti;Modena;29/06/2019;29288,10;26/10/1965;+39 011 6181912;Tempo Indeterminato
+EMP0178;Galli;Elena;elena.galli@azienda.it;Produzione;Parma;30/01/2010;24539,21;04/03/1971;+39 06 2294615;Tempo Determinato
+EMP0179;Conti;Veronica;veronica.conti@azienda.it;Legale;Perugia;06/11/2019;26157,97;18/11/1970;+39 055 7320310;Tempo Indeterminato
+EMP0180;Barbieri;Anna;anna.barbieri@azienda.it;Risorse Umane;Bergamo;05/03/2021;49579,72;19/08/1984;+39 02 7893063;Tempo Determinato
+EMP0181;Riva;Alberto;alberto.riva@azienda.it;Servizio Clienti;Palermo;11/09/2018;31382,67;20/02/1985;+39 06 9959220;Collaborazione
+EMP0182;Marchetti;Fabio;fabio.marchetti@azienda.it;Acquisti;Parma;02/04/2013;51217,47;06/06/1995;+39 055 8391997;Tempo Determinato
+EMP0183;Valenti;Debora;debora.valenti@azienda.it;IT;Padova;20/08/2008;42334,82;18/03/1971;+39 010 5194357;Collaborazione
+EMP0184;Orlando;Andrea;andrea.orlando@azienda.it;Ricerca e Sviluppo;Verona;15/12/2020;20000,00;12/12/2002;+39 055 3091745;Tempo Indeterminato
+EMP0185;Bruno;Daniele;daniele.bruno@azienda.it;Acquisti;Firenze;29/01/2015;39676,06;16/08/1984;+39 02 4725179;Apprendistato
+EMP0186;Ferri;Marta;marta.ferri@azienda.it;Vendite;Trieste;22/11/2013;31835,29;09/07/1987;+39 011 4955699;Tempo Indeterminato
+EMP0187;Bruno;Paola;paola.bruno@azienda.it;Produzione;Palermo;24/02/2012;52340,29;26/02/1994;+39 011 3450300;Tempo Indeterminato
+EMP0188;Bianchi;Giorgia;giorgia.bianchi@azienda.it;IT;Parma;08/01/2022;26949,92;25/08/1996;+39 051 8526283;Tempo Determinato
+EMP0189;Rossi;Adriano;adriano.rossi@azienda.it;Marketing;Milano;02/11/2009;41419,70;16/08/1997;+39 055 9854536;Apprendistato
+EMP0190;Mancini;Leonardo;leonardo.mancini@azienda.it;Acquisti;Catania;04/10/2011;24139,14;20/06/1970;+39 02 5000351;Tempo Determinato
+EMP0191;Costanzo;Jessica;jessica.costanzo@azienda.it;Acquisti;Bergamo;30/05/2006;51648,78;08/10/1991;+39 055 1275739;Collaborazione
+EMP0192;Testa;Mirko;mirko.testa@azienda.it;Amministrazione;Palermo;15/07/2011;48924,91;03/04/1984;+39 02 6919270;Tempo Determinato
+EMP0193;Bernardi;Fabio;fabio.bernardi@azienda.it;Logistica;Firenze;28/09/2016;38696,38;06/08/1988;+39 055 9511546;Tempo Indeterminato
+EMP0194;Benedetti;Luigi;luigi.benedetti@azienda.it;Vendite;Padova;23/12/2005;34406,32;07/07/1993;+39 051 7262974;Collaborazione
+EMP0195;De Rosa;Paolo;paolo.derosa@azienda.it;Vendite;Verona;25/09/2012;35815,36;26/08/1969;+39 010 6578736;Tempo Indeterminato
+EMP0196;Romano;Giorgia;giorgia.romano@azienda.it;Produzione;Perugia;02/06/2019;49608,25;08/11/1972;+39 010 8795078;Apprendistato
+EMP0197;Morelli;Sabrina;sabrina.morelli@azienda.it;Controllo Qualità;Firenze;01/06/2006;29922,55;29/08/1966;+39 011 4382135;Tempo Determinato
+EMP0198;Caruso;Sara;sara.caruso@azienda.it;Vendite;Venezia;24/07/2016;20000,00;12/11/1982;+39 010 8942330;Apprendistato
+EMP0199;Bianchi;Paolo;paolo.bianchi@azienda.it;Acquisti;Genova;03/01/2013;37027,36;01/06/1994;+39 011 5583814;Apprendistato
+EMP0200;Marini;Alessia;alessia.marini@azienda.it;Logistica;Padova;03/09/2013;32615,32;17/03/1980;+39 06 9324908;Collaborazione
+EMP0201;Silvestri;Tiziano;tiziano.silvestri@azienda.it;Produzione;Modena;08/11/2006;34418,08;10/01/1992;+39 010 4027557;Apprendistato
+EMP0202;De Santis;Camilla;camilla.desantis@azienda.it;Produzione;Napoli;10/05/2012;30986,95;25/08/1994;+39 011 6142147;Tempo Indeterminato
+EMP0203;Sartori;Marta;marta.sartori@azienda.it;Servizio Clienti;Trieste;21/06/2020;24782,18;09/08/1997;+39 010 6914963;Tempo Determinato
+EMP0204;Palumbo;Adriano;adriano.palumbo@azienda.it;IT;Roma;21/01/2020;38758,00;07/08/1993;+39 051 7095349;Tempo Indeterminato
+EMP0205;De Rosa;Greta;greta.derosa@azienda.it;Controllo Qualità;Firenze;15/03/2008;43747,79;28/08/1984;+39 02 3117788;Tempo Indeterminato
+EMP0206;Longo;Matteo;matteo.longo@azienda.it;Acquisti;Verona;03/08/2013;22745,53;12/06/1990;+39 02 3574265;Apprendistato
+EMP0207;Farina;Umberto;umberto.farina@azienda.it;Produzione;Verona;12/02/2022;39820,38;18/06/1981;+39 051 6274512;Collaborazione
+EMP0208;Serra;Carlotta;carlotta.serra@azienda.it;Finanza;Napoli;02/07/2021;37528,48;07/05/1973;+39 051 9686324;Tempo Indeterminato
+EMP0209;Barone;Paola;paola.barone@azienda.it;Marketing;Bari;16/10/2020;20000,00;23/10/1977;+39 081 9240971;Apprendistato
+EMP0210;Costa;Silvia;silvia.costa@azienda.it;Risorse Umane;Torino;15/11/2008;46101,09;31/12/1996;+39 051 2472884;Collaborazione
+EMP0211;Parisi;Rosa;rosa.parisi@azienda.it;Controllo Qualità;Verona;03/05/2017;20000,00;11/03/2003;+39 06 3920762;Tempo Indeterminato
+EMP0212;Testa;Alberto;alberto.testa@azienda.it;Finanza;Napoli;07/10/2022;29482,51;26/03/1971;+39 06 9288312;Tempo Determinato
+EMP0213;Bianco;Francesca;francesca.bianco@azienda.it;Legale;Cagliari;26/06/2015;39190,19;14/06/1992;+39 02 2103070;Apprendistato
+EMP0214;Messina;Cristina;cristina.messina@azienda.it;Servizio Clienti;Parma;02/04/2022;23046,88;15/05/1983;+39 010 2237331;Collaborazione
+EMP0215;Parisi;Simone;simone.parisi@azienda.it;Controllo Qualità;Torino;14/06/2015;31092,33;11/03/2002;+39 010 4052834;Collaborazione
+EMP0216;Giordano;Omar;omar.giordano@azienda.it;Logistica;Modena;15/10/2007;26680,99;29/03/1988;+39 06 6102363;Tempo Indeterminato
+EMP0217;Barbieri;Laura;laura.barbieri@azienda.it;Produzione;Palermo;21/08/2016;50276,87;29/03/1976;+39 06 5604524;Apprendistato
+EMP0218;D'Amico;Simone;simone.damico@azienda.it;IT;Bergamo;10/04/2016;23138,65;02/10/1993;+39 06 3586950;Tempo Indeterminato
+EMP0219;Pagano;Laura;laura.pagano@azienda.it;Amministrazione;Bergamo;23/08/2017;54302,32;23/08/1968;+39 02 5440189;Apprendistato
+EMP0220;Ferrara;Carlotta;carlotta.ferrara@azienda.it;Acquisti;Cagliari;12/11/2018;40110,69;31/08/1993;+39 02 9355692;Collaborazione
+EMP0221;Giuliani;Mirko;mirko.giuliani@azienda.it;IT;Catania;30/06/2010;40120,68;06/05/1978;+39 051 2224284;Collaborazione
+EMP0222;Ricci;Tiziano;tiziano.ricci@azienda.it;Risorse Umane;Brescia;11/11/2015;20688,84;01/11/1985;+39 06 6707484;Collaborazione
+EMP0223;Lombardi;Erika;erika.lombardi@azienda.it;Produzione;Venezia;11/12/2013;41552,72;13/03/1990;+39 02 6353876;Apprendistato
+EMP0224;Monti;Fabio;fabio.monti@azienda.it;Marketing;Bari;24/07/2010;42045,60;28/04/1971;+39 02 1849015;Collaborazione
+EMP0225;Valentini;Veronica;veronica.valentini@azienda.it;Comunicazione;Bergamo;27/07/2010;55978,26;29/06/2001;+39 011 6246485;Collaborazione
+EMP0226;Marchese;Giovanni;giovanni.marchese@azienda.it;Risorse Umane;Parma;09/03/2016;29989,47;04/11/1978;+39 051 1388833;Collaborazione
+EMP0227;Messina;Elisa;elisa.messina2@azienda.it;Legale;Brescia;29/10/2009;32264,73;15/08/1977;+39 051 8895137;Tempo Determinato
+EMP0228;Carbone;Daniele;daniele.carbone@azienda.it;Vendite;Napoli;03/01/2008;33420,55;12/11/1976;+39 081 7136730;Collaborazione
+EMP0229;Sala;Nadia;nadia.sala@azienda.it;Produzione;Roma;24/02/2006;29051,17;26/10/1989;+39 011 2233658;Collaborazione
+EMP0230;Mazza;Paola;paola.mazza@azienda.it;Ricerca e Sviluppo;Perugia;24/12/2018;32187,82;10/07/1995;+39 055 2993318;Apprendistato
+EMP0231;Conti;Simone;simone.conti@azienda.it;Logistica;Verona;06/07/2017;50552,28;06/12/1973;+39 055 9541658;Apprendistato
+EMP0232;Mazza;Michela;michela.mazza@azienda.it;Vendite;Roma;28/01/2008;28723,25;04/01/1997;+39 011 8948107;Tempo Indeterminato
+EMP0233;Rizzi;Tommaso;tommaso.rizzi@azienda.it;Risorse Umane;Bergamo;10/05/2012;42956,15;18/08/1982;+39 055 6020319;Tempo Determinato
+EMP0234;Ferraro;Teresa;teresa.ferraro@azienda.it;Legale;Modena;23/11/2020;31339,36;02/04/1990;+39 011 8967375;Collaborazione
+EMP0235;Marini;Luca;luca.marini@azienda.it;Produzione;Napoli;03/02/2018;27412,39;12/11/1995;+39 081 1447065;Collaborazione
+EMP0236;Cattaneo;Elia;elia.cattaneo@azienda.it;IT;Cagliari;07/03/2021;55012,36;22/04/1967;+39 055 9060593;Tempo Determinato
+EMP0237;Pellegrino;Laura;laura.pellegrino@azienda.it;Controllo Qualità;Bergamo;25/04/2008;38241,19;07/09/1990;+39 081 2843740;Collaborazione
+EMP0238;Ferrari;Giovanni;giovanni.ferrari@azienda.it;Ricerca e Sviluppo;Venezia;25/05/2008;28294,71;11/07/1983;+39 081 4420734;Collaborazione
+EMP0239;Mazza;Vincenzo;vincenzo.mazza@azienda.it;Acquisti;Bergamo;03/07/2021;32786,45;08/04/1988;+39 06 6453426;Collaborazione
+EMP0240;Morelli;Raffaele;raffaele.morelli@azienda.it;Legale;Padova;19/11/2008;20000,00;15/08/1985;+39 055 6743294;Apprendistato
+EMP0241;Fabbri;Camilla;camilla.fabbri@azienda.it;Controllo Qualità;Bari;25/04/2009;42799,71;23/05/1978;+39 06 5993143;Collaborazione
+EMP0242;Coppola;Omar;omar.coppola@azienda.it;Servizio Clienti;Genova;11/02/2012;32857,67;11/07/1986;+39 011 5587856;Collaborazione
+EMP0243;Costa;Daniele;daniele.costa@azienda.it;Amministrazione;Perugia;07/11/2013;45358,93;03/02/2001;+39 06 5872986;Collaborazione
+EMP0244;Coppola;Sara;sara.coppola@azienda.it;Servizio Clienti;Torino;03/12/2014;20000,00;05/06/1994;+39 011 9037616;Apprendistato
+EMP0245;Caruso;Federica;federica.caruso@azienda.it;Comunicazione;Perugia;10/08/2017;33196,88;14/08/1992;+39 081 5014486;Apprendistato
+EMP0246;Colombo;Ilaria;ilaria.colombo@azienda.it;Controllo Qualità;Modena;24/04/2019;29873,58;12/06/1975;+39 02 2681042;Tempo Determinato
+EMP0247;Conte;Vincenzo;vincenzo.conte@azienda.it;Servizio Clienti;Parma;12/04/2020;35132,62;08/09/1989;+39 06 7826774;Tempo Indeterminato
+EMP0248;Cattaneo;Carlotta;carlotta.cattaneo@azienda.it;Ricerca e Sviluppo;Genova;16/03/2012;33989,36;21/10/1977;+39 081 1992583;Apprendistato
+EMP0249;Gallo;Omar;omar.gallo@azienda.it;Controllo Qualità;Cagliari;01/01/2017;33615,71;04/09/1966;+39 06 8010946;Tempo Determinato
+EMP0250;Bianchi;Stefano;stefano.bianchi@azienda.it;Comunicazione;Padova;07/03/2009;20000,00;07/08/1998;+39 010 5856449;Collaborazione
+EMP0251;Russo;Alessandro;alessandro.russo@azienda.it;IT;Cagliari;07/07/2012;28522,77;16/05/1989;+39 055 9286475;Tempo Indeterminato
+EMP0252;Mazza;Giorgia;giorgia.mazza@azienda.it;Ricerca e Sviluppo;Bari;12/07/2007;64357,01;01/11/1979;+39 06 8699307;Tempo Determinato
+EMP0253;Martinelli;Edoardo;edoardo.martinelli@azienda.it;Servizio Clienti;Firenze;10/07/2021;30648,40;03/04/1995;+39 010 4240708;Tempo Indeterminato
+EMP0254;Sorrentino;Stefano;stefano.sorrentino@azienda.it;Comunicazione;Padova;23/07/2016;42140,16;17/09/1979;+39 02 7724865;Collaborazione
+EMP0255;Conti;Lucia;lucia.conti@azienda.it;Risorse Umane;Bologna;04/04/2012;36076,88;17/03/1982;+39 06 8494978;Collaborazione
+EMP0256;Lombardo;Dario;dario.lombardo@azienda.it;Produzione;Catania;13/11/2010;34540,61;28/04/1994;+39 011 4964499;Tempo Indeterminato
+EMP0257;Guerra;Valentina;valentina.guerra@azienda.it;Marketing;Brescia;01/08/2008;25209,08;24/07/1996;+39 010 6217344;Apprendistato
+EMP0258;Costa;Tiziano;tiziano.costa@azienda.it;Controllo Qualità;Catania;15/10/2018;41616,50;28/11/1974;+39 06 3240912;Apprendistato
+EMP0259;Moretti;Noemi;noemi.moretti@azienda.it;Ricerca e Sviluppo;Bergamo;30/04/2014;28430,93;22/12/1998;+39 055 4664338;Apprendistato
+EMP0260;Gentile;Nadia;nadia.gentile@azienda.it;Controllo Qualità;Bergamo;14/10/2016;20000,00;15/01/1985;+39 055 7069742;Tempo Indeterminato
+EMP0261;Palmieri;Chiara;chiara.palmieri@azienda.it;Marketing;Roma;05/11/2017;29162,21;01/05/2003;+39 055 8412854;Tempo Determinato
+EMP0262;Donati;Davide;davide.donati@azienda.it;Finanza;Cagliari;15/01/2007;33631,01;23/11/1987;+39 051 1933413;Collaborazione
+EMP0263;Giordano;Salvatore;salvatore.giordano@azienda.it;Legale;Trieste;25/08/2017;45415,83;13/03/2001;+39 011 1365247;Collaborazione
+EMP0264;Martinelli;Enrico;enrico.martinelli@azienda.it;Comunicazione;Milano;21/12/2017;38953,53;11/04/1968;+39 02 8108462;Tempo Determinato
+EMP0265;Piras;Giacomo;giacomo.piras@azienda.it;Marketing;Perugia;20/07/2006;46260,19;17/11/1977;+39 051 4019585;Tempo Indeterminato
+EMP0266;Rizzo;Omar;omar.rizzo@azienda.it;Acquisti;Trieste;31/07/2013;34016,72;13/02/1985;+39 010 7333337;Apprendistato
+EMP0267;Bruno;Claudio;claudio.bruno2@azienda.it;Controllo Qualità;Perugia;29/08/2019;38210,38;06/02/1989;+39 051 9872505;Tempo Determinato
+EMP0268;Battaglia;Simone;simone.battaglia@azienda.it;Finanza;Milano;11/09/2011;31133,51;08/10/1985;+39 081 8115687;Tempo Indeterminato
+EMP0269;Grasso;Francesco;francesco.grasso@azienda.it;Comunicazione;Palermo;02/05/2015;30437,66;10/07/1997;+39 010 2893218;Tempo Determinato
+EMP0270;Pagano;Alessandro;alessandro.pagano@azienda.it;Logistica;Bergamo;26/05/2010;41609,17;31/03/1974;+39 02 2692765;Tempo Indeterminato
+EMP0271;Bianchi;Elia;elia.bianchi@azienda.it;Ricerca e Sviluppo;Bergamo;28/06/2010;34397,41;07/07/1975;+39 055 4645172;Tempo Indeterminato
+EMP0272;Montanari;Dario;dario.montanari@azienda.it;Vendite;Bologna;03/04/2010;24872,88;05/08/2001;+39 081 6350316;Apprendistato
+EMP0273;Ruggiero;Angela;angela.ruggiero@azienda.it;Acquisti;Venezia;09/10/2011;55770,99;20/05/1988;+39 06 7938388;Tempo Determinato
+EMP0274;Serra;Massimo;massimo.serra@azienda.it;Vendite;Perugia;16/01/2019;20000,00;13/06/1995;+39 051 9315137;Tempo Determinato
+EMP0275;Ferri;Andrea;andrea.ferri@azienda.it;Controllo Qualità;Padova;14/08/2020;30082,72;20/11/1981;+39 06 8944327;Apprendistato
+EMP0276;Martini;Fabio;fabio.martini@azienda.it;IT;Bologna;18/04/2006;37853,10;25/03/1990;+39 051 7987842;Collaborazione
+EMP0277;Pellegrino;Irene;irene.pellegrino@azienda.it;Risorse Umane;Padova;20/09/2010;39169,09;06/03/1985;+39 010 7225647;Tempo Determinato
+EMP0278;Carbone;Elisa;elisa.carbone@azienda.it;Servizio Clienti;Genova;09/01/2011;48809,76;02/12/1981;+39 081 1663497;Tempo Indeterminato
+EMP0279;Rinaldi;Chiara;chiara.rinaldi@azienda.it;Acquisti;Cagliari;03/10/2015;40567,88;08/08/1978;+39 02 4553544;Tempo Determinato
+EMP0280;Caputo;Giovanni;giovanni.caputo@azienda.it;Marketing;Parma;08/08/2020;56073,69;11/02/1992;+39 081 4431161;Tempo Determinato
+EMP0281;Longo;Enrico;enrico.longo@azienda.it;Legale;Venezia;16/07/2013;20859,05;02/11/1978;+39 011 7033835;Apprendistato
+EMP0282;Silvestri;Greta;greta.silvestri@azienda.it;Ricerca e Sviluppo;Napoli;31/01/2022;38044,42;02/09/2002;+39 011 4407913;Collaborazione
+EMP0283;Parisi;Serena;serena.parisi@azienda.it;Logistica;Roma;17/08/2021;39728,86;14/03/1991;+39 055 8005797;Tempo Determinato
+EMP0284;Moretti;Veronica;veronica.moretti@azienda.it;Finanza;Venezia;09/07/2013;41169,94;24/07/1990;+39 010 5122665;Tempo Determinato
+EMP0286;Fontana;Salvatore;salvatore.fontana@azienda.it;Servizio Clienti;Verona;21/02/2008;20000,00;24/04/1997;+39 055 9192588;Tempo Determinato
+EMP0287;Giuliani;Elena;elena.giuliani@azienda.it;Controllo Qualità;Roma;01/09/2006;48982,18;15/04/1999;+39 02 7918793;Tempo Indeterminato
+EMP0288;D'Amico;Giorgia;giorgia.damico@azienda.it;Finanza;Torino;16/03/2005;29984,77;24/10/1974;+39 055 8650572;Tempo Determinato
+EMP0289;Ricci;Serena;serena.ricci@azienda.it;Amministrazione;Bergamo;15/10/2019;33851,46;30/09/1989;+39 051 1198826;Collaborazione
+EMP0290;Pellegrino;Luca;luca.pellegrino@azienda.it;Servizio Clienti;Bari;21/05/2005;35087,82;13/07/1987;+39 010 8223819;Apprendistato
+EMP0291;De Luca;Stefano;stefano.deluca@azienda.it;Marketing;Modena;29/05/2010;39362,76;27/07/2001;+39 011 5484964;Tempo Determinato
+EMP0292;Bruno;Enrico;enrico.bruno@azienda.it;Produzione;Padova;03/09/2017;46422,28;29/11/1975;+39 081 4789255;Collaborazione
+EMP0293;Donati;Massimo;massimo.donati@azienda.it;Comunicazione;Torino;05/02/2007;26941,96;09/05/1986;+39 02 1158547;Tempo Indeterminato
+EMP0294;Fontana;Sabrina;sabrina.fontana@azienda.it;Marketing;Parma;20/06/2019;40455,66;09/03/2000;+39 011 2599906;Collaborazione
+EMP0295;Romano;Lisa;lisa.romano@azienda.it;Finanza;Genova;30/01/2011;38763,80;30/07/1977;+39 055 1552000;Collaborazione
+EMP0296;Parisi;Stefano;stefano.parisi@azienda.it;Vendite;Genova;15/11/2021;36133,66;25/10/2001;+39 081 7682298;Tempo Determinato
+EMP0297;D'Angelo;Chiara;chiara.dangelo@azienda.it;Risorse Umane;Cagliari;17/09/2017;40035,44;01/04/1989;+39 011 7439870;Tempo Determinato
+EMP0298;Caputo;Dario;dario.caputo@azienda.it;Risorse Umane;Torino;16/03/2006;26442,71;20/05/1969;+39 051 4894730;Apprendistato
+EMP0299;Ferraro;Chiara;chiara.ferraro@azienda.it;Amministrazione;Bergamo;08/05/2022;28453,06;24/02/2000;+39 051 9230960;Collaborazione
+EMP0300;Fabbri;Claudia;claudia.fabbri@azienda.it;Legale;Padova;02/03/2009;47578,92;29/06/1995;+39 055 7376562;Collaborazione
+EMP0301;Valenti;Lorenzo;lorenzo.valenti@azienda.it;Amministrazione;Catania;29/12/2020;42071,01;17/01/1982;+39 081 3588336;Tempo Determinato
+EMP0302;Valentini;Renato;renato.valentini@azienda.it;Produzione;Verona;20/01/2007;38519,68;27/03/1965;+39 011 8461429;Tempo Indeterminato
+EMP0303;Marchese;Alberto;alberto.marchese@azienda.it;IT;Napoli;17/12/2006;39184,02;19/11/1989;+39 055 7845845;Tempo Determinato
+EMP0304;Esposito;Martina;martina.esposito@azienda.it;Marketing;Verona;23/05/2018;45081,73;30/10/1991;+39 010 6443037;Tempo Indeterminato
+EMP0305;Russo;Paola;paola.russo@azienda.it;IT;Trieste;23/06/2022;53537,64;22/11/1975;+39 055 9742683;Collaborazione
+EMP0307;Marino;Roberto;roberto.marino@azienda.it;Risorse Umane;Trieste;12/06/2014;29626,78;14/03/1981;+39 011 5137094;Apprendistato
+EMP0308;D'Amico;Alfredo;alfredo.damico@azienda.it;Ricerca e Sviluppo;Bergamo;09/04/2015;51625,07;19/10/1969;+39 06 6111313;Tempo Determinato
+EMP0309;Messina;Marco;marco.messina@azienda.it;Produzione;Bergamo;23/05/2012;25126,63;10/12/2001;+39 010 3283789;Collaborazione
+EMP0310;Villa;Massimo;massimo.villa@azienda.it;Amministrazione;Genova;18/01/2012;38893,16;20/12/1972;+39 051 6354241;Collaborazione
+EMP0311;Caputo;Veronica;veronica.caputo@azienda.it;Servizio Clienti;Parma;23/04/2012;21892,77;17/08/1982;+39 011 2910720;Tempo Determinato
+EMP0312;Caruso;Sergio;sergio.caruso@azienda.it;Amministrazione;Perugia;16/04/2020;47934,55;08/06/1999;+39 055 1451577;Tempo Determinato
+EMP0313;Monti;Marina;marina.monti@azienda.it;Servizio Clienti;Genova;15/07/2011;36850,55;12/01/2003;+39 010 7864256;Collaborazione
+EMP0314;Silvestri;Umberto;umberto.silvestri@azienda.it;Risorse Umane;Catania;01/09/2010;31697,16;19/07/1994;+39 06 8098909;Tempo Determinato
+EMP0315;Greco;Claudio;claudio.greco@azienda.it;Ricerca e Sviluppo;Bergamo;22/01/2018;25348,29;11/01/1996;+39 051 1616817;Collaborazione
+EMP0316;Piras;Alberto;alberto.piras@azienda.it;Acquisti;Perugia;15/06/2007;41938,06;30/06/1999;+39 06 6956059;Tempo Indeterminato
+EMP0317;Orlando;Laura;laura.orlando@azienda.it;Amministrazione;Roma;18/11/2021;26250,65;02/10/1969;+39 02 2654343;Collaborazione
+EMP0318;Martini;Monica;monica.martini@azienda.it;Legale;Modena;31/12/2014;50543,57;13/10/1981;+39 051 8768911;Tempo Determinato
+EMP0319;Riva;Omar;omar.riva@azienda.it;Amministrazione;Modena;26/09/2012;46481,57;03/04/1978;+39 051 2440404;Tempo Determinato
+EMP0320;Battaglia;Davide;davide.battaglia@azienda.it;Risorse Umane;Verona;11/09/2012;34834,26;05/06/1985;+39 010 4470657;Apprendistato
+EMP0321;Morelli;Tommaso;tommaso.morelli@azienda.it;Produzione;Parma;30/10/2014;33078,64;06/01/1968;+39 011 1749657;Tempo Indeterminato
+EMP0322;Mancini;Valerio;valerio.mancini@azienda.it;Vendite;Venezia;10/03/2020;24194,09;21/11/2000;+39 06 5092180;Tempo Indeterminato
+EMP0323;Santoro;Tommaso;tommaso.santoro@azienda.it;Legale;Firenze;23/07/2017;25035,06;14/10/2000;+39 051 4094587;Apprendistato
+EMP0324;Costanzo;Elena;elena.costanzo@azienda.it;Controllo Qualità;Trieste;28/08/2005;39969,86;29/01/1998;+39 055 4310554;Collaborazione
+EMP0325;Giorgi;Marta;marta.giorgi@azienda.it;Logistica;Padova;22/10/2020;36772,09;27/07/1996;+39 010 2049645;Tempo Indeterminato
+EMP0326;De Luca;Angela;angela.deluca@azienda.it;Acquisti;Perugia;16/03/2013;42880,44;16/08/1979;+39 06 8676422;Tempo Determinato
+EMP0327;Vitale;Davide;davide.vitale@azienda.it;Controllo Qualità;Parma;23/05/2018;27361,32;15/02/1970;+39 011 6905327;Apprendistato
+EMP0328;Neri;Salvatore;salvatore.neri@azienda.it;Risorse Umane;Catania;28/01/2020;41430,06;04/01/1971;+39 011 2977390;Tempo Indeterminato
+EMP0329;Marchetti;Fabio;fabio.marchetti2@azienda.it;Marketing;Firenze;21/07/2020;41256,17;03/10/1991;+39 06 7437584;Apprendistato
+EMP0330;Mariani;Leonardo;leonardo.mariani@azienda.it;Ricerca e Sviluppo;Perugia;12/06/2017;42695,22;26/06/1972;+39 051 5845843;Tempo Determinato
+EMP0333;Fontana;Giorgio;giorgio.fontana@azienda.it;Marketing;Cagliari;26/01/2022;35474,72;01/02/1975;+39 055 5843084;Tempo Indeterminato
+EMP0334;Montanari;Laura;laura.montanari@azienda.it;Ricerca e Sviluppo;Cagliari;01/05/2017;37534,35;01/12/1987;+39 02 2916069;Collaborazione
+EMP0335;Montanari;Nicola;nicola.montanari@azienda.it;Legale;Verona;17/01/2022;32564,92;27/01/1984;+39 02 5152891;Tempo Indeterminato
+EMP0336;Bianchi;Massimo;massimo.bianchi@azienda.it;Ricerca e Sviluppo;Bari;14/12/2006;22664,78;11/09/1984;+39 010 2969410;Apprendistato
+EMP0337;Longo;Cinzia;cinzia.longo@azienda.it;Finanza;Cagliari;10/12/2020;26864,70;22/08/1992;+39 06 4466502;Apprendistato
+EMP0338;Ricci;Antonio;antonio.ricci@azienda.it;Amministrazione;Verona;22/05/2018;28247,33;03/03/1989;+39 06 6430006;Apprendistato
+EMP0339;De Santis;Valerio;valerio.desantis@azienda.it;IT;Cagliari;16/07/2016;50018,78;10/04/1969;+39 06 7905438;Apprendistato
+EMP0340;Serra;Valentina;valentina.serra@azienda.it;Comunicazione;Bologna;08/08/2010;33626,78;25/07/1971;+39 081 6403886;Tempo Determinato
+EMP0341;Marchese;Ilaria;ilaria.marchese@azienda.it;Comunicazione;Padova;10/03/2008;28006,40;01/08/1983;+39 051 8583162;Collaborazione
+EMP0342;Costanzo;Chiara;chiara.costanzo@azienda.it;Acquisti;Torino;25/07/2016;31301,27;20/08/1998;+39 011 7191986;Collaborazione
+EMP0343;Amato;Salvatore;salvatore.amato@azienda.it;Produzione;Cagliari;13/05/2022;37535,09;26/07/1985;+39 081 7009980;Tempo Indeterminato
+EMP0344;Carbone;Matteo;matteo.carbone@azienda.it;Logistica;Genova;02/10/2009;31376,86;12/03/1987;+39 011 6416778;Collaborazione
+EMP0345;Ferraro;Daniele;daniele.ferraro@azienda.it;Legale;Cagliari;12/09/2017;45573,50;14/08/1995;+39 010 1812172;Tempo Determinato
+EMP0346;Conti;Sara;sara.conti@azienda.it;Controllo Qualità;Brescia;15/10/2007;20903,14;02/02/1972;+39 051 8659103;Tempo Indeterminato
+EMP0347;Pellegrini;Marco;marco.pellegrini@azienda.it;Finanza;Bologna;26/07/2008;49412,23;10/03/1969;+39 081 7047102;Apprendistato
+EMP0348;Bruno;Paolo;paolo.bruno@azienda.it;Produzione;Firenze;21/11/2013;20482,96;23/01/1993;+39 011 4928281;Tempo Indeterminato
+EMP0349;Damiani;Leonardo;leonardo.damiani@azienda.it;Marketing;Napoli;15/10/2009;29720,45;23/02/1975;+39 055 8466983;Tempo Indeterminato
+EMP0350;Russo;Giulia;giulia.russo@azienda.it;Servizio Clienti;Venezia;22/06/2014;35774,87;19/02/1996;+39 06 9014480;Tempo Indeterminato
+EMP0351;Leone;Chiara;chiara.leone@azienda.it;Logistica;Torino;26/04/2007;27002,34;25/02/1971;+39 051 3233823;Tempo Indeterminato
+EMP0352;Riva;Edoardo;edoardo.riva@azienda.it;Risorse Umane;Torino;09/09/2018;54019,60;27/02/1994;+39 06 8383643;Tempo Indeterminato
+EMP0353;Basile;Giacomo;giacomo.basile@azienda.it;Finanza;Bologna;26/10/2018;27304,61;21/11/1968;+39 02 3349030;Collaborazione
+EMP0354;Costa;Dario;dario.costa@azienda.it;Amministrazione;Padova;19/08/2014;20000,00;09/02/1979;+39 010 3345961;Apprendistato
+EMP0355;Serra;Ilaria;ilaria.serra@azienda.it;Controllo Qualità;Torino;31/05/2017;22129,18;13/10/1977;+39 010 1450038;Tempo Determinato
+EMP0356;D'Angelo;Raffaele;raffaele.dangelo@azienda.it;Finanza;Modena;10/10/2021;25524,79;29/07/1982;+39 011 1915518;Tempo Determinato
+EMP0357;Silvestri;Fabio;fabio.silvestri@azienda.it;Logistica;Napoli;16/03/2016;32517,97;17/07/1965;+39 011 6309530;Tempo Determinato
+EMP0358;Valentini;Simone;simone.valentini@azienda.it;Comunicazione;Cagliari;13/03/2013;32072,30;05/07/1989;+39 081 3898604;Collaborazione
+EMP0359;Cattaneo;Nadia;nadia.cattaneo@azienda.it;Acquisti;Torino;05/03/2018;42106,68;15/10/1966;+39 02 7676912;Tempo Indeterminato
+EMP0360;Coppola;Luigi;luigi.coppola@azienda.it;Controllo Qualità;Modena;02/07/2014;38210,54;25/06/1996;+39 051 2382909;Collaborazione
+EMP0361;Carbone;Viviana;viviana.carbone@azienda.it;Legale;Bergamo;24/03/2011;38510,58;12/02/1974;+39 010 3606795;Tempo Determinato
+EMP0362;Villa;Francesco;francesco.villa@azienda.it;Logistica;Cagliari;16/12/2011;37034,60;05/05/1996;+39 051 5003671;Tempo Indeterminato
+EMP0363;Gentile;Valentina;valentina.gentile@azienda.it;Marketing;Trieste;04/03/2015;32438,80;18/11/1994;+39 081 3946849;Tempo Indeterminato
+EMP0364;Russo;Alessia;alessia.russo@azienda.it;Servizio Clienti;Bologna;04/09/2008;32818,17;09/04/1987;+39 011 9774573;Tempo Indeterminato
+EMP0365;Basile;Tommaso;tommaso.basile@azienda.it;IT;Firenze;06/11/2007;34971,43;17/11/1997;+39 02 1492516;Apprendistato
+EMP0366;Pellegrini;Emanuele;emanuele.pellegrini@azienda.it;IT;Modena;25/11/2010;20000,00;14/12/1996;+39 055 2293020;Tempo Indeterminato
+EMP0367;Rizzi;Sofia;sofia.rizzi@azienda.it;Legale;Verona;16/03/2016;38833,09;22/01/1972;+39 011 2726457;Tempo Indeterminato
+EMP0368;Riva;Angela;angela.riva@azienda.it;Servizio Clienti;Napoli;13/08/2021;30328,46;29/10/1987;+39 02 1738833;Tempo Determinato
+EMP0369;Gentile;Giulia;giulia.gentile@azienda.it;Vendite;Parma;04/08/2013;40507,40;03/08/1966;+39 055 8035849;Apprendistato
+EMP0370;Villa;Riccardo;riccardo.villa@azienda.it;Finanza;Trieste;01/02/2011;31982,48;20/01/2002;+39 02 7254683;Apprendistato
+EMP0371;Mazza;Alessia;alessia.mazza@azienda.it;Controllo Qualità;Roma;03/01/2010;44452,81;26/12/1982;+39 02 8802985;Tempo Determinato
+EMP0372;Montanari;Daniele;daniele.montanari@azienda.it;Comunicazione;Catania;09/12/2006;20000,00;23/10/1989;+39 051 1133700;Apprendistato
+EMP0374;Giuliani;Marina;marina.giuliani@azienda.it;Acquisti;Palermo;22/02/2005;27217,95;25/05/1983;+39 02 4909053;Tempo Determinato
+EMP0376;Ferrara;Martina;martina.ferrara@azienda.it;Legale;Palermo;14/01/2016;25298,85;09/09/1967;+39 06 5694689;Collaborazione
+EMP0377;Romano;Elisa;elisa.romano@azienda.it;Finanza;Modena;20/09/2020;43775,96;20/07/1998;+39 02 2603516;Collaborazione
+EMP0378;Rizzo;Luigi;luigi.rizzo@azienda.it;Controllo Qualità;Padova;11/04/2018;28243,56;22/06/1990;+39 02 8297801;Tempo Indeterminato
+EMP0379;Giordano;Raffaele;raffaele.giordano@azienda.it;Finanza;Catania;25/01/2012;43931,98;26/04/2002;+39 081 6473593;Apprendistato
+EMP0380;Farina;Filippo;filippo.farina@azienda.it;IT;Palermo;19/07/2009;30522,34;09/02/1971;+39 010 2828260;Tempo Indeterminato
+EMP0381;De Luca;Anna;anna.deluca@azienda.it;Risorse Umane;Brescia;17/01/2012;24685,76;23/07/1999;+39 06 8581910;Collaborazione
+EMP0382;Monti;Cristina;cristina.monti@azienda.it;IT;Napoli;15/07/2008;41867,17;24/03/2001;+39 081 6103880;Tempo Indeterminato
+EMP0383;Piras;Valerio;valerio.piras@azienda.it;Amministrazione;Roma;09/05/2012;44397,21;16/12/1980;+39 051 9614423;Tempo Determinato
+EMP0384;Riva;Andrea;andrea.riva@azienda.it;IT;Bari;12/09/2005;47651,77;21/02/1983;+39 010 8586676;Tempo Determinato
+EMP0385;De Rosa;Irene;irene.derosa@azienda.it;Legale;Palermo;14/05/2015;49250,44;13/06/1970;+39 02 2034637;Tempo Indeterminato
+EMP0386;Martini;Cinzia;cinzia.martini@azienda.it;Risorse Umane;Genova;08/05/2013;45616,79;15/10/1995;+39 081 2409947;Collaborazione
+EMP0387;Giorgi;Bruno;bruno.giorgi@azienda.it;IT;Torino;13/06/2006;39646,61;21/04/2001;+39 06 2543145;Tempo Indeterminato
+EMP0388;Costa;Emanuele;emanuele.costa@azienda.it;Vendite;Brescia;08/10/2008;48641,60;29/09/1990;+39 051 7626978;Tempo Indeterminato
+EMP0389;Esposito;Sofia;sofia.esposito@azienda.it;Logistica;Trieste;09/12/2012;36415,51;22/07/1977;+39 051 3493621;Tempo Determinato
+EMP0390;Sorrentino;Alessandro;alessandro.sorrentino@azienda.it;Amministrazione;Bergamo;09/07/2019;41280,00;29/03/1978;+39 051 7912082;Tempo Determinato
+EMP0391;Morelli;Diego;diego.morelli@azienda.it;Vendite;Torino;04/08/2013;39340,44;05/10/2000;+39 055 5180005;Apprendistato
+EMP0392;Giuliani;Mirko;mirko.giuliani2@azienda.it;Acquisti;Milano;16/07/2022;40064,96;31/12/1996;+39 011 9047769;Collaborazione
+EMP0393;Amato;Camilla;camilla.amato@azienda.it;Produzione;Cagliari;17/09/2013;34705,72;15/10/1991;+39 06 1491630;Apprendistato
+EMP0394;Serra;Cinzia;cinzia.serra@azienda.it;Vendite;Parma;14/03/2022;37279,28;14/03/1991;+39 06 3678059;Apprendistato
+EMP0395;Gentile;Federico;federico.gentile@azienda.it;Controllo Qualità;Palermo;20/12/2016;44031,51;06/07/1967;+39 010 4681115;Apprendistato
+EMP0396;Valentini;Angela;angela.valentini@azienda.it;Produzione;Firenze;22/04/2010;20000,00;31/07/1991;+39 011 7019382;Tempo Determinato
+EMP0397;Esposito;Teresa;teresa.esposito@azienda.it;Servizio Clienti;Verona;18/08/2017;53044,56;09/05/2001;+39 051 6185050;Tempo Determinato
+EMP0398;Amato;Stefano;stefano.amato@azienda.it;Vendite;Torino;21/03/2010;28931,77;28/12/1991;+39 06 1334336;Tempo Indeterminato
+EMP0399;Morelli;Lisa;lisa.morelli@azienda.it;Vendite;Venezia;05/12/2007;31625,56;29/12/2000;+39 010 6428919;Tempo Determinato
+EMP0400;Ferrari;Valentina;valentina.ferrari@azienda.it;Risorse Umane;Cagliari;15/05/2022;40261,63;23/12/1969;+39 010 9829762;Tempo Determinato
+EMP0401;Greco;Alberto;alberto.greco@azienda.it;Produzione;Padova;20/07/2012;33269,10;25/01/1972;+39 081 8329435;Tempo Indeterminato
+EMP0402;Amato;Viviana;viviana.amato@azienda.it;Controllo Qualità;Venezia;11/11/2020;40132,75;18/03/1990;+39 081 6986539;Tempo Determinato
+EMP0403;Guerra;Riccardo;riccardo.guerra@azienda.it;Amministrazione;Firenze;19/11/2011;34161,40;21/12/1972;+39 081 1030163;Collaborazione
+EMP0404;Bernardi;Sabrina;sabrina.bernardi@azienda.it;Logistica;Cagliari;31/01/2009;26689,08;09/01/1992;+39 011 4706007;Tempo Indeterminato
+EMP0405;Palmieri;Viviana;viviana.palmieri@azienda.it;Marketing;Parma;05/06/2012;34784,31;02/05/1979;+39 06 2488575;Tempo Determinato
+EMP0406;Guerra;Valerio;valerio.guerra@azienda.it;Controllo Qualità;Venezia;04/04/2005;27630,19;24/11/1976;+39 06 5186600;Collaborazione
+EMP0407;Marino;Tiziano;tiziano.marino@azienda.it;Produzione;Bari;27/02/2021;44875,49;11/11/1997;+39 051 3790695;Tempo Indeterminato
+EMP0408;Silvestri;Vincenzo;vincenzo.silvestri@azienda.it;Logistica;Verona;11/04/2007;35079,50;07/03/2002;+39 051 4784650;Collaborazione
+EMP0409;Farina;Giuseppe;giuseppe.farina@azienda.it;Marketing;Roma;14/06/2005;24699,26;30/04/1968;+39 011 3853891;Apprendistato
+EMP0410;Barbieri;Claudio;claudio.barbieri@azienda.it;Servizio Clienti;Torino;31/07/2012;57356,27;25/08/1991;+39 055 9098979;Tempo Indeterminato
+EMP0411;Esposito;Valerio;valerio.esposito@azienda.it;Logistica;Firenze;10/07/2008;43464,91;10/07/1973;+39 051 5450404;Collaborazione
+EMP0412;Coppola;Raffaele;raffaele.coppola@azienda.it;IT;Palermo;11/02/2006;37961,06;17/08/1982;+39 055 9236745;Tempo Indeterminato
+EMP0413;Colombo;Anna;anna.colombo@azienda.it;Produzione;Milano;19/12/2006;30930,70;04/12/1991;+39 051 4349987;Collaborazione
+EMP0414;Esposito;Federico;federico.esposito@azienda.it;Finanza;Firenze;03/11/2006;49156,08;30/03/1986;+39 010 2937918;Apprendistato
+EMP0415;Messina;Cristina;cristina.messina2@azienda.it;Ricerca e Sviluppo;Parma;17/01/2007;28778,11;23/08/1981;+39 051 7197531;Apprendistato
+EMP0416;Farina;Elena;elena.farina@azienda.it;Vendite;Bari;07/06/2015;27296,87;25/10/1976;+39 06 5505722;Collaborazione
+EMP0417;Ricci;Sergio;sergio.ricci@azienda.it;Risorse Umane;Napoli;27/12/2019;28059,64;07/12/1998;+39 055 4817030;Tempo Indeterminato
+EMP0418;Ricci;Diego;diego.ricci@azienda.it;Comunicazione;Padova;04/01/2017;45381,14;27/10/1995;+39 010 8966231;Collaborazione
+EMP0419;Longo;Angela;angela.longo@azienda.it;Ricerca e Sviluppo;Catania;09/11/2013;47966,57;11/07/1987;+39 055 9670757;Tempo Indeterminato
+EMP0420;Riva;Angela;angela.riva2@azienda.it;Amministrazione;Bologna;25/12/2021;25920,64;22/02/1985;+39 06 3804559;Tempo Indeterminato
+EMP0421;Rinaldi;Federica;federica.rinaldi@azienda.it;Risorse Umane;Roma;04/10/2006;45663,32;24/11/2001;+39 081 3480985;Collaborazione
+EMP0423;Grassi;Barbara;barbara.grassi@azienda.it;Ricerca e Sviluppo;Milano;11/07/2007;30134,91;17/05/1991;+39 055 2681144;Collaborazione
+EMP0424;Palmieri;Martina;martina.palmieri@azienda.it;Acquisti;Napoli;05/01/2017;37900,26;04/06/1980;+39 051 5431477;Apprendistato
+EMP0425;Damiani;Paola;paola.damiani@azienda.it;Ricerca e Sviluppo;Cagliari;03/11/2005;39769,56;25/09/1992;+39 055 7739741;Collaborazione
+EMP0426;Messina;Alessandro;alessandro.messina@azienda.it;Produzione;Palermo;23/09/2021;43967,18;26/04/1986;+39 011 7248518;Tempo Indeterminato
+EMP0427;Ferraro;Luca;luca.ferraro@azienda.it;Comunicazione;Catania;16/04/2011;45888,24;21/09/1995;+39 02 4824490;Apprendistato
+EMP0428;D'Angelo;Giorgia;giorgia.dangelo@azienda.it;Servizio Clienti;Brescia;17/01/2011;20000,00;10/09/1997;+39 051 2497984;Apprendistato
+EMP0429;Sanna;Giovanni;giovanni.sanna@azienda.it;Finanza;Trieste;13/01/2022;25374,56;10/07/1967;+39 055 3667115;Collaborazione
+EMP0430;Marchetti;Matteo;matteo.marchetti@azienda.it;Servizio Clienti;Modena;17/01/2008;33998,43;05/01/2000;+39 010 9796063;Collaborazione
+EMP0432;Marini;Barbara;barbara.marini@azienda.it;Comunicazione;Brescia;03/04/2019;46041,96;23/07/1970;+39 081 1512765;Collaborazione
+EMP0433;Marini;Fabio;fabio.marini@azienda.it;Ricerca e Sviluppo;Bergamo;25/12/2008;45997,88;25/09/1989;+39 011 6775539;Collaborazione
+EMP0434;Vitale;Giuseppe;giuseppe.vitale@azienda.it;Servizio Clienti;Torino;13/08/2005;32214,52;05/05/1982;+39 02 3733132;Apprendistato
+EMP0435;Montanari;Angela;angela.montanari@azienda.it;Finanza;Palermo;14/03/2020;38899,46;10/01/1988;+39 02 1149283;Tempo Determinato
+EMP0436;Giordano;Carlo;carlo.giordano@azienda.it;Controllo Qualità;Firenze;08/01/2010;48988,13;28/04/1976;+39 055 6124763;Tempo Indeterminato
+EMP0437;Rossetti;Gloria;gloria.rossetti@azienda.it;Controllo Qualità;Bari;12/06/2013;41604,36;16/10/1974;+39 051 6069153;Collaborazione
+EMP0438;Grassi;Umberto;umberto.grassi@azienda.it;Comunicazione;Bergamo;10/02/2018;26097,82;04/08/1969;+39 02 9581776;Collaborazione
+EMP0439;Marini;Raffaele;raffaele.marini@azienda.it;Legale;Bergamo;12/09/2011;30407,78;01/02/1980;+39 011 6454894;Apprendistato
+EMP0440;Vitale;Barbara;barbara.vitale@azienda.it;Controllo Qualità;Catania;13/05/2008;24494,45;16/03/1988;+39 010 5031599;Tempo Determinato
+EMP0441;Ruggiero;Valentina;valentina.ruggiero@azienda.it;Logistica;Venezia;06/03/2021;46579,80;06/04/1978;+39 011 8022366;Tempo Determinato
+EMP0442;Valentini;Michela;michela.valentini@azienda.it;Servizio Clienti;Roma;12/09/2012;36868,03;04/08/1997;+39 081 4730635;Tempo Determinato
+EMP0443;Carbone;Rosa;rosa.carbone@azienda.it;Controllo Qualità;Parma;18/05/2016;33106,56;02/07/1994;+39 055 4038955;Apprendistato
+EMP0444;Conti;Veronica;veronica.conti2@azienda.it;Ricerca e Sviluppo;Bologna;07/04/2021;40803,24;05/04/2001;+39 055 4071377;Apprendistato
+EMP0445;Conte;Rosa;rosa.conte@azienda.it;Controllo Qualità;Torino;20/12/2012;38378,56;12/11/1983;+39 010 6558579;Tempo Determinato
+EMP0446;Vitale;Serena;serena.vitale@azienda.it;Amministrazione;Catania;23/08/2007;54971,11;09/02/1986;+39 02 2194801;Collaborazione
+EMP0447;Rinaldi;Carlo;carlo.rinaldi@azienda.it;Legale;Napoli;19/11/2016;34002,55;27/04/2003;+39 06 3304606;Collaborazione
+EMP0448;Ferraro;Silvia;silvia.ferraro@azienda.it;Logistica;Cagliari;19/03/2008;38181,31;12/03/1979;+39 010 4025884;Collaborazione
+EMP0449;Bruno;Cinzia;cinzia.bruno@azienda.it;Ricerca e Sviluppo;Venezia;12/01/2012;34354,86;09/04/1977;+39 06 3828735;Tempo Determinato
+EMP0450;Marchese;Angela;angela.marchese@azienda.it;Risorse Umane;Parma;27/11/2007;34272,86;25/07/1992;+39 051 8204299;Tempo Indeterminato
+EMP0451;Pellegrini;Michela;michela.pellegrini@azienda.it;Ricerca e Sviluppo;Padova;06/11/2005;20000,00;19/08/1965;+39 011 9909268;Tempo Indeterminato
+EMP0452;Ferrari;Giovanni;giovanni.ferrari2@azienda.it;Controllo Qualità;Milano;28/01/2010;31587,66;10/02/1996;+39 011 6236039;Tempo Determinato
+EMP0453;De Luca;Simone;simone.deluca@azienda.it;Logistica;Modena;30/09/2008;37805,49;17/01/1978;+39 051 9728991;Apprendistato
+EMP0454;Pellegrino;Elia;elia.pellegrino@azienda.it;Produzione;Trieste;08/09/2012;36220,05;28/12/1986;+39 011 4161264;Tempo Determinato
+EMP0455;Sala;Laura;laura.sala@azienda.it;Vendite;Palermo;23/04/2021;41857,04;26/12/1965;+39 055 9466346;Tempo Determinato
+EMP0456;Costa;Laura;laura.costa@azienda.it;Produzione;Roma;13/05/2019;34346,58;22/06/1976;+39 010 9971338;Collaborazione
+EMP0457;Colombo;Manuela;manuela.colombo@azienda.it;Amministrazione;Roma;30/08/2019;36619,65;13/03/1970;+39 051 8454356;Tempo Indeterminato
+EMP0458;Costa;Claudio;claudio.costa@azienda.it;Legale;Bari;28/09/2020;32304,79;14/11/1971;+39 06 1156104;Collaborazione
+EMP0459;Gatti;Massimo;massimo.gatti@azienda.it;Controllo Qualità;Napoli;20/12/2018;30721,23;06/04/2002;+39 02 9582968;Apprendistato
+EMP0460;Neri;Alfredo;alfredo.neri@azienda.it;Marketing;Catania;08/08/2022;31653,64;08/10/1969;+39 051 4332737;Tempo Indeterminato
+EMP0461;Caruso;Erika;erika.caruso@azienda.it;Acquisti;Bari;11/01/2013;32586,80;08/10/1966;+39 055 9327450;Tempo Determinato
+EMP0462;Negri;Antonio;antonio.negri@azienda.it;Ricerca e Sviluppo;Venezia;23/01/2005;26988,28;28/07/1965;+39 081 2493219;Tempo Determinato
+EMP0463;Bernardi;Davide;davide.bernardi@azienda.it;Controllo Qualità;Parma;08/01/2007;35728,61;17/06/1997;+39 02 5293157;Tempo Determinato
+EMP0464;Leone;Edoardo;edoardo.leone@azienda.it;Ricerca e Sviluppo;Catania;01/06/2015;31117,75;01/04/1967;+39 02 3931009;Apprendistato
+EMP0465;De Santis;Sara;sara.desantis@azienda.it;Produzione;Venezia;26/07/2021;49570,03;22/01/1967;+39 02 3321873;Collaborazione
+EMP0466;Orlando;Raffaele;raffaele.orlando@azienda.it;Risorse Umane;Venezia;26/10/2014;47992,55;22/11/1992;+39 011 2559464;Apprendistato
+EMP0467;Ferraro;Serena;serena.ferraro@azienda.it;Risorse Umane;Napoli;23/12/2013;42742,93;21/04/1982;+39 081 9023619;Collaborazione
+EMP0468;Damiani;Jessica;jessica.damiani2@azienda.it;Acquisti;Firenze;22/12/2007;33131,30;25/03/1996;+39 081 1983923;Tempo Indeterminato
+EMP0469;De Luca;Giuseppe;giuseppe.deluca@azienda.it;Logistica;Cagliari;05/10/2017;32249,57;13/01/1982;+39 010 7016291;Collaborazione
+EMP0470;Esposito;Adriano;adriano.esposito@azienda.it;Comunicazione;Bologna;13/12/2015;29305,00;25/01/1970;+39 051 8393515;Collaborazione
+EMP0471;Marino;Sara;sara.marino@azienda.it;IT;Venezia;20/10/2020;43257,03;11/05/1998;+39 055 4757843;Tempo Indeterminato
+EMP0472;Ferraro;Lucia;lucia.ferraro@azienda.it;Legale;Modena;16/09/2014;26020,42;07/09/1994;+39 081 5170429;Tempo Indeterminato
+EMP0473;Ferri;Noemi;noemi.ferri@azienda.it;Controllo Qualità;Padova;10/07/2017;45728,69;10/07/1965;+39 081 3632804;Tempo Determinato
+EMP0474;Cattaneo;Luigi;luigi.cattaneo@azienda.it;Comunicazione;Parma;06/09/2006;26356,10;16/09/1998;+39 051 6379342;Tempo Determinato
+EMP0475;Conte;Fabio;fabio.conte@azienda.it;IT;Roma;07/05/2017;28687,27;18/07/1975;+39 02 8702329;Tempo Determinato
+EMP0476;Bernardi;Pietro;pietro.bernardi@azienda.it;Ricerca e Sviluppo;Torino;11/01/2015;27036,97;07/03/1979;+39 02 9344540;Collaborazione
+EMP0477;Damiani;Daniela;daniela.damiani@azienda.it;Vendite;Napoli;01/04/2014;47302,94;18/01/2002;+39 02 6110305;Collaborazione
+EMP0478;Barone;Greta;greta.barone@azienda.it;Finanza;Brescia;24/02/2013;37817,64;08/01/2002;+39 02 4739945;Apprendistato
+EMP0479;Conte;Salvatore;salvatore.conte@azienda.it;Legale;Bergamo;27/01/2021;26262,10;12/02/1970;+39 02 4720299;Collaborazione
+EMP0480;Ferraro;Marco;marco.ferraro@azienda.it;Produzione;Catania;30/09/2020;21758,24;08/10/1969;+39 02 3754070;Apprendistato
+EMP0481;Rizzo;Sofia;sofia.rizzo@azienda.it;Comunicazione;Trieste;15/09/2010;30056,07;25/03/2003;+39 051 4616991;Tempo Indeterminato
+EMP0482;Rinaldi;Salvatore;salvatore.rinaldi@azienda.it;Servizio Clienti;Venezia;25/12/2021;30865,26;05/08/1983;+39 02 3067274;Tempo Indeterminato
+EMP0483;Farina;Omar;omar.farina@azienda.it;Ricerca e Sviluppo;Cagliari;10/03/2016;51319,48;26/10/1989;+39 051 9102253;Tempo Determinato
+EMP0484;Montanari;Greta;greta.montanari@azienda.it;Risorse Umane;Cagliari;21/05/2021;35444,88;27/07/2001;+39 06 2737347;Tempo Determinato
+EMP0485;Pagano;Paola;paola.pagano@azienda.it;Amministrazione;Bergamo;22/04/2016;42654,68;26/04/1992;+39 081 5164755;Apprendistato
+EMP0486;Messina;Barbara;barbara.messina@azienda.it;Produzione;Catania;29/12/2007;27936,61;14/03/1971;+39 051 9594877;Collaborazione
+EMP0487;Piras;Massimo;massimo.piras@azienda.it;Legale;Venezia;04/07/2009;38964,69;20/10/1995;+39 011 3225862;Tempo Determinato
+EMP0488;Damiani;Valerio;valerio.damiani@azienda.it;Risorse Umane;Modena;07/12/2020;50326,55;06/03/1970;+39 010 6909569;Apprendistato
+EMP0489;Morelli;Irene;irene.morelli@azienda.it;Amministrazione;Cagliari;15/02/2020;34743,03;29/10/1977;+39 010 8086467;Collaborazione
+EMP0490;Grassi;Giulia;giulia.grassi@azienda.it;Marketing;Milano;05/04/2008;20000,00;20/05/1967;+39 081 1949670;Collaborazione
+EMP0491;Lombardo;Silvia;silvia.lombardo@azienda.it;Acquisti;Firenze;30/04/2020;34932,59;24/12/1995;+39 010 5951637;Apprendistato
+EMP0492;Graziano;Antonio;antonio.graziano@azienda.it;Legale;Roma;25/02/2015;54124,34;07/08/1969;+39 055 4763253;Apprendistato
+EMP0493;Orlando;Daniela;daniela.orlando@azienda.it;Legale;Padova;17/06/2016;38830,49;26/11/1977;+39 081 1788191;Tempo Determinato
+EMP0494;Valentini;Claudio;claudio.valentini@azienda.it;Logistica;Venezia;17/04/2005;20000,00;12/05/1998;+39 011 4407238;Tempo Indeterminato
+EMP0495;Montanari;Manuela;manuela.montanari@azienda.it;Comunicazione;Brescia;20/03/2019;30938,06;15/11/1998;+39 055 4296204;Tempo Determinato
+EMP0496;Basile;Cinzia;cinzia.basile@azienda.it;Finanza;Catania;24/12/2008;21139,38;16/08/1995;+39 02 4136946;Collaborazione
+EMP0497;Caputo;Stefano;stefano.caputo@azienda.it;Legale;Napoli;29/11/2005;23511,56;02/11/1970;+39 06 5278461;Collaborazione
+EMP0498;Conte;Marco;marco.conte@azienda.it;Ricerca e Sviluppo;Bologna;13/06/2008;40538,20;22/06/1979;+39 055 1853212;Tempo Indeterminato
+EMP0499;D'Amico;Cinzia;cinzia.damico@azienda.it;Amministrazione;Catania;19/09/2022;26548,83;03/03/2000;+39 081 6332789;Collaborazione
+EMP0500;Martini;Lisa;lisa.martini@azienda.it;Risorse Umane;Modena;21/08/2022;30848,16;30/08/1987;+39 06 7978168;Tempo Indeterminato
+EMP0501;Carbone;Camilla;camilla.carbone@azienda.it;Logistica;Torino;18/12/2009;45969,61;08/11/1979;+39 011 5925360;Apprendistato
+EMP0502;Graziano;Federica;federica.graziano2@azienda.it;Amministrazione;Modena;04/08/2017;25130,82;13/12/2001;+39 010 1147701;Collaborazione
+EMP0503;Guerra;Davide;davide.guerra@azienda.it;Produzione;Brescia;29/05/2019;24474,26;16/10/1966;+39 081 6384429;Tempo Determinato
+EMP0504;Mancini;Claudio;claudio.mancini@azienda.it;Logistica;Bari;22/07/2005;25871,90;09/03/1988;+39 010 7290752;Apprendistato
+EMP0505;Testa;Greta;greta.testa@azienda.it;Ricerca e Sviluppo;Parma;26/08/2011;40248,79;20/01/1988;+39 02 2609881;Tempo Indeterminato
+EMP0506;Valenti;Laura;laura.valenti@azienda.it;Legale;Perugia;23/01/2019;31099,26;09/12/1967;+39 06 4576485;Tempo Indeterminato
+EMP0507;Pellegrini;Rosa;rosa.pellegrini2@azienda.it;Comunicazione;Napoli;23/01/2017;44752,27;04/04/1998;+39 010 8302077;Tempo Determinato
+EMP0508;Greco;Edoardo;edoardo.greco@azienda.it;Servizio Clienti;Bologna;20/04/2015;20000,00;27/02/1997;+39 011 1635626;Tempo Indeterminato
+EMP0509;Greco;Elisa;elisa.greco@azienda.it;Vendite;Firenze;08/07/2017;51778,72;08/08/1976;+39 051 7510106;Apprendistato
+EMP0510;D'Amico;Marta;marta.damico@azienda.it;Logistica;Trieste;19/05/2005;42952,47;22/06/1982;+39 081 2984841;Apprendistato
+EMP0511;Rossi;Francesco;francesco.rossi@azienda.it;Controllo Qualità;Bergamo;15/12/2021;34922,35;19/01/2003;+39 02 7001212;Tempo Indeterminato
+EMP0512;De Luca;Luigi;luigi.deluca@azienda.it;IT;Catania;26/04/2011;31948,60;01/05/1999;+39 051 7399057;Tempo Indeterminato
+EMP0513;Pagano;Enrico;enrico.pagano@azienda.it;Vendite;Parma;19/12/2016;38119,29;28/09/2000;+39 010 5948917;Tempo Determinato
+EMP0514;Lombardi;Viviana;viviana.lombardi@azienda.it;IT;Verona;01/06/2017;51277,25;25/11/1989;+39 06 3067542;Tempo Indeterminato
+EMP0515;Rossi;Sara;sara.rossi2@azienda.it;Amministrazione;Bergamo;18/01/2017;30968,39;04/06/1974;+39 081 6768873;Collaborazione
+EMP0517;Mancini;Giovanni;giovanni.mancini@azienda.it;Risorse Umane;Cagliari;05/11/2021;64294,95;10/09/1985;+39 081 2227162;Tempo Indeterminato
+EMP0518;Guerra;Veronica;veronica.guerra@azienda.it;Marketing;Bari;06/06/2009;21743,98;20/07/1997;+39 055 9173698;Tempo Indeterminato
+EMP0520;Sorrentino;Emanuele;emanuele.sorrentino@azienda.it;Controllo Qualità;Catania;08/09/2017;20353,74;06/06/1990;+39 011 6307189;Tempo Determinato
+EMP0521;Fontana;Leonardo;leonardo.fontana@azienda.it;Vendite;Venezia;16/08/2022;37920,18;25/07/1984;+39 011 7031174;Tempo Determinato
+EMP0522;Riva;Giorgia;giorgia.riva@azienda.it;Servizio Clienti;Venezia;20/05/2015;51147,63;23/12/1984;+39 011 6124966;Collaborazione
+EMP0523;Benedetti;Giorgio;giorgio.benedetti@azienda.it;Marketing;Firenze;18/04/2011;38466,58;28/02/1989;+39 06 5416344;Tempo Indeterminato
+EMP0524;D'Amico;Marina;marina.damico@azienda.it;Marketing;Torino;17/05/2016;30739,98;02/05/1993;+39 02 7797028;Tempo Indeterminato
+EMP0525;Giorgi;Omar;omar.giorgi@azienda.it;Finanza;Roma;11/03/2017;44793,75;02/05/1994;+39 010 3493647;Apprendistato
+EMP0526;Messina;Alberto;alberto.messina@azienda.it;Finanza;Cagliari;02/01/2008;27302,74;05/11/1985;+39 055 9563292;Apprendistato
+EMP0527;Messina;Elisa;elisa.messina3@azienda.it;Produzione;Modena;12/11/2019;36799,95;18/07/1992;+39 081 3782393;Tempo Indeterminato
+EMP0528;Testa;Dario;dario.testa@azienda.it;Risorse Umane;Brescia;07/01/2009;60721,76;29/05/1990;+39 055 3452813;Tempo Determinato
+EMP0529;Battaglia;Renato;renato.battaglia@azienda.it;Ricerca e Sviluppo;Verona;28/11/2009;35522,97;10/11/1976;+39 011 4926181;Tempo Indeterminato
+EMP0530;Guerra;Sara;sara.guerra@azienda.it;Finanza;Modena;15/09/2013;27757,45;26/01/1986;+39 051 1779091;Apprendistato
+EMP0531;Damiani;Sara;sara.damiani@azienda.it;Produzione;Napoli;22/08/2021;33952,19;19/10/1972;+39 051 7350486;Apprendistato
+EMP0532;Giorgi;Alberto;alberto.giorgi@azienda.it;Controllo Qualità;Torino;10/06/2013;47494,33;31/12/1974;+39 055 7808902;Apprendistato
+EMP0534;Serra;Edoardo;edoardo.serra@azienda.it;Finanza;Bologna;13/07/2008;27730,42;01/04/1981;+39 055 2985251;Tempo Determinato
+EMP0535;Leone;Raffaele;raffaele.leone@azienda.it;Logistica;Venezia;20/10/2015;29830,25;03/07/1991;+39 06 7893744;Tempo Indeterminato
+EMP0536;Gentile;Luca;luca.gentile@azienda.it;Vendite;Bologna;09/01/2008;24817,52;29/03/1993;+39 055 1657513;Tempo Determinato
+EMP0537;Lombardi;Angela;angela.lombardi@azienda.it;Vendite;Firenze;14/01/2009;24858,03;14/04/1990;+39 081 1312392;Apprendistato
+EMP0538;Battaglia;Alfredo;alfredo.battaglia@azienda.it;Controllo Qualità;Catania;10/11/2009;33935,71;24/02/1985;+39 055 8909005;Tempo Indeterminato
+EMP0539;Fontana;Noemi;noemi.fontana@azienda.it;Finanza;Trieste;26/01/2018;37714,23;04/08/1994;+39 055 5437920;Tempo Determinato
+EMP0540;Basile;Laura;laura.basile@azienda.it;Controllo Qualità;Venezia;19/05/2018;29274,34;30/06/1991;+39 02 4855635;Collaborazione
+EMP0541;Valentini;Claudio;claudio.valentini2@azienda.it;Risorse Umane;Napoli;16/07/2009;20000,00;13/09/1995;+39 051 3509220;Tempo Indeterminato
+EMP0542;Conti;Erika;erika.conti@azienda.it;Risorse Umane;Parma;01/08/2022;31883,80;02/11/1988;+39 055 2971598;Tempo Indeterminato
+EMP0543;Morelli;Elisa;elisa.morelli@azienda.it;Controllo Qualità;Bologna;19/05/2022;30388,05;15/11/1983;+39 011 1728773;Tempo Indeterminato
+EMP0544;Pellegrino;Sabrina;sabrina.pellegrino@azienda.it;Logistica;Palermo;17/09/2022;25425,05;25/06/1999;+39 051 6880713;Collaborazione
+EMP0545;Caputo;Teresa;teresa.caputo@azienda.it;Acquisti;Cagliari;18/07/2014;42590,85;07/06/1975;+39 010 2406225;Tempo Indeterminato
+EMP0546;Ruggiero;Daniele;daniele.ruggiero@azienda.it;Legale;Trieste;29/03/2009;43489,28;31/03/1965;+39 081 1119354;Apprendistato
+EMP0547;Grassi;Angela;angela.grassi@azienda.it;Marketing;Modena;31/05/2013;26387,88;04/03/1979;+39 051 7077878;Tempo Indeterminato
+EMP0548;Moretti;Martina;martina.moretti@azienda.it;Logistica;Cagliari;11/11/2010;22405,07;18/01/1989;+39 051 7134489;Apprendistato
+EMP0549;Serra;Adriano;adriano.serra@azienda.it;Controllo Qualità;Padova;09/04/2014;22907,58;07/01/1973;+39 011 9116148;Tempo Determinato
+EMP0550;Marchetti;Paolo;paolo.marchetti@azienda.it;Amministrazione;Verona;03/07/2021;30893,34;13/03/1971;+39 010 2997927;Collaborazione
+EMP0551;Leone;Daniela;daniela.leone@azienda.it;Ricerca e Sviluppo;Firenze;23/10/2009;20000,00;04/12/2000;+39 055 1873301;Tempo Indeterminato
+EMP0552;Valentini;Giuseppe;giuseppe.valentini@azienda.it;Controllo Qualità;Milano;05/04/2008;34079,74;27/02/1986;+39 055 8304421;Tempo Indeterminato
+EMP0553;Marino;Elisa;elisa.marino@azienda.it;IT;Palermo;18/10/2006;22565,59;22/12/1982;+39 055 9741022;Apprendistato
+EMP0554;Fiore;Daniele;daniele.fiore@azienda.it;Amministrazione;Roma;13/05/2019;24840,52;06/03/1987;+39 051 1179690;Tempo Determinato
+EMP0555;Pagano;Silvia;silvia.pagano@azienda.it;Acquisti;Modena;15/05/2009;48227,81;21/02/1988;+39 081 4886793;Apprendistato
+EMP0556;Fontana;Adriano;adriano.fontana@azienda.it;Controllo Qualità;Roma;14/05/2010;37835,64;20/05/1994;+39 02 3641484;Apprendistato
+EMP0557;Serra;Elisa;elisa.serra@azienda.it;Acquisti;Padova;08/01/2020;24497,69;23/03/1988;+39 02 2151205;Apprendistato
+EMP0558;Benedetti;Elisa;elisa.benedetti@azienda.it;IT;Perugia;17/10/2012;43131,31;01/08/2001;+39 011 4796608;Apprendistato
+EMP0559;Rinaldi;Erika;erika.rinaldi@azienda.it;Ricerca e Sviluppo;Padova;09/11/2010;40391,21;22/01/1990;+39 02 9441777;Tempo Indeterminato
+EMP0560;Ferraro;Veronica;veronica.ferraro@azienda.it;Marketing;Modena;24/01/2017;45586,56;23/06/2001;+39 010 5196677;Apprendistato
+EMP0561;Sanna;Tiziano;tiziano.sanna@azienda.it;Logistica;Cagliari;09/04/2022;35384,94;17/10/1999;+39 051 8729606;Collaborazione
+EMP0562;Esposito;Teresa;teresa.esposito2@azienda.it;Ricerca e Sviluppo;Napoli;08/07/2006;44102,31;02/03/1982;+39 081 4697401;Apprendistato
+EMP0563;Piras;Umberto;umberto.piras@azienda.it;Finanza;Venezia;02/12/2012;33609,60;01/05/2002;+39 011 5165071;Collaborazione
+EMP0564;Gallo;Daniele;daniele.gallo@azienda.it;Logistica;Venezia;09/06/2017;34855,30;03/01/1973;+39 051 6265911;Tempo Indeterminato
+EMP0565;Galli;Beatrice;beatrice.galli@azienda.it;Amministrazione;Bari;26/09/2021;26047,14;21/05/1987;+39 081 4349848;Tempo Determinato
+EMP0566;Caputo;Fabio;fabio.caputo@azienda.it;Finanza;Bari;21/02/2010;20000,00;05/02/1974;+39 010 5189194;Tempo Determinato
+EMP0567;Fabbri;Manuela;manuela.fabbri@azienda.it;Risorse Umane;Napoli;05/10/2006;28367,38;14/07/1992;+39 02 1709057;Tempo Indeterminato
+EMP0568;Marini;Noemi;noemi.marini@azienda.it;Amministrazione;Venezia;20/11/2017;21816,88;29/04/1977;+39 051 4068080;Collaborazione
+EMP0569;Testa;Nadia;nadia.testa@azienda.it;IT;Padova;29/10/2021;32042,95;08/11/2000;+39 051 9024879;Tempo Determinato
+EMP0570;Bianchi;Camilla;camilla.bianchi2@azienda.it;Legale;Verona;24/05/2020;33454,13;22/10/1999;+39 06 8670476;Collaborazione
+EMP0571;Piras;Alessia;alessia.piras@azienda.it;Legale;Brescia;17/06/2020;49953,53;08/01/1982;+39 055 2690268;Apprendistato
+EMP0572;Bianco;Alice;alice.bianco@azienda.it;Amministrazione;Bari;21/04/2017;35791,72;16/10/1976;+39 06 5519920;Tempo Determinato
+EMP0573;Sorrentino;Carlo;carlo.sorrentino@azienda.it;Produzione;Verona;09/03/2016;25744,93;28/09/1998;+39 011 7124992;Tempo Determinato
+EMP0575;Lombardo;Alfredo;alfredo.lombardo@azienda.it;Acquisti;Palermo;18/07/2013;40964,82;17/02/1998;+39 06 8935405;Collaborazione
+EMP0576;Santoro;Giulia;giulia.santoro@azienda.it;Logistica;Parma;23/02/2019;51921,76;11/03/1988;+39 055 6297024;Tempo Determinato
+EMP0577;D'Angelo;Giorgio;giorgio.dangelo@azienda.it;IT;Perugia;08/12/2013;39854,18;01/09/1974;+39 010 5266272;Tempo Indeterminato
+EMP0578;D'Amico;Carlo;carlo.damico@azienda.it;Marketing;Brescia;30/10/2010;38479,21;12/03/1981;+39 011 5323737;Apprendistato
+EMP0579;Ferrari;Giacomo;giacomo.ferrari@azienda.it;Logistica;Napoli;30/03/2020;41482,89;01/11/1990;+39 081 3928275;Apprendistato
+EMP0580;Coppola;Cinzia;cinzia.coppola@azienda.it;Produzione;Venezia;18/05/2022;33470,13;15/01/1998;+39 051 2315459;Collaborazione
+EMP0581;Sorrentino;Claudio;claudio.sorrentino@azienda.it;IT;Brescia;04/10/2008;20420,59;04/12/1983;+39 081 7790959;Tempo Determinato
+EMP0582;Bruno;Chiara;chiara.bruno2@azienda.it;Risorse Umane;Venezia;13/01/2012;20000,00;20/03/1979;+39 081 5888148;Tempo Determinato
+EMP0583;Lombardo;Valerio;valerio.lombardo@azienda.it;Amministrazione;Padova;24/12/2014;39570,80;20/07/1998;+39 055 9739850;Apprendistato
+EMP0584;De Angelis;Marta;marta.deangelis@azienda.it;Risorse Umane;Firenze;22/10/2007;20000,00;24/08/1997;+39 06 5221936;Tempo Indeterminato
+EMP0585;Piras;Daniela;daniela.piras@azienda.it;Servizio Clienti;Torino;29/09/2008;31423,68;24/03/1986;+39 055 1903041;Tempo Determinato
+EMP0586;Valenti;Francesca;francesca.valenti@azienda.it;Logistica;Modena;02/05/2007;37701,18;10/10/1976;+39 055 3605071;Tempo Indeterminato
+EMP0587;Damiani;Lorenzo;lorenzo.damiani@azienda.it;Logistica;Catania;20/07/2010;34157,31;03/09/1970;+39 06 9837269;Tempo Determinato
+EMP0588;Esposito;Laura;laura.esposito@azienda.it;Vendite;Verona;06/09/2015;24211,79;16/12/1985;+39 010 5570355;Apprendistato
+EMP0589;Sanna;Diego;diego.sanna@azienda.it;Risorse Umane;Perugia;03/04/2018;23450,78;10/07/1993;+39 055 8297709;Tempo Determinato
+EMP0590;Costanzo;Lisa;lisa.costanzo@azienda.it;Controllo Qualità;Perugia;15/10/2012;26873,94;10/08/1986;+39 055 4810582;Apprendistato
+EMP0591;Sanna;Elisa;elisa.sanna@azienda.it;IT;Verona;30/10/2010;35813,43;23/06/1988;+39 010 3286742;Collaborazione
+EMP0592;Coppola;Giacomo;giacomo.coppola@azienda.it;Ricerca e Sviluppo;Perugia;05/06/2020;36208,60;25/01/1987;+39 010 9003857;Tempo Indeterminato
+EMP0593;Russo;Massimo;massimo.russo@azienda.it;Acquisti;Trieste;23/05/2018;35141,74;05/10/1981;+39 06 7907781;Apprendistato
+EMP0594;Palumbo;Irene;irene.palumbo@azienda.it;Logistica;Palermo;13/01/2021;36195,30;24/01/1998;+39 081 7538471;Tempo Determinato
+EMP0595;Martini;Claudio;claudio.martini@azienda.it;IT;Torino;10/01/2019;36114,61;04/07/1992;+39 010 5561139;Collaborazione
+EMP0596;Damiani;Daniele;daniele.damiani@azienda.it;Servizio Clienti;Perugia;06/04/2014;51970,53;08/06/1973;+39 010 2148634;Apprendistato
+EMP0597;Rizzo;Elena;elena.rizzo@azienda.it;IT;Napoli;09/11/2018;20151,07;26/01/1987;+39 06 6379509;Collaborazione
+EMP0598;Moretti;Luca;luca.moretti@azienda.it;Vendite;Perugia;04/03/2009;39540,85;03/08/1969;+39 011 5516344;Tempo Indeterminato
+EMP0599;Fiore;Simone;simone.fiore@azienda.it;Ricerca e Sviluppo;Milano;09/01/2007;41816,05;03/05/1980;+39 051 6227389;Tempo Determinato
+EMP0600;Marini;Sofia;sofia.marini@azienda.it;Ricerca e Sviluppo;Roma;20/10/2006;44466,74;03/11/2002;+39 010 3450947;Apprendistato
+EMP0601;Lombardo;Valentina;valentina.lombardo@azienda.it;Acquisti;Padova;08/03/2017;28581,13;01/10/2002;+39 011 7401806;Tempo Indeterminato
+EMP0602;Costa;Giulia;giulia.costa@azienda.it;Acquisti;Palermo;19/04/2022;36218,33;14/11/1984;+39 06 1562209;Collaborazione
+EMP0603;Rizzi;Silvia;silvia.rizzi@azienda.it;Servizio Clienti;Napoli;10/08/2015;20000,00;30/06/1979;+39 06 1707762;Tempo Determinato
+EMP0604;Benedetti;Daniela;daniela.benedetti@azienda.it;Legale;Napoli;18/10/2015;51358,42;23/08/1993;+39 011 4334029;Apprendistato
+EMP0605;Colombo;Alberto;alberto.colombo@azienda.it;Comunicazione;Genova;18/04/2010;29055,30;05/07/1972;+39 010 5632190;Tempo Indeterminato
+EMP0606;Costa;Bruno;bruno.costa@azienda.it;Logistica;Palermo;11/12/2005;28433,04;25/01/1991;+39 010 8973718;Tempo Indeterminato
+EMP0607;Ruggiero;Tiziano;tiziano.ruggiero@azienda.it;Risorse Umane;Verona;31/07/2010;37399,28;01/10/1992;+39 011 2007511;Tempo Indeterminato
+EMP0608;Fabbri;Valentina;valentina.fabbri@azienda.it;Controllo Qualità;Bologna;28/10/2007;38662,50;19/11/1986;+39 06 6314007;Tempo Indeterminato
+EMP0609;Orlando;Irene;irene.orlando@azienda.it;Acquisti;Verona;12/06/2021;40362,44;25/01/1981;+39 081 3260430;Collaborazione
+EMP0610;Romano;Paolo;paolo.romano@azienda.it;Ricerca e Sviluppo;Brescia;05/03/2017;49317,74;08/04/1996;+39 051 4183910;Apprendistato
+EMP0611;Mariani;Sergio;sergio.mariani@azienda.it;Legale;Verona;05/06/2021;20000,00;09/11/1991;+39 010 3690116;Apprendistato
+EMP0613;Montanari;Marco;marco.montanari@azienda.it;Controllo Qualità;Modena;16/06/2021;35766,09;02/05/1981;+39 010 5006173;Collaborazione
+EMP0614;Basile;Alice;alice.basile@azienda.it;Marketing;Perugia;05/04/2009;36786,77;05/07/1988;+39 081 9347489;Collaborazione
+EMP0615;Benedetti;Omar;omar.benedetti@azienda.it;Risorse Umane;Bergamo;27/03/2012;27561,89;27/04/1969;+39 055 2118702;Apprendistato
+EMP0616;Giordano;Sara;sara.giordano@azienda.it;Risorse Umane;Roma;27/05/2007;39733,20;10/10/1986;+39 06 2656810;Tempo Determinato
+EMP0617;Bernardi;Alessandro;alessandro.bernardi@azienda.it;Controllo Qualità;Padova;17/10/2016;25492,76;16/03/1967;+39 011 4703113;Collaborazione
+EMP0618;Fiore;Erika;erika.fiore@azienda.it;Marketing;Milano;16/09/2019;25614,97;17/01/1987;+39 010 2341452;Tempo Determinato
+EMP0619;Costanzo;Debora;debora.costanzo@azienda.it;Vendite;Verona;12/04/2013;35951,30;03/09/1992;+39 011 9875496;Collaborazione
+EMP0620;Battaglia;Sara;sara.battaglia@azienda.it;Marketing;Catania;04/11/2009;31667,02;21/04/1988;+39 02 2698275;Tempo Indeterminato
+EMP0621;Leone;Alfredo;alfredo.leone@azienda.it;Legale;Padova;02/05/2009;27538,67;19/01/1993;+39 06 7965641;Tempo Determinato
+EMP0622;De Luca;Daniela;daniela.deluca@azienda.it;Acquisti;Cagliari;17/02/2020;33760,89;30/07/1985;+39 081 8165129;Apprendistato
+EMP0623;Fontana;Martina;martina.fontana@azienda.it;Acquisti;Firenze;27/04/2016;31933,42;30/11/1991;+39 051 6911017;Collaborazione
+EMP0624;Benedetti;Filippo;filippo.benedetti@azienda.it;Produzione;Verona;21/02/2022;40003,30;29/05/1993;+39 051 6426605;Collaborazione
+EMP0625;Longo;Erika;erika.longo@azienda.it;Amministrazione;Perugia;31/05/2013;37249,45;25/05/1976;+39 011 8590070;Tempo Determinato
+EMP0626;Messina;Marta;marta.messina@azienda.it;Vendite;Roma;13/05/2018;20000,00;25/09/1965;+39 055 3266362;Apprendistato
+EMP0627;Rossi;Massimo;massimo.rossi@azienda.it;IT;Palermo;24/01/2012;53405,16;10/12/1995;+39 010 5629792;Tempo Determinato
+EMP0628;Testa;Diego;diego.testa@azienda.it;Legale;Cagliari;12/02/2007;37525,28;11/09/1966;+39 051 6966913;Tempo Determinato
+EMP0630;Greco;Marina;marina.greco@azienda.it;Servizio Clienti;Venezia;17/11/2008;43444,62;26/11/1986;+39 010 2599943;Collaborazione
+EMP0631;Orlando;Elia;elia.orlando@azienda.it;IT;Roma;05/10/2006;39248,16;01/01/1980;+39 011 8286418;Collaborazione
+EMP0632;Costa;Jessica;jessica.costa@azienda.it;Comunicazione;Palermo;21/03/2019;20000,00;16/11/1999;+39 081 7417066;Tempo Indeterminato
+EMP0633;Marchetti;Andrea;andrea.marchetti@azienda.it;Legale;Roma;10/02/2017;26833,04;20/04/1996;+39 06 3570227;Apprendistato
+EMP0634;Riva;Andrea;andrea.riva2@azienda.it;Servizio Clienti;Padova;20/11/2021;31471,15;12/09/1991;+39 055 9467953;Collaborazione
+EMP0635;Martini;Elisa;elisa.martini@azienda.it;Logistica;Catania;27/04/2008;37799,63;20/08/1990;+39 081 1827302;Collaborazione
+EMP0636;Sala;Diego;diego.sala@azienda.it;IT;Torino;03/04/2016;38064,71;28/06/1984;+39 010 3187332;Collaborazione
+EMP0637;Rizzo;Nadia;nadia.rizzo@azienda.it;Ricerca e Sviluppo;Perugia;11/12/2015;24699,45;05/03/1990;+39 055 9795418;Tempo Determinato
+EMP0638;Gentile;Ilaria;ilaria.gentile@azienda.it;Marketing;Bari;03/04/2012;42956,93;19/09/1995;+39 055 2503148;Collaborazione
+EMP0639;Guerra;Davide;davide.guerra2@azienda.it;Logistica;Trieste;24/10/2012;38357,21;27/05/1994;+39 02 6114011;Apprendistato
+EMP0640;Ferri;Laura;laura.ferri@azienda.it;Amministrazione;Brescia;18/11/2014;43556,18;06/01/1967;+39 010 4917305;Tempo Determinato
+EMP0641;Donati;Silvia;silvia.donati@azienda.it;Produzione;Bologna;10/07/2007;34511,84;09/11/1992;+39 06 5826554;Tempo Indeterminato
+EMP0642;Ferraro;Giulia;giulia.ferraro@azienda.it;Servizio Clienti;Napoli;04/02/2015;27553,33;19/02/1986;+39 02 6567967;Apprendistato
+EMP0643;Caputo;Antonio;antonio.caputo@azienda.it;Legale;Genova;04/04/2017;27345,68;01/09/1986;+39 055 3371416;Tempo Determinato
+EMP0644;Piras;Tiziano;tiziano.piras@azienda.it;Controllo Qualità;Milano;28/01/2018;33873,02;07/10/1994;+39 055 1729507;Collaborazione
+EMP0645;Fontana;Paolo;paolo.fontana@azienda.it;Vendite;Catania;14/09/2022;32377,02;09/11/1985;+39 081 1139824;Tempo Determinato
+EMP0646;Valentini;Matteo;matteo.valentini@azienda.it;Controllo Qualità;Bari;03/06/2007;27489,11;09/11/1965;+39 011 7484783;Apprendistato
+EMP0647;Grasso;Claudia;claudia.grasso@azienda.it;Legale;Napoli;15/11/2015;43246,73;13/05/1973;+39 06 9399526;Apprendistato
+EMP0648;Barone;Salvatore;salvatore.barone@azienda.it;Servizio Clienti;Milano;20/07/2010;25853,35;30/09/1988;+39 011 6596369;Tempo Indeterminato
+EMP0649;Messina;Giorgio;giorgio.messina@azienda.it;Servizio Clienti;Firenze;11/10/2012;31241,09;25/07/1978;+39 06 9409604;Tempo Indeterminato
+EMP0650;Ricci;Barbara;barbara.ricci@azienda.it;Controllo Qualità;Bari;30/08/2005;26415,78;23/11/1989;+39 011 4784649;Collaborazione
+EMP0651;Ferraro;Anna;anna.ferraro@azienda.it;Logistica;Bologna;16/05/2021;20000,00;22/06/1992;+39 010 4815608;Tempo Indeterminato
+EMP0652;Longo;Jessica;jessica.longo@azienda.it;Amministrazione;Bologna;04/01/2012;52151,17;27/02/1992;+39 011 8535808;Collaborazione
+EMP0653;Giordano;Camilla;camilla.giordano@azienda.it;Finanza;Bologna;06/02/2008;29338,34;01/07/1988;+39 06 8215281;Tempo Determinato
+EMP0654;Lombardi;Omar;omar.lombardi@azienda.it;Controllo Qualità;Cagliari;14/02/2012;49566,88;17/01/1968;+39 055 9941610;Tempo Determinato
+EMP0655;Costa;Alfredo;alfredo.costa@azienda.it;Risorse Umane;Venezia;23/04/2021;43610,64;29/07/1983;+39 051 6089336;Tempo Determinato
+EMP0656;De Rosa;Pietro;pietro.derosa@azienda.it;Comunicazione;Bari;23/06/2022;36613,62;07/06/1973;+39 02 3206973;Tempo Determinato
+EMP0657;Esposito;Elena;elena.esposito@azienda.it;Acquisti;Bergamo;02/08/2018;28387,11;02/06/1975;+39 06 1437625;Apprendistato
+EMP0658;Bruno;Beatrice;beatrice.bruno@azienda.it;Servizio Clienti;Parma;08/04/2016;32036,99;16/12/2002;+39 055 8864546;Tempo Determinato
+EMP0659;Damiani;Gloria;gloria.damiani@azienda.it;Produzione;Firenze;09/01/2016;29099,42;25/02/1975;+39 02 7854988;Collaborazione
+EMP0660;Russo;Nadia;nadia.russo@azienda.it;IT;Trieste;26/08/2021;35978,43;12/02/1995;+39 06 4431982;Tempo Determinato
+EMP0661;Santoro;Matteo;matteo.santoro@azienda.it;Ricerca e Sviluppo;Bergamo;05/06/2020;29985,20;27/01/1976;+39 051 7792537;Collaborazione
+EMP0662;Romano;Cinzia;cinzia.romano@azienda.it;Amministrazione;Padova;03/11/2013;44858,08;06/06/1992;+39 081 9995261;Apprendistato
+EMP0663;Orlando;Lisa;lisa.orlando@azienda.it;Servizio Clienti;Roma;17/02/2015;20000,00;09/01/1976;+39 055 7637254;Tempo Indeterminato
+EMP0664;Romano;Renato;renato.romano@azienda.it;Legale;Padova;05/04/2009;40484,60;23/01/1978;+39 051 7678001;Tempo Indeterminato
+EMP0665;Montanari;Massimo;massimo.montanari@azienda.it;Comunicazione;Catania;25/09/2008;22821,73;13/06/1967;+39 081 9673311;Collaborazione
+EMP0666;Monti;Roberto;roberto.monti@azienda.it;Comunicazione;Brescia;17/03/2021;41451,77;17/06/1987;+39 02 4016063;Tempo Indeterminato
+EMP0667;Martino;Cinzia;cinzia.martino@azienda.it;Servizio Clienti;Perugia;26/10/2013;25626,21;09/01/1973;+39 051 4387856;Tempo Determinato
+EMP0668;Gallo;Salvatore;salvatore.gallo2@azienda.it;IT;Venezia;10/02/2021;40658,79;22/11/1997;+39 02 2529935;Tempo Determinato
+EMP0669;Rossetti;Davide;davide.rossetti@azienda.it;Ricerca e Sviluppo;Verona;01/10/2016;30727,18;15/12/1987;+39 055 3682671;Tempo Indeterminato
+EMP0670;Benedetti;Claudio;claudio.benedetti@azienda.it;Logistica;Roma;08/07/2012;20000,00;15/05/1990;+39 010 3518087;Tempo Determinato
+EMP0671;Lombardi;Giuseppe;giuseppe.lombardi@azienda.it;Risorse Umane;Roma;29/11/2011;28749,61;07/01/1985;+39 011 4031576;Collaborazione
+EMP0672;Giordano;Alessia;alessia.giordano@azienda.it;Finanza;Milano;11/04/2005;50927,35;29/07/1985;+39 051 9365828;Apprendistato
+EMP0673;Rossi;Camilla;camilla.rossi@azienda.it;Amministrazione;Parma;12/11/2009;25361,69;26/05/1983;+39 051 2332193;Tempo Determinato
+EMP0674;Ruggiero;Elia;elia.ruggiero@azienda.it;Vendite;Palermo;26/11/2018;28979,55;14/03/1993;+39 055 4483580;Apprendistato
+EMP0675;Mariani;Andrea;andrea.mariani@azienda.it;Risorse Umane;Roma;28/10/2005;36569,09;07/12/1990;+39 010 6007018;Apprendistato
+EMP0676;Gallo;Emanuele;emanuele.gallo@azienda.it;Vendite;Napoli;31/12/2008;37032,71;28/03/1972;+39 081 5771113;Collaborazione
+EMP0677;Pagano;Adriano;adriano.pagano@azienda.it;Servizio Clienti;Bergamo;20/03/2015;34960,50;11/08/1966;+39 02 6021328;Tempo Determinato
+EMP0678;Marini;Alice;alice.marini@azienda.it;Logistica;Torino;07/05/2017;25549,35;30/11/1967;+39 011 8898995;Collaborazione
+EMP0679;Costa;Giorgia;giorgia.costa@azienda.it;Servizio Clienti;Bari;27/10/2016;29119,89;19/05/1974;+39 055 1976175;Apprendistato
+EMP0680;Bernardi;Martina;martina.bernardi@azienda.it;Servizio Clienti;Modena;07/11/2015;38539,72;25/06/1997;+39 081 5818203;Tempo Indeterminato
+EMP0681;Sartori;Leonardo;leonardo.sartori@azienda.it;Comunicazione;Venezia;14/10/2016;22556,08;27/10/1970;+39 055 9328158;Apprendistato
+EMP0682;Battaglia;Tommaso;tommaso.battaglia@azienda.it;Controllo Qualità;Parma;13/01/2009;28645,45;03/05/1992;+39 06 5873580;Collaborazione
+EMP0684;Romano;Vincenzo;vincenzo.romano@azienda.it;Produzione;Verona;03/04/2005;20000,00;26/09/1993;+39 06 5724912;Tempo Determinato
+EMP0685;Marino;Paolo;paolo.marino@azienda.it;IT;Catania;16/03/2022;50206,06;24/04/1980;+39 051 1488508;Apprendistato
+EMP0686;Rinaldi;Stefano;stefano.rinaldi@azienda.it;Produzione;Venezia;24/08/2015;35586,09;06/10/2000;+39 02 3277572;Collaborazione
+EMP0687;Moretti;Noemi;noemi.moretti2@azienda.it;Controllo Qualità;Brescia;17/05/2015;37191,00;24/04/1998;+39 02 9742158;Apprendistato
+EMP0688;Palmieri;Massimo;massimo.palmieri@azienda.it;Servizio Clienti;Venezia;03/09/2009;24897,00;26/11/1990;+39 081 6565326;Tempo Indeterminato
+EMP0689;Marino;Beatrice;beatrice.marino@azienda.it;Risorse Umane;Bari;10/08/2012;48960,44;15/10/2002;+39 06 7535837;Tempo Indeterminato
+EMP0690;Ruggiero;Elena;elena.ruggiero@azienda.it;Marketing;Catania;03/12/2020;33558,01;03/06/1966;+39 011 7943579;Apprendistato
+EMP0691;Silvestri;Elisa;elisa.silvestri@azienda.it;Finanza;Verona;16/10/2011;36791,63;13/01/1970;+39 011 1627384;Collaborazione
+EMP0692;Caruso;Cinzia;cinzia.caruso@azienda.it;Marketing;Brescia;29/10/2015;43293,88;07/06/1987;+39 06 4191222;Tempo Indeterminato
+EMP0693;Morelli;Roberta;roberta.morelli@azienda.it;Servizio Clienti;Modena;25/05/2022;26999,13;29/05/1969;+39 010 9659503;Apprendistato
+EMP0694;Giordano;Umberto;umberto.giordano@azienda.it;Finanza;Roma;11/09/2013;50148,29;05/01/1997;+39 010 9763492;Collaborazione
+EMP0695;Rossi;Davide;davide.rossi@azienda.it;IT;Roma;23/06/2012;31992,63;09/05/1988;+39 010 6242557;Tempo Indeterminato
+EMP0696;Bernardi;Luca;luca.bernardi@azienda.it;Acquisti;Catania;13/03/2012;35635,10;30/12/1973;+39 06 5807802;Tempo Determinato
+EMP0698;Ferrara;Martina;martina.ferrara2@azienda.it;Legale;Verona;30/01/2011;41449,04;09/05/1971;+39 081 5752443;Apprendistato
+EMP0699;Gentile;Angela;angela.gentile@azienda.it;Risorse Umane;Torino;03/10/2018;44721,12;12/04/1967;+39 06 1486416;Apprendistato
+EMP0700;Riva;Carlo;carlo.riva@azienda.it;Vendite;Napoli;17/03/2006;27186,12;11/11/1968;+39 051 7575272;Collaborazione
+EMP0701;Rossetti;Stefano;stefano.rossetti@azienda.it;Amministrazione;Cagliari;28/10/2018;29463,08;21/11/1973;+39 081 9950391;Collaborazione
+EMP0703;Rizzi;Federico;federico.rizzi@azienda.it;IT;Brescia;14/03/2010;40269,71;03/09/1992;+39 011 7097668;Collaborazione
+EMP0705;Mancini;Carlo;carlo.mancini@azienda.it;Produzione;Parma;31/10/2008;33136,20;12/10/1990;+39 06 9521981;Collaborazione
+EMP0706;Sala;Martina;martina.sala@azienda.it;Comunicazione;Napoli;22/06/2017;44069,58;18/02/1994;+39 02 6068701;Apprendistato
+EMP0707;Monti;Francesco;francesco.monti@azienda.it;Logistica;Cagliari;09/05/2010;25861,62;22/08/1986;+39 051 2108301;Collaborazione
+EMP0708;Ferrara;Roberta;roberta.ferrara@azienda.it;Comunicazione;Cagliari;05/08/2022;26323,47;12/07/1984;+39 055 6741177;Collaborazione
+EMP0709;Negri;Camilla;camilla.negri@azienda.it;Finanza;Firenze;01/08/2021;46853,56;30/10/1986;+39 02 8766314;Tempo Indeterminato
+EMP0710;Barone;Alice;alice.barone@azienda.it;Marketing;Brescia;29/11/2011;29500,47;16/03/1983;+39 02 2824432;Tempo Determinato
+EMP0711;Ruggiero;Rosa;rosa.ruggiero2@azienda.it;Acquisti;Padova;02/02/2016;32816,39;06/10/1974;+39 010 3330636;Apprendistato
+EMP0712;Graziano;Bruno;bruno.graziano@azienda.it;Controllo Qualità;Milano;28/10/2019;32185,30;11/09/1971;+39 051 9912993;Tempo Determinato
+EMP0713;Valentini;Veronica;veronica.valentini2@azienda.it;Amministrazione;Cagliari;22/05/2009;40634,45;12/06/1978;+39 055 6109503;Collaborazione
+EMP0714;Fiore;Arianna;arianna.fiore@azienda.it;Produzione;Torino;19/09/2018;54699,24;24/11/1987;+39 051 3140029;Tempo Indeterminato
+EMP0715;Ricci;Veronica;veronica.ricci@azienda.it;Produzione;Perugia;07/01/2005;29643,15;11/02/1981;+39 02 5734685;Tempo Indeterminato
+EMP0716;Longo;Francesca;francesca.longo@azienda.it;Logistica;Cagliari;09/01/2019;20000,00;10/04/1979;+39 081 7422144;Collaborazione
+EMP0717;Grasso;Michela;michela.grasso@azienda.it;Logistica;Perugia;11/11/2019;37533,04;01/12/1989;+39 051 7044627;Tempo Determinato
+EMP0719;Basile;Roberto;roberto.basile@azienda.it;Ricerca e Sviluppo;Trieste;25/11/2006;46784,74;16/06/1985;+39 010 8142130;Tempo Determinato
+EMP0720;Mariani;Manuela;manuela.mariani@azienda.it;Ricerca e Sviluppo;Modena;20/05/2017;48749,15;15/10/2001;+39 051 7454441;Collaborazione
+EMP0721;Martini;Beatrice;beatrice.martini@azienda.it;Risorse Umane;Trieste;18/12/2017;20000,00;11/12/1996;+39 055 5517272;Tempo Indeterminato
+EMP0722;Giuliani;Vincenzo;vincenzo.giuliani@azienda.it;Amministrazione;Verona;07/11/2005;35187,63;27/06/1990;+39 051 7183722;Tempo Indeterminato
+EMP0723;Martino;Davide;davide.martino@azienda.it;Ricerca e Sviluppo;Torino;18/05/2021;31638,19;02/09/1998;+39 010 5687895;Tempo Determinato
+EMP0724;Grassi;Debora;debora.grassi@azienda.it;Marketing;Modena;02/07/2010;20000,00;12/03/1986;+39 081 2309997;Tempo Indeterminato
+EMP0725;Costanzo;Rosa;rosa.costanzo@azienda.it;Legale;Cagliari;02/10/2018;43675,20;04/12/1999;+39 02 8866313;Apprendistato
+EMP0727;Fontana;Veronica;veronica.fontana@azienda.it;Vendite;Bergamo;22/04/2021;36695,55;25/03/1993;+39 051 3836678;Apprendistato
+EMP0728;Colombo;Angela;angela.colombo@azienda.it;Controllo Qualità;Catania;08/06/2011;27419,37;30/09/1986;+39 02 3127708;Tempo Indeterminato
+EMP0729;Greco;Luigi;luigi.greco@azienda.it;Comunicazione;Bari;22/12/2007;29008,15;11/07/1976;+39 02 2871488;Apprendistato
+EMP0730;Santoro;Erika;erika.santoro@azienda.it;Amministrazione;Bologna;18/04/2013;29663,86;28/03/2001;+39 06 5383091;Collaborazione
+EMP0731;Longo;Sabrina;sabrina.longo@azienda.it;Ricerca e Sviluppo;Firenze;09/09/2012;61029,28;19/09/1991;+39 010 3586212;Tempo Indeterminato
+EMP0732;Graziano;Sofia;sofia.graziano@azienda.it;Logistica;Padova;27/10/2019;32386,24;29/09/1984;+39 081 3806547;Tempo Determinato
+EMP0733;Bernardi;Antonio;antonio.bernardi@azienda.it;Servizio Clienti;Verona;29/05/2019;33328,50;11/05/1967;+39 06 8784878;Tempo Indeterminato
+EMP0734;Cattaneo;Michela;michela.cattaneo@azienda.it;IT;Parma;09/07/2013;53429,47;30/08/1995;+39 081 7544296;Tempo Determinato
+EMP0736;Donati;Lisa;lisa.donati@azienda.it;Vendite;Napoli;08/09/2014;52338,49;21/05/1992;+39 081 5573311;Apprendistato
+EMP0737;Lombardo;Emanuele;emanuele.lombardo@azienda.it;IT;Napoli;05/09/2019;25399,64;17/04/1995;+39 081 5056679;Apprendistato
+EMP0738;Riva;Marina;marina.riva@azienda.it;Amministrazione;Genova;14/03/2020;29389,18;19/12/1995;+39 06 6255795;Apprendistato
+EMP0739;Russo;Diego;diego.russo@azienda.it;Controllo Qualità;Milano;08/04/2005;24642,68;02/10/1995;+39 051 6897466;Tempo Indeterminato
+EMP0740;Basile;Riccardo;riccardo.basile@azienda.it;IT;Bari;06/10/2005;41459,52;24/01/1966;+39 055 2542518;Tempo Determinato
+EMP0741;Ruggiero;Valentina;valentina.ruggiero2@azienda.it;Controllo Qualità;Genova;18/11/2020;39102,24;16/02/1992;+39 06 7307535;Tempo Indeterminato
+EMP0742;Marchese;Raffaele;raffaele.marchese@azienda.it;Controllo Qualità;Cagliari;28/06/2007;33885,93;16/03/1996;+39 06 5250268;Tempo Determinato
+EMP0743;Monti;Veronica;veronica.monti@azienda.it;Controllo Qualità;Torino;15/03/2011;36862,73;12/12/1994;+39 010 6425820;Collaborazione
+EMP0744;Barbieri;Paolo;paolo.barbieri@azienda.it;Acquisti;Torino;07/06/2022;20000,00;20/10/1967;+39 051 7519465;Apprendistato
+EMP0745;Ricci;Emanuele;emanuele.ricci@azienda.it;IT;Bari;19/11/2014;60261,70;01/01/1974;+39 055 7587312;Tempo Determinato
+EMP0746;Orlando;Stefano;stefano.orlando@azienda.it;Ricerca e Sviluppo;Napoli;15/02/2017;46770,84;26/06/1999;+39 051 4663917;Tempo Determinato
+EMP0747;Orlando;Adriano;adriano.orlando@azienda.it;Marketing;Brescia;27/04/2007;38730,06;21/08/1997;+39 011 8480659;Apprendistato
+EMP0748;Silvestri;Luca;luca.silvestri@azienda.it;Risorse Umane;Milano;28/11/2019;35830,35;08/07/1982;+39 011 3543551;Tempo Indeterminato
+EMP0749;Conte;Sabrina;sabrina.conte@azienda.it;Logistica;Cagliari;24/07/2016;30480,37;13/06/1986;+39 051 7776531;Tempo Indeterminato
+EMP0750;Montanari;Marina;marina.montanari@azienda.it;Acquisti;Torino;28/01/2005;20000,00;31/03/1982;+39 081 9087731;Tempo Determinato
+EMP0751;Palmieri;Alessia;alessia.palmieri@azienda.it;Legale;Verona;17/04/2020;33901,91;10/01/1994;+39 02 7129645;Apprendistato
+EMP0753;Pagano;Paola;paola.pagano2@azienda.it;Finanza;Catania;25/05/2007;28567,74;22/10/1968;+39 081 8348147;Collaborazione
+EMP0754;Rinaldi;Renato;renato.rinaldi@azienda.it;Risorse Umane;Roma;27/07/2005;28096,90;15/04/1997;+39 055 5001116;Tempo Determinato
+EMP0755;Valentini;Giorgio;giorgio.valentini@azienda.it;Marketing;Perugia;17/03/2016;20000,00;26/02/1985;+39 02 1621473;Apprendistato
+EMP0756;Ricci;Roberta;roberta.ricci@azienda.it;Produzione;Roma;27/08/2007;30987,47;01/07/1974;+39 010 9776491;Collaborazione
+EMP0757;Riva;Salvatore;salvatore.riva@azienda.it;Comunicazione;Perugia;15/08/2021;20000,00;28/08/1966;+39 081 3375493;Tempo Determinato
+EMP0758;Damiani;Giorgio;giorgio.damiani@azienda.it;Vendite;Parma;12/06/2010;24122,15;17/06/1996;+39 081 3190059;Tempo Indeterminato
+EMP0759;Santoro;Giulia;giulia.santoro2@azienda.it;Controllo Qualità;Roma;09/03/2007;29112,21;07/07/1991;+39 02 2783941;Apprendistato
+EMP0760;Silvestri;Davide;davide.silvestri@azienda.it;Amministrazione;Bergamo;01/06/2006;36663,14;01/02/2001;+39 06 8150641;Tempo Determinato
+EMP0761;Caputo;Roberta;roberta.caputo@azienda.it;Controllo Qualità;Padova;17/09/2007;47948,72;01/03/1971;+39 011 4577436;Apprendistato
+EMP0762;Romano;Nadia;nadia.romano@azienda.it;Amministrazione;Firenze;02/06/2006;33020,23;02/06/1970;+39 011 3369560;Apprendistato
+EMP0763;Gatti;Dario;dario.gatti2@azienda.it;Risorse Umane;Verona;03/11/2014;35527,28;26/12/1970;+39 02 7310431;Tempo Determinato
+EMP0764;Barbieri;Cinzia;cinzia.barbieri@azienda.it;Vendite;Parma;22/02/2005;48197,35;29/04/1965;+39 06 2495541;Tempo Indeterminato
+EMP0765;Damiani;Valerio;valerio.damiani2@azienda.it;Amministrazione;Catania;22/07/2020;41074,30;22/01/1996;+39 06 4458794;Collaborazione
+EMP0766;Costanzo;Roberto;roberto.costanzo@azienda.it;IT;Modena;30/03/2014;20000,00;25/09/1975;+39 06 1631179;Collaborazione
+EMP0767;Mariani;Elia;elia.mariani@azienda.it;Servizio Clienti;Parma;25/01/2019;38913,77;15/10/1983;+39 02 4953366;Tempo Indeterminato
+EMP0768;Costa;Giovanni;giovanni.costa@azienda.it;Legale;Napoli;27/01/2022;27492,64;18/03/1989;+39 055 4678843;Apprendistato
+EMP0769;Valenti;Debora;debora.valenti2@azienda.it;Controllo Qualità;Genova;11/03/2006;41180,54;28/09/1995;+39 010 8959326;Apprendistato
+EMP0771;Martinelli;Arianna;arianna.martinelli@azienda.it;Produzione;Bergamo;21/12/2005;37601,19;08/02/1989;+39 06 3651565;Collaborazione
+EMP0772;Amato;Francesca;francesca.amato@azienda.it;Legale;Napoli;12/04/2010;37002,58;12/05/1997;+39 051 6468907;Tempo Indeterminato
+EMP0773;Caruso;Jessica;jessica.caruso@azienda.it;Servizio Clienti;Venezia;22/06/2022;40536,25;21/08/1975;+39 081 7922203;Tempo Determinato
+EMP0774;Grasso;Silvia;silvia.grasso@azienda.it;Finanza;Torino;15/02/2018;39587,77;24/09/1986;+39 02 8312602;Collaborazione
+EMP0775;Galli;Roberto;roberto.galli@azienda.it;Amministrazione;Brescia;09/09/2013;27251,71;17/09/1973;+39 081 7016144;Tempo Determinato
+EMP0776;Caruso;Nicola;nicola.caruso@azienda.it;Produzione;Bologna;11/07/2020;42897,22;06/07/1990;+39 02 5707756;Tempo Indeterminato
+EMP0777;Mancini;Giorgia;giorgia.mancini@azienda.it;Comunicazione;Brescia;20/05/2014;39359,51;29/03/1978;+39 055 3630468;Collaborazione
+EMP0778;Sorrentino;Viviana;viviana.sorrentino@azienda.it;Risorse Umane;Cagliari;10/12/2006;43073,68;21/06/1983;+39 010 9753827;Tempo Determinato
+EMP0779;Galli;Giorgio;giorgio.galli@azienda.it;Amministrazione;Parma;06/04/2011;45527,88;25/01/1976;+39 06 6491114;Collaborazione
+EMP0780;Martino;Arianna;arianna.martino@azienda.it;Finanza;Cagliari;13/11/2017;35962,07;25/03/1965;+39 051 1741958;Tempo Determinato
+EMP0781;Cattaneo;Sara;sara.cattaneo@azienda.it;Servizio Clienti;Modena;20/07/2014;23793,86;18/10/2000;+39 081 2644153;Tempo Indeterminato
+EMP0782;Silvestri;Marta;marta.silvestri@azienda.it;Finanza;Torino;19/07/2020;32780,35;29/10/1997;+39 051 4657541;Tempo Indeterminato
+EMP0783;Fabbri;Simone;simone.fabbri@azienda.it;IT;Palermo;11/05/2005;26541,01;19/07/1996;+39 051 1409590;Tempo Indeterminato
+EMP0784;Monti;Salvatore;salvatore.monti@azienda.it;Acquisti;Bologna;24/02/2009;36080,34;07/06/2000;+39 010 7214624;Collaborazione
+EMP0785;Monti;Mirko;mirko.monti@azienda.it;Servizio Clienti;Milano;19/08/2013;42055,26;20/06/1966;+39 011 8145454;Tempo Indeterminato
+EMP0786;Lombardo;Dario;dario.lombardo2@azienda.it;Servizio Clienti;Bergamo;01/09/2022;29415,36;18/09/1995;+39 02 6632022;Tempo Determinato
+EMP0787;Ricci;Renato;renato.ricci@azienda.it;Legale;Verona;29/06/2007;26701,58;01/11/1966;+39 011 7147725;Tempo Indeterminato
+EMP0788;Orlando;Stefano;stefano.orlando2@azienda.it;Legale;Torino;08/02/2008;42507,73;10/01/1980;+39 06 2905181;Tempo Determinato
+EMP0789;Morelli;Carlotta;carlotta.morelli@azienda.it;Servizio Clienti;Cagliari;22/11/2021;34776,23;27/10/1980;+39 011 9448435;Tempo Determinato
+EMP0790;Pellegrini;Rosa;rosa.pellegrini3@azienda.it;IT;Roma;13/05/2013;27855,68;27/06/1980;+39 051 9157533;Tempo Indeterminato
+EMP0791;Pellegrino;Luigi;luigi.pellegrino@azienda.it;Comunicazione;Napoli;02/12/2020;20000,00;10/02/1978;+39 051 7176462;Collaborazione
+EMP0792;Negri;Umberto;umberto.negri@azienda.it;Acquisti;Torino;09/04/2015;31279,95;01/12/1968;+39 02 7554564;Tempo Determinato
+EMP0793;Coppola;Stefano;stefano.coppola@azienda.it;Marketing;Napoli;11/03/2011;39314,01;02/10/1971;+39 010 4426849;Tempo Determinato
+EMP0794;D'Amico;Tommaso;tommaso.damico@azienda.it;Vendite;Catania;22/04/2020;38662,28;15/04/1989;+39 06 8950805;Collaborazione
+EMP0795;Gatti;Giacomo;giacomo.gatti@azienda.it;Ricerca e Sviluppo;Milano;29/03/2009;53703,92;04/06/1975;+39 010 9717785;Apprendistato
+EMP0796;Conte;Edoardo;edoardo.conte@azienda.it;Logistica;Cagliari;16/09/2019;42809,38;24/12/1993;+39 010 6474513;Apprendistato
+EMP0797;Giorgi;Giorgio;giorgio.giorgi@azienda.it;Controllo Qualità;Modena;10/04/2015;33226,81;29/05/2000;+39 011 3881270;Collaborazione
+EMP0798;Leone;Monica;monica.leone@azienda.it;Ricerca e Sviluppo;Verona;07/04/2022;40015,77;05/12/2002;+39 02 3488704;Apprendistato
+EMP0799;Coppola;Beatrice;beatrice.coppola@azienda.it;Ricerca e Sviluppo;Firenze;19/12/2020;28811,48;13/11/1972;+39 010 3575047;Tempo Determinato
+EMP0800;Longo;Giuseppe;giuseppe.longo@azienda.it;Marketing;Roma;20/11/2017;33603,77;04/09/1970;+39 051 5368907;Apprendistato
+EMP0801;Mariani;Serena;serena.mariani@azienda.it;Finanza;Perugia;06/12/2019;31251,57;23/09/1981;+39 051 3727935;Tempo Indeterminato
+EMP0802;D'Angelo;Francesco;francesco.dangelo@azienda.it;Marketing;Milano;15/03/2016;43379,83;23/06/1999;+39 06 8684648;Collaborazione
+EMP0803;Moretti;Filippo;filippo.moretti@azienda.it;Vendite;Perugia;09/07/2019;31868,83;01/01/1978;+39 010 3467651;Apprendistato
+EMP0804;Battaglia;Sergio;sergio.battaglia@azienda.it;Ricerca e Sviluppo;Venezia;30/05/2021;24107,22;27/06/1986;+39 02 3339134;Tempo Indeterminato
+EMP0805;Benedetti;Umberto;umberto.benedetti@azienda.it;Marketing;Catania;04/01/2014;29781,89;12/01/1981;+39 02 6475520;Tempo Indeterminato
+EMP0806;Sartori;Valentina;valentina.sartori@azienda.it;Controllo Qualità;Genova;11/07/2022;30250,56;31/05/1999;+39 011 4283564;Tempo Determinato
+EMP0807;Bruno;Luca;luca.bruno@azienda.it;Legale;Brescia;24/06/2016;25850,12;22/01/1992;+39 055 9582482;Tempo Indeterminato
+EMP0808;Guerra;Valentina;valentina.guerra2@azienda.it;Produzione;Padova;22/01/2021;42150,60;20/04/2003;+39 051 7201361;Tempo Determinato
+EMP0809;Marini;Paola;paola.marini@azienda.it;Vendite;Catania;18/11/2012;31123,51;02/03/1990;+39 02 4618764;Apprendistato
+EMP0810;Sanna;Marina;marina.sanna@azienda.it;Servizio Clienti;Trieste;23/06/2011;45145,83;07/05/1972;+39 010 8110724;Collaborazione
+EMP0811;Gatti;Marina;marina.gatti@azienda.it;Risorse Umane;Cagliari;22/03/2008;37974,30;25/07/1988;+39 011 2109238;Tempo Indeterminato
+EMP0812;Graziano;Teresa;teresa.graziano@azienda.it;Logistica;Torino;09/03/2014;45948,86;28/08/1993;+39 011 7954391;Tempo Indeterminato
+EMP0813;Barone;Stefano;stefano.barone@azienda.it;Ricerca e Sviluppo;Cagliari;21/06/2009;38837,87;05/11/1989;+39 051 1708550;Tempo Determinato
+EMP0814;Martino;Massimo;massimo.martino@azienda.it;IT;Parma;14/01/2010;44024,94;16/03/1966;+39 010 1041048;Collaborazione
+EMP0815;Vitale;Anna;anna.vitale@azienda.it;IT;Parma;01/09/2019;30847,79;17/01/1973;+39 051 5106228;Tempo Indeterminato
+EMP0816;Costa;Francesca;francesca.costa@azienda.it;Acquisti;Bari;01/07/2006;27886,12;13/11/1991;+39 081 7069317;Collaborazione
+EMP0817;Morelli;Bruno;bruno.morelli2@azienda.it;Amministrazione;Trieste;01/02/2019;24398,05;15/09/2001;+39 02 7261294;Apprendistato
+EMP0818;Battaglia;Greta;greta.battaglia@azienda.it;Amministrazione;Milano;27/08/2008;20000,00;03/02/1991;+39 02 3451774;Apprendistato
+EMP0819;Monti;Filippo;filippo.monti@azienda.it;Servizio Clienti;Bologna;30/08/2008;43948,94;17/07/1993;+39 011 1817300;Apprendistato
+EMP0820;De Santis;Veronica;veronica.desantis@azienda.it;Legale;Torino;11/03/2022;38088,32;04/03/1993;+39 06 2585592;Tempo Determinato
+EMP0821;Graziano;Elia;elia.graziano@azienda.it;Risorse Umane;Perugia;04/02/2012;42054,87;04/07/1978;+39 011 7082121;Apprendistato
+EMP0822;Carbone;Federico;federico.carbone@azienda.it;Amministrazione;Verona;16/04/2005;21537,29;22/02/1971;+39 055 5721406;Tempo Determinato
+EMP0823;Montanari;Serena;serena.montanari@azienda.it;Ricerca e Sviluppo;Trieste;28/08/2008;39635,72;02/12/1974;+39 010 4161109;Apprendistato
+EMP0824;Sorrentino;Irene;irene.sorrentino@azienda.it;Servizio Clienti;Modena;12/05/2014;38476,86;28/08/1985;+39 02 2955647;Tempo Indeterminato
+EMP0825;Ferrari;Simone;simone.ferrari@azienda.it;Ricerca e Sviluppo;Verona;02/07/2020;23024,09;23/10/1991;+39 055 6738565;Apprendistato
+EMP0826;Rossetti;Stefano;stefano.rossetti2@azienda.it;IT;Milano;27/12/2009;49009,77;10/10/1970;+39 010 3388393;Tempo Indeterminato
+EMP0827;Leone;Tiziano;tiziano.leone@azienda.it;IT;Bologna;03/12/2007;45443,10;25/03/1999;+39 010 2874387;Tempo Determinato
+EMP0828;Ferrari;Chiara;chiara.ferrari@azienda.it;Acquisti;Parma;15/12/2005;33754,63;23/10/1973;+39 02 1550170;Collaborazione
+EMP0829;Testa;Raffaele;raffaele.testa@azienda.it;Amministrazione;Roma;02/09/2007;37496,84;14/07/1978;+39 081 1172342;Collaborazione
+EMP0830;Conti;Dario;dario.conti@azienda.it;Acquisti;Napoli;07/03/2018;33382,90;22/12/1973;+39 06 6897756;Tempo Determinato
+EMP0831;Gallo;Francesca;francesca.gallo@azienda.it;Risorse Umane;Bari;25/11/2012;41279,77;06/09/1997;+39 055 5057108;Apprendistato
+EMP0832;Palmieri;Luigi;luigi.palmieri@azienda.it;Marketing;Napoli;11/11/2016;44972,35;26/09/1974;+39 081 4213634;Tempo Indeterminato
+EMP0833;Fontana;Daniele;daniele.fontana@azienda.it;Acquisti;Perugia;09/04/2021;40648,07;14/08/1987;+39 010 8964404;Tempo Indeterminato
+EMP0834;Piras;Alberto;alberto.piras2@azienda.it;Amministrazione;Firenze;09/02/2020;39032,73;25/10/1969;+39 06 6952931;Collaborazione
+EMP0835;Pellegrini;Claudio;claudio.pellegrini@azienda.it;Finanza;Modena;21/02/2014;56930,12;19/07/1970;+39 051 2850798;Tempo Determinato
+EMP0836;Rizzo;Tommaso;tommaso.rizzo@azienda.it;Ricerca e Sviluppo;Verona;01/07/2017;53812,58;24/05/1997;+39 02 2379891;Apprendistato
+EMP0837;Silvestri;Alice;alice.silvestri@azienda.it;Marketing;Padova;02/04/2015;28015,74;24/09/2002;+39 051 4789527;Apprendistato
+EMP0838;De Angelis;Diego;diego.deangelis2@azienda.it;IT;Trieste;25/07/2006;29899,47;23/09/2002;+39 010 8980532;Tempo Determinato
+EMP0839;Marini;Umberto;umberto.marini@azienda.it;Risorse Umane;Milano;28/01/2020;43476,35;17/07/1994;+39 081 2426162;Collaborazione
+EMP0840;Lombardi;Alessia;alessia.lombardi@azienda.it;Logistica;Padova;18/08/2021;41589,61;27/07/1972;+39 02 7102041;Tempo Indeterminato
+EMP0841;Ferraro;Silvia;silvia.ferraro2@azienda.it;Finanza;Bergamo;03/10/2007;36129,63;23/05/1987;+39 011 5579723;Collaborazione
+EMP0842;Orlando;Dario;dario.orlando@azienda.it;Logistica;Verona;15/12/2019;45454,57;22/01/1992;+39 051 9129112;Collaborazione
+EMP0844;Caputo;Federico;federico.caputo@azienda.it;Vendite;Torino;18/03/2020;46727,72;15/03/1966;+39 06 7419516;Collaborazione
+EMP0845;Riva;Erika;erika.riva@azienda.it;Produzione;Bologna;14/12/2018;22918,86;28/08/1994;+39 010 9723295;Apprendistato
+EMP0846;Silvestri;Omar;omar.silvestri@azienda.it;Acquisti;Brescia;02/08/2011;23184,24;13/09/1994;+39 051 9225036;Tempo Determinato
+EMP0847;Vitale;Luigi;luigi.vitale@azienda.it;Legale;Venezia;19/02/2022;45401,31;06/05/1970;+39 051 8551685;Tempo Indeterminato
+EMP0849;Fontana;Valerio;valerio.fontana@azienda.it;Ricerca e Sviluppo;Trieste;04/01/2012;32529,19;28/11/1969;+39 055 9230125;Tempo Determinato
+EMP0851;Ricci;Luigi;luigi.ricci@azienda.it;Logistica;Bari;04/04/2018;48621,87;28/10/1980;+39 010 5772070;Collaborazione
+EMP0853;Martino;Renato;renato.martino@azienda.it;Vendite;Venezia;09/03/2007;20000,00;25/06/1983;+39 011 1947061;Collaborazione
+EMP0854;Gentile;Raffaele;raffaele.gentile@azienda.it;Finanza;Palermo;17/04/2018;48547,86;23/10/1968;+39 081 2098911;Apprendistato
+EMP0855;Mancini;Cristina;cristina.mancini@azienda.it;Produzione;Firenze;28/01/2017;29883,88;14/12/1983;+39 055 9636236;Tempo Indeterminato
+EMP0856;Lombardo;Jessica;jessica.lombardo@azienda.it;Vendite;Parma;06/02/2012;44869,13;11/12/1981;+39 055 7548160;Tempo Indeterminato
+EMP0857;Bernardi;Alice;alice.bernardi@azienda.it;Marketing;Parma;30/06/2020;30897,47;22/07/1987;+39 010 6696526;Tempo Indeterminato
+EMP0859;Galli;Francesco;francesco.galli@azienda.it;IT;Bari;02/09/2011;45138,26;18/02/1975;+39 055 2542796;Tempo Indeterminato
+EMP0860;Martino;Gloria;gloria.martino@azienda.it;Marketing;Cagliari;18/02/2011;34759,66;08/01/1968;+39 055 9909769;Apprendistato
+EMP0861;Pellegrini;Carlo;carlo.pellegrini@azienda.it;Finanza;Verona;13/08/2019;40297,31;15/06/1978;+39 051 6257190;Tempo Indeterminato
+EMP0863;D'Amico;Luca;luca.damico@azienda.it;Servizio Clienti;Modena;09/12/2017;20295,19;16/12/2001;+39 081 8839914;Tempo Determinato
+EMP0864;Costanzo;Nicola;nicola.costanzo@azienda.it;Legale;Bergamo;12/09/2017;35073,58;05/08/1997;+39 081 2004647;Collaborazione
+EMP0866;Parisi;Vincenzo;vincenzo.parisi@azienda.it;Comunicazione;Torino;02/04/2014;47328,64;22/12/1976;+39 010 5815809;Tempo Determinato
+EMP0867;Barbieri;Edoardo;edoardo.barbieri@azienda.it;IT;Bergamo;07/02/2014;35412,13;30/03/1966;+39 06 6210006;Tempo Determinato
+EMP0868;Amato;Debora;debora.amato@azienda.it;Legale;Trieste;06/07/2019;40685,51;30/08/1966;+39 06 3673591;Collaborazione
+EMP0869;Rizzo;Nicola;nicola.rizzo@azienda.it;Vendite;Bari;10/10/2019;21345,45;23/11/1966;+39 081 9151075;Apprendistato
+EMP0870;Ricci;Luca;luca.ricci@azienda.it;Comunicazione;Torino;30/06/2018;30496,30;15/05/1978;+39 010 2066723;Apprendistato
+EMP0871;Bianco;Vincenzo;vincenzo.bianco@azienda.it;Controllo Qualità;Torino;30/03/2021;39038,44;12/08/1990;+39 081 9392777;Collaborazione
+EMP0872;Grassi;Alessia;alessia.grassi@azienda.it;Controllo Qualità;Cagliari;19/02/2016;28873,07;18/01/1969;+39 06 3051464;Apprendistato
+EMP0873;Parisi;Omar;omar.parisi@azienda.it;Produzione;Cagliari;14/10/2021;34111,49;12/10/1974;+39 06 2792041;Collaborazione
+EMP0874;Galli;Stefano;stefano.galli@azienda.it;IT;Brescia;15/09/2010;20000,00;12/06/1991;+39 02 9226851;Collaborazione
+EMP0875;Marini;Francesco;francesco.marini@azienda.it;Servizio Clienti;Napoli;29/03/2017;21551,87;17/06/1977;+39 010 3431212;Apprendistato
+EMP0876;Cattaneo;Alberto;alberto.cattaneo@azienda.it;Servizio Clienti;Verona;22/06/2005;41982,38;14/12/1993;+39 055 1584005;Apprendistato
+EMP0877;Pagano;Renato;renato.pagano@azienda.it;Acquisti;Roma;04/09/2010;26865,42;05/06/1996;+39 011 3047722;Tempo Determinato
+EMP0878;Longo;Francesco;francesco.longo@azienda.it;Comunicazione;Brescia;06/03/2005;32201,89;18/08/1982;+39 011 6048065;Collaborazione
+EMP0879;Graziano;Elisa;elisa.graziano3@azienda.it;Finanza;Catania;05/08/2008;47200,09;08/06/2001;+39 010 7816395;Tempo Determinato
+EMP0880;Serra;Alessandro;alessandro.serra@azienda.it;Comunicazione;Torino;27/07/2015;27876,75;22/01/1998;+39 051 6582152;Collaborazione
+EMP0881;Pellegrini;Gloria;gloria.pellegrini@azienda.it;Comunicazione;Napoli;31/08/2020;34744,76;18/11/1983;+39 055 6482263;Tempo Determinato
+EMP0882;Negri;Salvatore;salvatore.negri@azienda.it;Vendite;Roma;19/02/2019;38697,20;21/11/1984;+39 010 3283248;Tempo Determinato
+EMP0883;Sala;Marco;marco.sala@azienda.it;Finanza;Catania;01/12/2017;40096,05;01/03/1988;+39 081 3182597;Apprendistato
+EMP0884;Donati;Elia;elia.donati@azienda.it;Logistica;Venezia;24/09/2015;37895,37;24/12/1997;+39 06 5373482;Collaborazione
+EMP0885;Donati;Stefano;stefano.donati@azienda.it;Amministrazione;Venezia;16/06/2009;43258,42;27/08/1982;+39 051 4766269;Apprendistato
+EMP0886;Ferrari;Luca;luca.ferrari@azienda.it;Legale;Bergamo;30/12/2006;39842,01;29/09/1985;+39 06 5391992;Tempo Determinato
+EMP0887;Fontana;Sabrina;sabrina.fontana2@azienda.it;Vendite;Padova;20/06/2018;34724,52;04/07/1981;+39 06 2968815;Collaborazione
+EMP0888;Fiore;Giulia;giulia.fiore@azienda.it;Legale;Trieste;10/02/2020;39310,46;03/03/1987;+39 02 4766215;Collaborazione
+EMP0889;Ferrara;Gloria;gloria.ferrara@azienda.it;Finanza;Bari;28/09/2021;29721,67;09/04/1974;+39 055 4616607;Apprendistato
+EMP0890;Battaglia;Daniele;daniele.battaglia@azienda.it;Controllo Qualità;Genova;17/01/2009;35193,50;30/04/1983;+39 010 3448514;Collaborazione
+EMP0891;De Santis;Francesca;francesca.desantis@azienda.it;IT;Palermo;28/07/2010;24630,66;21/07/1985;+39 02 1173144;Collaborazione
+EMP0892;Rizzo;Carlo;carlo.rizzo@azienda.it;Comunicazione;Venezia;28/05/2020;46092,72;09/07/1974;+39 081 7433986;Collaborazione
+EMP0893;Pellegrini;Valerio;valerio.pellegrini@azienda.it;Servizio Clienti;Bergamo;22/08/2006;37874,73;07/12/1979;+39 06 8900934;Apprendistato
+EMP0894;Sartori;Beatrice;beatrice.sartori@azienda.it;Controllo Qualità;Bergamo;13/02/2005;36961,05;18/05/1976;+39 055 7391073;Tempo Indeterminato
+EMP0895;Messina;Massimo;massimo.messina@azienda.it;Controllo Qualità;Verona;20/07/2017;41079,11;15/08/1972;+39 055 9268480;Tempo Determinato
+EMP0896;Monti;Roberta;roberta.monti@azienda.it;Risorse Umane;Torino;06/12/2020;36606,74;17/10/1988;+39 051 3378937;Apprendistato
+EMP0897;Mancini;Monica;monica.mancini@azienda.it;Produzione;Roma;13/03/2016;48135,87;19/07/1998;+39 011 8215646;Tempo Determinato
+EMP0898;Vitale;Daniele;daniele.vitale@azienda.it;Amministrazione;Bari;10/10/2014;21304,26;27/05/1972;+39 011 9242223;Apprendistato
+EMP0900;Rossetti;Giuseppe;giuseppe.rossetti@azienda.it;Ricerca e Sviluppo;Trieste;07/02/2016;40810,14;31/10/1966;+39 051 6981414;Tempo Indeterminato
+EMP0901;Barone;Valerio;valerio.barone@azienda.it;Ricerca e Sviluppo;Brescia;11/07/2007;46375,28;19/07/1970;+39 011 2569976;Collaborazione
+EMP0902;Coppola;Antonio;antonio.coppola@azienda.it;Risorse Umane;Firenze;20/08/2017;20000,00;30/09/1994;+39 055 4563416;Apprendistato
+EMP0903;Rossi;Bruno;bruno.rossi@azienda.it;Legale;Cagliari;05/05/2014;41597,11;07/05/1987;+39 081 2582179;Tempo Determinato
+EMP0904;Esposito;Emanuele;emanuele.esposito@azienda.it;IT;Napoli;19/05/2013;31395,48;26/06/1991;+39 02 6428072;Collaborazione
+EMP0905;Esposito;Anna;anna.esposito@azienda.it;Marketing;Brescia;09/03/2015;29517,80;08/07/1994;+39 02 6526866;Collaborazione
+EMP0906;Damiani;Sara;sara.damiani2@azienda.it;Amministrazione;Brescia;29/05/2021;29281,53;10/12/1997;+39 010 3169632;Apprendistato
+EMP0907;Colombo;Federica;federica.colombo@azienda.it;Acquisti;Catania;31/03/2006;34509,77;07/01/1992;+39 051 2552748;Apprendistato
+EMP0908;Martinelli;Michela;michela.martinelli@azienda.it;Risorse Umane;Palermo;01/01/2007;22422,19;03/12/1965;+39 010 4493397;Collaborazione
+EMP0909;Valentini;Giuseppe;giuseppe.valentini2@azienda.it;Acquisti;Padova;08/07/2019;35234,23;30/05/1970;+39 011 9235014;Apprendistato
+EMP0910;Caputo;Arianna;arianna.caputo@azienda.it;Acquisti;Catania;20/01/2013;20431,35;08/11/1994;+39 02 7164902;Tempo Determinato
+EMP0911;Caruso;Greta;greta.caruso@azienda.it;Ricerca e Sviluppo;Brescia;08/09/2015;33430,99;18/01/1969;+39 010 8088983;Collaborazione
+EMP0912;Sorrentino;Serena;serena.sorrentino@azienda.it;Risorse Umane;Trieste;01/02/2007;48452,39;25/10/1966;+39 055 6733527;Collaborazione
+EMP0913;Riva;Debora;debora.riva@azienda.it;Finanza;Bologna;29/10/2016;26626,41;15/01/1978;+39 051 8337608;Collaborazione
+EMP0914;Morelli;Lorenzo;lorenzo.morelli@azienda.it;IT;Bologna;07/05/2020;26132,34;23/06/1978;+39 010 5171713;Tempo Determinato
+EMP0915;Pellegrini;Tommaso;tommaso.pellegrini@azienda.it;IT;Cagliari;11/05/2017;37693,36;30/10/1969;+39 055 8128865;Tempo Indeterminato
+EMP0916;Conti;Vincenzo;vincenzo.conti@azienda.it;Ricerca e Sviluppo;Cagliari;21/12/2012;36405,16;07/06/1976;+39 055 2371865;Apprendistato
+EMP0917;Mazza;Omar;omar.mazza@azienda.it;Vendite;Napoli;10/01/2009;39335,89;12/01/1967;+39 02 7983542;Collaborazione
+EMP0918;D'Angelo;Valerio;valerio.dangelo@azienda.it;Produzione;Cagliari;27/12/2021;20000,00;25/01/1995;+39 051 5447210;Collaborazione
+EMP0920;Ferrari;Francesco;francesco.ferrari@azienda.it;Vendite;Padova;19/04/2005;34134,56;14/09/1972;+39 081 9004743;Tempo Indeterminato
+EMP0921;Negri;Salvatore;salvatore.negri2@azienda.it;Logistica;Bergamo;17/10/2011;20000,00;08/03/1981;+39 081 7626953;Collaborazione
+EMP0922;Gallo;Massimo;massimo.gallo@azienda.it;Risorse Umane;Bologna;13/04/2009;20000,00;08/01/1970;+39 010 1266510;Tempo Indeterminato
+EMP0923;Rinaldi;Sabrina;sabrina.rinaldi@azienda.it;Comunicazione;Milano;17/10/2015;26384,87;19/07/1984;+39 010 4203013;Tempo Determinato
+EMP0924;D'Angelo;Elisa;elisa.dangelo@azienda.it;Acquisti;Brescia;19/08/2015;23355,46;05/12/1983;+39 02 2953854;Tempo Determinato
+EMP0925;Moretti;Laura;laura.moretti@azienda.it;Servizio Clienti;Brescia;30/07/2015;45843,66;20/11/1975;+39 06 5946450;Collaborazione
+EMP0926;Messina;Sergio;sergio.messina@azienda.it;Vendite;Venezia;22/04/2007;36344,12;12/04/1993;+39 010 8244199;Tempo Indeterminato
+EMP0927;Silvestri;Jessica;jessica.silvestri@azienda.it;Servizio Clienti;Cagliari;31/10/2005;23496,71;07/07/1991;+39 081 9185628;Apprendistato
+EMP0928;Fiore;Claudia;claudia.fiore@azienda.it;Vendite;Modena;20/06/2014;35905,58;09/11/1990;+39 011 2065530;Tempo Indeterminato
+EMP0929;Orlando;Nicola;nicola.orlando@azienda.it;Logistica;Parma;06/02/2016;24660,59;10/02/1985;+39 081 8318725;Tempo Indeterminato
+EMP0930;Barbieri;Luca;luca.barbieri@azienda.it;IT;Genova;17/09/2012;24955,61;27/08/1984;+39 06 9516717;Collaborazione
+EMP0931;Giorgi;Riccardo;riccardo.giorgi@azienda.it;Controllo Qualità;Venezia;11/12/2007;46896,80;06/07/1982;+39 051 7044085;Collaborazione
+EMP0932;Barbieri;Carlo;carlo.barbieri@azienda.it;Amministrazione;Genova;29/06/2020;24266,40;11/08/1998;+39 02 9101545;Apprendistato
+EMP0933;Santoro;Simone;simone.santoro@azienda.it;Finanza;Firenze;07/04/2007;41459,59;24/02/1987;+39 011 4937929;Collaborazione
+EMP0934;Barone;Antonio;antonio.barone@azienda.it;Vendite;Milano;07/11/2010;20000,00;06/01/1981;+39 081 3660958;Apprendistato
+EMP0936;Ferraro;Monica;monica.ferraro@azienda.it;Acquisti;Verona;10/04/2022;39706,96;27/12/1989;+39 011 3536352;Tempo Indeterminato
+EMP0937;Testa;Tiziano;tiziano.testa@azienda.it;Amministrazione;Napoli;27/10/2014;42768,16;26/11/1998;+39 02 2776570;Tempo Indeterminato
+EMP0939;Bianco;Antonio;antonio.bianco@azienda.it;Risorse Umane;Catania;03/02/2022;20000,00;15/06/1969;+39 06 7102492;Collaborazione
+EMP0940;Rizzo;Emanuele;emanuele.rizzo@azienda.it;Marketing;Genova;29/04/2014;34398,42;04/07/1999;+39 010 1110521;Collaborazione
+EMP0941;Cattaneo;Ilaria;ilaria.cattaneo2@azienda.it;Produzione;Catania;30/11/2006;33407,81;14/08/1983;+39 011 5117989;Tempo Determinato
+EMP0942;Graziano;Anna;anna.graziano@azienda.it;Acquisti;Modena;28/08/2022;50768,91;28/03/1975;+39 06 8194453;Collaborazione
+EMP0943;De Angelis;Vincenzo;vincenzo.deangelis@azienda.it;Ricerca e Sviluppo;Modena;01/09/2005;20000,00;11/03/1997;+39 010 9679670;Apprendistato
+EMP0944;Bruno;Matteo;matteo.bruno@azienda.it;Produzione;Venezia;29/04/2022;41053,59;16/05/1972;+39 051 2031267;Collaborazione
+EMP0945;Marchese;Enrico;enrico.marchese@azienda.it;Vendite;Bologna;03/03/2019;52774,77;26/04/1988;+39 011 8034775;Tempo Indeterminato
+EMP0946;Donati;Michela;michela.donati@azienda.it;Servizio Clienti;Perugia;08/03/2021;32759,87;26/04/1998;+39 011 6774002;Apprendistato
+EMP0947;Serra;Giulia;giulia.serra@azienda.it;Legale;Bergamo;15/09/2020;23169,00;03/06/1989;+39 055 8417942;Tempo Determinato
+EMP0948;Ferri;Sabrina;sabrina.ferri@azienda.it;Acquisti;Padova;07/10/2011;43156,26;12/10/1968;+39 02 6611860;Tempo Determinato
+EMP0949;Basile;Paola;paola.basile@azienda.it;Servizio Clienti;Bologna;17/10/2009;45574,63;21/05/1988;+39 011 3684813;Apprendistato
+EMP0950;Esposito;Luca;luca.esposito@azienda.it;Acquisti;Perugia;01/06/2010;41976,67;02/05/2002;+39 010 6099302;Apprendistato
+EMP0951;Pellegrini;Alfredo;alfredo.pellegrini@azienda.it;Legale;Napoli;14/05/2013;34270,86;22/07/1970;+39 02 3092954;Tempo Indeterminato
+EMP0952;D'Angelo;Marta;marta.dangelo@azienda.it;Amministrazione;Milano;08/08/2012;46879,41;05/08/1975;+39 010 9947098;Collaborazione
+EMP0953;Leone;Elia;elia.leone@azienda.it;Produzione;Catania;17/12/2019;38435,23;02/03/1995;+39 06 7336179;Apprendistato
+EMP0954;Caputo;Tommaso;tommaso.caputo@azienda.it;Finanza;Napoli;01/08/2016;20000,00;15/02/1991;+39 06 7061063;Apprendistato
+EMP0955;Conti;Salvatore;salvatore.conti@azienda.it;Risorse Umane;Trieste;03/11/2006;43800,50;01/11/1970;+39 051 4603484;Collaborazione
+EMP0956;Greco;Marta;marta.greco@azienda.it;Produzione;Modena;12/03/2018;40760,97;28/01/1990;+39 055 7623350;Collaborazione
+EMP0957;Martino;Monica;monica.martino@azienda.it;Ricerca e Sviluppo;Trieste;15/06/2020;45525,13;14/09/1983;+39 010 3732048;Collaborazione
+EMP0958;Mazza;Roberto;roberto.mazza@azienda.it;Risorse Umane;Parma;26/11/2007;30130,65;08/08/1996;+39 055 9877514;Collaborazione
+EMP0959;Negri;Alessia;alessia.negri@azienda.it;Finanza;Brescia;25/09/2005;34471,36;27/07/1981;+39 02 7855503;Collaborazione
+EMP0961;Marchetti;Serena;serena.marchetti2@azienda.it;Produzione;Catania;25/11/2015;40467,17;28/02/2000;+39 055 8075907;Apprendistato
+EMP0962;Marchetti;Andrea;andrea.marchetti2@azienda.it;IT;Genova;04/08/2021;35971,10;05/12/1986;+39 02 3052321;Tempo Determinato
+EMP0963;Ferri;Diego;diego.ferri@azienda.it;Marketing;Roma;17/10/2015;23420,75;26/02/1980;+39 010 7330138;Collaborazione
+EMP0964;Basile;Carlo;carlo.basile@azienda.it;Comunicazione;Bergamo;02/02/2022;29276,86;20/03/1971;+39 055 8733225;Tempo Determinato
+EMP0965;Farina;Nadia;nadia.farina@azienda.it;Controllo Qualità;Brescia;29/04/2021;26835,53;23/10/1994;+39 055 7872422;Tempo Determinato
+EMP0966;Leone;Paola;paola.leone@azienda.it;Logistica;Venezia;15/01/2020;50969,99;16/11/1984;+39 081 5653581;Tempo Indeterminato
+EMP0967;Gallo;Edoardo;edoardo.gallo@azienda.it;Comunicazione;Firenze;30/10/2017;23244,60;09/11/1978;+39 055 3076710;Tempo Indeterminato
+EMP0968;Barone;Edoardo;edoardo.barone@azienda.it;Marketing;Genova;16/10/2017;22464,54;28/05/1988;+39 06 8983198;Tempo Indeterminato
+EMP0969;Ferrari;Luigi;luigi.ferrari@azienda.it;Marketing;Perugia;05/06/2005;33939,61;21/03/2002;+39 081 8452933;Tempo Determinato
+EMP0970;Carbone;Lorenzo;lorenzo.carbone@azienda.it;Amministrazione;Venezia;18/03/2018;41705,28;08/01/1967;+39 051 1390292;Collaborazione
+EMP0971;Palumbo;Roberta;roberta.palumbo@azienda.it;Risorse Umane;Trieste;03/11/2016;31832,00;22/02/1970;+39 02 3821189;Tempo Indeterminato
+EMP0972;Lombardi;Daniele;daniele.lombardi@azienda.it;Risorse Umane;Bari;17/06/2008;42030,18;06/10/1978;+39 051 3838554;Tempo Indeterminato
+EMP0973;Sorrentino;Valentina;valentina.sorrentino@azienda.it;Produzione;Firenze;31/12/2020;44277,70;11/05/1979;+39 06 7926017;Tempo Indeterminato
+EMP0974;Vitale;Alice;alice.vitale@azienda.it;Logistica;Napoli;18/07/2009;38572,65;01/10/1975;+39 010 4967662;Tempo Indeterminato
+EMP0975;Testa;Sofia;sofia.testa@azienda.it;Acquisti;Modena;01/08/2007;33941,64;24/10/1989;+39 051 2098206;Collaborazione
+EMP0976;Esposito;Noemi;noemi.esposito@azienda.it;Logistica;Palermo;14/01/2011;43690,44;08/11/1989;+39 055 2703045;Tempo Indeterminato
+EMP0977;Marchese;Ilaria;ilaria.marchese2@azienda.it;Legale;Bologna;30/09/2017;31511,72;09/07/1993;+39 055 4413440;Apprendistato
+EMP0979;Rossi;Sara;sara.rossi3@azienda.it;Comunicazione;Brescia;25/08/2019;35324,51;19/08/1986;+39 011 5209218;Apprendistato
+EMP0980;Grasso;Rosa;rosa.grasso@azienda.it;Produzione;Genova;08/01/2006;34942,48;29/03/1972;+39 081 9960531;Apprendistato
+EMP0981;Marino;Sergio;sergio.marino@azienda.it;IT;Torino;31/08/2020;38927,34;18/12/1989;+39 011 8247127;Collaborazione
+EMP0982;Sorrentino;Antonio;antonio.sorrentino@azienda.it;Legale;Venezia;01/04/2019;38828,74;22/09/1976;+39 010 8595349;Apprendistato
+EMP0983;Gentile;Nicola;nicola.gentile@azienda.it;Controllo Qualità;Venezia;22/09/2009;21900,96;18/09/1965;+39 081 3243545;Apprendistato
+EMP0985;Piras;Irene;irene.piras@azienda.it;Servizio Clienti;Parma;26/01/2017;52858,65;20/03/1994;+39 02 1519213;Collaborazione
+EMP0986;Sanna;Lucia;lucia.sanna@azienda.it;Controllo Qualità;Napoli;11/06/2013;44986,41;13/02/2002;+39 055 7005668;Apprendistato
+EMP0987;Santoro;Paola;paola.santoro@azienda.it;Comunicazione;Milano;19/05/2015;30502,78;03/06/1965;+39 06 1331881;Tempo Indeterminato
+EMP0988;Serra;Nadia;nadia.serra@azienda.it;Controllo Qualità;Verona;08/01/2007;39760,16;13/08/2001;+39 055 6086491;Tempo Determinato
+EMP0989;Martini;Gloria;gloria.martini@azienda.it;Finanza;Parma;29/10/2005;30837,66;17/09/1996;+39 055 4507886;Apprendistato
+EMP0990;Caruso;Marco;marco.caruso@azienda.it;Comunicazione;Padova;23/03/2011;56270,09;13/07/1990;+39 055 9288134;Tempo Indeterminato
+EMP0991;Benedetti;Laura;laura.benedetti@azienda.it;Finanza;Cagliari;20/06/2006;20920,91;19/09/1970;+39 011 4824620;Tempo Determinato
+EMP0992;Battaglia;Tommaso;tommaso.battaglia2@azienda.it;Acquisti;Bari;17/03/2020;26291,25;14/01/1966;+39 081 9941274;Tempo Determinato
+EMP0993;Martinelli;Adriano;adriano.martinelli@azienda.it;Controllo Qualità;Perugia;17/01/2005;48237,07;28/02/1994;+39 02 6419028;Collaborazione
+EMP0994;De Angelis;Arianna;arianna.deangelis@azienda.it;IT;Napoli;12/02/2016;29555,03;20/03/1981;+39 055 1729216;Collaborazione
+EMP0995;Martini;Alfredo;alfredo.martini@azienda.it;Vendite;Bari;10/12/2016;34034,94;24/09/1973;+39 011 2372525;Collaborazione
+EMP0997;Marchetti;Emanuele;emanuele.marchetti@azienda.it;Marketing;Napoli;07/10/2015;32993,23;05/10/2000;+39 081 6608665;Tempo Indeterminato
+EMP0998;Gentile;Paolo;paolo.gentile@azienda.it;Marketing;Parma;23/08/2012;35914,47;06/05/2002;+39 02 6596685;Tempo Determinato
+EMP0999;Longo;Tommaso;tommaso.longo@azienda.it;Marketing;Bergamo;20/02/2022;43969,31;08/08/1970;+39 02 2018157;Collaborazione
+EMP1000;Grasso;Alessandro;alessandro.grasso@azienda.it;Produzione;Torino;23/05/2006;41150,96;29/12/2000;+39 051 1919204;Tempo Determinato

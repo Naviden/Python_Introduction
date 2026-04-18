@@ -1,0 +1,971 @@
+CODICE	NOME	COGNOME	INDIRIZZO_EMAIL	DIVISIONE	CITTA	CONTRATTO	INGRESSO	RETRIBUZIONE	NATO_IL	RECAPITO
+AZ-0001	Viviana	Mancini	viviana.mancini@azienda.it	Vendite	Bari	Tempo Determinato	03-Gen-2010	37975	24-Mar-1998	+39 055 2458591
+AZ-0002	Teresa	Pellegrini	teresa.pellegrini@azienda.it	Vendite	Milano	Tempo Indeterminato	27-Nov-2009	38575	09-Giu-1975	+39 055 1445199
+AZ-0003	Irene	Caruso	irene.caruso@azienda.it	Servizio Clienti	Perugia	Collaborazione	11-Dic-2009	27333	17-Apr-1965	+39 010 3678638
+AZ-0004	Sabrina	Pellegrini	sabrina.pellegrini@azienda.it	Produzione	Bari	Tempo Determinato	30-Ott-2009	37533	02-Apr-1999	+39 011 2714803
+AZ-0005	Elisa	Grasso	elisa.grasso@azienda.it	Marketing	Verona	Apprendistato	17-Lug-2018	34728	11-Ago-1985	+39 055 3094235
+AZ-0006	Claudio	Bruno	claudio.bruno@azienda.it	Legale	Catania	Apprendistato	13-Dic-2017	37968	17-Ago-1973	+39 081 2166941
+AZ-0007	Sara	Pagano	sara.pagano@azienda.it	Finanza	Catania	Tempo Indeterminato	23-Mar-2010	41536	04-Mag-1985	+39 081 7120868
+AZ-0008	Giuseppe	Marini	giuseppe.marini@azienda.it	Produzione	Genova	Apprendistato	28-Set-2020	27725	31-Ago-1995	+39 081 2197935
+AZ-0009	Erika	Costanzo	erika.costanzo@azienda.it	Risorse Umane	Perugia	Tempo Determinato	31-Ago-2008	27289	16-Set-1993	+39 081 4684531
+AZ-0010	Rosa	Villa	rosa.villa@azienda.it	Comunicazione	Roma	Tempo Determinato	20-Set-2005	36863	10-Feb-2001	+39 011 7730428
+AZ-0011	Nicola	Marino	nicola.marino@azienda.it	Finanza	Cagliari	Apprendistato	08-Ott-2009	29382	02-Nov-1993	+39 051 3396987
+AZ-0012	Monica	Rizzo	monica.rizzo@azienda.it	Finanza	Perugia	Apprendistato	03-Ott-2021	26684	23-Mar-1991	+39 051 7700828
+AZ-0013	Alberto	Martini	alberto.martini@azienda.it	Risorse Umane	Modena	Collaborazione	15-Gen-2007	35722	10-Nov-1971	+39 081 3684052
+AZ-0014	Rosa	Pellegrini	rosa.pellegrini@azienda.it	Amministrazione	Torino	Collaborazione	24-Lug-2013	20000	25-Set-1991	+39 051 9877065
+AZ-0015	Paolo	Benedetti	paolo.benedetti@azienda.it	Comunicazione	Milano	Tempo Indeterminato	16-Apr-2020	47491	24-Giu-1999	+39 081 6707197
+AZ-0016	Davide	De Santis	davide.desantis@azienda.it	Logistica	Firenze	Collaborazione	27-Gen-2005	23958	23-Mag-1997	+39 081 5418934
+AZ-0017	Luigi	Marchese	luigi.marchese@azienda.it	Risorse Umane	Modena	Tempo Indeterminato	10-Gen-2019	30722	26-Apr-1992	+39 06 3564217
+AZ-0018	Serena	Marchese	serena.marchese@azienda.it	Risorse Umane	Perugia	Tempo Indeterminato	08-Giu-2018	48618	17-Lug-1979	+39 051 1326765
+AZ-0019	Davide	Bianco	davide.bianco@azienda.it	Comunicazione	Catania	Tempo Determinato	20-Apr-2006	35742	14-Lug-1968	+39 02 9153566
+AZ-0020	Matteo	Marchese	matteo.marchese@azienda.it	Legale	Bologna	Tempo Determinato	19-Ott-2019	47924	28-Apr-1986	+39 055 3770370
+AZ-0021	Monica	Pellegrino	monica.pellegrino@azienda.it	Comunicazione	Bergamo	Collaborazione	02-Ott-2009	50132	12-Dic-1995	+39 06 6229731
+AZ-0022	Michela	Guerra	michela.guerra@azienda.it	Controllo Qualità	Verona	Collaborazione	10-Ago-2016	27753	03-Apr-1985	+39 02 5159166
+AZ-0023	Riccardo	Marino	riccardo.marino@azienda.it	Produzione	Milano	Tempo Determinato	14-Mar-2018	35714	23-Apr-1993	+39 02 4841005
+AZ-0024	Matteo	Bianchi	matteo.bianchi@azienda.it	Comunicazione	Venezia	Tempo Indeterminato	13-Lug-2016	38771	05-Set-1975	+39 011 9143903
+AZ-0025	Federica	Giuliani	federica.giuliani@azienda.it	Risorse Umane	Cagliari	Collaborazione	14-Giu-2010	38918	17-Lug-1973	+39 02 2626229
+AZ-0026	Raffaele	Palumbo	raffaele.palumbo@azienda.it	Produzione	Trieste	Collaborazione	23-Giu-2015	20000	15-Set-1997	+39 02 2651177
+AZ-0027	Valentina	Sala	valentina.sala@azienda.it	Servizio Clienti	Venezia	Tempo Indeterminato	30-Lug-2010	39448	16-Apr-1971	+39 051 4078418
+AZ-0028	Barbara	Monti	barbara.monti@azienda.it	Finanza	Torino	Collaborazione	06-Mag-2017	46572	24-Mag-1969	+39 02 1247595
+AZ-0030	Claudio	Rossi	claudio.rossi@azienda.it	Logistica	Bari	Collaborazione	26-Mag-2011	35625	23-Dic-1983	+39 081 9164991
+AZ-0031	Anna	Rinaldi	anna.rinaldi@azienda.it	IT	Genova	Tempo Indeterminato	28-Dic-2017	34683	26-Gen-1979	+39 02 1841248
+AZ-0032	Bruno	Morelli	bruno.morelli@azienda.it	Legale	Modena	Tempo Determinato	11-Apr-2006	31468	13-Ott-1987	+39 02 4117625
+AZ-0033	Matteo	Ruggiero	matteo.ruggiero@azienda.it	Marketing	Palermo	Collaborazione	10-Set-2007	47122	21-Dic-1990	+39 055 1666754
+AZ-0034	Manuela	Bruno	manuela.bruno@azienda.it	Logistica	Cagliari	Apprendistato	07-Nov-2010	30341	01-Mar-1974	+39 081 6271130
+AZ-0035	Fabio	Vitale	fabio.vitale@azienda.it	Logistica	Bologna	Apprendistato	04-Apr-2015	28256	03-Apr-1968	+39 02 8688755
+AZ-0036	Manuela	Palmieri	manuela.palmieri@azienda.it	Marketing	Torino	Tempo Determinato	07-Mag-2016	50273	24-Nov-1976	+39 06 6855396
+AZ-0037	Matteo	Gentile	matteo.gentile@azienda.it	Produzione	Catania	Tempo Determinato	30-Ott-2014	42832	09-Giu-1992	+39 010 9874152
+AZ-0038	Giulia	Guerra	giulia.guerra@azienda.it	Comunicazione	Perugia	Apprendistato	18-Nov-2019	21516	25-Ago-1969	+39 06 5437001
+AZ-0039	Davide	De Luca	davide.deluca@azienda.it	Servizio Clienti	Perugia	Tempo Determinato	10-Feb-2011	33637	19-Mag-1980	+39 06 5428914
+AZ-0040	Luigi	Amato	luigi.amato@azienda.it	IT	Roma	Tempo Indeterminato	25-Mar-2019	41741	01-Gen-1984	+39 010 5641923
+AZ-0041	Sara	Rossi	sara.rossi@azienda.it	Produzione	Bologna	Apprendistato	16-Ago-2008	34302	09-Mar-1984	+39 055 1162230
+AZ-0042	Davide	Greco	davide.greco@azienda.it	Servizio Clienti	Bologna	Tempo Indeterminato	13-Apr-2013	22352	17-Feb-1991	+39 055 3484601
+AZ-0043	Arianna	Giordano	arianna.giordano@azienda.it	Vendite	Catania	Apprendistato	23-Nov-2005	40529	12-Mar-1976	+39 081 2724590
+AZ-0044	Beatrice	Montanari	beatrice.montanari@azienda.it	Legale	Trieste	Tempo Determinato	24-Apr-2010	30926	16-Apr-1972	+39 010 3970445
+AZ-0045	Vincenzo	Esposito	vincenzo.esposito@azienda.it	Risorse Umane	Venezia	Collaborazione	10-Gen-2020	46986	20-Dic-1976	+39 06 2813543
+AZ-0046	Claudio	Bianchi	claudio.bianchi@azienda.it	Comunicazione	Parma	Tempo Determinato	23-Giu-2009	21242	18-Ago-2001	+39 051 6866294
+AZ-0047	Cristina	Leone	cristina.leone@azienda.it	Finanza	Milano	Tempo Determinato	09-Dic-2013	25562	10-Set-1999	+39 011 6891254
+AZ-0048	Edoardo	Testa	edoardo.testa@azienda.it	Logistica	Perugia	Apprendistato	15-Ago-2005	52620	05-Mar-1970	+39 011 3995870
+AZ-0049	Bruno	Vitale	bruno.vitale@azienda.it	Vendite	Napoli	Collaborazione	02-Ott-2012	33834	12-Mar-1992	+39 055 2940214
+AZ-0050	Paola	Bernardi	paola.bernardi@azienda.it	Finanza	Bari	Tempo Indeterminato	24-Nov-2020	26402	24-Lug-1984	+39 02 9722815
+AZ-0051	Francesco	Donati	francesco.donati@azienda.it	Servizio Clienti	Genova	Apprendistato	04-Set-2014	48369	24-Ott-1979	+39 055 6266630
+AZ-0052	Raffaele	Costa	raffaele.costa@azienda.it	Servizio Clienti	Catania	Apprendistato	17-Dic-2019	41288	28-Apr-1983	+39 011 7751158
+AZ-0053	Sabrina	De Santis	sabrina.desantis@azienda.it	Legale	Bologna	Tempo Determinato	07-Giu-2014	30026	24-Lug-1998	+39 06 6049101
+AZ-0054	Michela	Benedetti	michela.benedetti@azienda.it	Comunicazione	Milano	Apprendistato	09-Giu-2011	26598	06-Giu-1974	+39 051 6406444
+AZ-0055	Debora	Sanna	debora.sanna@azienda.it	Ricerca e Sviluppo	Genova	Collaborazione	04-Lug-2021	37035	15-Feb-1988	+39 081 6623525
+AZ-0056	Elisa	Graziano	elisa.graziano2@azienda.it	Finanza	Catania	Tempo Determinato	20-Giu-2009	38685	12-Ago-1971	+39 02 1775337
+AZ-0057	Ilaria	Cattaneo	ilaria.cattaneo@azienda.it	Amministrazione	Torino	Collaborazione	19-Apr-2014	44883	23-Mar-1997	+39 081 7442089
+AZ-0058	Sofia	Sala	sofia.sala@azienda.it	Finanza	Bologna	Tempo Indeterminato	04-Nov-2021	26411	18-Lug-1999	+39 02 8132769
+AZ-0059	Riccardo	Santoro	riccardo.santoro@azienda.it	Acquisti	Modena	Collaborazione	16-Feb-2006	20000	12-Giu-1970	+39 051 3237058
+AZ-0060	Debora	Guerra	debora.guerra@azienda.it	Legale	Perugia	Apprendistato	10-Dic-2021	27117	08-Nov-1984	+39 055 9468772
+AZ-0061	Leonardo	Benedetti	leonardo.benedetti@azienda.it	Ricerca e Sviluppo	Firenze	Collaborazione	04-Feb-2015	34565	09-Ago-1993	+39 011 9745959
+AZ-0062	Giorgio	D'Amico	giorgio.damico@azienda.it	Finanza	Bari	Collaborazione	27-Set-2006	42524	03-Gen-1997	+39 011 4934149
+AZ-0063	Nicola	Conte	nicola.conte@azienda.it	Produzione	Perugia	Tempo Indeterminato	08-Feb-2008	40735	09-Nov-1971	+39 081 4589533
+AZ-0064	Matteo	Gatti	matteo.gatti@azienda.it	Logistica	Venezia	Collaborazione	30-Apr-2014	42981	18-Ott-1967	+39 06 8048838
+AZ-0065	Paola	Valenti	paola.valenti@azienda.it	Amministrazione	Milano	Collaborazione	13-Set-2015	44305	19-Ott-1998	+39 051 8030010
+AZ-0066	Francesco	De Rosa	francesco.derosa@azienda.it	Servizio Clienti	Perugia	Tempo Determinato	14-Dic-2015	35345	05-Nov-1974	+39 011 8312114
+AZ-0067	Giorgio	Esposito	giorgio.esposito@azienda.it	Logistica	Venezia	Collaborazione	30-Mar-2021	40711	23-Set-1970	+39 055 9961107
+AZ-0068	Francesca	Messina	francesca.messina@azienda.it	Amministrazione	Cagliari	Tempo Indeterminato	19-Nov-2006	44663	31-Ott-1993	+39 051 3276659
+AZ-0069	Debora	Mariani	debora.mariani@azienda.it	Vendite	Bari	Collaborazione	05-Mag-2012	37123	23-Feb-1999	+39 051 5668371
+AZ-0070	Dario	Gatti	dario.gatti@azienda.it	IT	Torino	Collaborazione	08-Giu-2005	43640	08-Ago-1998	+39 055 1873851
+AZ-0071	Giacomo	Martini	giacomo.martini@azienda.it	Controllo Qualità	Torino	Tempo Indeterminato	01-Dic-2021	42395	24-Ago-2002	+39 02 3556551
+AZ-0072	Fabio	Giordano	fabio.giordano@azienda.it	Ricerca e Sviluppo	Napoli	Tempo Determinato	07-Giu-2015	36460	18-Mag-1996	+39 011 7189034
+AZ-0073	Laura	Sartori	laura.sartori@azienda.it	Amministrazione	Napoli	Tempo Determinato	24-Dic-2011	36775	30-Dic-1978	+39 055 7296605
+AZ-0074	Enrico	Fiore	enrico.fiore@azienda.it	Finanza	Torino	Tempo Determinato	15-Apr-2007	36433	10-Apr-1996	+39 010 6059717
+AZ-0075	Rosa	Ruggiero	rosa.ruggiero@azienda.it	Acquisti	Napoli	Tempo Indeterminato	15-Ott-2012	20591	04-Feb-1968	+39 055 6724909
+AZ-0076	Giulia	Gatti	giulia.gatti@azienda.it	Comunicazione	Parma	Tempo Indeterminato	22-Set-2014	31993	01-Apr-1981	+39 081 8713146
+AZ-0077	Valerio	Moretti	valerio.moretti@azienda.it	Logistica	Firenze	Apprendistato	25-Ott-2018	39445	09-Set-1986	+39 051 8307727
+AZ-0078	Marina	Giorgi	marina.giorgi@azienda.it	IT	Venezia	Tempo Determinato	11-Dic-2006	23392	06-Lug-1977	+39 051 5091349
+AZ-0079	Dario	Monti	dario.monti@azienda.it	Amministrazione	Bergamo	Collaborazione	18-Lug-2012	54195	27-Feb-1973	+39 051 4558780
+AZ-0080	Beatrice	Vitale	beatrice.vitale@azienda.it	Produzione	Bari	Apprendistato	20-Giu-2017	38499	16-Giu-1965	+39 055 4205394
+AZ-0081	Lorenzo	Longo	lorenzo.longo@azienda.it	Servizio Clienti	Trieste	Collaborazione	15-Giu-2017	35785	22-Dic-1993	+39 081 9234615
+AZ-0082	Marta	Ferrari	marta.ferrari@azienda.it	Marketing	Catania	Tempo Determinato	26-Gen-2014	20000	13-Gen-1996	+39 06 6137284
+AZ-0083	Raffaele	Martino	raffaele.martino@azienda.it	Produzione	Parma	Apprendistato	18-Lug-2014	47641	13-Ott-1980	+39 081 8612582
+AZ-0084	Nicola	Marchetti	nicola.marchetti@azienda.it	IT	Palermo	Tempo Indeterminato	06-Mar-2021	34732	22-Ago-1973	+39 011 3005795
+AZ-0085	Daniela	Carbone	daniela.carbone@azienda.it	Acquisti	Firenze	Tempo Determinato	08-Nov-2009	34424	13-Giu-1991	+39 010 9801946
+AZ-0086	Elia	Coppola	elia.coppola@azienda.it	Marketing	Genova	Apprendistato	07-Feb-2010	26975	10-Mar-1981	+39 06 6071208
+AZ-0087	Giulia	Rossetti	giulia.rossetti@azienda.it	Legale	Bologna	Apprendistato	08-Gen-2006	47531	14-Apr-1996	+39 06 9235577
+AZ-0088	Martina	Russo	martina.russo@azienda.it	Amministrazione	Catania	Collaborazione	27-Set-2015	32958	04-Ott-1984	+39 011 4093109
+AZ-0089	Andrea	Martinelli	andrea.martinelli@azienda.it	Comunicazione	Parma	Tempo Indeterminato	20-Giu-2006	31816	27-Mar-1993	+39 081 1899411
+AZ-0090	Anna	Moretti	anna.moretti@azienda.it	Acquisti	Cagliari	Apprendistato	29-Nov-2006	37292	19-Feb-1976	+39 02 7982241
+AZ-0091	Erika	Ruggiero	erika.ruggiero@azienda.it	Acquisti	Bergamo	Tempo Determinato	26-Mag-2022	24167	10-Nov-1984	+39 011 8194570
+AZ-0092	Cristina	Palmieri	cristina.palmieri@azienda.it	Amministrazione	Roma	Tempo Indeterminato	09-Feb-2022	33453	28-Apr-1974	+39 081 4540415
+AZ-0093	Monica	Pagano	monica.pagano@azienda.it	Marketing	Firenze	Tempo Determinato	24-Nov-2008	29474	30-Apr-1983	+39 051 8883823
+AZ-0094	Veronica	Bianchi	veronica.bianchi@azienda.it	Finanza	Catania	Apprendistato	07-Ott-2020	33128	14-Mag-1985	+39 02 4916201
+AZ-0095	Monica	D'Amico	monica.damico@azienda.it	Amministrazione	Genova	Collaborazione	30-Lug-2007	21119	01-Dic-1976	+39 010 3386328
+AZ-0096	Chiara	Ricci	chiara.ricci@azienda.it	Risorse Umane	Catania	Apprendistato	07-Nov-2014	31009	31-Lug-1970	+39 051 6101803
+AZ-0097	Sabrina	Sala	sabrina.sala@azienda.it	IT	Modena	Collaborazione	27-Ott-2014	37496	19-Mag-1984	+39 081 6407658
+AZ-0098	Erika	Martinelli	erika.martinelli@azienda.it	Vendite	Torino	Tempo Determinato	15-Feb-2020	36381	02-Lug-2002	+39 010 1348050
+AZ-0099	Nadia	Riva	nadia.riva@azienda.it	Comunicazione	Bari	Tempo Indeterminato	12-Feb-2022	35444	24-Mar-1994	+39 051 5666692
+AZ-0100	Elena	Martino	elena.martino@azienda.it	Logistica	Parma	Tempo Indeterminato	18-Lug-2015	23732	10-Ago-1980	+39 051 6591986
+AZ-0101	Alice	Guerra	alice.guerra@azienda.it	Marketing	Firenze	Apprendistato	27-Mar-2014	32142	19-Dic-1982	+39 010 1615675
+AZ-0102	Salvatore	Gallo	salvatore.gallo@azienda.it	Produzione	Bari	Apprendistato	08-Ago-2007	27265	28-Ago-1999	+39 051 9633492
+AZ-0103	Marco	Pagano	marco.pagano@azienda.it	Comunicazione	Perugia	Collaborazione	09-Apr-2014	46395	06-Dic-1992	+39 010 9363326
+AZ-0104	Mirko	Sanna	mirko.sanna@azienda.it	Acquisti	Roma	Tempo Determinato	28-Dic-2010	39038	21-Ago-1989	+39 06 5832327
+AZ-0105	Pietro	Piras	pietro.piras@azienda.it	Ricerca e Sviluppo	Napoli	Tempo Indeterminato	18-Feb-2019	29268	08-Feb-1972	+39 011 1229419
+AZ-0106	Diego	De Angelis	diego.deangelis@azienda.it	Marketing	Palermo	Tempo Indeterminato	09-Mag-2015	30326	09-Apr-1970	+39 081 3583206
+AZ-0107	Sofia	Fiore	sofia.fiore@azienda.it	IT	Modena	Apprendistato	27-Apr-2014	49219	08-Dic-1975	+39 051 3426689
+AZ-0108	Paola	Rinaldi	paola.rinaldi@azienda.it	Amministrazione	Modena	Tempo Determinato	26-Lug-2006	20000	24-Mag-1977	+39 010 7961578
+AZ-0109	Roberta	Mazza	roberta.mazza@azienda.it	IT	Milano	Apprendistato	14-Apr-2021	31006	09-Ago-1994	+39 051 3493017
+AZ-0110	Marta	Carbone	marta.carbone@azienda.it	Ricerca e Sviluppo	Verona	Apprendistato	19-Mag-2017	47684	22-Mar-1999	+39 055 7328534
+AZ-0111	Salvatore	Villa	salvatore.villa@azienda.it	Comunicazione	Genova	Tempo Determinato	29-Ott-2017	20399	06-Giu-1983	+39 02 6338112
+AZ-0112	Daniela	Cattaneo	daniela.cattaneo@azienda.it	Servizio Clienti	Padova	Collaborazione	20-Nov-2019	48207	18-Lug-2000	+39 010 3551903
+AZ-0113	Sofia	Bianchi	sofia.bianchi@azienda.it	Risorse Umane	Modena	Apprendistato	03-Apr-2007	42579	05-Ago-1988	+39 051 1257489
+AZ-0114	Alfredo	Lombardi	alfredo.lombardi@azienda.it	Logistica	Bologna	Tempo Indeterminato	14-Lug-2015	27343	22-Gen-2000	+39 011 6680114
+AZ-0115	Manuela	Negri	manuela.negri@azienda.it	Logistica	Torino	Apprendistato	16-Feb-2020	41202	17-Mar-1979	+39 081 9186400
+AZ-0116	Camilla	Bianchi	camilla.bianchi@azienda.it	Amministrazione	Torino	Tempo Determinato	27-Feb-2019	27440	14-Set-1995	+39 011 4816586
+AZ-0117	Daniela	Gallo	daniela.gallo@azienda.it	Logistica	Napoli	Tempo Indeterminato	14-Dic-2014	39232	20-Apr-1966	+39 02 6442103
+AZ-0118	Valentina	De Santis	valentina.desantis@azienda.it	Produzione	Verona	Collaborazione	07-Apr-2008	42299	15-Dic-1975	+39 055 7913081
+AZ-0119	Sergio	Donati	sergio.donati@azienda.it	Acquisti	Firenze	Tempo Determinato	05-Dic-2008	52792	19-Ott-1992	+39 081 5040453
+AZ-0120	Sofia	Martino	sofia.martino@azienda.it	Risorse Umane	Palermo	Collaborazione	23-Apr-2019	44632	24-Mag-1976	+39 051 5283671
+AZ-0121	Lucia	Russo	lucia.russo@azienda.it	Acquisti	Brescia	Apprendistato	13-Mar-2020	31249	02-Lug-1980	+39 055 6018975
+AZ-0122	Viviana	Pellegrini	viviana.pellegrini@azienda.it	Servizio Clienti	Bari	Collaborazione	11-Ott-2011	33869	08-Dic-1973	+39 051 9106886
+AZ-0123	Martina	Longo	martina.longo@azienda.it	Logistica	Cagliari	Apprendistato	22-Nov-2017	30594	26-Dic-1965	+39 010 7640518
+AZ-0124	Barbara	Russo	barbara.russo@azienda.it	Amministrazione	Roma	Collaborazione	03-Giu-2011	49863	19-Ott-1999	+39 010 4860745
+AZ-0125	Erika	Fabbri	erika.fabbri@azienda.it	Finanza	Genova	Apprendistato	15-Mar-2020	35598	18-Lug-1995	+39 010 3294774
+AZ-0126	Mirko	Conti	mirko.conti@azienda.it	Controllo Qualità	Roma	Apprendistato	09-Set-2022	20000	10-Ott-1984	+39 02 7121355
+AZ-0127	Marina	Giordano	marina.giordano@azienda.it	Marketing	Catania	Apprendistato	07-Ott-2021	29226	13-Apr-2000	+39 055 7138070
+AZ-0128	Lisa	Mazza	lisa.mazza@azienda.it	IT	Firenze	Apprendistato	23-Ott-2015	38390	06-Mar-2001	+39 011 6682698
+AZ-0129	Davide	Monti	davide.monti@azienda.it	Marketing	Bologna	Tempo Determinato	03-Mar-2020	30490	09-Dic-2002	+39 010 7136687
+AZ-0130	Elisa	Messina	elisa.messina@azienda.it	Vendite	Bari	Tempo Indeterminato	15-Mar-2015	20000	14-Lug-1981	+39 081 5398338
+AZ-0131	Bruno	Grasso	bruno.grasso@azienda.it	Comunicazione	Verona	Tempo Indeterminato	20-Feb-2020	35228	09-Mar-1990	+39 011 4713925
+AZ-0132	Edoardo	Marino	edoardo.marino@azienda.it	Controllo Qualità	Brescia	Apprendistato	25-Lug-2019	37240	26-Apr-1983	+39 02 3345069
+AZ-0133	Sara	Bianchi	sara.bianchi@azienda.it	IT	Parma	Tempo Indeterminato	08-Mar-2007	36184	08-Giu-1982	+39 051 7224540
+AZ-0134	Lucia	De Rosa	lucia.derosa@azienda.it	Servizio Clienti	Perugia	Collaborazione	05-Mar-2018	47363	19-Apr-1998	+39 081 3592464
+AZ-0136	Alberto	Conti	alberto.conti@azienda.it	Controllo Qualità	Verona	Apprendistato	12-Mag-2006	36964	11-Nov-1982	+39 011 4184459
+AZ-0137	Alessia	Rizzi	alessia.rizzi@azienda.it	Marketing	Genova	Tempo Indeterminato	19-Feb-2006	36712	26-Ago-1970	+39 010 4442778
+AZ-0138	Matteo	Marchese	matteo.marchese2@azienda.it	Legale	Genova	Tempo Determinato	24-Mar-2010	27727	28-Set-1979	+39 010 3475548
+AZ-0140	Simone	Russo	simone.russo@azienda.it	Produzione	Palermo	Apprendistato	10-Mag-2005	41193	25-Ott-1972	+39 011 1879109
+AZ-0141	Simone	Caputo	simone.caputo@azienda.it	Logistica	Modena	Tempo Indeterminato	22-Set-2021	45048	29-Mar-1981	+39 055 2829622
+AZ-0142	Marta	Mazza	marta.mazza@azienda.it	Finanza	Bergamo	Tempo Indeterminato	24-Apr-2021	39240	19-Feb-2000	+39 010 9748499
+AZ-0143	Massimo	Rizzi	massimo.rizzi@azienda.it	Controllo Qualità	Milano	Tempo Indeterminato	29-Set-2015	41050	04-Nov-1969	+39 051 8441741
+AZ-0144	Chiara	Bruno	chiara.bruno@azienda.it	Produzione	Bergamo	Tempo Determinato	23-Giu-2006	26368	30-Ago-1970	+39 011 6455706
+AZ-0145	Claudio	Ruggiero	claudio.ruggiero@azienda.it	Legale	Catania	Collaborazione	04-Mag-2016	31396	24-Giu-1996	+39 02 4607488
+AZ-0146	Arianna	Farina	arianna.farina@azienda.it	Finanza	Trieste	Apprendistato	05-Mar-2015	32189	20-Nov-1982	+39 051 2595275
+AZ-0147	Filippo	Pellegrini	filippo.pellegrini@azienda.it	Produzione	Bari	Apprendistato	04-Giu-2008	30616	03-Feb-1969	+39 010 2432176
+AZ-0148	Elisa	Palumbo	elisa.palumbo@azienda.it	Marketing	Verona	Tempo Determinato	24-Giu-2017	24542	10-Set-1967	+39 055 6530541
+AZ-0149	Lucia	Costa	lucia.costa@azienda.it	Logistica	Verona	Collaborazione	04-Mar-2021	42809	07-Gen-1979	+39 011 2738129
+AZ-0150	Angela	Mazza	angela.mazza@azienda.it	Finanza	Bologna	Collaborazione	12-Gen-2010	37616	03-Gen-2003	+39 02 6873938
+AZ-0151	Irene	Marini	irene.marini@azienda.it	Marketing	Bari	Tempo Determinato	17-Ago-2014	50252	18-Set-2001	+39 055 1440466
+AZ-0152	Erika	Pagano	erika.pagano@azienda.it	Comunicazione	Bari	Tempo Indeterminato	17-Gen-2009	20000	05-Apr-1977	+39 081 6183902
+AZ-0153	Roberta	Ferri	roberta.ferri@azienda.it	Vendite	Firenze	Tempo Determinato	14-Set-2017	32912	29-Mar-1998	+39 081 1514340
+AZ-0154	Elisa	De Rosa	elisa.derosa@azienda.it	Legale	Genova	Collaborazione	02-Giu-2014	31828	08-Mag-1985	+39 011 3640889
+AZ-0155	Serena	Marchetti	serena.marchetti@azienda.it	Servizio Clienti	Venezia	Tempo Indeterminato	07-Mar-2006	44369	27-Mar-1967	+39 081 2368710
+AZ-0156	Nicola	Sanna	nicola.sanna@azienda.it	Controllo Qualità	Trieste	Collaborazione	14-Ago-2018	48895	30-Ott-1984	+39 051 5582979
+AZ-0157	Federica	Graziano	federica.graziano@azienda.it	Legale	Napoli	Apprendistato	23-Ago-2014	46549	10-Ago-1991	+39 051 9840487
+AZ-0158	Lucia	Marchetti	lucia.marchetti@azienda.it	Vendite	Palermo	Collaborazione	11-Giu-2018	44664	17-Giu-1967	+39 02 4429650
+AZ-0159	Massimo	Galli	massimo.galli@azienda.it	Acquisti	Bologna	Apprendistato	30-Giu-2011	34413	06-Lug-1998	+39 051 3947669
+AZ-0160	Simone	Grasso	simone.grasso@azienda.it	Legale	Palermo	Apprendistato	14-Ago-2006	36099	24-Ott-1982	+39 010 1709714
+AZ-0161	Arianna	Ferrari	arianna.ferrari@azienda.it	Ricerca e Sviluppo	Torino	Apprendistato	30-Nov-2017	25808	19-Set-1993	+39 051 5857259
+AZ-0162	Davide	Sala	davide.sala@azienda.it	Vendite	Venezia	Tempo Determinato	12-Nov-2018	39376	22-Ago-1985	+39 010 7070880
+AZ-0163	Elisa	Palumbo	elisa.palumbo2@azienda.it	Comunicazione	Napoli	Tempo Determinato	10-Ott-2014	24667	03-Ott-1982	+39 010 6205543
+AZ-0164	Daniela	Ferraro	daniela.ferraro@azienda.it	Finanza	Venezia	Tempo Determinato	18-Set-2006	28545	25-Nov-1987	+39 081 2913049
+AZ-0165	Lisa	Testa	lisa.testa@azienda.it	Finanza	Verona	Apprendistato	25-Apr-2021	48907	17-Ago-1971	+39 06 2724773
+AZ-0166	Roberto	Martinelli	roberto.martinelli@azienda.it	Finanza	Firenze	Tempo Determinato	19-Gen-2022	31263	20-Gen-1999	+39 081 2264218
+AZ-0167	Stefano	Valenti	stefano.valenti@azienda.it	Controllo Qualità	Parma	Collaborazione	03-Dic-2021	22879	22-Lug-1995	+39 055 6422534
+AZ-0168	Mirko	Parisi	mirko.parisi@azienda.it	Risorse Umane	Brescia	Tempo Indeterminato	09-Lug-2015	29869	02-Nov-1984	+39 081 6080483
+AZ-0169	Barbara	Giorgi	barbara.giorgi@azienda.it	Vendite	Verona	Tempo Indeterminato	18-Dic-2011	32311	17-Lug-1981	+39 010 5816353
+AZ-0170	Chiara	Orlando	chiara.orlando@azienda.it	Comunicazione	Torino	Collaborazione	19-Mag-2015	35659	13-Gen-1991	+39 055 1688246
+AZ-0171	Marta	Bernardi	marta.bernardi@azienda.it	Controllo Qualità	Genova	Apprendistato	28-Lug-2018	29348	11-Ott-1967	+39 051 2736473
+AZ-0172	Roberta	Fiore	roberta.fiore@azienda.it	Marketing	Modena	Tempo Determinato	17-Nov-2005	35872	12-Feb-1976	+39 081 8344365
+AZ-0173	Pietro	Pellegrino	pietro.pellegrino@azienda.it	Legale	Bergamo	Tempo Determinato	01-Mar-2013	29312	04-Mag-1983	+39 010 6676858
+AZ-0174	Umberto	Ruggiero	umberto.ruggiero@azienda.it	Vendite	Venezia	Tempo Indeterminato	24-Mag-2012	40844	29-Mar-1969	+39 055 7485471
+AZ-0175	Daniele	Martinelli	daniele.martinelli@azienda.it	Servizio Clienti	Bergamo	Tempo Determinato	23-Giu-2012	47868	10-Set-1980	+39 011 7575963
+AZ-0176	Simone	Ruggiero	simone.ruggiero@azienda.it	Servizio Clienti	Torino	Apprendistato	15-Lug-2017	42233	24-Nov-1981	+39 081 6510922
+AZ-0177	Simone	Guerra	simone.guerra@azienda.it	Servizio Clienti	Modena	Tempo Indeterminato	29-Giu-2019	29288	26-Ott-1965	+39 011 6181912
+AZ-0179	Veronica	Conti	veronica.conti@azienda.it	Legale	Perugia	Tempo Indeterminato	06-Nov-2019	26158	18-Nov-1970	+39 055 7320310
+AZ-0180	Anna	Barbieri	anna.barbieri@azienda.it	Risorse Umane	Bergamo	Tempo Determinato	05-Mar-2021	49580	19-Ago-1984	+39 02 7893063
+AZ-0181	Alberto	Riva	alberto.riva@azienda.it	Servizio Clienti	Palermo	Collaborazione	11-Set-2018	31383	20-Feb-1985	+39 06 9959220
+AZ-0182	Fabio	Marchetti	fabio.marchetti@azienda.it	Acquisti	Parma	Tempo Determinato	02-Apr-2013	51217	06-Giu-1995	+39 055 8391997
+AZ-0183	Debora	Valenti	debora.valenti@azienda.it	IT	Padova	Collaborazione	20-Ago-2008	42335	18-Mar-1971	+39 010 5194357
+AZ-0184	Andrea	Orlando	andrea.orlando@azienda.it	Ricerca e Sviluppo	Verona	Tempo Indeterminato	15-Dic-2020	20000	12-Dic-2002	+39 055 3091745
+AZ-0185	Daniele	Bruno	daniele.bruno@azienda.it	Acquisti	Firenze	Apprendistato	29-Gen-2015	39676	16-Ago-1984	+39 02 4725179
+AZ-0186	Marta	Ferri	marta.ferri@azienda.it	Vendite	Trieste	Tempo Indeterminato	22-Nov-2013	31835	09-Lug-1987	+39 011 4955699
+AZ-0187	Paola	Bruno	paola.bruno@azienda.it	Produzione	Palermo	Tempo Indeterminato	24-Feb-2012	52340	26-Feb-1994	+39 011 3450300
+AZ-0188	Giorgia	Bianchi	giorgia.bianchi@azienda.it	IT	Parma	Tempo Determinato	08-Gen-2022	26950	25-Ago-1996	+39 051 8526283
+AZ-0189	Adriano	Rossi	adriano.rossi@azienda.it	Marketing	Milano	Apprendistato	02-Nov-2009	41420	16-Ago-1997	+39 055 9854536
+AZ-0190	Leonardo	Mancini	leonardo.mancini@azienda.it	Acquisti	Catania	Tempo Determinato	04-Ott-2011	24139	20-Giu-1970	+39 02 5000351
+AZ-0191	Jessica	Costanzo	jessica.costanzo@azienda.it	Acquisti	Bergamo	Collaborazione	30-Mag-2006	51649	08-Ott-1991	+39 055 1275739
+AZ-0192	Mirko	Testa	mirko.testa@azienda.it	Amministrazione	Palermo	Tempo Determinato	15-Lug-2011	48925	03-Apr-1984	+39 02 6919270
+AZ-0193	Fabio	Bernardi	fabio.bernardi@azienda.it	Logistica	Firenze	Tempo Indeterminato	28-Set-2016	38696	06-Ago-1988	+39 055 9511546
+AZ-0194	Luigi	Benedetti	luigi.benedetti@azienda.it	Vendite	Padova	Collaborazione	23-Dic-2005	34406	07-Lug-1993	+39 051 7262974
+AZ-0195	Paolo	De Rosa	paolo.derosa@azienda.it	Vendite	Verona	Tempo Indeterminato	25-Set-2012	35815	26-Ago-1969	+39 010 6578736
+AZ-0196	Giorgia	Romano	giorgia.romano@azienda.it	Produzione	Perugia	Apprendistato	02-Giu-2019	49608	08-Nov-1972	+39 010 8795078
+AZ-0197	Sabrina	Morelli	sabrina.morelli@azienda.it	Controllo Qualità	Firenze	Tempo Determinato	01-Giu-2006	29923	29-Ago-1966	+39 011 4382135
+AZ-0198	Sara	Caruso	sara.caruso@azienda.it	Vendite	Venezia	Apprendistato	24-Lug-2016	20000	12-Nov-1982	+39 010 8942330
+AZ-0199	Paolo	Bianchi	paolo.bianchi@azienda.it	Acquisti	Genova	Apprendistato	03-Gen-2013	37027	01-Giu-1994	+39 011 5583814
+AZ-0200	Alessia	Marini	alessia.marini@azienda.it	Logistica	Padova	Collaborazione	03-Set-2013	32615	17-Mar-1980	+39 06 9324908
+AZ-0201	Tiziano	Silvestri	tiziano.silvestri@azienda.it	Produzione	Modena	Apprendistato	08-Nov-2006	34418	10-Gen-1992	+39 010 4027557
+AZ-0202	Camilla	De Santis	camilla.desantis@azienda.it	Produzione	Napoli	Tempo Indeterminato	10-Mag-2012	30987	25-Ago-1994	+39 011 6142147
+AZ-0203	Marta	Sartori	marta.sartori@azienda.it	Servizio Clienti	Trieste	Tempo Determinato	21-Giu-2020	24782	09-Ago-1997	+39 010 6914963
+AZ-0204	Adriano	Palumbo	adriano.palumbo@azienda.it	IT	Roma	Tempo Indeterminato	21-Gen-2020	38758	07-Ago-1993	+39 051 7095349
+AZ-0205	Greta	De Rosa	greta.derosa@azienda.it	Controllo Qualità	Firenze	Tempo Indeterminato	15-Mar-2008	43748	28-Ago-1984	+39 02 3117788
+AZ-0206	Matteo	Longo	matteo.longo@azienda.it	Acquisti	Verona	Apprendistato	03-Ago-2013	22746	12-Giu-1990	+39 02 3574265
+AZ-0207	Umberto	Farina	umberto.farina@azienda.it	Produzione	Verona	Collaborazione	12-Feb-2022	39820	18-Giu-1981	+39 051 6274512
+AZ-0208	Carlotta	Serra	carlotta.serra@azienda.it	Finanza	Napoli	Tempo Indeterminato	02-Lug-2021	37528	07-Mag-1973	+39 051 9686324
+AZ-0209	Paola	Barone	paola.barone@azienda.it	Marketing	Bari	Apprendistato	16-Ott-2020	20000	23-Ott-1977	+39 081 9240971
+AZ-0210	Silvia	Costa	silvia.costa@azienda.it	Risorse Umane	Torino	Collaborazione	15-Nov-2008	46101	31-Dic-1996	+39 051 2472884
+AZ-0211	Rosa	Parisi	rosa.parisi@azienda.it	Controllo Qualità	Verona	Tempo Indeterminato	03-Mag-2017	20000	11-Mar-2003	+39 06 3920762
+AZ-0212	Alberto	Testa	alberto.testa@azienda.it	Finanza	Napoli	Tempo Determinato	07-Ott-2022	29483	26-Mar-1971	+39 06 9288312
+AZ-0213	Francesca	Bianco	francesca.bianco@azienda.it	Legale	Cagliari	Apprendistato	26-Giu-2015	39190	14-Giu-1992	+39 02 2103070
+AZ-0214	Cristina	Messina	cristina.messina@azienda.it	Servizio Clienti	Parma	Collaborazione	02-Apr-2022	23047	15-Mag-1983	+39 010 2237331
+AZ-0215	Simone	Parisi	simone.parisi@azienda.it	Controllo Qualità	Torino	Collaborazione	14-Giu-2015	31092	11-Mar-2002	+39 010 4052834
+AZ-0216	Omar	Giordano	omar.giordano@azienda.it	Logistica	Modena	Tempo Indeterminato	15-Ott-2007	26681	29-Mar-1988	+39 06 6102363
+AZ-0217	Laura	Barbieri	laura.barbieri@azienda.it	Produzione	Palermo	Apprendistato	21-Ago-2016	50277	29-Mar-1976	+39 06 5604524
+AZ-0219	Laura	Pagano	laura.pagano@azienda.it	Amministrazione	Bergamo	Apprendistato	23-Ago-2017	54302	23-Ago-1968	+39 02 5440189
+AZ-0220	Carlotta	Ferrara	carlotta.ferrara@azienda.it	Acquisti	Cagliari	Collaborazione	12-Nov-2018	40111	31-Ago-1993	+39 02 9355692
+AZ-0221	Mirko	Giuliani	mirko.giuliani@azienda.it	IT	Catania	Collaborazione	30-Giu-2010	40121	06-Mag-1978	+39 051 2224284
+AZ-0222	Tiziano	Ricci	tiziano.ricci@azienda.it	Risorse Umane	Brescia	Collaborazione	11-Nov-2015	20689	01-Nov-1985	+39 06 6707484
+AZ-0223	Erika	Lombardi	erika.lombardi@azienda.it	Produzione	Venezia	Apprendistato	11-Dic-2013	41553	13-Mar-1990	+39 02 6353876
+AZ-0224	Fabio	Monti	fabio.monti@azienda.it	Marketing	Bari	Collaborazione	24-Lug-2010	42046	28-Apr-1971	+39 02 1849015
+AZ-0225	Veronica	Valentini	veronica.valentini@azienda.it	Comunicazione	Bergamo	Collaborazione	27-Lug-2010	55978	29-Giu-2001	+39 011 6246485
+AZ-0226	Giovanni	Marchese	giovanni.marchese@azienda.it	Risorse Umane	Parma	Collaborazione	09-Mar-2016	29989	04-Nov-1978	+39 051 1388833
+AZ-0227	Elisa	Messina	elisa.messina2@azienda.it	Legale	Brescia	Tempo Determinato	29-Ott-2009	32265	15-Ago-1977	+39 051 8895137
+AZ-0228	Daniele	Carbone	daniele.carbone@azienda.it	Vendite	Napoli	Collaborazione	03-Gen-2008	33421	12-Nov-1976	+39 081 7136730
+AZ-0229	Nadia	Sala	nadia.sala@azienda.it	Produzione	Roma	Collaborazione	24-Feb-2006	29051	26-Ott-1989	+39 011 2233658
+AZ-0230	Paola	Mazza	paola.mazza@azienda.it	Ricerca e Sviluppo	Perugia	Apprendistato	24-Dic-2018	32188	10-Lug-1995	+39 055 2993318
+AZ-0231	Simone	Conti	simone.conti@azienda.it	Logistica	Verona	Apprendistato	06-Lug-2017	50552	06-Dic-1973	+39 055 9541658
+AZ-0232	Michela	Mazza	michela.mazza@azienda.it	Vendite	Roma	Tempo Indeterminato	28-Gen-2008	28723	04-Gen-1997	+39 011 8948107
+AZ-0233	Tommaso	Rizzi	tommaso.rizzi@azienda.it	Risorse Umane	Bergamo	Tempo Determinato	10-Mag-2012	42956	18-Ago-1982	+39 055 6020319
+AZ-0234	Teresa	Ferraro	teresa.ferraro@azienda.it	Legale	Modena	Collaborazione	23-Nov-2020	31339	02-Apr-1990	+39 011 8967375
+AZ-0235	Luca	Marini	luca.marini@azienda.it	Produzione	Napoli	Collaborazione	03-Feb-2018	27412	12-Nov-1995	+39 081 1447065
+AZ-0236	Elia	Cattaneo	elia.cattaneo@azienda.it	IT	Cagliari	Tempo Determinato	07-Mar-2021	55012	22-Apr-1967	+39 055 9060593
+AZ-0237	Laura	Pellegrino	laura.pellegrino@azienda.it	Controllo Qualità	Bergamo	Collaborazione	25-Apr-2008	38241	07-Set-1990	+39 081 2843740
+AZ-0238	Giovanni	Ferrari	giovanni.ferrari@azienda.it	Ricerca e Sviluppo	Venezia	Collaborazione	25-Mag-2008	28295	11-Lug-1983	+39 081 4420734
+AZ-0239	Vincenzo	Mazza	vincenzo.mazza@azienda.it	Acquisti	Bergamo	Collaborazione	03-Lug-2021	32786	08-Apr-1988	+39 06 6453426
+AZ-0240	Raffaele	Morelli	raffaele.morelli@azienda.it	Legale	Padova	Apprendistato	19-Nov-2008	20000	15-Ago-1985	+39 055 6743294
+AZ-0241	Camilla	Fabbri	camilla.fabbri@azienda.it	Controllo Qualità	Bari	Collaborazione	25-Apr-2009	42800	23-Mag-1978	+39 06 5993143
+AZ-0242	Omar	Coppola	omar.coppola@azienda.it	Servizio Clienti	Genova	Collaborazione	11-Feb-2012	32858	11-Lug-1986	+39 011 5587856
+AZ-0243	Daniele	Costa	daniele.costa@azienda.it	Amministrazione	Perugia	Collaborazione	07-Nov-2013	45359	03-Feb-2001	+39 06 5872986
+AZ-0244	Sara	Coppola	sara.coppola@azienda.it	Servizio Clienti	Torino	Apprendistato	03-Dic-2014	20000	05-Giu-1994	+39 011 9037616
+AZ-0245	Federica	Caruso	federica.caruso@azienda.it	Comunicazione	Perugia	Apprendistato	10-Ago-2017	33197	14-Ago-1992	+39 081 5014486
+AZ-0246	Ilaria	Colombo	ilaria.colombo@azienda.it	Controllo Qualità	Modena	Tempo Determinato	24-Apr-2019	29874	12-Giu-1975	+39 02 2681042
+AZ-0247	Vincenzo	Conte	vincenzo.conte@azienda.it	Servizio Clienti	Parma	Tempo Indeterminato	12-Apr-2020	35133	08-Set-1989	+39 06 7826774
+AZ-0248	Carlotta	Cattaneo	carlotta.cattaneo@azienda.it	Ricerca e Sviluppo	Genova	Apprendistato	16-Mar-2012	33989	21-Ott-1977	+39 081 1992583
+AZ-0249	Omar	Gallo	omar.gallo@azienda.it	Controllo Qualità	Cagliari	Tempo Determinato	01-Gen-2017	33616	04-Set-1966	+39 06 8010946
+AZ-0250	Stefano	Bianchi	stefano.bianchi@azienda.it	Comunicazione	Padova	Collaborazione	07-Mar-2009	20000	07-Ago-1998	+39 010 5856449
+AZ-0251	Alessandro	Russo	alessandro.russo@azienda.it	IT	Cagliari	Tempo Indeterminato	07-Lug-2012	28523	16-Mag-1989	+39 055 9286475
+AZ-0252	Giorgia	Mazza	giorgia.mazza@azienda.it	Ricerca e Sviluppo	Bari	Tempo Determinato	12-Lug-2007	64357	01-Nov-1979	+39 06 8699307
+AZ-0253	Edoardo	Martinelli	edoardo.martinelli@azienda.it	Servizio Clienti	Firenze	Tempo Indeterminato	10-Lug-2021	30648	03-Apr-1995	+39 010 4240708
+AZ-0254	Stefano	Sorrentino	stefano.sorrentino@azienda.it	Comunicazione	Padova	Collaborazione	23-Lug-2016	42140	17-Set-1979	+39 02 7724865
+AZ-0255	Lucia	Conti	lucia.conti@azienda.it	Risorse Umane	Bologna	Collaborazione	04-Apr-2012	36077	17-Mar-1982	+39 06 8494978
+AZ-0256	Dario	Lombardo	dario.lombardo@azienda.it	Produzione	Catania	Tempo Indeterminato	13-Nov-2010	34541	28-Apr-1994	+39 011 4964499
+AZ-0257	Valentina	Guerra	valentina.guerra@azienda.it	Marketing	Brescia	Apprendistato	01-Ago-2008	25209	24-Lug-1996	+39 010 6217344
+AZ-0258	Tiziano	Costa	tiziano.costa@azienda.it	Controllo Qualità	Catania	Apprendistato	15-Ott-2018	41616	28-Nov-1974	+39 06 3240912
+AZ-0259	Noemi	Moretti	noemi.moretti@azienda.it	Ricerca e Sviluppo	Bergamo	Apprendistato	30-Apr-2014	28431	22-Dic-1998	+39 055 4664338
+AZ-0260	Nadia	Gentile	nadia.gentile@azienda.it	Controllo Qualità	Bergamo	Tempo Indeterminato	14-Ott-2016	20000	15-Gen-1985	+39 055 7069742
+AZ-0261	Chiara	Palmieri	chiara.palmieri@azienda.it	Marketing	Roma	Tempo Determinato	05-Nov-2017	29162	01-Mag-2003	+39 055 8412854
+AZ-0262	Davide	Donati	davide.donati@azienda.it	Finanza	Cagliari	Collaborazione	15-Gen-2007	33631	23-Nov-1987	+39 051 1933413
+AZ-0263	Salvatore	Giordano	salvatore.giordano@azienda.it	Legale	Trieste	Collaborazione	25-Ago-2017	45416	13-Mar-2001	+39 011 1365247
+AZ-0264	Enrico	Martinelli	enrico.martinelli@azienda.it	Comunicazione	Milano	Tempo Determinato	21-Dic-2017	38954	11-Apr-1968	+39 02 8108462
+AZ-0265	Giacomo	Piras	giacomo.piras@azienda.it	Marketing	Perugia	Tempo Indeterminato	20-Lug-2006	46260	17-Nov-1977	+39 051 4019585
+AZ-0266	Omar	Rizzo	omar.rizzo@azienda.it	Acquisti	Trieste	Apprendistato	31-Lug-2013	34017	13-Feb-1985	+39 010 7333337
+AZ-0267	Claudio	Bruno	claudio.bruno2@azienda.it	Controllo Qualità	Perugia	Tempo Determinato	29-Ago-2019	38210	06-Feb-1989	+39 051 9872505
+AZ-0268	Simone	Battaglia	simone.battaglia@azienda.it	Finanza	Milano	Tempo Indeterminato	11-Set-2011	31134	08-Ott-1985	+39 081 8115687
+AZ-0269	Francesco	Grasso	francesco.grasso@azienda.it	Comunicazione	Palermo	Tempo Determinato	02-Mag-2015	30438	10-Lug-1997	+39 010 2893218
+AZ-0270	Alessandro	Pagano	alessandro.pagano@azienda.it	Logistica	Bergamo	Tempo Indeterminato	26-Mag-2010	41609	31-Mar-1974	+39 02 2692765
+AZ-0271	Elia	Bianchi	elia.bianchi@azienda.it	Ricerca e Sviluppo	Bergamo	Tempo Indeterminato	28-Giu-2010	34397	07-Lug-1975	+39 055 4645172
+AZ-0272	Dario	Montanari	dario.montanari@azienda.it	Vendite	Bologna	Apprendistato	03-Apr-2010	24873	05-Ago-2001	+39 081 6350316
+AZ-0273	Angela	Ruggiero	angela.ruggiero@azienda.it	Acquisti	Venezia	Tempo Determinato	09-Ott-2011	55771	20-Mag-1988	+39 06 7938388
+AZ-0274	Massimo	Serra	massimo.serra@azienda.it	Vendite	Perugia	Tempo Determinato	16-Gen-2019	20000	13-Giu-1995	+39 051 9315137
+AZ-0275	Andrea	Ferri	andrea.ferri@azienda.it	Controllo Qualità	Padova	Apprendistato	14-Ago-2020	30083	20-Nov-1981	+39 06 8944327
+AZ-0276	Fabio	Martini	fabio.martini@azienda.it	IT	Bologna	Collaborazione	18-Apr-2006	37853	25-Mar-1990	+39 051 7987842
+AZ-0277	Irene	Pellegrino	irene.pellegrino@azienda.it	Risorse Umane	Padova	Tempo Determinato	20-Set-2010	39169	06-Mar-1985	+39 010 7225647
+AZ-0278	Elisa	Carbone	elisa.carbone@azienda.it	Servizio Clienti	Genova	Tempo Indeterminato	09-Gen-2011	48810	02-Dic-1981	+39 081 1663497
+AZ-0280	Giovanni	Caputo	giovanni.caputo@azienda.it	Marketing	Parma	Tempo Determinato	08-Ago-2020	56074	11-Feb-1992	+39 081 4431161
+AZ-0281	Enrico	Longo	enrico.longo@azienda.it	Legale	Venezia	Apprendistato	16-Lug-2013	20859	02-Nov-1978	+39 011 7033835
+AZ-0282	Greta	Silvestri	greta.silvestri@azienda.it	Ricerca e Sviluppo	Napoli	Collaborazione	31-Gen-2022	38044	02-Set-2002	+39 011 4407913
+AZ-0283	Serena	Parisi	serena.parisi@azienda.it	Logistica	Roma	Tempo Determinato	17-Ago-2021	39729	14-Mar-1991	+39 055 8005797
+AZ-0284	Veronica	Moretti	veronica.moretti@azienda.it	Finanza	Venezia	Tempo Determinato	09-Lug-2013	41170	24-Lug-1990	+39 010 5122665
+AZ-0285	Sofia	Benedetti	sofia.benedetti@azienda.it	Controllo Qualità	Venezia	Apprendistato	14-Feb-2022	46332	14-Ott-1993	+39 081 9230828
+AZ-0286	Salvatore	Fontana	salvatore.fontana@azienda.it	Servizio Clienti	Verona	Tempo Determinato	21-Feb-2008	20000	24-Apr-1997	+39 055 9192588
+AZ-0287	Elena	Giuliani	elena.giuliani@azienda.it	Controllo Qualità	Roma	Tempo Indeterminato	01-Set-2006	48982	15-Apr-1999	+39 02 7918793
+AZ-0288	Giorgia	D'Amico	giorgia.damico@azienda.it	Finanza	Torino	Tempo Determinato	16-Mar-2005	29985	24-Ott-1974	+39 055 8650572
+AZ-0289	Serena	Ricci	serena.ricci@azienda.it	Amministrazione	Bergamo	Collaborazione	15-Ott-2019	33851	30-Set-1989	+39 051 1198826
+AZ-0290	Luca	Pellegrino	luca.pellegrino@azienda.it	Servizio Clienti	Bari	Apprendistato	21-Mag-2005	35088	13-Lug-1987	+39 010 8223819
+AZ-0291	Stefano	De Luca	stefano.deluca@azienda.it	Marketing	Modena	Tempo Determinato	29-Mag-2010	39363	27-Lug-2001	+39 011 5484964
+AZ-0292	Enrico	Bruno	enrico.bruno@azienda.it	Produzione	Padova	Collaborazione	03-Set-2017	46422	29-Nov-1975	+39 081 4789255
+AZ-0293	Massimo	Donati	massimo.donati@azienda.it	Comunicazione	Torino	Tempo Indeterminato	05-Feb-2007	26942	09-Mag-1986	+39 02 1158547
+AZ-0294	Sabrina	Fontana	sabrina.fontana@azienda.it	Marketing	Parma	Collaborazione	20-Giu-2019	40456	09-Mar-2000	+39 011 2599906
+AZ-0295	Lisa	Romano	lisa.romano@azienda.it	Finanza	Genova	Collaborazione	30-Gen-2011	38764	30-Lug-1977	+39 055 1552000
+AZ-0296	Stefano	Parisi	stefano.parisi@azienda.it	Vendite	Genova	Tempo Determinato	15-Nov-2021	36134	25-Ott-2001	+39 081 7682298
+AZ-0297	Chiara	D'Angelo	chiara.dangelo@azienda.it	Risorse Umane	Cagliari	Tempo Determinato	17-Set-2017	40035	01-Apr-1989	+39 011 7439870
+AZ-0298	Dario	Caputo	dario.caputo@azienda.it	Risorse Umane	Torino	Apprendistato	16-Mar-2006	26443	20-Mag-1969	+39 051 4894730
+AZ-0299	Chiara	Ferraro	chiara.ferraro@azienda.it	Amministrazione	Bergamo	Collaborazione	08-Mag-2022	28453	24-Feb-2000	+39 051 9230960
+AZ-0300	Claudia	Fabbri	claudia.fabbri@azienda.it	Legale	Padova	Collaborazione	02-Mar-2009	47579	29-Giu-1995	+39 055 7376562
+AZ-0301	Lorenzo	Valenti	lorenzo.valenti@azienda.it	Amministrazione	Catania	Tempo Determinato	29-Dic-2020	42071	17-Gen-1982	+39 081 3588336
+AZ-0302	Renato	Valentini	renato.valentini@azienda.it	Produzione	Verona	Tempo Indeterminato	20-Gen-2007	38520	27-Mar-1965	+39 011 8461429
+AZ-0303	Alberto	Marchese	alberto.marchese@azienda.it	IT	Napoli	Tempo Determinato	17-Dic-2006	39184	19-Nov-1989	+39 055 7845845
+AZ-0304	Martina	Esposito	martina.esposito@azienda.it	Marketing	Verona	Tempo Indeterminato	23-Mag-2018	45082	30-Ott-1991	+39 010 6443037
+AZ-0305	Paola	Russo	paola.russo@azienda.it	IT	Trieste	Collaborazione	23-Giu-2022	53538	22-Nov-1975	+39 055 9742683
+AZ-0307	Roberto	Marino	roberto.marino@azienda.it	Risorse Umane	Trieste	Apprendistato	12-Giu-2014	29627	14-Mar-1981	+39 011 5137094
+AZ-0308	Alfredo	D'Amico	alfredo.damico@azienda.it	Ricerca e Sviluppo	Bergamo	Tempo Determinato	09-Apr-2015	51625	19-Ott-1969	+39 06 6111313
+AZ-0309	Marco	Messina	marco.messina@azienda.it	Produzione	Bergamo	Collaborazione	23-Mag-2012	25127	10-Dic-2001	+39 010 3283789
+AZ-0310	Massimo	Villa	massimo.villa@azienda.it	Amministrazione	Genova	Collaborazione	18-Gen-2012	38893	20-Dic-1972	+39 051 6354241
+AZ-0311	Veronica	Caputo	veronica.caputo@azienda.it	Servizio Clienti	Parma	Tempo Determinato	23-Apr-2012	21893	17-Ago-1982	+39 011 2910720
+AZ-0312	Sergio	Caruso	sergio.caruso@azienda.it	Amministrazione	Perugia	Tempo Determinato	16-Apr-2020	47935	08-Giu-1999	+39 055 1451577
+AZ-0313	Marina	Monti	marina.monti@azienda.it	Servizio Clienti	Genova	Collaborazione	15-Lug-2011	36851	12-Gen-2003	+39 010 7864256
+AZ-0314	Umberto	Silvestri	umberto.silvestri@azienda.it	Risorse Umane	Catania	Tempo Determinato	01-Set-2010	31697	19-Lug-1994	+39 06 8098909
+AZ-0315	Claudio	Greco	claudio.greco@azienda.it	Ricerca e Sviluppo	Bergamo	Collaborazione	22-Gen-2018	25348	11-Gen-1996	+39 051 1616817
+AZ-0316	Alberto	Piras	alberto.piras@azienda.it	Acquisti	Perugia	Tempo Indeterminato	15-Giu-2007	41938	30-Giu-1999	+39 06 6956059
+AZ-0317	Laura	Orlando	laura.orlando@azienda.it	Amministrazione	Roma	Collaborazione	18-Nov-2021	26251	02-Ott-1969	+39 02 2654343
+AZ-0318	Monica	Martini	monica.martini@azienda.it	Legale	Modena	Tempo Determinato	31-Dic-2014	50544	13-Ott-1981	+39 051 8768911
+AZ-0319	Omar	Riva	omar.riva@azienda.it	Amministrazione	Modena	Tempo Determinato	26-Set-2012	46482	03-Apr-1978	+39 051 2440404
+AZ-0320	Davide	Battaglia	davide.battaglia@azienda.it	Risorse Umane	Verona	Apprendistato	11-Set-2012	34834	05-Giu-1985	+39 010 4470657
+AZ-0321	Tommaso	Morelli	tommaso.morelli@azienda.it	Produzione	Parma	Tempo Indeterminato	30-Ott-2014	33079	06-Gen-1968	+39 011 1749657
+AZ-0322	Valerio	Mancini	valerio.mancini@azienda.it	Vendite	Venezia	Tempo Indeterminato	10-Mar-2020	24194	21-Nov-2000	+39 06 5092180
+AZ-0323	Tommaso	Santoro	tommaso.santoro@azienda.it	Legale	Firenze	Apprendistato	23-Lug-2017	25035	14-Ott-2000	+39 051 4094587
+AZ-0324	Elena	Costanzo	elena.costanzo@azienda.it	Controllo Qualità	Trieste	Collaborazione	28-Ago-2005	39970	29-Gen-1998	+39 055 4310554
+AZ-0325	Marta	Giorgi	marta.giorgi@azienda.it	Logistica	Padova	Tempo Indeterminato	22-Ott-2020	36772	27-Lug-1996	+39 010 2049645
+AZ-0326	Angela	De Luca	angela.deluca@azienda.it	Acquisti	Perugia	Tempo Determinato	16-Mar-2013	42880	16-Ago-1979	+39 06 8676422
+AZ-0327	Davide	Vitale	davide.vitale@azienda.it	Controllo Qualità	Parma	Apprendistato	23-Mag-2018	27361	15-Feb-1970	+39 011 6905327
+AZ-0328	Salvatore	Neri	salvatore.neri@azienda.it	Risorse Umane	Catania	Tempo Indeterminato	28-Gen-2020	41430	04-Gen-1971	+39 011 2977390
+AZ-0329	Fabio	Marchetti	fabio.marchetti2@azienda.it	Marketing	Firenze	Apprendistato	21-Lug-2020	41256	03-Ott-1991	+39 06 7437584
+AZ-0330	Leonardo	Mariani	leonardo.mariani@azienda.it	Ricerca e Sviluppo	Perugia	Tempo Determinato	12-Giu-2017	42695	26-Giu-1972	+39 051 5845843
+AZ-0333	Giorgio	Fontana	giorgio.fontana@azienda.it	Marketing	Cagliari	Tempo Indeterminato	26-Gen-2022	35475	01-Feb-1975	+39 055 5843084
+AZ-0334	Laura	Montanari	laura.montanari@azienda.it	Ricerca e Sviluppo	Cagliari	Collaborazione	01-Mag-2017	37534	01-Dic-1987	+39 02 2916069
+AZ-0335	Nicola	Montanari	nicola.montanari@azienda.it	Legale	Verona	Tempo Indeterminato	17-Gen-2022	32565	27-Gen-1984	+39 02 5152891
+AZ-0336	Massimo	Bianchi	massimo.bianchi@azienda.it	Ricerca e Sviluppo	Bari	Apprendistato	14-Dic-2006	22665	11-Set-1984	+39 010 2969410
+AZ-0337	Cinzia	Longo	cinzia.longo@azienda.it	Finanza	Cagliari	Apprendistato	10-Dic-2020	26865	22-Ago-1992	+39 06 4466502
+AZ-0338	Antonio	Ricci	antonio.ricci@azienda.it	Amministrazione	Verona	Apprendistato	22-Mag-2018	28247	03-Mar-1989	+39 06 6430006
+AZ-0339	Valerio	De Santis	valerio.desantis@azienda.it	IT	Cagliari	Apprendistato	16-Lug-2016	50019	10-Apr-1969	+39 06 7905438
+AZ-0340	Valentina	Serra	valentina.serra@azienda.it	Comunicazione	Bologna	Tempo Determinato	08-Ago-2010	33627	25-Lug-1971	+39 081 6403886
+AZ-0341	Ilaria	Marchese	ilaria.marchese@azienda.it	Comunicazione	Padova	Collaborazione	10-Mar-2008	28006	01-Ago-1983	+39 051 8583162
+AZ-0342	Chiara	Costanzo	chiara.costanzo@azienda.it	Acquisti	Torino	Collaborazione	25-Lug-2016	31301	20-Ago-1998	+39 011 7191986
+AZ-0343	Salvatore	Amato	salvatore.amato@azienda.it	Produzione	Cagliari	Tempo Indeterminato	13-Mag-2022	37535	26-Lug-1985	+39 081 7009980
+AZ-0344	Matteo	Carbone	matteo.carbone@azienda.it	Logistica	Genova	Collaborazione	02-Ott-2009	31377	12-Mar-1987	+39 011 6416778
+AZ-0345	Daniele	Ferraro	daniele.ferraro@azienda.it	Legale	Cagliari	Tempo Determinato	12-Set-2017	45574	14-Ago-1995	+39 010 1812172
+AZ-0346	Sara	Conti	sara.conti@azienda.it	Controllo Qualità	Brescia	Tempo Indeterminato	15-Ott-2007	20903	02-Feb-1972	+39 051 8659103
+AZ-0347	Marco	Pellegrini	marco.pellegrini@azienda.it	Finanza	Bologna	Apprendistato	26-Lug-2008	49412	10-Mar-1969	+39 081 7047102
+AZ-0348	Paolo	Bruno	paolo.bruno@azienda.it	Produzione	Firenze	Tempo Indeterminato	21-Nov-2013	20483	23-Gen-1993	+39 011 4928281
+AZ-0349	Leonardo	Damiani	leonardo.damiani@azienda.it	Marketing	Napoli	Tempo Indeterminato	15-Ott-2009	29720	23-Feb-1975	+39 055 8466983
+AZ-0350	Giulia	Russo	giulia.russo@azienda.it	Servizio Clienti	Venezia	Tempo Indeterminato	22-Giu-2014	35775	19-Feb-1996	+39 06 9014480
+AZ-0351	Chiara	Leone	chiara.leone@azienda.it	Logistica	Torino	Tempo Indeterminato	26-Apr-2007	27002	25-Feb-1971	+39 051 3233823
+AZ-0352	Edoardo	Riva	edoardo.riva@azienda.it	Risorse Umane	Torino	Tempo Indeterminato	09-Set-2018	54020	27-Feb-1994	+39 06 8383643
+AZ-0353	Giacomo	Basile	giacomo.basile@azienda.it	Finanza	Bologna	Collaborazione	26-Ott-2018	27305	21-Nov-1968	+39 02 3349030
+AZ-0354	Dario	Costa	dario.costa@azienda.it	Amministrazione	Padova	Apprendistato	19-Ago-2014	20000	09-Feb-1979	+39 010 3345961
+AZ-0355	Ilaria	Serra	ilaria.serra@azienda.it	Controllo Qualità	Torino	Tempo Determinato	31-Mag-2017	22129	13-Ott-1977	+39 010 1450038
+AZ-0356	Raffaele	D'Angelo	raffaele.dangelo@azienda.it	Finanza	Modena	Tempo Determinato	10-Ott-2021	25525	29-Lug-1982	+39 011 1915518
+AZ-0357	Fabio	Silvestri	fabio.silvestri@azienda.it	Logistica	Napoli	Tempo Determinato	16-Mar-2016	32518	17-Lug-1965	+39 011 6309530
+AZ-0358	Simone	Valentini	simone.valentini@azienda.it	Comunicazione	Cagliari	Collaborazione	13-Mar-2013	32072	05-Lug-1989	+39 081 3898604
+AZ-0359	Nadia	Cattaneo	nadia.cattaneo@azienda.it	Acquisti	Torino	Tempo Indeterminato	05-Mar-2018	42107	15-Ott-1966	+39 02 7676912
+AZ-0361	Viviana	Carbone	viviana.carbone@azienda.it	Legale	Bergamo	Tempo Determinato	24-Mar-2011	38511	12-Feb-1974	+39 010 3606795
+AZ-0362	Francesco	Villa	francesco.villa@azienda.it	Logistica	Cagliari	Tempo Indeterminato	16-Dic-2011	37035	05-Mag-1996	+39 051 5003671
+AZ-0363	Valentina	Gentile	valentina.gentile@azienda.it	Marketing	Trieste	Tempo Indeterminato	04-Mar-2015	32439	18-Nov-1994	+39 081 3946849
+AZ-0364	Alessia	Russo	alessia.russo@azienda.it	Servizio Clienti	Bologna	Tempo Indeterminato	04-Set-2008	32818	09-Apr-1987	+39 011 9774573
+AZ-0365	Tommaso	Basile	tommaso.basile@azienda.it	IT	Firenze	Apprendistato	06-Nov-2007	34971	17-Nov-1997	+39 02 1492516
+AZ-0366	Emanuele	Pellegrini	emanuele.pellegrini@azienda.it	IT	Modena	Tempo Indeterminato	25-Nov-2010	20000	14-Dic-1996	+39 055 2293020
+AZ-0367	Sofia	Rizzi	sofia.rizzi@azienda.it	Legale	Verona	Tempo Indeterminato	16-Mar-2016	38833	22-Gen-1972	+39 011 2726457
+AZ-0368	Angela	Riva	angela.riva@azienda.it	Servizio Clienti	Napoli	Tempo Determinato	13-Ago-2021	30328	29-Ott-1987	+39 02 1738833
+AZ-0369	Giulia	Gentile	giulia.gentile@azienda.it	Vendite	Parma	Apprendistato	04-Ago-2013	40507	03-Ago-1966	+39 055 8035849
+AZ-0370	Riccardo	Villa	riccardo.villa@azienda.it	Finanza	Trieste	Apprendistato	01-Feb-2011	31982	20-Gen-2002	+39 02 7254683
+AZ-0371	Alessia	Mazza	alessia.mazza@azienda.it	Controllo Qualità	Roma	Tempo Determinato	03-Gen-2010	44453	26-Dic-1982	+39 02 8802985
+AZ-0372	Daniele	Montanari	daniele.montanari@azienda.it	Comunicazione	Catania	Apprendistato	09-Dic-2006	20000	23-Ott-1989	+39 051 1133700
+AZ-0373	Serena	Caruso	serena.caruso@azienda.it	IT	Cagliari	Apprendistato	03-Ago-2021	26991	18-Lug-1991	+39 051 4278644
+AZ-0374	Marina	Giuliani	marina.giuliani@azienda.it	Acquisti	Palermo	Tempo Determinato	22-Feb-2005	27218	25-Mag-1983	+39 02 4909053
+AZ-0375	Camilla	Ferri	camilla.ferri@azienda.it	Controllo Qualità	Milano	Apprendistato	12-Gen-2005	35545	09-Feb-1998	+39 081 6159172
+AZ-0376	Martina	Ferrara	martina.ferrara@azienda.it	Legale	Palermo	Collaborazione	14-Gen-2016	25299	09-Set-1967	+39 06 5694689
+AZ-0377	Elisa	Romano	elisa.romano@azienda.it	Finanza	Modena	Collaborazione	20-Set-2020	43776	20-Lug-1998	+39 02 2603516
+AZ-0378	Luigi	Rizzo	luigi.rizzo@azienda.it	Controllo Qualità	Padova	Tempo Indeterminato	11-Apr-2018	28244	22-Giu-1990	+39 02 8297801
+AZ-0379	Raffaele	Giordano	raffaele.giordano@azienda.it	Finanza	Catania	Apprendistato	25-Gen-2012	43932	26-Apr-2002	+39 081 6473593
+AZ-0380	Filippo	Farina	filippo.farina@azienda.it	IT	Palermo	Tempo Indeterminato	19-Lug-2009	30522	09-Feb-1971	+39 010 2828260
+AZ-0381	Anna	De Luca	anna.deluca@azienda.it	Risorse Umane	Brescia	Collaborazione	17-Gen-2012	24686	23-Lug-1999	+39 06 8581910
+AZ-0382	Cristina	Monti	cristina.monti@azienda.it	IT	Napoli	Tempo Indeterminato	15-Lug-2008	41867	24-Mar-2001	+39 081 6103880
+AZ-0383	Valerio	Piras	valerio.piras@azienda.it	Amministrazione	Roma	Tempo Determinato	09-Mag-2012	44397	16-Dic-1980	+39 051 9614423
+AZ-0384	Andrea	Riva	andrea.riva@azienda.it	IT	Bari	Tempo Determinato	12-Set-2005	47652	21-Feb-1983	+39 010 8586676
+AZ-0385	Irene	De Rosa	irene.derosa@azienda.it	Legale	Palermo	Tempo Indeterminato	14-Mag-2015	49250	13-Giu-1970	+39 02 2034637
+AZ-0386	Cinzia	Martini	cinzia.martini@azienda.it	Risorse Umane	Genova	Collaborazione	08-Mag-2013	45617	15-Ott-1995	+39 081 2409947
+AZ-0387	Bruno	Giorgi	bruno.giorgi@azienda.it	IT	Torino	Tempo Indeterminato	13-Giu-2006	39647	21-Apr-2001	+39 06 2543145
+AZ-0388	Emanuele	Costa	emanuele.costa@azienda.it	Vendite	Brescia	Tempo Indeterminato	08-Ott-2008	48642	29-Set-1990	+39 051 7626978
+AZ-0389	Sofia	Esposito	sofia.esposito@azienda.it	Logistica	Trieste	Tempo Determinato	09-Dic-2012	36416	22-Lug-1977	+39 051 3493621
+AZ-0390	Alessandro	Sorrentino	alessandro.sorrentino@azienda.it	Amministrazione	Bergamo	Tempo Determinato	09-Lug-2019	41280	29-Mar-1978	+39 051 7912082
+AZ-0391	Diego	Morelli	diego.morelli@azienda.it	Vendite	Torino	Apprendistato	04-Ago-2013	39340	05-Ott-2000	+39 055 5180005
+AZ-0392	Mirko	Giuliani	mirko.giuliani2@azienda.it	Acquisti	Milano	Collaborazione	16-Lug-2022	40065	31-Dic-1996	+39 011 9047769
+AZ-0393	Camilla	Amato	camilla.amato@azienda.it	Produzione	Cagliari	Apprendistato	17-Set-2013	34706	15-Ott-1991	+39 06 1491630
+AZ-0394	Cinzia	Serra	cinzia.serra@azienda.it	Vendite	Parma	Apprendistato	14-Mar-2022	37279	14-Mar-1991	+39 06 3678059
+AZ-0395	Federico	Gentile	federico.gentile@azienda.it	Controllo Qualità	Palermo	Apprendistato	20-Dic-2016	44032	06-Lug-1967	+39 010 4681115
+AZ-0396	Angela	Valentini	angela.valentini@azienda.it	Produzione	Firenze	Tempo Determinato	22-Apr-2010	20000	31-Lug-1991	+39 011 7019382
+AZ-0397	Teresa	Esposito	teresa.esposito@azienda.it	Servizio Clienti	Verona	Tempo Determinato	18-Ago-2017	53045	09-Mag-2001	+39 051 6185050
+AZ-0398	Stefano	Amato	stefano.amato@azienda.it	Vendite	Torino	Tempo Indeterminato	21-Mar-2010	28932	28-Dic-1991	+39 06 1334336
+AZ-0399	Lisa	Morelli	lisa.morelli@azienda.it	Vendite	Venezia	Tempo Determinato	05-Dic-2007	31626	29-Dic-2000	+39 010 6428919
+AZ-0400	Valentina	Ferrari	valentina.ferrari@azienda.it	Risorse Umane	Cagliari	Tempo Determinato	15-Mag-2022	40262	23-Dic-1969	+39 010 9829762
+AZ-0401	Alberto	Greco	alberto.greco@azienda.it	Produzione	Padova	Tempo Indeterminato	20-Lug-2012	33269	25-Gen-1972	+39 081 8329435
+AZ-0402	Viviana	Amato	viviana.amato@azienda.it	Controllo Qualità	Venezia	Tempo Determinato	11-Nov-2020	40133	18-Mar-1990	+39 081 6986539
+AZ-0403	Riccardo	Guerra	riccardo.guerra@azienda.it	Amministrazione	Firenze	Collaborazione	19-Nov-2011	34161	21-Dic-1972	+39 081 1030163
+AZ-0404	Sabrina	Bernardi	sabrina.bernardi@azienda.it	Logistica	Cagliari	Tempo Indeterminato	31-Gen-2009	26689	09-Gen-1992	+39 011 4706007
+AZ-0405	Viviana	Palmieri	viviana.palmieri@azienda.it	Marketing	Parma	Tempo Determinato	05-Giu-2012	34784	02-Mag-1979	+39 06 2488575
+AZ-0406	Valerio	Guerra	valerio.guerra@azienda.it	Controllo Qualità	Venezia	Collaborazione	04-Apr-2005	27630	24-Nov-1976	+39 06 5186600
+AZ-0407	Tiziano	Marino	tiziano.marino@azienda.it	Produzione	Bari	Tempo Indeterminato	27-Feb-2021	44875	11-Nov-1997	+39 051 3790695
+AZ-0408	Vincenzo	Silvestri	vincenzo.silvestri@azienda.it	Logistica	Verona	Collaborazione	11-Apr-2007	35080	07-Mar-2002	+39 051 4784650
+AZ-0409	Giuseppe	Farina	giuseppe.farina@azienda.it	Marketing	Roma	Apprendistato	14-Giu-2005	24699	30-Apr-1968	+39 011 3853891
+AZ-0410	Claudio	Barbieri	claudio.barbieri@azienda.it	Servizio Clienti	Torino	Tempo Indeterminato	31-Lug-2012	57356	25-Ago-1991	+39 055 9098979
+AZ-0411	Valerio	Esposito	valerio.esposito@azienda.it	Logistica	Firenze	Collaborazione	10-Lug-2008	43465	10-Lug-1973	+39 051 5450404
+AZ-0412	Raffaele	Coppola	raffaele.coppola@azienda.it	IT	Palermo	Tempo Indeterminato	11-Feb-2006	37961	17-Ago-1982	+39 055 9236745
+AZ-0413	Anna	Colombo	anna.colombo@azienda.it	Produzione	Milano	Collaborazione	19-Dic-2006	30931	04-Dic-1991	+39 051 4349987
+AZ-0414	Federico	Esposito	federico.esposito@azienda.it	Finanza	Firenze	Apprendistato	03-Nov-2006	49156	30-Mar-1986	+39 010 2937918
+AZ-0415	Cristina	Messina	cristina.messina2@azienda.it	Ricerca e Sviluppo	Parma	Apprendistato	17-Gen-2007	28778	23-Ago-1981	+39 051 7197531
+AZ-0416	Elena	Farina	elena.farina@azienda.it	Vendite	Bari	Collaborazione	07-Giu-2015	27297	25-Ott-1976	+39 06 5505722
+AZ-0417	Sergio	Ricci	sergio.ricci@azienda.it	Risorse Umane	Napoli	Tempo Indeterminato	27-Dic-2019	28060	07-Dic-1998	+39 055 4817030
+AZ-0418	Diego	Ricci	diego.ricci@azienda.it	Comunicazione	Padova	Collaborazione	04-Gen-2017	45381	27-Ott-1995	+39 010 8966231
+AZ-0419	Angela	Longo	angela.longo@azienda.it	Ricerca e Sviluppo	Catania	Tempo Indeterminato	09-Nov-2013	47967	11-Lug-1987	+39 055 9670757
+AZ-0420	Angela	Riva	angela.riva2@azienda.it	Amministrazione	Bologna	Tempo Indeterminato	25-Dic-2021	25921	22-Feb-1985	+39 06 3804559
+AZ-0421	Federica	Rinaldi	federica.rinaldi@azienda.it	Risorse Umane	Roma	Collaborazione	04-Ott-2006	45663	24-Nov-2001	+39 081 3480985
+AZ-0422	Elia	Vitale	elia.vitale@azienda.it	Produzione	Torino	Tempo Indeterminato	15-Set-2013	34213	16-Dic-1989	+39 051 6471499
+AZ-0423	Barbara	Grassi	barbara.grassi@azienda.it	Ricerca e Sviluppo	Milano	Collaborazione	11-Lug-2007	30135	17-Mag-1991	+39 055 2681144
+AZ-0424	Martina	Palmieri	martina.palmieri@azienda.it	Acquisti	Napoli	Apprendistato	05-Gen-2017	37900	04-Giu-1980	+39 051 5431477
+AZ-0425	Paola	Damiani	paola.damiani@azienda.it	Ricerca e Sviluppo	Cagliari	Collaborazione	03-Nov-2005	39770	25-Set-1992	+39 055 7739741
+AZ-0426	Alessandro	Messina	alessandro.messina@azienda.it	Produzione	Palermo	Tempo Indeterminato	23-Set-2021	43967	26-Apr-1986	+39 011 7248518
+AZ-0428	Giorgia	D'Angelo	giorgia.dangelo@azienda.it	Servizio Clienti	Brescia	Apprendistato	17-Gen-2011	20000	10-Set-1997	+39 051 2497984
+AZ-0429	Giovanni	Sanna	giovanni.sanna@azienda.it	Finanza	Trieste	Collaborazione	13-Gen-2022	25375	10-Lug-1967	+39 055 3667115
+AZ-0430	Matteo	Marchetti	matteo.marchetti@azienda.it	Servizio Clienti	Modena	Collaborazione	17-Gen-2008	33998	05-Gen-2000	+39 010 9796063
+AZ-0431	Sergio	Esposito	sergio.esposito@azienda.it	Risorse Umane	Genova	Tempo Determinato	18-Apr-2006	35035	02-Mar-1981	+39 081 4340507
+AZ-0432	Barbara	Marini	barbara.marini@azienda.it	Comunicazione	Brescia	Collaborazione	03-Apr-2019	46042	23-Lug-1970	+39 081 1512765
+AZ-0433	Fabio	Marini	fabio.marini@azienda.it	Ricerca e Sviluppo	Bergamo	Collaborazione	25-Dic-2008	45998	25-Set-1989	+39 011 6775539
+AZ-0434	Giuseppe	Vitale	giuseppe.vitale@azienda.it	Servizio Clienti	Torino	Apprendistato	13-Ago-2005	32215	05-Mag-1982	+39 02 3733132
+AZ-0435	Angela	Montanari	angela.montanari@azienda.it	Finanza	Palermo	Tempo Determinato	14-Mar-2020	38899	10-Gen-1988	+39 02 1149283
+AZ-0436	Carlo	Giordano	carlo.giordano@azienda.it	Controllo Qualità	Firenze	Tempo Indeterminato	08-Gen-2010	48988	28-Apr-1976	+39 055 6124763
+AZ-0437	Gloria	Rossetti	gloria.rossetti@azienda.it	Controllo Qualità	Bari	Collaborazione	12-Giu-2013	41604	16-Ott-1974	+39 051 6069153
+AZ-0438	Umberto	Grassi	umberto.grassi@azienda.it	Comunicazione	Bergamo	Collaborazione	10-Feb-2018	26098	04-Ago-1969	+39 02 9581776
+AZ-0439	Raffaele	Marini	raffaele.marini@azienda.it	Legale	Bergamo	Apprendistato	12-Set-2011	30408	01-Feb-1980	+39 011 6454894
+AZ-0440	Barbara	Vitale	barbara.vitale@azienda.it	Controllo Qualità	Catania	Tempo Determinato	13-Mag-2008	24494	16-Mar-1988	+39 010 5031599
+AZ-0441	Valentina	Ruggiero	valentina.ruggiero@azienda.it	Logistica	Venezia	Tempo Determinato	06-Mar-2021	46580	06-Apr-1978	+39 011 8022366
+AZ-0442	Michela	Valentini	michela.valentini@azienda.it	Servizio Clienti	Roma	Tempo Determinato	12-Set-2012	36868	04-Ago-1997	+39 081 4730635
+AZ-0443	Rosa	Carbone	rosa.carbone@azienda.it	Controllo Qualità	Parma	Apprendistato	18-Mag-2016	33107	02-Lug-1994	+39 055 4038955
+AZ-0444	Veronica	Conti	veronica.conti2@azienda.it	Ricerca e Sviluppo	Bologna	Apprendistato	07-Apr-2021	40803	05-Apr-2001	+39 055 4071377
+AZ-0445	Rosa	Conte	rosa.conte@azienda.it	Controllo Qualità	Torino	Tempo Determinato	20-Dic-2012	38379	12-Nov-1983	+39 010 6558579
+AZ-0446	Serena	Vitale	serena.vitale@azienda.it	Amministrazione	Catania	Collaborazione	23-Ago-2007	54971	09-Feb-1986	+39 02 2194801
+AZ-0447	Carlo	Rinaldi	carlo.rinaldi@azienda.it	Legale	Napoli	Collaborazione	19-Nov-2016	34003	27-Apr-2003	+39 06 3304606
+AZ-0448	Silvia	Ferraro	silvia.ferraro@azienda.it	Logistica	Cagliari	Collaborazione	19-Mar-2008	38181	12-Mar-1979	+39 010 4025884
+AZ-0449	Cinzia	Bruno	cinzia.bruno@azienda.it	Ricerca e Sviluppo	Venezia	Tempo Determinato	12-Gen-2012	34355	09-Apr-1977	+39 06 3828735
+AZ-0450	Angela	Marchese	angela.marchese@azienda.it	Risorse Umane	Parma	Tempo Indeterminato	27-Nov-2007	34273	25-Lug-1992	+39 051 8204299
+AZ-0451	Michela	Pellegrini	michela.pellegrini@azienda.it	Ricerca e Sviluppo	Padova	Tempo Indeterminato	06-Nov-2005	20000	19-Ago-1965	+39 011 9909268
+AZ-0452	Giovanni	Ferrari	giovanni.ferrari2@azienda.it	Controllo Qualità	Milano	Tempo Determinato	28-Gen-2010	31588	10-Feb-1996	+39 011 6236039
+AZ-0453	Simone	De Luca	simone.deluca@azienda.it	Logistica	Modena	Apprendistato	30-Set-2008	37805	17-Gen-1978	+39 051 9728991
+AZ-0454	Elia	Pellegrino	elia.pellegrino@azienda.it	Produzione	Trieste	Tempo Determinato	08-Set-2012	36220	28-Dic-1986	+39 011 4161264
+AZ-0455	Laura	Sala	laura.sala@azienda.it	Vendite	Palermo	Tempo Determinato	23-Apr-2021	41857	26-Dic-1965	+39 055 9466346
+AZ-0456	Laura	Costa	laura.costa@azienda.it	Produzione	Roma	Collaborazione	13-Mag-2019	34347	22-Giu-1976	+39 010 9971338
+AZ-0457	Manuela	Colombo	manuela.colombo@azienda.it	Amministrazione	Roma	Tempo Indeterminato	30-Ago-2019	36620	13-Mar-1970	+39 051 8454356
+AZ-0458	Claudio	Costa	claudio.costa@azienda.it	Legale	Bari	Collaborazione	28-Set-2020	32305	14-Nov-1971	+39 06 1156104
+AZ-0459	Massimo	Gatti	massimo.gatti@azienda.it	Controllo Qualità	Napoli	Apprendistato	20-Dic-2018	30721	06-Apr-2002	+39 02 9582968
+AZ-0460	Alfredo	Neri	alfredo.neri@azienda.it	Marketing	Catania	Tempo Indeterminato	08-Ago-2022	31654	08-Ott-1969	+39 051 4332737
+AZ-0461	Erika	Caruso	erika.caruso@azienda.it	Acquisti	Bari	Tempo Determinato	11-Gen-2013	32587	08-Ott-1966	+39 055 9327450
+AZ-0462	Antonio	Negri	antonio.negri@azienda.it	Ricerca e Sviluppo	Venezia	Tempo Determinato	23-Gen-2005	26988	28-Lug-1965	+39 081 2493219
+AZ-0463	Davide	Bernardi	davide.bernardi@azienda.it	Controllo Qualità	Parma	Tempo Determinato	08-Gen-2007	35729	17-Giu-1997	+39 02 5293157
+AZ-0464	Edoardo	Leone	edoardo.leone@azienda.it	Ricerca e Sviluppo	Catania	Apprendistato	01-Giu-2015	31118	01-Apr-1967	+39 02 3931009
+AZ-0465	Sara	De Santis	sara.desantis@azienda.it	Produzione	Venezia	Collaborazione	26-Lug-2021	49570	22-Gen-1967	+39 02 3321873
+AZ-0466	Raffaele	Orlando	raffaele.orlando@azienda.it	Risorse Umane	Venezia	Apprendistato	26-Ott-2014	47993	22-Nov-1992	+39 011 2559464
+AZ-0467	Serena	Ferraro	serena.ferraro@azienda.it	Risorse Umane	Napoli	Collaborazione	23-Dic-2013	42743	21-Apr-1982	+39 081 9023619
+AZ-0468	Jessica	Damiani	jessica.damiani2@azienda.it	Acquisti	Firenze	Tempo Indeterminato	22-Dic-2007	33131	25-Mar-1996	+39 081 1983923
+AZ-0469	Giuseppe	De Luca	giuseppe.deluca@azienda.it	Logistica	Cagliari	Collaborazione	05-Ott-2017	32250	13-Gen-1982	+39 010 7016291
+AZ-0470	Adriano	Esposito	adriano.esposito@azienda.it	Comunicazione	Bologna	Collaborazione	13-Dic-2015	29305	25-Gen-1970	+39 051 8393515
+AZ-0471	Sara	Marino	sara.marino@azienda.it	IT	Venezia	Tempo Indeterminato	20-Ott-2020	43257	11-Mag-1998	+39 055 4757843
+AZ-0472	Lucia	Ferraro	lucia.ferraro@azienda.it	Legale	Modena	Tempo Indeterminato	16-Set-2014	26020	07-Set-1994	+39 081 5170429
+AZ-0473	Noemi	Ferri	noemi.ferri@azienda.it	Controllo Qualità	Padova	Tempo Determinato	10-Lug-2017	45729	10-Lug-1965	+39 081 3632804
+AZ-0474	Luigi	Cattaneo	luigi.cattaneo@azienda.it	Comunicazione	Parma	Tempo Determinato	06-Set-2006	26356	16-Set-1998	+39 051 6379342
+AZ-0475	Fabio	Conte	fabio.conte@azienda.it	IT	Roma	Tempo Determinato	07-Mag-2017	28687	18-Lug-1975	+39 02 8702329
+AZ-0476	Pietro	Bernardi	pietro.bernardi@azienda.it	Ricerca e Sviluppo	Torino	Collaborazione	11-Gen-2015	27037	07-Mar-1979	+39 02 9344540
+AZ-0477	Daniela	Damiani	daniela.damiani@azienda.it	Vendite	Napoli	Collaborazione	01-Apr-2014	47303	18-Gen-2002	+39 02 6110305
+AZ-0478	Greta	Barone	greta.barone@azienda.it	Finanza	Brescia	Apprendistato	24-Feb-2013	37818	08-Gen-2002	+39 02 4739945
+AZ-0479	Salvatore	Conte	salvatore.conte@azienda.it	Legale	Bergamo	Collaborazione	27-Gen-2021	26262	12-Feb-1970	+39 02 4720299
+AZ-0480	Marco	Ferraro	marco.ferraro@azienda.it	Produzione	Catania	Apprendistato	30-Set-2020	21758	08-Ott-1969	+39 02 3754070
+AZ-0481	Sofia	Rizzo	sofia.rizzo@azienda.it	Comunicazione	Trieste	Tempo Indeterminato	15-Set-2010	30056	25-Mar-2003	+39 051 4616991
+AZ-0482	Salvatore	Rinaldi	salvatore.rinaldi@azienda.it	Servizio Clienti	Venezia	Tempo Indeterminato	25-Dic-2021	30865	05-Ago-1983	+39 02 3067274
+AZ-0483	Omar	Farina	omar.farina@azienda.it	Ricerca e Sviluppo	Cagliari	Tempo Determinato	10-Mar-2016	51319	26-Ott-1989	+39 051 9102253
+AZ-0484	Greta	Montanari	greta.montanari@azienda.it	Risorse Umane	Cagliari	Tempo Determinato	21-Mag-2021	35445	27-Lug-2001	+39 06 2737347
+AZ-0485	Paola	Pagano	paola.pagano@azienda.it	Amministrazione	Bergamo	Apprendistato	22-Apr-2016	42655	26-Apr-1992	+39 081 5164755
+AZ-0486	Barbara	Messina	barbara.messina@azienda.it	Produzione	Catania	Collaborazione	29-Dic-2007	27937	14-Mar-1971	+39 051 9594877
+AZ-0487	Massimo	Piras	massimo.piras@azienda.it	Legale	Venezia	Tempo Determinato	04-Lug-2009	38965	20-Ott-1995	+39 011 3225862
+AZ-0488	Valerio	Damiani	valerio.damiani@azienda.it	Risorse Umane	Modena	Apprendistato	07-Dic-2020	50327	06-Mar-1970	+39 010 6909569
+AZ-0489	Irene	Morelli	irene.morelli@azienda.it	Amministrazione	Cagliari	Collaborazione	15-Feb-2020	34743	29-Ott-1977	+39 010 8086467
+AZ-0490	Giulia	Grassi	giulia.grassi@azienda.it	Marketing	Milano	Collaborazione	05-Apr-2008	20000	20-Mag-1967	+39 081 1949670
+AZ-0491	Silvia	Lombardo	silvia.lombardo@azienda.it	Acquisti	Firenze	Apprendistato	30-Apr-2020	34933	24-Dic-1995	+39 010 5951637
+AZ-0492	Antonio	Graziano	antonio.graziano@azienda.it	Legale	Roma	Apprendistato	25-Feb-2015	54124	07-Ago-1969	+39 055 4763253
+AZ-0493	Daniela	Orlando	daniela.orlando@azienda.it	Legale	Padova	Tempo Determinato	17-Giu-2016	38830	26-Nov-1977	+39 081 1788191
+AZ-0494	Claudio	Valentini	claudio.valentini@azienda.it	Logistica	Venezia	Tempo Indeterminato	17-Apr-2005	20000	12-Mag-1998	+39 011 4407238
+AZ-0495	Manuela	Montanari	manuela.montanari@azienda.it	Comunicazione	Brescia	Tempo Determinato	20-Mar-2019	30938	15-Nov-1998	+39 055 4296204
+AZ-0496	Cinzia	Basile	cinzia.basile@azienda.it	Finanza	Catania	Collaborazione	24-Dic-2008	21139	16-Ago-1995	+39 02 4136946
+AZ-0497	Stefano	Caputo	stefano.caputo@azienda.it	Legale	Napoli	Collaborazione	29-Nov-2005	23512	02-Nov-1970	+39 06 5278461
+AZ-0498	Marco	Conte	marco.conte@azienda.it	Ricerca e Sviluppo	Bologna	Tempo Indeterminato	13-Giu-2008	40538	22-Giu-1979	+39 055 1853212
+AZ-0499	Cinzia	D'Amico	cinzia.damico@azienda.it	Amministrazione	Catania	Collaborazione	19-Set-2022	26549	03-Mar-2000	+39 081 6332789
+AZ-0500	Lisa	Martini	lisa.martini@azienda.it	Risorse Umane	Modena	Tempo Indeterminato	21-Ago-2022	30848	30-Ago-1987	+39 06 7978168
+AZ-0501	Camilla	Carbone	camilla.carbone@azienda.it	Logistica	Torino	Apprendistato	18-Dic-2009	45970	08-Nov-1979	+39 011 5925360
+AZ-0503	Davide	Guerra	davide.guerra@azienda.it	Produzione	Brescia	Tempo Determinato	29-Mag-2019	24474	16-Ott-1966	+39 081 6384429
+AZ-0505	Greta	Testa	greta.testa@azienda.it	Ricerca e Sviluppo	Parma	Tempo Indeterminato	26-Ago-2011	40249	20-Gen-1988	+39 02 2609881
+AZ-0506	Laura	Valenti	laura.valenti@azienda.it	Legale	Perugia	Tempo Indeterminato	23-Gen-2019	31099	09-Dic-1967	+39 06 4576485
+AZ-0507	Rosa	Pellegrini	rosa.pellegrini2@azienda.it	Comunicazione	Napoli	Tempo Determinato	23-Gen-2017	44752	04-Apr-1998	+39 010 8302077
+AZ-0508	Edoardo	Greco	edoardo.greco@azienda.it	Servizio Clienti	Bologna	Tempo Indeterminato	20-Apr-2015	20000	27-Feb-1997	+39 011 1635626
+AZ-0509	Elisa	Greco	elisa.greco@azienda.it	Vendite	Firenze	Apprendistato	08-Lug-2017	51779	08-Ago-1976	+39 051 7510106
+AZ-0510	Marta	D'Amico	marta.damico@azienda.it	Logistica	Trieste	Apprendistato	19-Mag-2005	42952	22-Giu-1982	+39 081 2984841
+AZ-0511	Francesco	Rossi	francesco.rossi@azienda.it	Controllo Qualità	Bergamo	Tempo Indeterminato	15-Dic-2021	34922	19-Gen-2003	+39 02 7001212
+AZ-0512	Luigi	De Luca	luigi.deluca@azienda.it	IT	Catania	Tempo Indeterminato	26-Apr-2011	31949	01-Mag-1999	+39 051 7399057
+AZ-0513	Enrico	Pagano	enrico.pagano@azienda.it	Vendite	Parma	Tempo Determinato	19-Dic-2016	38119	28-Set-2000	+39 010 5948917
+AZ-0514	Viviana	Lombardi	viviana.lombardi@azienda.it	IT	Verona	Tempo Indeterminato	01-Giu-2017	51277	25-Nov-1989	+39 06 3067542
+AZ-0515	Sara	Rossi	sara.rossi2@azienda.it	Amministrazione	Bergamo	Collaborazione	18-Gen-2017	30968	04-Giu-1974	+39 081 6768873
+AZ-0516	Federica	De Angelis	federica.deangelis@azienda.it	Controllo Qualità	Modena	Tempo Determinato	11-Ago-2008	33759	03-Apr-1973	+39 06 5240303
+AZ-0517	Giovanni	Mancini	giovanni.mancini@azienda.it	Risorse Umane	Cagliari	Tempo Indeterminato	05-Nov-2021	64295	10-Set-1985	+39 081 2227162
+AZ-0519	Emanuele	Fabbri	emanuele.fabbri@azienda.it	Risorse Umane	Palermo	Tempo Indeterminato	25-Mag-2011	20000	04-Apr-1979	+39 051 8560584
+AZ-0520	Emanuele	Sorrentino	emanuele.sorrentino@azienda.it	Controllo Qualità	Catania	Tempo Determinato	08-Set-2017	20354	06-Giu-1990	+39 011 6307189
+AZ-0521	Leonardo	Fontana	leonardo.fontana@azienda.it	Vendite	Venezia	Tempo Determinato	16-Ago-2022	37920	25-Lug-1984	+39 011 7031174
+AZ-0522	Giorgia	Riva	giorgia.riva@azienda.it	Servizio Clienti	Venezia	Collaborazione	20-Mag-2015	51148	23-Dic-1984	+39 011 6124966
+AZ-0523	Giorgio	Benedetti	giorgio.benedetti@azienda.it	Marketing	Firenze	Tempo Indeterminato	18-Apr-2011	38467	28-Feb-1989	+39 06 5416344
+AZ-0524	Marina	D'Amico	marina.damico@azienda.it	Marketing	Torino	Tempo Indeterminato	17-Mag-2016	30740	02-Mag-1993	+39 02 7797028
+AZ-0525	Omar	Giorgi	omar.giorgi@azienda.it	Finanza	Roma	Apprendistato	11-Mar-2017	44794	02-Mag-1994	+39 010 3493647
+AZ-0526	Alberto	Messina	alberto.messina@azienda.it	Finanza	Cagliari	Apprendistato	02-Gen-2008	27303	05-Nov-1985	+39 055 9563292
+AZ-0527	Elisa	Messina	elisa.messina3@azienda.it	Produzione	Modena	Tempo Indeterminato	12-Nov-2019	36800	18-Lug-1992	+39 081 3782393
+AZ-0528	Dario	Testa	dario.testa@azienda.it	Risorse Umane	Brescia	Tempo Determinato	07-Gen-2009	60722	29-Mag-1990	+39 055 3452813
+AZ-0529	Renato	Battaglia	renato.battaglia@azienda.it	Ricerca e Sviluppo	Verona	Tempo Indeterminato	28-Nov-2009	35523	10-Nov-1976	+39 011 4926181
+AZ-0530	Sara	Guerra	sara.guerra@azienda.it	Finanza	Modena	Apprendistato	15-Set-2013	27757	26-Gen-1986	+39 051 1779091
+AZ-0531	Sara	Damiani	sara.damiani@azienda.it	Produzione	Napoli	Apprendistato	22-Ago-2021	33952	19-Ott-1972	+39 051 7350486
+AZ-0532	Alberto	Giorgi	alberto.giorgi@azienda.it	Controllo Qualità	Torino	Apprendistato	10-Giu-2013	47494	31-Dic-1974	+39 055 7808902
+AZ-0533	Beatrice	Ferri	beatrice.ferri@azienda.it	Ricerca e Sviluppo	Parma	Tempo Indeterminato	04-Apr-2016	42942	27-Apr-1975	+39 02 9632570
+AZ-0534	Edoardo	Serra	edoardo.serra@azienda.it	Finanza	Bologna	Tempo Determinato	13-Lug-2008	27730	01-Apr-1981	+39 055 2985251
+AZ-0535	Raffaele	Leone	raffaele.leone@azienda.it	Logistica	Venezia	Tempo Indeterminato	20-Ott-2015	29830	03-Lug-1991	+39 06 7893744
+AZ-0536	Luca	Gentile	luca.gentile@azienda.it	Vendite	Bologna	Tempo Determinato	09-Gen-2008	24818	29-Mar-1993	+39 055 1657513
+AZ-0537	Angela	Lombardi	angela.lombardi@azienda.it	Vendite	Firenze	Apprendistato	14-Gen-2009	24858	14-Apr-1990	+39 081 1312392
+AZ-0538	Alfredo	Battaglia	alfredo.battaglia@azienda.it	Controllo Qualità	Catania	Tempo Indeterminato	10-Nov-2009	33936	24-Feb-1985	+39 055 8909005
+AZ-0539	Noemi	Fontana	noemi.fontana@azienda.it	Finanza	Trieste	Tempo Determinato	26-Gen-2018	37714	04-Ago-1994	+39 055 5437920
+AZ-0540	Laura	Basile	laura.basile@azienda.it	Controllo Qualità	Venezia	Collaborazione	19-Mag-2018	29274	30-Giu-1991	+39 02 4855635
+AZ-0541	Claudio	Valentini	claudio.valentini2@azienda.it	Risorse Umane	Napoli	Tempo Indeterminato	16-Lug-2009	20000	13-Set-1995	+39 051 3509220
+AZ-0542	Erika	Conti	erika.conti@azienda.it	Risorse Umane	Parma	Tempo Indeterminato	01-Ago-2022	31884	02-Nov-1988	+39 055 2971598
+AZ-0543	Elisa	Morelli	elisa.morelli@azienda.it	Controllo Qualità	Bologna	Tempo Indeterminato	19-Mag-2022	30388	15-Nov-1983	+39 011 1728773
+AZ-0546	Daniele	Ruggiero	daniele.ruggiero@azienda.it	Legale	Trieste	Apprendistato	29-Mar-2009	43489	31-Mar-1965	+39 081 1119354
+AZ-0547	Angela	Grassi	angela.grassi@azienda.it	Marketing	Modena	Tempo Indeterminato	31-Mag-2013	26388	04-Mar-1979	+39 051 7077878
+AZ-0548	Martina	Moretti	martina.moretti@azienda.it	Logistica	Cagliari	Apprendistato	11-Nov-2010	22405	18-Gen-1989	+39 051 7134489
+AZ-0549	Adriano	Serra	adriano.serra@azienda.it	Controllo Qualità	Padova	Tempo Determinato	09-Apr-2014	22908	07-Gen-1973	+39 011 9116148
+AZ-0550	Paolo	Marchetti	paolo.marchetti@azienda.it	Amministrazione	Verona	Collaborazione	03-Lug-2021	30893	13-Mar-1971	+39 010 2997927
+AZ-0551	Daniela	Leone	daniela.leone@azienda.it	Ricerca e Sviluppo	Firenze	Tempo Indeterminato	23-Ott-2009	20000	04-Dic-2000	+39 055 1873301
+AZ-0552	Giuseppe	Valentini	giuseppe.valentini@azienda.it	Controllo Qualità	Milano	Tempo Indeterminato	05-Apr-2008	34080	27-Feb-1986	+39 055 8304421
+AZ-0553	Elisa	Marino	elisa.marino@azienda.it	IT	Palermo	Apprendistato	18-Ott-2006	22566	22-Dic-1982	+39 055 9741022
+AZ-0554	Daniele	Fiore	daniele.fiore@azienda.it	Amministrazione	Roma	Tempo Determinato	13-Mag-2019	24841	06-Mar-1987	+39 051 1179690
+AZ-0555	Silvia	Pagano	silvia.pagano@azienda.it	Acquisti	Modena	Apprendistato	15-Mag-2009	48228	21-Feb-1988	+39 081 4886793
+AZ-0556	Adriano	Fontana	adriano.fontana@azienda.it	Controllo Qualità	Roma	Apprendistato	14-Mag-2010	37836	20-Mag-1994	+39 02 3641484
+AZ-0557	Elisa	Serra	elisa.serra@azienda.it	Acquisti	Padova	Apprendistato	08-Gen-2020	24498	23-Mar-1988	+39 02 2151205
+AZ-0558	Elisa	Benedetti	elisa.benedetti@azienda.it	IT	Perugia	Apprendistato	17-Ott-2012	43131	01-Ago-2001	+39 011 4796608
+AZ-0559	Erika	Rinaldi	erika.rinaldi@azienda.it	Ricerca e Sviluppo	Padova	Tempo Indeterminato	09-Nov-2010	40391	22-Gen-1990	+39 02 9441777
+AZ-0560	Veronica	Ferraro	veronica.ferraro@azienda.it	Marketing	Modena	Apprendistato	24-Gen-2017	45587	23-Giu-2001	+39 010 5196677
+AZ-0561	Tiziano	Sanna	tiziano.sanna@azienda.it	Logistica	Cagliari	Collaborazione	09-Apr-2022	35385	17-Ott-1999	+39 051 8729606
+AZ-0562	Teresa	Esposito	teresa.esposito2@azienda.it	Ricerca e Sviluppo	Napoli	Apprendistato	08-Lug-2006	44102	02-Mar-1982	+39 081 4697401
+AZ-0563	Umberto	Piras	umberto.piras@azienda.it	Finanza	Venezia	Collaborazione	02-Dic-2012	33610	01-Mag-2002	+39 011 5165071
+AZ-0564	Daniele	Gallo	daniele.gallo@azienda.it	Logistica	Venezia	Tempo Indeterminato	09-Giu-2017	34855	03-Gen-1973	+39 051 6265911
+AZ-0565	Beatrice	Galli	beatrice.galli@azienda.it	Amministrazione	Bari	Tempo Determinato	26-Set-2021	26047	21-Mag-1987	+39 081 4349848
+AZ-0566	Fabio	Caputo	fabio.caputo@azienda.it	Finanza	Bari	Tempo Determinato	21-Feb-2010	20000	05-Feb-1974	+39 010 5189194
+AZ-0567	Manuela	Fabbri	manuela.fabbri@azienda.it	Risorse Umane	Napoli	Tempo Indeterminato	05-Ott-2006	28367	14-Lug-1992	+39 02 1709057
+AZ-0568	Noemi	Marini	noemi.marini@azienda.it	Amministrazione	Venezia	Collaborazione	20-Nov-2017	21817	29-Apr-1977	+39 051 4068080
+AZ-0569	Nadia	Testa	nadia.testa@azienda.it	IT	Padova	Tempo Determinato	29-Ott-2021	32043	08-Nov-2000	+39 051 9024879
+AZ-0570	Camilla	Bianchi	camilla.bianchi2@azienda.it	Legale	Verona	Collaborazione	24-Mag-2020	33454	22-Ott-1999	+39 06 8670476
+AZ-0571	Alessia	Piras	alessia.piras@azienda.it	Legale	Brescia	Apprendistato	17-Giu-2020	49954	08-Gen-1982	+39 055 2690268
+AZ-0572	Alice	Bianco	alice.bianco@azienda.it	Amministrazione	Bari	Tempo Determinato	21-Apr-2017	35792	16-Ott-1976	+39 06 5519920
+AZ-0573	Carlo	Sorrentino	carlo.sorrentino@azienda.it	Produzione	Verona	Tempo Determinato	09-Mar-2016	25745	28-Set-1998	+39 011 7124992
+AZ-0575	Alfredo	Lombardo	alfredo.lombardo@azienda.it	Acquisti	Palermo	Collaborazione	18-Lug-2013	40965	17-Feb-1998	+39 06 8935405
+AZ-0576	Giulia	Santoro	giulia.santoro@azienda.it	Logistica	Parma	Tempo Determinato	23-Feb-2019	51922	11-Mar-1988	+39 055 6297024
+AZ-0577	Giorgio	D'Angelo	giorgio.dangelo@azienda.it	IT	Perugia	Tempo Indeterminato	08-Dic-2013	39854	01-Set-1974	+39 010 5266272
+AZ-0578	Carlo	D'Amico	carlo.damico@azienda.it	Marketing	Brescia	Apprendistato	30-Ott-2010	38479	12-Mar-1981	+39 011 5323737
+AZ-0579	Giacomo	Ferrari	giacomo.ferrari@azienda.it	Logistica	Napoli	Apprendistato	30-Mar-2020	41483	01-Nov-1990	+39 081 3928275
+AZ-0580	Cinzia	Coppola	cinzia.coppola@azienda.it	Produzione	Venezia	Collaborazione	18-Mag-2022	33470	15-Gen-1998	+39 051 2315459
+AZ-0581	Claudio	Sorrentino	claudio.sorrentino@azienda.it	IT	Brescia	Tempo Determinato	04-Ott-2008	20421	04-Dic-1983	+39 081 7790959
+AZ-0582	Chiara	Bruno	chiara.bruno2@azienda.it	Risorse Umane	Venezia	Tempo Determinato	13-Gen-2012	20000	20-Mar-1979	+39 081 5888148
+AZ-0583	Valerio	Lombardo	valerio.lombardo@azienda.it	Amministrazione	Padova	Apprendistato	24-Dic-2014	39571	20-Lug-1998	+39 055 9739850
+AZ-0584	Marta	De Angelis	marta.deangelis@azienda.it	Risorse Umane	Firenze	Tempo Indeterminato	22-Ott-2007	20000	24-Ago-1997	+39 06 5221936
+AZ-0585	Daniela	Piras	daniela.piras@azienda.it	Servizio Clienti	Torino	Tempo Determinato	29-Set-2008	31424	24-Mar-1986	+39 055 1903041
+AZ-0586	Francesca	Valenti	francesca.valenti@azienda.it	Logistica	Modena	Tempo Indeterminato	02-Mag-2007	37701	10-Ott-1976	+39 055 3605071
+AZ-0587	Lorenzo	Damiani	lorenzo.damiani@azienda.it	Logistica	Catania	Tempo Determinato	20-Lug-2010	34157	03-Set-1970	+39 06 9837269
+AZ-0588	Laura	Esposito	laura.esposito@azienda.it	Vendite	Verona	Apprendistato	06-Set-2015	24212	16-Dic-1985	+39 010 5570355
+AZ-0589	Diego	Sanna	diego.sanna@azienda.it	Risorse Umane	Perugia	Tempo Determinato	03-Apr-2018	23451	10-Lug-1993	+39 055 8297709
+AZ-0590	Lisa	Costanzo	lisa.costanzo@azienda.it	Controllo Qualità	Perugia	Apprendistato	15-Ott-2012	26874	10-Ago-1986	+39 055 4810582
+AZ-0591	Elisa	Sanna	elisa.sanna@azienda.it	IT	Verona	Collaborazione	30-Ott-2010	35813	23-Giu-1988	+39 010 3286742
+AZ-0592	Giacomo	Coppola	giacomo.coppola@azienda.it	Ricerca e Sviluppo	Perugia	Tempo Indeterminato	05-Giu-2020	36209	25-Gen-1987	+39 010 9003857
+AZ-0593	Massimo	Russo	massimo.russo@azienda.it	Acquisti	Trieste	Apprendistato	23-Mag-2018	35142	05-Ott-1981	+39 06 7907781
+AZ-0594	Irene	Palumbo	irene.palumbo@azienda.it	Logistica	Palermo	Tempo Determinato	13-Gen-2021	36195	24-Gen-1998	+39 081 7538471
+AZ-0595	Claudio	Martini	claudio.martini@azienda.it	IT	Torino	Collaborazione	10-Gen-2019	36115	04-Lug-1992	+39 010 5561139
+AZ-0596	Daniele	Damiani	daniele.damiani@azienda.it	Servizio Clienti	Perugia	Apprendistato	06-Apr-2014	51971	08-Giu-1973	+39 010 2148634
+AZ-0597	Elena	Rizzo	elena.rizzo@azienda.it	IT	Napoli	Collaborazione	09-Nov-2018	20151	26-Gen-1987	+39 06 6379509
+AZ-0598	Luca	Moretti	luca.moretti@azienda.it	Vendite	Perugia	Tempo Indeterminato	04-Mar-2009	39541	03-Ago-1969	+39 011 5516344
+AZ-0599	Simone	Fiore	simone.fiore@azienda.it	Ricerca e Sviluppo	Milano	Tempo Determinato	09-Gen-2007	41816	03-Mag-1980	+39 051 6227389
+AZ-0600	Sofia	Marini	sofia.marini@azienda.it	Ricerca e Sviluppo	Roma	Apprendistato	20-Ott-2006	44467	03-Nov-2002	+39 010 3450947
+AZ-0601	Valentina	Lombardo	valentina.lombardo@azienda.it	Acquisti	Padova	Tempo Indeterminato	08-Mar-2017	28581	01-Ott-2002	+39 011 7401806
+AZ-0602	Giulia	Costa	giulia.costa@azienda.it	Acquisti	Palermo	Collaborazione	19-Apr-2022	36218	14-Nov-1984	+39 06 1562209
+AZ-0603	Silvia	Rizzi	silvia.rizzi@azienda.it	Servizio Clienti	Napoli	Tempo Determinato	10-Ago-2015	20000	30-Giu-1979	+39 06 1707762
+AZ-0604	Daniela	Benedetti	daniela.benedetti@azienda.it	Legale	Napoli	Apprendistato	18-Ott-2015	51358	23-Ago-1993	+39 011 4334029
+AZ-0605	Alberto	Colombo	alberto.colombo@azienda.it	Comunicazione	Genova	Tempo Indeterminato	18-Apr-2010	29055	05-Lug-1972	+39 010 5632190
+AZ-0606	Bruno	Costa	bruno.costa@azienda.it	Logistica	Palermo	Tempo Indeterminato	11-Dic-2005	28433	25-Gen-1991	+39 010 8973718
+AZ-0607	Tiziano	Ruggiero	tiziano.ruggiero@azienda.it	Risorse Umane	Verona	Tempo Indeterminato	31-Lug-2010	37399	01-Ott-1992	+39 011 2007511
+AZ-0608	Valentina	Fabbri	valentina.fabbri@azienda.it	Controllo Qualità	Bologna	Tempo Indeterminato	28-Ott-2007	38662	19-Nov-1986	+39 06 6314007
+AZ-0609	Irene	Orlando	irene.orlando@azienda.it	Acquisti	Verona	Collaborazione	12-Giu-2021	40362	25-Gen-1981	+39 081 3260430
+AZ-0610	Paolo	Romano	paolo.romano@azienda.it	Ricerca e Sviluppo	Brescia	Apprendistato	05-Mar-2017	49318	08-Apr-1996	+39 051 4183910
+AZ-0611	Sergio	Mariani	sergio.mariani@azienda.it	Legale	Verona	Apprendistato	05-Giu-2021	20000	09-Nov-1991	+39 010 3690116
+AZ-0612	Matteo	Pellegrino	matteo.pellegrino@azienda.it	Risorse Umane	Brescia	Apprendistato	28-Nov-2010	38968	18-Apr-1989	+39 011 8618181
+AZ-0613	Marco	Montanari	marco.montanari@azienda.it	Controllo Qualità	Modena	Collaborazione	16-Giu-2021	35766	02-Mag-1981	+39 010 5006173
+AZ-0614	Alice	Basile	alice.basile@azienda.it	Marketing	Perugia	Collaborazione	05-Apr-2009	36787	05-Lug-1988	+39 081 9347489
+AZ-0615	Omar	Benedetti	omar.benedetti@azienda.it	Risorse Umane	Bergamo	Apprendistato	27-Mar-2012	27562	27-Apr-1969	+39 055 2118702
+AZ-0616	Sara	Giordano	sara.giordano@azienda.it	Risorse Umane	Roma	Tempo Determinato	27-Mag-2007	39733	10-Ott-1986	+39 06 2656810
+AZ-0617	Alessandro	Bernardi	alessandro.bernardi@azienda.it	Controllo Qualità	Padova	Collaborazione	17-Ott-2016	25493	16-Mar-1967	+39 011 4703113
+AZ-0618	Erika	Fiore	erika.fiore@azienda.it	Marketing	Milano	Tempo Determinato	16-Set-2019	25615	17-Gen-1987	+39 010 2341452
+AZ-0619	Debora	Costanzo	debora.costanzo@azienda.it	Vendite	Verona	Collaborazione	12-Apr-2013	35951	03-Set-1992	+39 011 9875496
+AZ-0620	Sara	Battaglia	sara.battaglia@azienda.it	Marketing	Catania	Tempo Indeterminato	04-Nov-2009	31667	21-Apr-1988	+39 02 2698275
+AZ-0621	Alfredo	Leone	alfredo.leone@azienda.it	Legale	Padova	Tempo Determinato	02-Mag-2009	27539	19-Gen-1993	+39 06 7965641
+AZ-0622	Daniela	De Luca	daniela.deluca@azienda.it	Acquisti	Cagliari	Apprendistato	17-Feb-2020	33761	30-Lug-1985	+39 081 8165129
+AZ-0623	Martina	Fontana	martina.fontana@azienda.it	Acquisti	Firenze	Collaborazione	27-Apr-2016	31933	30-Nov-1991	+39 051 6911017
+AZ-0624	Filippo	Benedetti	filippo.benedetti@azienda.it	Produzione	Verona	Collaborazione	21-Feb-2022	40003	29-Mag-1993	+39 051 6426605
+AZ-0625	Erika	Longo	erika.longo@azienda.it	Amministrazione	Perugia	Tempo Determinato	31-Mag-2013	37249	25-Mag-1976	+39 011 8590070
+AZ-0626	Marta	Messina	marta.messina@azienda.it	Vendite	Roma	Apprendistato	13-Mag-2018	20000	25-Set-1965	+39 055 3266362
+AZ-0627	Massimo	Rossi	massimo.rossi@azienda.it	IT	Palermo	Tempo Determinato	24-Gen-2012	53405	10-Dic-1995	+39 010 5629792
+AZ-0628	Diego	Testa	diego.testa@azienda.it	Legale	Cagliari	Tempo Determinato	12-Feb-2007	37525	11-Set-1966	+39 051 6966913
+AZ-0629	Anna	Rizzo	anna.rizzo@azienda.it	IT	Verona	Tempo Determinato	24-Mar-2010	34669	04-Ago-1990	+39 051 4647992
+AZ-0630	Marina	Greco	marina.greco@azienda.it	Servizio Clienti	Venezia	Collaborazione	17-Nov-2008	43445	26-Nov-1986	+39 010 2599943
+AZ-0631	Elia	Orlando	elia.orlando@azienda.it	IT	Roma	Collaborazione	05-Ott-2006	39248	01-Gen-1980	+39 011 8286418
+AZ-0632	Jessica	Costa	jessica.costa@azienda.it	Comunicazione	Palermo	Tempo Indeterminato	21-Mar-2019	20000	16-Nov-1999	+39 081 7417066
+AZ-0633	Andrea	Marchetti	andrea.marchetti@azienda.it	Legale	Roma	Apprendistato	10-Feb-2017	26833	20-Apr-1996	+39 06 3570227
+AZ-0634	Andrea	Riva	andrea.riva2@azienda.it	Servizio Clienti	Padova	Collaborazione	20-Nov-2021	31471	12-Set-1991	+39 055 9467953
+AZ-0635	Elisa	Martini	elisa.martini@azienda.it	Logistica	Catania	Collaborazione	27-Apr-2008	37800	20-Ago-1990	+39 081 1827302
+AZ-0636	Diego	Sala	diego.sala@azienda.it	IT	Torino	Collaborazione	03-Apr-2016	38065	28-Giu-1984	+39 010 3187332
+AZ-0637	Nadia	Rizzo	nadia.rizzo@azienda.it	Ricerca e Sviluppo	Perugia	Tempo Determinato	11-Dic-2015	24699	05-Mar-1990	+39 055 9795418
+AZ-0638	Ilaria	Gentile	ilaria.gentile@azienda.it	Marketing	Bari	Collaborazione	03-Apr-2012	42957	19-Set-1995	+39 055 2503148
+AZ-0639	Davide	Guerra	davide.guerra2@azienda.it	Logistica	Trieste	Apprendistato	24-Ott-2012	38357	27-Mag-1994	+39 02 6114011
+AZ-0640	Laura	Ferri	laura.ferri@azienda.it	Amministrazione	Brescia	Tempo Determinato	18-Nov-2014	43556	06-Gen-1967	+39 010 4917305
+AZ-0641	Silvia	Donati	silvia.donati@azienda.it	Produzione	Bologna	Tempo Indeterminato	10-Lug-2007	34512	09-Nov-1992	+39 06 5826554
+AZ-0642	Giulia	Ferraro	giulia.ferraro@azienda.it	Servizio Clienti	Napoli	Apprendistato	04-Feb-2015	27553	19-Feb-1986	+39 02 6567967
+AZ-0643	Antonio	Caputo	antonio.caputo@azienda.it	Legale	Genova	Tempo Determinato	04-Apr-2017	27346	01-Set-1986	+39 055 3371416
+AZ-0644	Tiziano	Piras	tiziano.piras@azienda.it	Controllo Qualità	Milano	Collaborazione	28-Gen-2018	33873	07-Ott-1994	+39 055 1729507
+AZ-0645	Paolo	Fontana	paolo.fontana@azienda.it	Vendite	Catania	Tempo Determinato	14-Set-2022	32377	09-Nov-1985	+39 081 1139824
+AZ-0646	Matteo	Valentini	matteo.valentini@azienda.it	Controllo Qualità	Bari	Apprendistato	03-Giu-2007	27489	09-Nov-1965	+39 011 7484783
+AZ-0647	Claudia	Grasso	claudia.grasso@azienda.it	Legale	Napoli	Apprendistato	15-Nov-2015	43247	13-Mag-1973	+39 06 9399526
+AZ-0648	Salvatore	Barone	salvatore.barone@azienda.it	Servizio Clienti	Milano	Tempo Indeterminato	20-Lug-2010	25853	30-Set-1988	+39 011 6596369
+AZ-0649	Giorgio	Messina	giorgio.messina@azienda.it	Servizio Clienti	Firenze	Tempo Indeterminato	11-Ott-2012	31241	25-Lug-1978	+39 06 9409604
+AZ-0650	Barbara	Ricci	barbara.ricci@azienda.it	Controllo Qualità	Bari	Collaborazione	30-Ago-2005	26416	23-Nov-1989	+39 011 4784649
+AZ-0651	Anna	Ferraro	anna.ferraro@azienda.it	Logistica	Bologna	Tempo Indeterminato	16-Mag-2021	20000	22-Giu-1992	+39 010 4815608
+AZ-0652	Jessica	Longo	jessica.longo@azienda.it	Amministrazione	Bologna	Collaborazione	04-Gen-2012	52151	27-Feb-1992	+39 011 8535808
+AZ-0653	Camilla	Giordano	camilla.giordano@azienda.it	Finanza	Bologna	Tempo Determinato	06-Feb-2008	29338	01-Lug-1988	+39 06 8215281
+AZ-0654	Omar	Lombardi	omar.lombardi@azienda.it	Controllo Qualità	Cagliari	Tempo Determinato	14-Feb-2012	49567	17-Gen-1968	+39 055 9941610
+AZ-0655	Alfredo	Costa	alfredo.costa@azienda.it	Risorse Umane	Venezia	Tempo Determinato	23-Apr-2021	43611	29-Lug-1983	+39 051 6089336
+AZ-0656	Pietro	De Rosa	pietro.derosa@azienda.it	Comunicazione	Bari	Tempo Determinato	23-Giu-2022	36614	07-Giu-1973	+39 02 3206973
+AZ-0657	Elena	Esposito	elena.esposito@azienda.it	Acquisti	Bergamo	Apprendistato	02-Ago-2018	28387	02-Giu-1975	+39 06 1437625
+AZ-0658	Beatrice	Bruno	beatrice.bruno@azienda.it	Servizio Clienti	Parma	Tempo Determinato	08-Apr-2016	32037	16-Dic-2002	+39 055 8864546
+AZ-0659	Gloria	Damiani	gloria.damiani@azienda.it	Produzione	Firenze	Collaborazione	09-Gen-2016	29099	25-Feb-1975	+39 02 7854988
+AZ-0660	Nadia	Russo	nadia.russo@azienda.it	IT	Trieste	Tempo Determinato	26-Ago-2021	35978	12-Feb-1995	+39 06 4431982
+AZ-0661	Matteo	Santoro	matteo.santoro@azienda.it	Ricerca e Sviluppo	Bergamo	Collaborazione	05-Giu-2020	29985	27-Gen-1976	+39 051 7792537
+AZ-0662	Cinzia	Romano	cinzia.romano@azienda.it	Amministrazione	Padova	Apprendistato	03-Nov-2013	44858	06-Giu-1992	+39 081 9995261
+AZ-0663	Lisa	Orlando	lisa.orlando@azienda.it	Servizio Clienti	Roma	Tempo Indeterminato	17-Feb-2015	20000	09-Gen-1976	+39 055 7637254
+AZ-0664	Renato	Romano	renato.romano@azienda.it	Legale	Padova	Tempo Indeterminato	05-Apr-2009	40485	23-Gen-1978	+39 051 7678001
+AZ-0665	Massimo	Montanari	massimo.montanari@azienda.it	Comunicazione	Catania	Collaborazione	25-Set-2008	22822	13-Giu-1967	+39 081 9673311
+AZ-0666	Roberto	Monti	roberto.monti@azienda.it	Comunicazione	Brescia	Tempo Indeterminato	17-Mar-2021	41452	17-Giu-1987	+39 02 4016063
+AZ-0667	Cinzia	Martino	cinzia.martino@azienda.it	Servizio Clienti	Perugia	Tempo Determinato	26-Ott-2013	25626	09-Gen-1973	+39 051 4387856
+AZ-0668	Salvatore	Gallo	salvatore.gallo2@azienda.it	IT	Venezia	Tempo Determinato	10-Feb-2021	40659	22-Nov-1997	+39 02 2529935
+AZ-0669	Davide	Rossetti	davide.rossetti@azienda.it	Ricerca e Sviluppo	Verona	Tempo Indeterminato	01-Ott-2016	30727	15-Dic-1987	+39 055 3682671
+AZ-0670	Claudio	Benedetti	claudio.benedetti@azienda.it	Logistica	Roma	Tempo Determinato	08-Lug-2012	20000	15-Mag-1990	+39 010 3518087
+AZ-0671	Giuseppe	Lombardi	giuseppe.lombardi@azienda.it	Risorse Umane	Roma	Collaborazione	29-Nov-2011	28750	07-Gen-1985	+39 011 4031576
+AZ-0672	Alessia	Giordano	alessia.giordano@azienda.it	Finanza	Milano	Apprendistato	11-Apr-2005	50927	29-Lug-1985	+39 051 9365828
+AZ-0673	Camilla	Rossi	camilla.rossi@azienda.it	Amministrazione	Parma	Tempo Determinato	12-Nov-2009	25362	26-Mag-1983	+39 051 2332193
+AZ-0674	Elia	Ruggiero	elia.ruggiero@azienda.it	Vendite	Palermo	Apprendistato	26-Nov-2018	28980	14-Mar-1993	+39 055 4483580
+AZ-0675	Andrea	Mariani	andrea.mariani@azienda.it	Risorse Umane	Roma	Apprendistato	28-Ott-2005	36569	07-Dic-1990	+39 010 6007018
+AZ-0676	Emanuele	Gallo	emanuele.gallo@azienda.it	Vendite	Napoli	Collaborazione	31-Dic-2008	37033	28-Mar-1972	+39 081 5771113
+AZ-0677	Adriano	Pagano	adriano.pagano@azienda.it	Servizio Clienti	Bergamo	Tempo Determinato	20-Mar-2015	34960	11-Ago-1966	+39 02 6021328
+AZ-0678	Alice	Marini	alice.marini@azienda.it	Logistica	Torino	Collaborazione	07-Mag-2017	25549	30-Nov-1967	+39 011 8898995
+AZ-0680	Martina	Bernardi	martina.bernardi@azienda.it	Servizio Clienti	Modena	Tempo Indeterminato	07-Nov-2015	38540	25-Giu-1997	+39 081 5818203
+AZ-0681	Leonardo	Sartori	leonardo.sartori@azienda.it	Comunicazione	Venezia	Apprendistato	14-Ott-2016	22556	27-Ott-1970	+39 055 9328158
+AZ-0682	Tommaso	Battaglia	tommaso.battaglia@azienda.it	Controllo Qualità	Parma	Collaborazione	13-Gen-2009	28645	03-Mag-1992	+39 06 5873580
+AZ-0683	Giovanni	Rossi	giovanni.rossi@azienda.it	Marketing	Milano	Collaborazione	11-Gen-2019	39734	20-Apr-1974	+39 010 7956372
+AZ-0684	Vincenzo	Romano	vincenzo.romano@azienda.it	Produzione	Verona	Tempo Determinato	03-Apr-2005	20000	26-Set-1993	+39 06 5724912
+AZ-0686	Stefano	Rinaldi	stefano.rinaldi@azienda.it	Produzione	Venezia	Collaborazione	24-Ago-2015	35586	06-Ott-2000	+39 02 3277572
+AZ-0687	Noemi	Moretti	noemi.moretti2@azienda.it	Controllo Qualità	Brescia	Apprendistato	17-Mag-2015	37191	24-Apr-1998	+39 02 9742158
+AZ-0688	Massimo	Palmieri	massimo.palmieri@azienda.it	Servizio Clienti	Venezia	Tempo Indeterminato	03-Set-2009	24897	26-Nov-1990	+39 081 6565326
+AZ-0689	Beatrice	Marino	beatrice.marino@azienda.it	Risorse Umane	Bari	Tempo Indeterminato	10-Ago-2012	48960	15-Ott-2002	+39 06 7535837
+AZ-0690	Elena	Ruggiero	elena.ruggiero@azienda.it	Marketing	Catania	Apprendistato	03-Dic-2020	33558	03-Giu-1966	+39 011 7943579
+AZ-0692	Cinzia	Caruso	cinzia.caruso@azienda.it	Marketing	Brescia	Tempo Indeterminato	29-Ott-2015	43294	07-Giu-1987	+39 06 4191222
+AZ-0693	Roberta	Morelli	roberta.morelli@azienda.it	Servizio Clienti	Modena	Apprendistato	25-Mag-2022	26999	29-Mag-1969	+39 010 9659503
+AZ-0694	Umberto	Giordano	umberto.giordano@azienda.it	Finanza	Roma	Collaborazione	11-Set-2013	50148	05-Gen-1997	+39 010 9763492
+AZ-0695	Davide	Rossi	davide.rossi@azienda.it	IT	Roma	Tempo Indeterminato	23-Giu-2012	31993	09-Mag-1988	+39 010 6242557
+AZ-0696	Luca	Bernardi	luca.bernardi@azienda.it	Acquisti	Catania	Tempo Determinato	13-Mar-2012	35635	30-Dic-1973	+39 06 5807802
+AZ-0697	Barbara	Carbone	barbara.carbone@azienda.it	Produzione	Brescia	Tempo Indeterminato	12-Feb-2011	39728	07-Set-1965	+39 055 9624506
+AZ-0698	Martina	Ferrara	martina.ferrara2@azienda.it	Legale	Verona	Apprendistato	30-Gen-2011	41449	09-Mag-1971	+39 081 5752443
+AZ-0699	Angela	Gentile	angela.gentile@azienda.it	Risorse Umane	Torino	Apprendistato	03-Ott-2018	44721	12-Apr-1967	+39 06 1486416
+AZ-0700	Carlo	Riva	carlo.riva@azienda.it	Vendite	Napoli	Collaborazione	17-Mar-2006	27186	11-Nov-1968	+39 051 7575272
+AZ-0701	Stefano	Rossetti	stefano.rossetti@azienda.it	Amministrazione	Cagliari	Collaborazione	28-Ott-2018	29463	21-Nov-1973	+39 081 9950391
+AZ-0703	Federico	Rizzi	federico.rizzi@azienda.it	IT	Brescia	Collaborazione	14-Mar-2010	40270	03-Set-1992	+39 011 7097668
+AZ-0705	Carlo	Mancini	carlo.mancini@azienda.it	Produzione	Parma	Collaborazione	31-Ott-2008	33136	12-Ott-1990	+39 06 9521981
+AZ-0706	Martina	Sala	martina.sala@azienda.it	Comunicazione	Napoli	Apprendistato	22-Giu-2017	44070	18-Feb-1994	+39 02 6068701
+AZ-0707	Francesco	Monti	francesco.monti@azienda.it	Logistica	Cagliari	Collaborazione	09-Mag-2010	25862	22-Ago-1986	+39 051 2108301
+AZ-0708	Roberta	Ferrara	roberta.ferrara@azienda.it	Comunicazione	Cagliari	Collaborazione	05-Ago-2022	26323	12-Lug-1984	+39 055 6741177
+AZ-0709	Camilla	Negri	camilla.negri@azienda.it	Finanza	Firenze	Tempo Indeterminato	01-Ago-2021	46854	30-Ott-1986	+39 02 8766314
+AZ-0710	Alice	Barone	alice.barone@azienda.it	Marketing	Brescia	Tempo Determinato	29-Nov-2011	29500	16-Mar-1983	+39 02 2824432
+AZ-0711	Rosa	Ruggiero	rosa.ruggiero2@azienda.it	Acquisti	Padova	Apprendistato	02-Feb-2016	32816	06-Ott-1974	+39 010 3330636
+AZ-0712	Bruno	Graziano	bruno.graziano@azienda.it	Controllo Qualità	Milano	Tempo Determinato	28-Ott-2019	32185	11-Set-1971	+39 051 9912993
+AZ-0713	Veronica	Valentini	veronica.valentini2@azienda.it	Amministrazione	Cagliari	Collaborazione	22-Mag-2009	40634	12-Giu-1978	+39 055 6109503
+AZ-0714	Arianna	Fiore	arianna.fiore@azienda.it	Produzione	Torino	Tempo Indeterminato	19-Set-2018	54699	24-Nov-1987	+39 051 3140029
+AZ-0715	Veronica	Ricci	veronica.ricci@azienda.it	Produzione	Perugia	Tempo Indeterminato	07-Gen-2005	29643	11-Feb-1981	+39 02 5734685
+AZ-0716	Francesca	Longo	francesca.longo@azienda.it	Logistica	Cagliari	Collaborazione	09-Gen-2019	20000	10-Apr-1979	+39 081 7422144
+AZ-0717	Michela	Grasso	michela.grasso@azienda.it	Logistica	Perugia	Tempo Determinato	11-Nov-2019	37533	01-Dic-1989	+39 051 7044627
+AZ-0718	Jessica	Moretti	jessica.moretti@azienda.it	IT	Bologna	Tempo Determinato	06-Apr-2005	39851	21-Mar-1968	+39 081 1263533
+AZ-0719	Roberto	Basile	roberto.basile@azienda.it	Ricerca e Sviluppo	Trieste	Tempo Determinato	25-Nov-2006	46785	16-Giu-1985	+39 010 8142130
+AZ-0720	Manuela	Mariani	manuela.mariani@azienda.it	Ricerca e Sviluppo	Modena	Collaborazione	20-Mag-2017	48749	15-Ott-2001	+39 051 7454441
+AZ-0721	Beatrice	Martini	beatrice.martini@azienda.it	Risorse Umane	Trieste	Tempo Indeterminato	18-Dic-2017	20000	11-Dic-1996	+39 055 5517272
+AZ-0722	Vincenzo	Giuliani	vincenzo.giuliani@azienda.it	Amministrazione	Verona	Tempo Indeterminato	07-Nov-2005	35188	27-Giu-1990	+39 051 7183722
+AZ-0723	Davide	Martino	davide.martino@azienda.it	Ricerca e Sviluppo	Torino	Tempo Determinato	18-Mag-2021	31638	02-Set-1998	+39 010 5687895
+AZ-0725	Rosa	Costanzo	rosa.costanzo@azienda.it	Legale	Cagliari	Apprendistato	02-Ott-2018	43675	04-Dic-1999	+39 02 8866313
+AZ-0726	Salvatore	Testa	salvatore.testa@azienda.it	Ricerca e Sviluppo	Cagliari	Apprendistato	11-Giu-2014	37987	31-Ott-1980	+39 010 5942868
+AZ-0727	Veronica	Fontana	veronica.fontana@azienda.it	Vendite	Bergamo	Apprendistato	22-Apr-2021	36696	25-Mar-1993	+39 051 3836678
+AZ-0728	Angela	Colombo	angela.colombo@azienda.it	Controllo Qualità	Catania	Tempo Indeterminato	08-Giu-2011	27419	30-Set-1986	+39 02 3127708
+AZ-0729	Luigi	Greco	luigi.greco@azienda.it	Comunicazione	Bari	Apprendistato	22-Dic-2007	29008	11-Lug-1976	+39 02 2871488
+AZ-0730	Erika	Santoro	erika.santoro@azienda.it	Amministrazione	Bologna	Collaborazione	18-Apr-2013	29664	28-Mar-2001	+39 06 5383091
+AZ-0731	Sabrina	Longo	sabrina.longo@azienda.it	Ricerca e Sviluppo	Firenze	Tempo Indeterminato	09-Set-2012	61029	19-Set-1991	+39 010 3586212
+AZ-0732	Sofia	Graziano	sofia.graziano@azienda.it	Logistica	Padova	Tempo Determinato	27-Ott-2019	32386	29-Set-1984	+39 081 3806547
+AZ-0733	Antonio	Bernardi	antonio.bernardi@azienda.it	Servizio Clienti	Verona	Tempo Indeterminato	29-Mag-2019	33328	11-Mag-1967	+39 06 8784878
+AZ-0734	Michela	Cattaneo	michela.cattaneo@azienda.it	IT	Parma	Tempo Determinato	09-Lug-2013	53429	30-Ago-1995	+39 081 7544296
+AZ-0735	Carlo	Vitale	carlo.vitale@azienda.it	Risorse Umane	Modena	Collaborazione	08-Apr-2005	30688	19-Feb-1982	+39 081 6296376
+AZ-0736	Lisa	Donati	lisa.donati@azienda.it	Vendite	Napoli	Apprendistato	08-Set-2014	52338	21-Mag-1992	+39 081 5573311
+AZ-0737	Emanuele	Lombardo	emanuele.lombardo@azienda.it	IT	Napoli	Apprendistato	05-Set-2019	25400	17-Apr-1995	+39 081 5056679
+AZ-0738	Marina	Riva	marina.riva@azienda.it	Amministrazione	Genova	Apprendistato	14-Mar-2020	29389	19-Dic-1995	+39 06 6255795
+AZ-0739	Diego	Russo	diego.russo@azienda.it	Controllo Qualità	Milano	Tempo Indeterminato	08-Apr-2005	24643	02-Ott-1995	+39 051 6897466
+AZ-0740	Riccardo	Basile	riccardo.basile@azienda.it	IT	Bari	Tempo Determinato	06-Ott-2005	41460	24-Gen-1966	+39 055 2542518
+AZ-0741	Valentina	Ruggiero	valentina.ruggiero2@azienda.it	Controllo Qualità	Genova	Tempo Indeterminato	18-Nov-2020	39102	16-Feb-1992	+39 06 7307535
+AZ-0742	Raffaele	Marchese	raffaele.marchese@azienda.it	Controllo Qualità	Cagliari	Tempo Determinato	28-Giu-2007	33886	16-Mar-1996	+39 06 5250268
+AZ-0743	Veronica	Monti	veronica.monti@azienda.it	Controllo Qualità	Torino	Collaborazione	15-Mar-2011	36863	12-Dic-1994	+39 010 6425820
+AZ-0744	Paolo	Barbieri	paolo.barbieri@azienda.it	Acquisti	Torino	Apprendistato	07-Giu-2022	20000	20-Ott-1967	+39 051 7519465
+AZ-0745	Emanuele	Ricci	emanuele.ricci@azienda.it	IT	Bari	Tempo Determinato	19-Nov-2014	60262	01-Gen-1974	+39 055 7587312
+AZ-0746	Stefano	Orlando	stefano.orlando@azienda.it	Ricerca e Sviluppo	Napoli	Tempo Determinato	15-Feb-2017	46771	26-Giu-1999	+39 051 4663917
+AZ-0747	Adriano	Orlando	adriano.orlando@azienda.it	Marketing	Brescia	Apprendistato	27-Apr-2007	38730	21-Ago-1997	+39 011 8480659
+AZ-0748	Luca	Silvestri	luca.silvestri@azienda.it	Risorse Umane	Milano	Tempo Indeterminato	28-Nov-2019	35830	08-Lug-1982	+39 011 3543551
+AZ-0749	Sabrina	Conte	sabrina.conte@azienda.it	Logistica	Cagliari	Tempo Indeterminato	24-Lug-2016	30480	13-Giu-1986	+39 051 7776531
+AZ-0750	Marina	Montanari	marina.montanari@azienda.it	Acquisti	Torino	Tempo Determinato	28-Gen-2005	20000	31-Mar-1982	+39 081 9087731
+AZ-0751	Alessia	Palmieri	alessia.palmieri@azienda.it	Legale	Verona	Apprendistato	17-Apr-2020	33902	10-Gen-1994	+39 02 7129645
+AZ-0752	Francesco	Ferraro	francesco.ferraro@azienda.it	Marketing	Brescia	Apprendistato	13-Lug-2019	38186	10-Feb-1974	+39 06 1659867
+AZ-0753	Paola	Pagano	paola.pagano2@azienda.it	Finanza	Catania	Collaborazione	25-Mag-2007	28568	22-Ott-1968	+39 081 8348147
+AZ-0754	Renato	Rinaldi	renato.rinaldi@azienda.it	Risorse Umane	Roma	Tempo Determinato	27-Lug-2005	28097	15-Apr-1997	+39 055 5001116
+AZ-0755	Giorgio	Valentini	giorgio.valentini@azienda.it	Marketing	Perugia	Apprendistato	17-Mar-2016	20000	26-Feb-1985	+39 02 1621473
+AZ-0756	Roberta	Ricci	roberta.ricci@azienda.it	Produzione	Roma	Collaborazione	27-Ago-2007	30987	01-Lug-1974	+39 010 9776491
+AZ-0757	Salvatore	Riva	salvatore.riva@azienda.it	Comunicazione	Perugia	Tempo Determinato	15-Ago-2021	20000	28-Ago-1966	+39 081 3375493
+AZ-0758	Giorgio	Damiani	giorgio.damiani@azienda.it	Vendite	Parma	Tempo Indeterminato	12-Giu-2010	24122	17-Giu-1996	+39 081 3190059
+AZ-0759	Giulia	Santoro	giulia.santoro2@azienda.it	Controllo Qualità	Roma	Apprendistato	09-Mar-2007	29112	07-Lug-1991	+39 02 2783941
+AZ-0760	Davide	Silvestri	davide.silvestri@azienda.it	Amministrazione	Bergamo	Tempo Determinato	01-Giu-2006	36663	01-Feb-2001	+39 06 8150641
+AZ-0761	Roberta	Caputo	roberta.caputo@azienda.it	Controllo Qualità	Padova	Apprendistato	17-Set-2007	47949	01-Mar-1971	+39 011 4577436
+AZ-0762	Nadia	Romano	nadia.romano@azienda.it	Amministrazione	Firenze	Apprendistato	02-Giu-2006	33020	02-Giu-1970	+39 011 3369560
+AZ-0763	Dario	Gatti	dario.gatti2@azienda.it	Risorse Umane	Verona	Tempo Determinato	03-Nov-2014	35527	26-Dic-1970	+39 02 7310431
+AZ-0764	Cinzia	Barbieri	cinzia.barbieri@azienda.it	Vendite	Parma	Tempo Indeterminato	22-Feb-2005	48197	29-Apr-1965	+39 06 2495541
+AZ-0765	Valerio	Damiani	valerio.damiani2@azienda.it	Amministrazione	Catania	Collaborazione	22-Lug-2020	41074	22-Gen-1996	+39 06 4458794
+AZ-0766	Roberto	Costanzo	roberto.costanzo@azienda.it	IT	Modena	Collaborazione	30-Mar-2014	20000	25-Set-1975	+39 06 1631179
+AZ-0767	Elia	Mariani	elia.mariani@azienda.it	Servizio Clienti	Parma	Tempo Indeterminato	25-Gen-2019	38914	15-Ott-1983	+39 02 4953366
+AZ-0768	Giovanni	Costa	giovanni.costa@azienda.it	Legale	Napoli	Apprendistato	27-Gen-2022	27493	18-Mar-1989	+39 055 4678843
+AZ-0769	Debora	Valenti	debora.valenti2@azienda.it	Controllo Qualità	Genova	Apprendistato	11-Mar-2006	41181	28-Set-1995	+39 010 8959326
+AZ-0770	Sofia	Santoro	sofia.santoro@azienda.it	Risorse Umane	Roma	Tempo Indeterminato	19-Giu-2019	51743	03-Mag-1981	+39 011 4516332
+AZ-0771	Arianna	Martinelli	arianna.martinelli@azienda.it	Produzione	Bergamo	Collaborazione	21-Dic-2005	37601	08-Feb-1989	+39 06 3651565
+AZ-0772	Francesca	Amato	francesca.amato@azienda.it	Legale	Napoli	Tempo Indeterminato	12-Apr-2010	37003	12-Mag-1997	+39 051 6468907
+AZ-0773	Jessica	Caruso	jessica.caruso@azienda.it	Servizio Clienti	Venezia	Tempo Determinato	22-Giu-2022	40536	21-Ago-1975	+39 081 7922203
+AZ-0774	Silvia	Grasso	silvia.grasso@azienda.it	Finanza	Torino	Collaborazione	15-Feb-2018	39588	24-Set-1986	+39 02 8312602
+AZ-0775	Roberto	Galli	roberto.galli@azienda.it	Amministrazione	Brescia	Tempo Determinato	09-Set-2013	27252	17-Set-1973	+39 081 7016144
+AZ-0776	Nicola	Caruso	nicola.caruso@azienda.it	Produzione	Bologna	Tempo Indeterminato	11-Lug-2020	42897	06-Lug-1990	+39 02 5707756
+AZ-0777	Giorgia	Mancini	giorgia.mancini@azienda.it	Comunicazione	Brescia	Collaborazione	20-Mag-2014	39360	29-Mar-1978	+39 055 3630468
+AZ-0778	Viviana	Sorrentino	viviana.sorrentino@azienda.it	Risorse Umane	Cagliari	Tempo Determinato	10-Dic-2006	43074	21-Giu-1983	+39 010 9753827
+AZ-0779	Giorgio	Galli	giorgio.galli@azienda.it	Amministrazione	Parma	Collaborazione	06-Apr-2011	45528	25-Gen-1976	+39 06 6491114
+AZ-0780	Arianna	Martino	arianna.martino@azienda.it	Finanza	Cagliari	Tempo Determinato	13-Nov-2017	35962	25-Mar-1965	+39 051 1741958
+AZ-0781	Sara	Cattaneo	sara.cattaneo@azienda.it	Servizio Clienti	Modena	Tempo Indeterminato	20-Lug-2014	23794	18-Ott-2000	+39 081 2644153
+AZ-0782	Marta	Silvestri	marta.silvestri@azienda.it	Finanza	Torino	Tempo Indeterminato	19-Lug-2020	32780	29-Ott-1997	+39 051 4657541
+AZ-0783	Simone	Fabbri	simone.fabbri@azienda.it	IT	Palermo	Tempo Indeterminato	11-Mag-2005	26541	19-Lug-1996	+39 051 1409590
+AZ-0784	Salvatore	Monti	salvatore.monti@azienda.it	Acquisti	Bologna	Collaborazione	24-Feb-2009	36080	07-Giu-2000	+39 010 7214624
+AZ-0785	Mirko	Monti	mirko.monti@azienda.it	Servizio Clienti	Milano	Tempo Indeterminato	19-Ago-2013	42055	20-Giu-1966	+39 011 8145454
+AZ-0786	Dario	Lombardo	dario.lombardo2@azienda.it	Servizio Clienti	Bergamo	Tempo Determinato	01-Set-2022	29415	18-Set-1995	+39 02 6632022
+AZ-0787	Renato	Ricci	renato.ricci@azienda.it	Legale	Verona	Tempo Indeterminato	29-Giu-2007	26702	01-Nov-1966	+39 011 7147725
+AZ-0788	Stefano	Orlando	stefano.orlando2@azienda.it	Legale	Torino	Tempo Determinato	08-Feb-2008	42508	10-Gen-1980	+39 06 2905181
+AZ-0789	Carlotta	Morelli	carlotta.morelli@azienda.it	Servizio Clienti	Cagliari	Tempo Determinato	22-Nov-2021	34776	27-Ott-1980	+39 011 9448435
+AZ-0790	Rosa	Pellegrini	rosa.pellegrini3@azienda.it	IT	Roma	Tempo Indeterminato	13-Mag-2013	27856	27-Giu-1980	+39 051 9157533
+AZ-0791	Luigi	Pellegrino	luigi.pellegrino@azienda.it	Comunicazione	Napoli	Collaborazione	02-Dic-2020	20000	10-Feb-1978	+39 051 7176462
+AZ-0792	Umberto	Negri	umberto.negri@azienda.it	Acquisti	Torino	Tempo Determinato	09-Apr-2015	31280	01-Dic-1968	+39 02 7554564
+AZ-0793	Stefano	Coppola	stefano.coppola@azienda.it	Marketing	Napoli	Tempo Determinato	11-Mar-2011	39314	02-Ott-1971	+39 010 4426849
+AZ-0794	Tommaso	D'Amico	tommaso.damico@azienda.it	Vendite	Catania	Collaborazione	22-Apr-2020	38662	15-Apr-1989	+39 06 8950805
+AZ-0795	Giacomo	Gatti	giacomo.gatti@azienda.it	Ricerca e Sviluppo	Milano	Apprendistato	29-Mar-2009	53704	04-Giu-1975	+39 010 9717785
+AZ-0796	Edoardo	Conte	edoardo.conte@azienda.it	Logistica	Cagliari	Apprendistato	16-Set-2019	42809	24-Dic-1993	+39 010 6474513
+AZ-0797	Giorgio	Giorgi	giorgio.giorgi@azienda.it	Controllo Qualità	Modena	Collaborazione	10-Apr-2015	33227	29-Mag-2000	+39 011 3881270
+AZ-0798	Monica	Leone	monica.leone@azienda.it	Ricerca e Sviluppo	Verona	Apprendistato	07-Apr-2022	40016	05-Dic-2002	+39 02 3488704
+AZ-0799	Beatrice	Coppola	beatrice.coppola@azienda.it	Ricerca e Sviluppo	Firenze	Tempo Determinato	19-Dic-2020	28811	13-Nov-1972	+39 010 3575047
+AZ-0800	Giuseppe	Longo	giuseppe.longo@azienda.it	Marketing	Roma	Apprendistato	20-Nov-2017	33604	04-Set-1970	+39 051 5368907
+AZ-0801	Serena	Mariani	serena.mariani@azienda.it	Finanza	Perugia	Tempo Indeterminato	06-Dic-2019	31252	23-Set-1981	+39 051 3727935
+AZ-0802	Francesco	D'Angelo	francesco.dangelo@azienda.it	Marketing	Milano	Collaborazione	15-Mar-2016	43380	23-Giu-1999	+39 06 8684648
+AZ-0803	Filippo	Moretti	filippo.moretti@azienda.it	Vendite	Perugia	Apprendistato	09-Lug-2019	31869	01-Gen-1978	+39 010 3467651
+AZ-0804	Sergio	Battaglia	sergio.battaglia@azienda.it	Ricerca e Sviluppo	Venezia	Tempo Indeterminato	30-Mag-2021	24107	27-Giu-1986	+39 02 3339134
+AZ-0805	Umberto	Benedetti	umberto.benedetti@azienda.it	Marketing	Catania	Tempo Indeterminato	04-Gen-2014	29782	12-Gen-1981	+39 02 6475520
+AZ-0806	Valentina	Sartori	valentina.sartori@azienda.it	Controllo Qualità	Genova	Tempo Determinato	11-Lug-2022	30251	31-Mag-1999	+39 011 4283564
+AZ-0807	Luca	Bruno	luca.bruno@azienda.it	Legale	Brescia	Tempo Indeterminato	24-Giu-2016	25850	22-Gen-1992	+39 055 9582482
+AZ-0808	Valentina	Guerra	valentina.guerra2@azienda.it	Produzione	Padova	Tempo Determinato	22-Gen-2021	42151	20-Apr-2003	+39 051 7201361
+AZ-0809	Paola	Marini	paola.marini@azienda.it	Vendite	Catania	Apprendistato	18-Nov-2012	31124	02-Mar-1990	+39 02 4618764
+AZ-0810	Marina	Sanna	marina.sanna@azienda.it	Servizio Clienti	Trieste	Collaborazione	23-Giu-2011	45146	07-Mag-1972	+39 010 8110724
+AZ-0811	Marina	Gatti	marina.gatti@azienda.it	Risorse Umane	Cagliari	Tempo Indeterminato	22-Mar-2008	37974	25-Lug-1988	+39 011 2109238
+AZ-0812	Teresa	Graziano	teresa.graziano@azienda.it	Logistica	Torino	Tempo Indeterminato	09-Mar-2014	45949	28-Ago-1993	+39 011 7954391
+AZ-0813	Stefano	Barone	stefano.barone@azienda.it	Ricerca e Sviluppo	Cagliari	Tempo Determinato	21-Giu-2009	38838	05-Nov-1989	+39 051 1708550
+AZ-0814	Massimo	Martino	massimo.martino@azienda.it	IT	Parma	Collaborazione	14-Gen-2010	44025	16-Mar-1966	+39 010 1041048
+AZ-0815	Anna	Vitale	anna.vitale@azienda.it	IT	Parma	Tempo Indeterminato	01-Set-2019	30848	17-Gen-1973	+39 051 5106228
+AZ-0816	Francesca	Costa	francesca.costa@azienda.it	Acquisti	Bari	Collaborazione	01-Lug-2006	27886	13-Nov-1991	+39 081 7069317
+AZ-0817	Bruno	Morelli	bruno.morelli2@azienda.it	Amministrazione	Trieste	Apprendistato	01-Feb-2019	24398	15-Set-2001	+39 02 7261294
+AZ-0818	Greta	Battaglia	greta.battaglia@azienda.it	Amministrazione	Milano	Apprendistato	27-Ago-2008	20000	03-Feb-1991	+39 02 3451774
+AZ-0819	Filippo	Monti	filippo.monti@azienda.it	Servizio Clienti	Bologna	Apprendistato	30-Ago-2008	43949	17-Lug-1993	+39 011 1817300
+AZ-0820	Veronica	De Santis	veronica.desantis@azienda.it	Legale	Torino	Tempo Determinato	11-Mar-2022	38088	04-Mar-1993	+39 06 2585592
+AZ-0821	Elia	Graziano	elia.graziano@azienda.it	Risorse Umane	Perugia	Apprendistato	04-Feb-2012	42055	04-Lug-1978	+39 011 7082121
+AZ-0822	Federico	Carbone	federico.carbone@azienda.it	Amministrazione	Verona	Tempo Determinato	16-Apr-2005	21537	22-Feb-1971	+39 055 5721406
+AZ-0823	Serena	Montanari	serena.montanari@azienda.it	Ricerca e Sviluppo	Trieste	Apprendistato	28-Ago-2008	39636	02-Dic-1974	+39 010 4161109
+AZ-0824	Irene	Sorrentino	irene.sorrentino@azienda.it	Servizio Clienti	Modena	Tempo Indeterminato	12-Mag-2014	38477	28-Ago-1985	+39 02 2955647
+AZ-0825	Simone	Ferrari	simone.ferrari@azienda.it	Ricerca e Sviluppo	Verona	Apprendistato	02-Lug-2020	23024	23-Ott-1991	+39 055 6738565
+AZ-0826	Stefano	Rossetti	stefano.rossetti2@azienda.it	IT	Milano	Tempo Indeterminato	27-Dic-2009	49010	10-Ott-1970	+39 010 3388393
+AZ-0827	Tiziano	Leone	tiziano.leone@azienda.it	IT	Bologna	Tempo Determinato	03-Dic-2007	45443	25-Mar-1999	+39 010 2874387
+AZ-0828	Chiara	Ferrari	chiara.ferrari@azienda.it	Acquisti	Parma	Collaborazione	15-Dic-2005	33755	23-Ott-1973	+39 02 1550170
+AZ-0829	Raffaele	Testa	raffaele.testa@azienda.it	Amministrazione	Roma	Collaborazione	02-Set-2007	37497	14-Lug-1978	+39 081 1172342
+AZ-0830	Dario	Conti	dario.conti@azienda.it	Acquisti	Napoli	Tempo Determinato	07-Mar-2018	33383	22-Dic-1973	+39 06 6897756
+AZ-0831	Francesca	Gallo	francesca.gallo@azienda.it	Risorse Umane	Bari	Apprendistato	25-Nov-2012	41280	06-Set-1997	+39 055 5057108
+AZ-0832	Luigi	Palmieri	luigi.palmieri@azienda.it	Marketing	Napoli	Tempo Indeterminato	11-Nov-2016	44972	26-Set-1974	+39 081 4213634
+AZ-0833	Daniele	Fontana	daniele.fontana@azienda.it	Acquisti	Perugia	Tempo Indeterminato	09-Apr-2021	40648	14-Ago-1987	+39 010 8964404
+AZ-0834	Alberto	Piras	alberto.piras2@azienda.it	Amministrazione	Firenze	Collaborazione	09-Feb-2020	39033	25-Ott-1969	+39 06 6952931
+AZ-0835	Claudio	Pellegrini	claudio.pellegrini@azienda.it	Finanza	Modena	Tempo Determinato	21-Feb-2014	56930	19-Lug-1970	+39 051 2850798
+AZ-0836	Tommaso	Rizzo	tommaso.rizzo@azienda.it	Ricerca e Sviluppo	Verona	Apprendistato	01-Lug-2017	53813	24-Mag-1997	+39 02 2379891
+AZ-0837	Alice	Silvestri	alice.silvestri@azienda.it	Marketing	Padova	Apprendistato	02-Apr-2015	28016	24-Set-2002	+39 051 4789527
+AZ-0838	Diego	De Angelis	diego.deangelis2@azienda.it	IT	Trieste	Tempo Determinato	25-Lug-2006	29899	23-Set-2002	+39 010 8980532
+AZ-0839	Umberto	Marini	umberto.marini@azienda.it	Risorse Umane	Milano	Collaborazione	28-Gen-2020	43476	17-Lug-1994	+39 081 2426162
+AZ-0840	Alessia	Lombardi	alessia.lombardi@azienda.it	Logistica	Padova	Tempo Indeterminato	18-Ago-2021	41590	27-Lug-1972	+39 02 7102041
+AZ-0841	Silvia	Ferraro	silvia.ferraro2@azienda.it	Finanza	Bergamo	Collaborazione	03-Ott-2007	36130	23-Mag-1987	+39 011 5579723
+AZ-0842	Dario	Orlando	dario.orlando@azienda.it	Logistica	Verona	Collaborazione	15-Dic-2019	45455	22-Gen-1992	+39 051 9129112
+AZ-0843	Greta	Serra	greta.serra@azienda.it	Risorse Umane	Brescia	Tempo Indeterminato	28-Set-2007	34949	10-Mar-1993	+39 06 1498677
+AZ-0844	Federico	Caputo	federico.caputo@azienda.it	Vendite	Torino	Collaborazione	18-Mar-2020	46728	15-Mar-1966	+39 06 7419516
+AZ-0845	Erika	Riva	erika.riva@azienda.it	Produzione	Bologna	Apprendistato	14-Dic-2018	22919	28-Ago-1994	+39 010 9723295
+AZ-0846	Omar	Silvestri	omar.silvestri@azienda.it	Acquisti	Brescia	Tempo Determinato	02-Ago-2011	23184	13-Set-1994	+39 051 9225036
+AZ-0847	Luigi	Vitale	luigi.vitale@azienda.it	Legale	Venezia	Tempo Indeterminato	19-Feb-2022	45401	06-Mag-1970	+39 051 8551685
+AZ-0849	Valerio	Fontana	valerio.fontana@azienda.it	Ricerca e Sviluppo	Trieste	Tempo Determinato	04-Gen-2012	32529	28-Nov-1969	+39 055 9230125
+AZ-0850	Raffaele	Benedetti	raffaele.benedetti@azienda.it	Controllo Qualità	Perugia	Collaborazione	04-Set-2015	23705	22-Mar-1990	+39 010 3622462
+AZ-0851	Luigi	Ricci	luigi.ricci@azienda.it	Logistica	Bari	Collaborazione	04-Apr-2018	48622	28-Ott-1980	+39 010 5772070
+AZ-0852	Alice	Ricci	alice.ricci@azienda.it	Vendite	Cagliari	Tempo Indeterminato	17-Nov-2007	32479	18-Lug-2002	+39 011 6853181
+AZ-0853	Renato	Martino	renato.martino@azienda.it	Vendite	Venezia	Collaborazione	09-Mar-2007	20000	25-Giu-1983	+39 011 1947061
+AZ-0854	Raffaele	Gentile	raffaele.gentile@azienda.it	Finanza	Palermo	Apprendistato	17-Apr-2018	48548	23-Ott-1968	+39 081 2098911
+AZ-0855	Cristina	Mancini	cristina.mancini@azienda.it	Produzione	Firenze	Tempo Indeterminato	28-Gen-2017	29884	14-Dic-1983	+39 055 9636236
+AZ-0856	Jessica	Lombardo	jessica.lombardo@azienda.it	Vendite	Parma	Tempo Indeterminato	06-Feb-2012	44869	11-Dic-1981	+39 055 7548160
+AZ-0857	Alice	Bernardi	alice.bernardi@azienda.it	Marketing	Parma	Tempo Indeterminato	30-Giu-2020	30897	22-Lug-1987	+39 010 6696526
+AZ-0858	Laura	Sorrentino	laura.sorrentino@azienda.it	IT	Verona	Collaborazione	11-Lug-2009	26934	18-Apr-1987	+39 081 2263679
+AZ-0859	Francesco	Galli	francesco.galli@azienda.it	IT	Bari	Tempo Indeterminato	02-Set-2011	45138	18-Feb-1975	+39 055 2542796
+AZ-0860	Gloria	Martino	gloria.martino@azienda.it	Marketing	Cagliari	Apprendistato	18-Feb-2011	34760	08-Gen-1968	+39 055 9909769
+AZ-0861	Carlo	Pellegrini	carlo.pellegrini@azienda.it	Finanza	Verona	Tempo Indeterminato	13-Ago-2019	40297	15-Giu-1978	+39 051 6257190
+AZ-0863	Luca	D'Amico	luca.damico@azienda.it	Servizio Clienti	Modena	Tempo Determinato	09-Dic-2017	20295	16-Dic-2001	+39 081 8839914
+AZ-0864	Nicola	Costanzo	nicola.costanzo@azienda.it	Legale	Bergamo	Collaborazione	12-Set-2017	35074	05-Ago-1997	+39 081 2004647
+AZ-0865	Tommaso	Caruso	tommaso.caruso@azienda.it	Produzione	Brescia	Tempo Determinato	24-Mag-2010	43901	21-Giu-1978	+39 010 8304611
+AZ-0866	Vincenzo	Parisi	vincenzo.parisi@azienda.it	Comunicazione	Torino	Tempo Determinato	02-Apr-2014	47329	22-Dic-1976	+39 010 5815809
+AZ-0867	Edoardo	Barbieri	edoardo.barbieri@azienda.it	IT	Bergamo	Tempo Determinato	07-Feb-2014	35412	30-Mar-1966	+39 06 6210006
+AZ-0868	Debora	Amato	debora.amato@azienda.it	Legale	Trieste	Collaborazione	06-Lug-2019	40686	30-Ago-1966	+39 06 3673591
+AZ-0869	Nicola	Rizzo	nicola.rizzo@azienda.it	Vendite	Bari	Apprendistato	10-Ott-2019	21345	23-Nov-1966	+39 081 9151075
+AZ-0870	Luca	Ricci	luca.ricci@azienda.it	Comunicazione	Torino	Apprendistato	30-Giu-2018	30496	15-Mag-1978	+39 010 2066723
+AZ-0871	Vincenzo	Bianco	vincenzo.bianco@azienda.it	Controllo Qualità	Torino	Collaborazione	30-Mar-2021	39038	12-Ago-1990	+39 081 9392777
+AZ-0872	Alessia	Grassi	alessia.grassi@azienda.it	Controllo Qualità	Cagliari	Apprendistato	19-Feb-2016	28873	18-Gen-1969	+39 06 3051464
+AZ-0873	Omar	Parisi	omar.parisi@azienda.it	Produzione	Cagliari	Collaborazione	14-Ott-2021	34111	12-Ott-1974	+39 06 2792041
+AZ-0874	Stefano	Galli	stefano.galli@azienda.it	IT	Brescia	Collaborazione	15-Set-2010	20000	12-Giu-1991	+39 02 9226851
+AZ-0875	Francesco	Marini	francesco.marini@azienda.it	Servizio Clienti	Napoli	Apprendistato	29-Mar-2017	21552	17-Giu-1977	+39 010 3431212
+AZ-0876	Alberto	Cattaneo	alberto.cattaneo@azienda.it	Servizio Clienti	Verona	Apprendistato	22-Giu-2005	41982	14-Dic-1993	+39 055 1584005
+AZ-0877	Renato	Pagano	renato.pagano@azienda.it	Acquisti	Roma	Tempo Determinato	04-Set-2010	26865	05-Giu-1996	+39 011 3047722
+AZ-0878	Francesco	Longo	francesco.longo@azienda.it	Comunicazione	Brescia	Collaborazione	06-Mar-2005	32202	18-Ago-1982	+39 011 6048065
+AZ-0880	Alessandro	Serra	alessandro.serra@azienda.it	Comunicazione	Torino	Collaborazione	27-Lug-2015	27877	22-Gen-1998	+39 051 6582152
+AZ-0881	Gloria	Pellegrini	gloria.pellegrini@azienda.it	Comunicazione	Napoli	Tempo Determinato	31-Ago-2020	34745	18-Nov-1983	+39 055 6482263
+AZ-0882	Salvatore	Negri	salvatore.negri@azienda.it	Vendite	Roma	Tempo Determinato	19-Feb-2019	38697	21-Nov-1984	+39 010 3283248
+AZ-0883	Marco	Sala	marco.sala@azienda.it	Finanza	Catania	Apprendistato	01-Dic-2017	40096	01-Mar-1988	+39 081 3182597
+AZ-0885	Stefano	Donati	stefano.donati@azienda.it	Amministrazione	Venezia	Apprendistato	16-Giu-2009	43258	27-Ago-1982	+39 051 4766269
+AZ-0886	Luca	Ferrari	luca.ferrari@azienda.it	Legale	Bergamo	Tempo Determinato	30-Dic-2006	39842	29-Set-1985	+39 06 5391992
+AZ-0887	Sabrina	Fontana	sabrina.fontana2@azienda.it	Vendite	Padova	Collaborazione	20-Giu-2018	34725	04-Lug-1981	+39 06 2968815
+AZ-0889	Gloria	Ferrara	gloria.ferrara@azienda.it	Finanza	Bari	Apprendistato	28-Set-2021	29722	09-Apr-1974	+39 055 4616607
+AZ-0890	Daniele	Battaglia	daniele.battaglia@azienda.it	Controllo Qualità	Genova	Collaborazione	17-Gen-2009	35194	30-Apr-1983	+39 010 3448514
+AZ-0891	Francesca	De Santis	francesca.desantis@azienda.it	IT	Palermo	Collaborazione	28-Lug-2010	24631	21-Lug-1985	+39 02 1173144
+AZ-0892	Carlo	Rizzo	carlo.rizzo@azienda.it	Comunicazione	Venezia	Collaborazione	28-Mag-2020	46093	09-Lug-1974	+39 081 7433986
+AZ-0893	Valerio	Pellegrini	valerio.pellegrini@azienda.it	Servizio Clienti	Bergamo	Apprendistato	22-Ago-2006	37875	07-Dic-1979	+39 06 8900934
+AZ-0894	Beatrice	Sartori	beatrice.sartori@azienda.it	Controllo Qualità	Bergamo	Tempo Indeterminato	13-Feb-2005	36961	18-Mag-1976	+39 055 7391073
+AZ-0895	Massimo	Messina	massimo.messina@azienda.it	Controllo Qualità	Verona	Tempo Determinato	20-Lug-2017	41079	15-Ago-1972	+39 055 9268480
+AZ-0896	Roberta	Monti	roberta.monti@azienda.it	Risorse Umane	Torino	Apprendistato	06-Dic-2020	36607	17-Ott-1988	+39 051 3378937
+AZ-0897	Monica	Mancini	monica.mancini@azienda.it	Produzione	Roma	Tempo Determinato	13-Mar-2016	48136	19-Lug-1998	+39 011 8215646
+AZ-0898	Daniele	Vitale	daniele.vitale@azienda.it	Amministrazione	Bari	Apprendistato	10-Ott-2014	21304	27-Mag-1972	+39 011 9242223
+AZ-0899	Nadia	Moretti	nadia.moretti@azienda.it	Legale	Brescia	Tempo Indeterminato	28-Mar-2009	39299	11-Ago-1966	+39 051 5365833
+AZ-0900	Giuseppe	Rossetti	giuseppe.rossetti@azienda.it	Ricerca e Sviluppo	Trieste	Tempo Indeterminato	07-Feb-2016	40810	31-Ott-1966	+39 051 6981414
+AZ-0901	Valerio	Barone	valerio.barone@azienda.it	Ricerca e Sviluppo	Brescia	Collaborazione	11-Lug-2007	46375	19-Lug-1970	+39 011 2569976
+AZ-0902	Antonio	Coppola	antonio.coppola@azienda.it	Risorse Umane	Firenze	Apprendistato	20-Ago-2017	20000	30-Set-1994	+39 055 4563416
+AZ-0903	Bruno	Rossi	bruno.rossi@azienda.it	Legale	Cagliari	Tempo Determinato	05-Mag-2014	41597	07-Mag-1987	+39 081 2582179
+AZ-0904	Emanuele	Esposito	emanuele.esposito@azienda.it	IT	Napoli	Collaborazione	19-Mag-2013	31395	26-Giu-1991	+39 02 6428072
+AZ-0905	Anna	Esposito	anna.esposito@azienda.it	Marketing	Brescia	Collaborazione	09-Mar-2015	29518	08-Lug-1994	+39 02 6526866
+AZ-0906	Sara	Damiani	sara.damiani2@azienda.it	Amministrazione	Brescia	Apprendistato	29-Mag-2021	29282	10-Dic-1997	+39 010 3169632
+AZ-0907	Federica	Colombo	federica.colombo@azienda.it	Acquisti	Catania	Apprendistato	31-Mar-2006	34510	07-Gen-1992	+39 051 2552748
+AZ-0908	Michela	Martinelli	michela.martinelli@azienda.it	Risorse Umane	Palermo	Collaborazione	01-Gen-2007	22422	03-Dic-1965	+39 010 4493397
+AZ-0909	Giuseppe	Valentini	giuseppe.valentini2@azienda.it	Acquisti	Padova	Apprendistato	08-Lug-2019	35234	30-Mag-1970	+39 011 9235014
+AZ-0910	Arianna	Caputo	arianna.caputo@azienda.it	Acquisti	Catania	Tempo Determinato	20-Gen-2013	20431	08-Nov-1994	+39 02 7164902
+AZ-0911	Greta	Caruso	greta.caruso@azienda.it	Ricerca e Sviluppo	Brescia	Collaborazione	08-Set-2015	33431	18-Gen-1969	+39 010 8088983
+AZ-0912	Serena	Sorrentino	serena.sorrentino@azienda.it	Risorse Umane	Trieste	Collaborazione	01-Feb-2007	48452	25-Ott-1966	+39 055 6733527
+AZ-0913	Debora	Riva	debora.riva@azienda.it	Finanza	Bologna	Collaborazione	29-Ott-2016	26626	15-Gen-1978	+39 051 8337608
+AZ-0914	Lorenzo	Morelli	lorenzo.morelli@azienda.it	IT	Bologna	Tempo Determinato	07-Mag-2020	26132	23-Giu-1978	+39 010 5171713
+AZ-0915	Tommaso	Pellegrini	tommaso.pellegrini@azienda.it	IT	Cagliari	Tempo Indeterminato	11-Mag-2017	37693	30-Ott-1969	+39 055 8128865
+AZ-0916	Vincenzo	Conti	vincenzo.conti@azienda.it	Ricerca e Sviluppo	Cagliari	Apprendistato	21-Dic-2012	36405	07-Giu-1976	+39 055 2371865
+AZ-0917	Omar	Mazza	omar.mazza@azienda.it	Vendite	Napoli	Collaborazione	10-Gen-2009	39336	12-Gen-1967	+39 02 7983542
+AZ-0918	Valerio	D'Angelo	valerio.dangelo@azienda.it	Produzione	Cagliari	Collaborazione	27-Dic-2021	20000	25-Gen-1995	+39 051 5447210
+AZ-0919	Roberta	Mariani	roberta.mariani@azienda.it	Finanza	Firenze	Tempo Indeterminato	03-Ott-2021	42700	18-Mar-1995	+39 02 8277938
+AZ-0920	Francesco	Ferrari	francesco.ferrari@azienda.it	Vendite	Padova	Tempo Indeterminato	19-Apr-2005	34135	14-Set-1972	+39 081 9004743
+AZ-0921	Salvatore	Negri	salvatore.negri2@azienda.it	Logistica	Bergamo	Collaborazione	17-Ott-2011	20000	08-Mar-1981	+39 081 7626953
+AZ-0922	Massimo	Gallo	massimo.gallo@azienda.it	Risorse Umane	Bologna	Tempo Indeterminato	13-Apr-2009	20000	08-Gen-1970	+39 010 1266510
+AZ-0923	Sabrina	Rinaldi	sabrina.rinaldi@azienda.it	Comunicazione	Milano	Tempo Determinato	17-Ott-2015	26385	19-Lug-1984	+39 010 4203013
+AZ-0924	Elisa	D'Angelo	elisa.dangelo@azienda.it	Acquisti	Brescia	Tempo Determinato	19-Ago-2015	23355	05-Dic-1983	+39 02 2953854
+AZ-0925	Laura	Moretti	laura.moretti@azienda.it	Servizio Clienti	Brescia	Collaborazione	30-Lug-2015	45844	20-Nov-1975	+39 06 5946450
+AZ-0926	Sergio	Messina	sergio.messina@azienda.it	Vendite	Venezia	Tempo Indeterminato	22-Apr-2007	36344	12-Apr-1993	+39 010 8244199
+AZ-0927	Jessica	Silvestri	jessica.silvestri@azienda.it	Servizio Clienti	Cagliari	Apprendistato	31-Ott-2005	23497	07-Lug-1991	+39 081 9185628
+AZ-0928	Claudia	Fiore	claudia.fiore@azienda.it	Vendite	Modena	Tempo Indeterminato	20-Giu-2014	35906	09-Nov-1990	+39 011 2065530
+AZ-0929	Nicola	Orlando	nicola.orlando@azienda.it	Logistica	Parma	Tempo Indeterminato	06-Feb-2016	24661	10-Feb-1985	+39 081 8318725
+AZ-0930	Luca	Barbieri	luca.barbieri@azienda.it	IT	Genova	Collaborazione	17-Set-2012	24956	27-Ago-1984	+39 06 9516717
+AZ-0931	Riccardo	Giorgi	riccardo.giorgi@azienda.it	Controllo Qualità	Venezia	Collaborazione	11-Dic-2007	46897	06-Lug-1982	+39 051 7044085
+AZ-0932	Carlo	Barbieri	carlo.barbieri@azienda.it	Amministrazione	Genova	Apprendistato	29-Giu-2020	24266	11-Ago-1998	+39 02 9101545
+AZ-0933	Simone	Santoro	simone.santoro@azienda.it	Finanza	Firenze	Collaborazione	07-Apr-2007	41460	24-Feb-1987	+39 011 4937929
+AZ-0934	Antonio	Barone	antonio.barone@azienda.it	Vendite	Milano	Apprendistato	07-Nov-2010	20000	06-Gen-1981	+39 081 3660958
+AZ-0936	Monica	Ferraro	monica.ferraro@azienda.it	Acquisti	Verona	Tempo Indeterminato	10-Apr-2022	39707	27-Dic-1989	+39 011 3536352
+AZ-0937	Tiziano	Testa	tiziano.testa@azienda.it	Amministrazione	Napoli	Tempo Indeterminato	27-Ott-2014	42768	26-Nov-1998	+39 02 2776570
+AZ-0938	Adriano	Sorrentino	adriano.sorrentino@azienda.it	Acquisti	Napoli	Tempo Indeterminato	18-Mag-2016	20000	24-Set-1969	+39 06 2980707
+AZ-0939	Antonio	Bianco	antonio.bianco@azienda.it	Risorse Umane	Catania	Collaborazione	03-Feb-2022	20000	15-Giu-1969	+39 06 7102492
+AZ-0940	Emanuele	Rizzo	emanuele.rizzo@azienda.it	Marketing	Genova	Collaborazione	29-Apr-2014	34398	04-Lug-1999	+39 010 1110521
+AZ-0941	Ilaria	Cattaneo	ilaria.cattaneo2@azienda.it	Produzione	Catania	Tempo Determinato	30-Nov-2006	33408	14-Ago-1983	+39 011 5117989
+AZ-0942	Anna	Graziano	anna.graziano@azienda.it	Acquisti	Modena	Collaborazione	28-Ago-2022	50769	28-Mar-1975	+39 06 8194453
+AZ-0943	Vincenzo	De Angelis	vincenzo.deangelis@azienda.it	Ricerca e Sviluppo	Modena	Apprendistato	01-Set-2005	20000	11-Mar-1997	+39 010 9679670
+AZ-0944	Matteo	Bruno	matteo.bruno@azienda.it	Produzione	Venezia	Collaborazione	29-Apr-2022	41054	16-Mag-1972	+39 051 2031267
+AZ-0945	Enrico	Marchese	enrico.marchese@azienda.it	Vendite	Bologna	Tempo Indeterminato	03-Mar-2019	52775	26-Apr-1988	+39 011 8034775
+AZ-0946	Michela	Donati	michela.donati@azienda.it	Servizio Clienti	Perugia	Apprendistato	08-Mar-2021	32760	26-Apr-1998	+39 011 6774002
+AZ-0947	Giulia	Serra	giulia.serra@azienda.it	Legale	Bergamo	Tempo Determinato	15-Set-2020	23169	03-Giu-1989	+39 055 8417942
+AZ-0948	Sabrina	Ferri	sabrina.ferri@azienda.it	Acquisti	Padova	Tempo Determinato	07-Ott-2011	43156	12-Ott-1968	+39 02 6611860
+AZ-0949	Paola	Basile	paola.basile@azienda.it	Servizio Clienti	Bologna	Apprendistato	17-Ott-2009	45575	21-Mag-1988	+39 011 3684813
+AZ-0950	Luca	Esposito	luca.esposito@azienda.it	Acquisti	Perugia	Apprendistato	01-Giu-2010	41977	02-Mag-2002	+39 010 6099302
+AZ-0951	Alfredo	Pellegrini	alfredo.pellegrini@azienda.it	Legale	Napoli	Tempo Indeterminato	14-Mag-2013	34271	22-Lug-1970	+39 02 3092954
+AZ-0952	Marta	D'Angelo	marta.dangelo@azienda.it	Amministrazione	Milano	Collaborazione	08-Ago-2012	46879	05-Ago-1975	+39 010 9947098
+AZ-0953	Elia	Leone	elia.leone@azienda.it	Produzione	Catania	Apprendistato	17-Dic-2019	38435	02-Mar-1995	+39 06 7336179
+AZ-0954	Tommaso	Caputo	tommaso.caputo@azienda.it	Finanza	Napoli	Apprendistato	01-Ago-2016	20000	15-Feb-1991	+39 06 7061063
+AZ-0955	Salvatore	Conti	salvatore.conti@azienda.it	Risorse Umane	Trieste	Collaborazione	03-Nov-2006	43800	01-Nov-1970	+39 051 4603484
+AZ-0956	Marta	Greco	marta.greco@azienda.it	Produzione	Modena	Collaborazione	12-Mar-2018	40761	28-Gen-1990	+39 055 7623350
+AZ-0957	Monica	Martino	monica.martino@azienda.it	Ricerca e Sviluppo	Trieste	Collaborazione	15-Giu-2020	45525	14-Set-1983	+39 010 3732048
+AZ-0958	Roberto	Mazza	roberto.mazza@azienda.it	Risorse Umane	Parma	Collaborazione	26-Nov-2007	30131	08-Ago-1996	+39 055 9877514
+AZ-0959	Alessia	Negri	alessia.negri@azienda.it	Finanza	Brescia	Collaborazione	25-Set-2005	34471	27-Lug-1981	+39 02 7855503
+AZ-0960	Davide	Costa	davide.costa@azienda.it	Produzione	Cagliari	Apprendistato	26-Nov-2005	20000	14-Giu-1988	+39 06 2975386
+AZ-0961	Serena	Marchetti	serena.marchetti2@azienda.it	Produzione	Catania	Apprendistato	25-Nov-2015	40467	28-Feb-2000	+39 055 8075907
+AZ-0962	Andrea	Marchetti	andrea.marchetti2@azienda.it	IT	Genova	Tempo Determinato	04-Ago-2021	35971	05-Dic-1986	+39 02 3052321
+AZ-0963	Diego	Ferri	diego.ferri@azienda.it	Marketing	Roma	Collaborazione	17-Ott-2015	23421	26-Feb-1980	+39 010 7330138
+AZ-0964	Carlo	Basile	carlo.basile@azienda.it	Comunicazione	Bergamo	Tempo Determinato	02-Feb-2022	29277	20-Mar-1971	+39 055 8733225
+AZ-0965	Nadia	Farina	nadia.farina@azienda.it	Controllo Qualità	Brescia	Tempo Determinato	29-Apr-2021	26836	23-Ott-1994	+39 055 7872422
+AZ-0966	Paola	Leone	paola.leone@azienda.it	Logistica	Venezia	Tempo Indeterminato	15-Gen-2020	50970	16-Nov-1984	+39 081 5653581
+AZ-0967	Edoardo	Gallo	edoardo.gallo@azienda.it	Comunicazione	Firenze	Tempo Indeterminato	30-Ott-2017	23245	09-Nov-1978	+39 055 3076710
+AZ-0968	Edoardo	Barone	edoardo.barone@azienda.it	Marketing	Genova	Tempo Indeterminato	16-Ott-2017	22465	28-Mag-1988	+39 06 8983198
+AZ-0969	Luigi	Ferrari	luigi.ferrari@azienda.it	Marketing	Perugia	Tempo Determinato	05-Giu-2005	33940	21-Mar-2002	+39 081 8452933
+AZ-0970	Lorenzo	Carbone	lorenzo.carbone@azienda.it	Amministrazione	Venezia	Collaborazione	18-Mar-2018	41705	08-Gen-1967	+39 051 1390292
+AZ-0971	Roberta	Palumbo	roberta.palumbo@azienda.it	Risorse Umane	Trieste	Tempo Indeterminato	03-Nov-2016	31832	22-Feb-1970	+39 02 3821189
+AZ-0972	Daniele	Lombardi	daniele.lombardi@azienda.it	Risorse Umane	Bari	Tempo Indeterminato	17-Giu-2008	42030	06-Ott-1978	+39 051 3838554
+AZ-0973	Valentina	Sorrentino	valentina.sorrentino@azienda.it	Produzione	Firenze	Tempo Indeterminato	31-Dic-2020	44278	11-Mag-1979	+39 06 7926017
+AZ-0974	Alice	Vitale	alice.vitale@azienda.it	Logistica	Napoli	Tempo Indeterminato	18-Lug-2009	38573	01-Ott-1975	+39 010 4967662
+AZ-0975	Sofia	Testa	sofia.testa@azienda.it	Acquisti	Modena	Collaborazione	01-Ago-2007	33942	24-Ott-1989	+39 051 2098206
+AZ-0976	Noemi	Esposito	noemi.esposito@azienda.it	Logistica	Palermo	Tempo Indeterminato	14-Gen-2011	43690	08-Nov-1989	+39 055 2703045
+AZ-0977	Ilaria	Marchese	ilaria.marchese2@azienda.it	Legale	Bologna	Apprendistato	30-Set-2017	31512	09-Lug-1993	+39 055 4413440
+AZ-0978	Roberto	Marini	roberto.marini@azienda.it	Legale	Firenze	Tempo Determinato	21-Gen-2017	37315	04-Gen-1984	+39 055 8578973
+AZ-0979	Sara	Rossi	sara.rossi3@azienda.it	Comunicazione	Brescia	Apprendistato	25-Ago-2019	35325	19-Ago-1986	+39 011 5209218
+AZ-0980	Rosa	Grasso	rosa.grasso@azienda.it	Produzione	Genova	Apprendistato	08-Gen-2006	34942	29-Mar-1972	+39 081 9960531
+AZ-0981	Sergio	Marino	sergio.marino@azienda.it	IT	Torino	Collaborazione	31-Ago-2020	38927	18-Dic-1989	+39 011 8247127
+AZ-0982	Antonio	Sorrentino	antonio.sorrentino@azienda.it	Legale	Venezia	Apprendistato	01-Apr-2019	38829	22-Set-1976	+39 010 8595349
+AZ-0983	Nicola	Gentile	nicola.gentile@azienda.it	Controllo Qualità	Venezia	Apprendistato	22-Set-2009	21901	18-Set-1965	+39 081 3243545
+AZ-0984	Edoardo	Rossi	edoardo.rossi@azienda.it	Amministrazione	Parma	Tempo Indeterminato	20-Mar-2005	38381	06-Mar-1995	+39 06 7931725
+AZ-0985	Irene	Piras	irene.piras@azienda.it	Servizio Clienti	Parma	Collaborazione	26-Gen-2017	52859	20-Mar-1994	+39 02 1519213
+AZ-0986	Lucia	Sanna	lucia.sanna@azienda.it	Controllo Qualità	Napoli	Apprendistato	11-Giu-2013	44986	13-Feb-2002	+39 055 7005668
+AZ-0987	Paola	Santoro	paola.santoro@azienda.it	Comunicazione	Milano	Tempo Indeterminato	19-Mag-2015	30503	03-Giu-1965	+39 06 1331881
+AZ-0988	Nadia	Serra	nadia.serra@azienda.it	Controllo Qualità	Verona	Tempo Determinato	08-Gen-2007	39760	13-Ago-2001	+39 055 6086491
+AZ-0989	Gloria	Martini	gloria.martini@azienda.it	Finanza	Parma	Apprendistato	29-Ott-2005	30838	17-Set-1996	+39 055 4507886
+AZ-0990	Marco	Caruso	marco.caruso@azienda.it	Comunicazione	Padova	Tempo Indeterminato	23-Mar-2011	56270	13-Lug-1990	+39 055 9288134
+AZ-0991	Laura	Benedetti	laura.benedetti@azienda.it	Finanza	Cagliari	Tempo Determinato	20-Giu-2006	20921	19-Set-1970	+39 011 4824620
+AZ-0992	Tommaso	Battaglia	tommaso.battaglia2@azienda.it	Acquisti	Bari	Tempo Determinato	17-Mar-2020	26291	14-Gen-1966	+39 081 9941274
+AZ-0994	Arianna	De Angelis	arianna.deangelis@azienda.it	IT	Napoli	Collaborazione	12-Feb-2016	29555	20-Mar-1981	+39 055 1729216
+AZ-0995	Alfredo	Martini	alfredo.martini@azienda.it	Vendite	Bari	Collaborazione	10-Dic-2016	34035	24-Set-1973	+39 011 2372525
+AZ-0996	Angela	Esposito	angela.esposito@azienda.it	Servizio Clienti	Palermo	Collaborazione	02-Set-2006	35321	19-Mar-1976	+39 06 3759542
+AZ-0997	Emanuele	Marchetti	emanuele.marchetti@azienda.it	Marketing	Napoli	Tempo Indeterminato	07-Ott-2015	32993	05-Ott-2000	+39 081 6608665
+AZ-0998	Paolo	Gentile	paolo.gentile@azienda.it	Marketing	Parma	Tempo Determinato	23-Ago-2012	35914	06-Mag-2002	+39 02 6596685
+AZ-0999	Tommaso	Longo	tommaso.longo@azienda.it	Marketing	Bergamo	Collaborazione	20-Feb-2022	43969	08-Ago-1970	+39 02 2018157
+AZ-1000	Alessandro	Grasso	alessandro.grasso@azienda.it	Produzione	Torino	Tempo Determinato	23-Mag-2006	41151	29-Dic-2000	+39 051 1919204
